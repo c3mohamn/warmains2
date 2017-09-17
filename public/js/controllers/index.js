@@ -1,5 +1,3 @@
-// Index controller
+// Index page controller
 wmApp.controller('indexCtrl', ['$scope', function($scope) {
-
-  $scope.testIndex = 'index';
 }]);

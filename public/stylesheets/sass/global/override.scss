@@ -1,17 +1,29 @@
 @import 'theme';
 
+// headers
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto Condensed', 'Roboto', sans-serif;
+}
 
 // BUTTONS
 .button {
   padding: .8rem 1.5rem;
   box-shadow: $wm-boxshadow-2;
 
+  &.clear {
+    box-shadow: none;
+
+    &:active {
+      box-shadow: none;
+    }
+  }
+
   &:active {
     box-shadow: $wm-boxshadow-1;
   }
 }
 
-// INPUTS
+// --- INPUTS ---
 .input-field {
   border: none;
   box-shadow: none;
@@ -32,10 +44,28 @@
   box-shadow: $wm-boxshadow-1;
 
   &:focus {
-    border: none;
-    outline: none;
+    // border: none;
+    // outline: none;
     box-shadow: $wm-boxshadow-1;
   }
 }
 
-// TODO: Input fields with errors
+.input-field-container {
+  position: relative;
+
+  .input-field {
+    margin-bottom: 1.5rem;
+  }
+
+  .input-form-error-msg {
+    font-size: 12px;
+    color: red;
+    padding-left: 7px;
+    position: absolute;
+    bottom: -1.5rem;
+  }
+}
+
+.form-fields {
+  margin-bottom: 1rem;
+}

@@ -7,7 +7,8 @@ var UserSchema = mongoose.Schema({
     username: {type: String, required: true, unique: true},
     password: {type: String, required: true},
     email: {type: String, required: true, unique: true},
-    resetPasswordToken: {type: String}
+    resetPasswordToken: {type: String},
+    role: {type: Number} // 1: User, 2: admin, 3: owner
 });
 
 UserSchema.pre('save', function(next) {

@@ -1,22 +1,15 @@
-//- This apge will be the layout - i.e. global css files, js files, header/navigation etc.
-
+//- Layout
 doctype html
-html(ng-app="wmApp")
+html(ng-app="wmApp" ng-cloak)
   head
     include partials/head.jade
   body(ng-controller="indexCtrl")
-  
+    //- Header
     div(ng-include="'partials/header.html'")
-    
-    p this is from index.jade: {{testIndex}}
-    div
-      ul
-        li
-          a(ui-sref="home" href="") Home
-        li
-          a(ui-sref="styles" href="") Styles
-      //- Where our views will be
+    div(class="mainBody")
+      //- States
       div(ui-view)
-      
-  //- contains all the scripts
-  include partials/footer.jade
+    //- Footer
+    div(ng-include="'partials/footer.html'")
+  //- Scripts
+  include partials/scripts.jade

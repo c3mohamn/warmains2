@@ -1,0 +1,41 @@
+@import 'theme';
+
+.header {
+  background-color: $wm-secondary;
+  color: $wm-primary-light;
+  position: fixed;
+  width: 100%;
+  min-width: 300px;
+  height: 4rem;
+  padding: 1rem;
+  box-shadow: $wm-boxshadow-1;
+
+  .title {
+    font-size: 20px;
+    text-transform: uppercase;
+    transition: $wm-transition-fast;
+    cursor: pointer;
+
+    &:hover {
+      color: $wm-primary;
+    }
+  }
+
+  .navigation {
+    .menu {
+      .menu-item {
+        padding: 1rem;
+        cursor: pointer;
+        transition: $wm-transition-fastest;
+
+        &:hover {
+          color: $wm-primary;
+        }
+
+        &:focus {
+          color: $wm-primary;
+        }
+      }
+    }
+  }
+}

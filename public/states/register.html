@@ -1,0 +1,28 @@
+<div class="flex-container flex-dir-column auth-container">
+
+  <div class="title">Register</div>
+
+  <!-- Registeration Form -->
+  <div class="form-fields">
+    <form name="registerForm" ng-submit="registerUser()" novalidate>
+      <div class="input-field-container">
+        <input class="input-field" type="text" placeholder="username" ng-model="auth.username">
+        <span class="input-form-error-msg">{{usernameError}}</span>
+      </div>
+      <div class="input-field-container">
+        <input class="input-field" type="password" placeholder="password" ng-model="auth.pass">
+        <span class="input-form-error-msg">{{passError}}</span>
+      </div>
+      <div class="input-field-container">
+        <input class="input-field" type="password" placeholder="confirm password" ng-model="auth.confirmPass">
+        <span class="input-form-error-msg">{{confirmPassError}}</span>
+      </div>
+      <button ng-disabled="registeringUser" class="button success float-right" type="submit">Register</button>
+    </form>
+  </div>
+
+  <div class="auth-bottom-info">
+    <ul class="menu">
+    </ul>
+  </div>
+</div>

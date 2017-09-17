@@ -1,4 +1,10 @@
-// Global classes
+@import 'theme';
+
+[ng\:cloak], [ng-cloak], .ng-cloak {
+    display: none;
+}
+
+// Global
 
 .no-padding {
   padding: 0;
@@ -15,4 +21,20 @@
 .no-padding-sides {
   padding-left: 0;
   padding-right: 0;
+}
+
+html {
+  width: 100%;
+  height: 100%;
+  font-size: 14px;
+}
+
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+  //background: linear-gradient(to right, $wm-primary-light, $wm-primary-dark);
+  background-repeat: no-repeat;
+}
+
+.mainBody {
+  padding: 5rem 1rem;
 }

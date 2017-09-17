@@ -8,7 +8,17 @@ wmApp.config(function($stateProvider, $urlRouterProvider) {
     .state('home', {
       url: '/home',
       templateUrl: '/states/home.html',
-      controller: 'homeCtrl'
+      controller: 'indexCtrl'
+    })
+    .state('register', {
+      url: '/register',
+      templateUrl: '/states/register.html',
+      controller: 'authCtrl'
+    })
+    .state('login', {
+      url: '/login',
+      templateUrl: '/states/login.html',
+      controller: 'authCtrl'
     })
     .state('styles', {
       url: '/styles',

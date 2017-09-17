@@ -1,4 +1,21 @@
 <!-- Should store your header here. -->
-<div>
-  <p>This is from header.html</p>
+<div class="header flex-container align-middle">
+  <div class="title flex-child-shrink" href="" ui-sref="home">
+    Warmains
+  </div>
+  <div class="flex-child-grow"></div>
+
+  <div class="navigation">
+    <ul class="menu">
+      <li class="menu-item" ui-sref="styles">Styles</li>
+      <li class="menu-item">Planner</li>
+      <li ng-if="!user" class="menu-item" ui-sref="login">Login</li>
+      <li ng-if="!user" class="menu-item" ui-sref="register">Register</li>
+    </ul>
+  </div>
+
+
+  <!-- <div>
+    {{$state.current.name}}
+  </div> -->
 </div>

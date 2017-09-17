@@ -1,0 +1,21 @@
+@import "theme";
+
+.auth-container {
+  position: relative;
+  width: 400px;
+  height: 500px;
+  margin: 50px auto;
+  box-shadow: $wm-boxshadow-0;
+  padding: 3rem;
+
+  .title {
+    font-size: 20px;
+    user-select: none;
+    cursor: default;
+    padding-bottom: 3rem;
+  }
+
+  .auth-bottom-info {
+
+  }
+}
