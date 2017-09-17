@@ -1,0 +1,353 @@
+----- 07/04/2017 ------
+------- v3.1.6 --------
+
+- Right Click Items in Search Table to Equip!
+- Added item Bind in search.
+- Right Click Item in Char Panel to to Unequip
+- Left Click Item in Char Panel to Automatically Search for Items
+- Fixed Sigils For DKs
+
+----- 06/23/2017 ------
+------- v3.1.5 --------
+
+- Added Save as/Export functionality
+
+----- 06/20/2017 ------
+------- v3.1.4 --------
+
+- talent tooltips also include talent icon
+- can choose and save race now
+- changes to stats
+ - visual chances to stat tooltips
+ - tooltip added for armor/defense/expertise
+- started feedback page, sort of
+
+----- 06/20/2017 ------
+------- v3.1.3 --------
+
+- can add profs/save profs now
+- bonusarmor added to regular armor stat
+- minor visual changes/internal improvements
+  - including new scrollbar!
+
+----- 06/19/2017 ------
+------- v3.1.2 --------
+
+- Stats look changed
+- set_slot replaced with a directive
+
+
+----- 06/13/2017 ------
+------- v3.1.1 --------
+
+- Glyphs added!
+- background changed for main container
+
+----- 06/12/2017 ------
+------- v3.1.0 --------
+
+- Implemented tooltips for talents
+- Updated tooltips to current patch
+
+----- 06/11/2017 ------
+------- v3.0.8 --------
+
+- Finished all class talents data
+
+----- 06/10/2017 ------
+------- v3.0.7 --------
+
+- Some visual changes to talents
+- Only Warrior, Rogue and Warlock left for talents
+
+----- 06/07/2017 ------
+------- v3.0.6 --------
+
+- Paladin talents finished
+- Changelog added for the website!
+
+----- 06/06/2017 ------
+------- v3.0.5 --------
+
+- Shaman talents finished
+- some bugs fixed
+- can save talents now
+- non-character owners can not modify talents
+
+----- 06/06/2017 ------
+------- v3.0.2 --------
+
+- conditions for adding and removing talents implemented
+- part of elemental tree finished
+
+----- 06/05/2017 ------
+------- v3.0.1 --------
+
+- start of character talents & professions
+
+----- 06/04/2017 ------
+------- v3.0.0 --------
+
+- added ability to choose character spec
+- character specs visible and searchable in search page
+
+ -----------------------------------------------------------------------
+| It would probably be smarter to have newer logs at top of the page... |
+ -----------------------------------------------------------------------
+
+----- 04/28/2017 ------
+------- v2.1.0 --------
+
+- Start of the developer logs.
+- So far we have finished registration and login page with server and client
+side error checking.
+- Have started password reset and character page.
+- Finished password reset on profile page.
+- Finished password reset on forgot password page with emails service.
+
+TODO:
+- separate char creation and edit
+- Search bar for items in character page.
+
+----- 04/29/2017 ------
+------- v2.2.0 --------
+
+- separated character character selection page and character edit page
+- made a simple character creation form/page
+- can make and delete characters now
+- can access character page based on url
+
+TODO:
+- make a better looking character creation/selection page
+- for existing characters display class icon next to them
+- create a UI for the character profile page
+
+----- 04/30/2017 ------
+------- v2.3.0 --------
+
+- changed schema for char to include gems and enchants
+- character profile page now correctly displays things based person viewing char
+  - if logged in, and you own the character, then you can edit it
+  - else you can only view it.
+- made an ugly ui for character profiles
+- found and added a folder with class icons from:
+  http://www.hearthpwn.com/news/44-lorewalker-cho-tutorial-voiceovers-class-icons
+- found and added a wow font from:
+  http://www.dafont.com/wow-plexus.font
+- Can search items based on what item slot you clicked
+- Item Display Icons are retrieved from online website now
+- Displays proper message when viewing a character that does not exist.
+- implemented search by ID
+
+TODO:
+- eventually will need to add server side protection for character editing
+- still need to make character creation page better looking.
+- Fix, or find alternative to the (ng-if) breaking the $scope
+
+
+----- 05/01/2017 ------
+------- v2.3.5 --------
+
+- used ng-show instead to fix $scope issue
+- stores selected items in a variable
+- can 'equip' items, only images transferred so far
+- cannot equip an item in the wrong item slot (ex. putting helm into hands slot)
+- filtered out search results that are meant for classes that the current
+  character is not (ex. if on a paladins profile, won't see warrior gear)
+
+TODO:
+- Need to make it so cloths/leather/mail can't wear plates and so forth
+- Should start on saving character gear functionality
+- Add a field for display name in registration
+
+----- 05/02/2017 ------
+------- v2.3.6 --------
+
+- Added server side protection so that users cannot create accounts with
+  existing account names/emails
+- Added a name field for accounts.
+- Fixed search for fingers/trinkets (by removing the 1/2 at the end)
+- Added a helper js file for char profile page.
+- Combined weapons in json files to Mainhand and OffHand
+- Add all mainhand weapons when searching for mainhand slot
+
+TODO:
+- Add more restrictions on equipping items - UNIQUE ITEMS.
+
+----- 05/03/2017 ------
+------- v2.4.0 --------
+
+- Saves items to char db collection when you equip it now
+
+TODO:
+- Display those saved items when loading profile
+
+------- v2.4.1 --------
+
+- Save button added, which saves equipped items to db now
+- Can change view with a temp button now.
+
+TODO:
+- Make a better looking button for switching view in char profile page
+- Add a tooltip for items
+- Maybe begin stats sheet for currently equipped items
+
+----- 05/04/2017 ------
+------- v2.5.0 -------
+
+- Added basic tooltip for items, links to external website
+- Changed some visuals
+- Can search by item ID or NAME without specifying search type now.
+
+TODO:
+- Either work on visuals more, find empty item slot pictures, cool bg-pics
+- Or Work on stats sheet.
+- GEARSCORE!!
+
+----- 05/05/2017 ------
+------- v2.5.1 --------
+
+- Cleaned up code, more helper functions and useful comments
+- Added item level option for search
+- Items that cannot be wielded by character will not show up anymore
+- Empty search bar searches for all items now.
+
+TODO:
+- Still need to work on previous todo list.
+- Remove select box from character page, add different option for deleting chars
+
+----- 05/05/2017 ------
+------- v2.5.2 --------
+
+- Changed visuals for character selection page, not as ugly as before.
+- Removed the selected box.
+
+TODO:
+- 2.5.0 TODO list
+
+----- 05/06/2017 ------
+------- v2.5.5 --------
+
+- Results table sorting added
+- minor visual changes and error fixes
+- Stats show now
+- Can unequip items now.
+
+TODO:
+- Start gems?
+
+----- 05/07/2017 ------
+------- v2.5.5 --------
+
+- Started gems, you can search for them now
+
+TODO:
+- Add equipping, unequipping, socket / error checks and saving for gems.
+
+----- 05/09/2017 ------
+------- v2.6.0 --------
+
+- Added empty slot icons
+- started gem frames
+- some visual Changes
+- can click 'r' to unequip, 'e' to equip and 's' to save now
+
+---------------- Seperating TODO list into another file -----------------------
+
+----- 05/09/2017 ------
+------- v2.6.3 --------
+
+- Can gem items now
+- Save function now saves gems as well, and is loaded with character
+- Saved gems show up when you click item now as well
+
+----- 05/12/2017 ------
+------- v2.7.0 --------
+
+- Unequipping gems implemented
+- Some changes to gem, removed view functions for ng-show/if
+- Stat update for gems implemented
+- Fixes with equipping and unequipping rings/trinkets
+- Cannot equip gems in libram anymore if socket was previously selected
+- When unequipping an item, removes it's gems and gem's stats as well
+
+----- 05/15/2017 ------
+------- v2.7.2 --------
+
+- 'Visual' selection for character selection page
+- 'Visual' selection for cur_view in char profile page
+- more visual changes, some transitions added
+
+----- 05/17/2017 ------
+------- v2.7.4 --------
+
+- enchantId's (tooltip id) for gems added, works only on char load atm
+- meta socket multipliers work.
+
+----- 05/23/2017 ------
+------- v2.8.0 --------
+
+- selected slot/sockets are shown with inner glow now
+- gem sockets show in character panel now near the respective items/slot
+- fixed bug when searching for gem without selected slot
+- selected_item is reserved for results table items only
+- animation added when sockets are shown for an item
+- some transitions added for sockets/slots
+
+----- 05/24/2017 ------
+------- v2.8.1 --------
+
+- some transitions and small changes
+
+----- 05/26/2017 ------
+------- v2.8.5 --------
+
+- Added SpellIds, Iconpaths, and Ids for enchants
+- Extra socket for eternal belt bucket waist enchant added
+
+----- 05/29/2017 ------
+------- v2.8.7 --------
+
+- Changed theme and added bg to index page.
+- More changes, fonts consistency in pages
+
+----- 05/30/2017 ------
+------- v2.8.8 --------
+
+- More work on visuals:
+  - Login/register/reset/forgot pages all similar /w LK bg
+  - small fixes and changes
+
+----- 05/31/2017 ------
+------- v2.9.2 --------
+
+- More work on visuals:
+  - character creation section
+  - modal box
+  - header bg changes based on class of character
+- remove duplicate bloodsurges
+- Reworked stat updating when equipping/unequipping items/gems/enchants
+- Stats and tooltip updated for enchants now
+
+----- 06/01/2017 ------
+------- v2.9.5 --------
+
+- Multipliers for gems and enchants work properly now
+- SocketBonuses for items work!
+- search val resets now
+- percentages added
+- fixed bug for socketbonuses that are 'none'
+
+----- 06/02/2017 ------
+------- v2.9.6 --------
+
+- small fix with results table ordering
+- small fix with selecting slots inner glow
+- started search page
+
+----- 06/03/2017 ------
+------- v2.9.9 --------
+
+- search for characters added
+- cannot create duplicate characters on the same account now
+- can search by char, user or class

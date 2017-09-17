@@ -1,0 +1,4211 @@
+{
+  "37177": {
+    "ItemLevel": "200",
+    "DisplayId": "43088",
+    "DisplaySlot": "26",
+    "IconPath": "inv_wand_18",
+    "Stats": {
+      "SpellPower": "21",
+      "HitRating": "14",
+      "HasteRating": "34"
+    },
+    "Quality": "Rare",
+    "Type": "Wand",
+    "Faction": "Neutral",
+    "MinDamage": "301",
+    "MaxDamage": "560",
+    "DamageType": "Shadow",
+    "Speed": "1.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wand of the San'layn",
+    "Id": "37177",
+    "Slot": "Ranged"
+  },
+  "37191": {
+    "ItemLevel": "200",
+    "DisplayId": "51692",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_crossbow_28",
+    "Stats": {
+      "Agility": "29",
+      "AttackPower": "56",
+      "CritRating": "26"
+    },
+    "Quality": "Epic",
+    "Type": "Crossbow",
+    "Faction": "Neutral",
+    "MinDamage": "290",
+    "MaxDamage": "436",
+    "Speed": "2.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Drake-Mounted Crossbow",
+    "Id": "37191",
+    "Slot": "Ranged"
+  },
+  "37238": {
+    "ItemLevel": "200",
+    "DisplayId": "51806",
+    "DisplaySlot": "26",
+    "IconPath": "inv_wand_06",
+    "Stats": {
+      "Stamina": "21",
+      "Intellect": "21",
+      "SpellPower": "33",
+      "CritRating": "27"
+    },
+    "Quality": "Epic",
+    "Type": "Wand",
+    "Faction": "Neutral",
+    "MinDamage": "332",
+    "MaxDamage": "617",
+    "DamageType": "Shadow",
+    "Speed": "1.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Rod of the Fallen Monarch",
+    "Id": "37238",
+    "Slot": "Ranged"
+  },
+  "37410": {
+    "ItemLevel": "200",
+    "DisplayId": "51708",
+    "DisplaySlot": "25",
+    "IconPath": "inv_misc_coin_10",
+    "Stats": {
+      "Stamina": "39",
+      "AttackPower": "52",
+      "CritRating": "26"
+    },
+    "Quality": "Rare",
+    "Type": "Thrown",
+    "Faction": "Neutral",
+    "MinDamage": "270",
+    "MaxDamage": "406",
+    "Speed": "2",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Tracker's Balanced Knives",
+    "Id": "37410",
+    "Slot": "Ranged"
+  },
+  "37615": {
+    "ItemLevel": "200",
+    "DisplayId": "54501",
+    "DisplaySlot": "15",
+    "IconPath": "inv_weapon_bow_35",
+    "Stats": {
+      "Agility": "24",
+      "Stamina": "36",
+      "AttackPower": "48"
+    },
+    "Quality": "Rare",
+    "Type": "Bow",
+    "Faction": "Neutral",
+    "MinDamage": "238",
+    "MaxDamage": "444",
+    "Speed": "2.9",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Titanium Compound Bow",
+    "Id": "37615",
+    "Slot": "Ranged"
+  },
+  "37619": {
+    "ItemLevel": "200",
+    "DisplayId": "55720",
+    "DisplaySlot": "26",
+    "IconPath": "inv_wand_07",
+    "Stats": {
+      "Stamina": "24",
+      "Intellect": "20",
+      "Spirit": "27",
+      "SpellPower": "33"
+    },
+    "Quality": "Epic",
+    "Type": "Wand",
+    "Faction": "Neutral",
+    "MinDamage": "332",
+    "MaxDamage": "617",
+    "DamageType": "Shadow",
+    "Speed": "1.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wand of Ahn'kahet",
+    "Id": "37619",
+    "Slot": "Ranged"
+  },
+  "37626": {
+    "ItemLevel": "200",
+    "DisplayId": "53117",
+    "DisplaySlot": "26",
+    "IconPath": "inv_wand_22",
+    "Stats": {
+      "Stamina": "18",
+      "Intellect": "18",
+      "Spirit": "24",
+      "SpellPower": "28"
+    },
+    "Quality": "Rare",
+    "Type": "Wand",
+    "Faction": "Neutral",
+    "MinDamage": "301",
+    "MaxDamage": "560",
+    "DamageType": "Shadow",
+    "Speed": "1.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wand of Sseratus",
+    "Id": "37626",
+    "Slot": "Ranged"
+  },
+  "37692": {
+    "ItemLevel": "200",
+    "DisplayId": "52414",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_rifle_01",
+    "Stats": {
+      "AttackPower": "68",
+      "CritRating": "18",
+      "HitRating": "14"
+    },
+    "Quality": "Rare",
+    "Type": "Gun",
+    "Faction": "Neutral",
+    "MinDamage": "238",
+    "MaxDamage": "444",
+    "Speed": "2.9",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Pierce's Pistol",
+    "Id": "37692",
+    "Slot": "Ranged"
+  },
+  "39296": {
+    "ItemLevel": "200",
+    "DisplayId": "35870",
+    "DisplaySlot": "15",
+    "IconPath": "inv_weapon_bow_13",
+    "Stats": {
+      "Agility": "28",
+      "Stamina": "19",
+      "AttackPower": "40",
+      "HitRating": "16",
+      "HasteRating": "21"
+    },
+    "Quality": "Epic",
+    "Type": "Bow",
+    "Faction": "Neutral",
+    "MinDamage": "254",
+    "MaxDamage": "472",
+    "Speed": "2.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Accursed Bow of the Elite",
+    "Id": "39296",
+    "Slot": "Ranged"
+  },
+  "39419": {
+    "ItemLevel": "213",
+    "DisplayId": "53805",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_rifle_21",
+    "Stats": {
+      "Agility": "31",
+      "Stamina": "30",
+      "AttackPower": "64",
+      "CritRating": "21"
+    },
+    "Quality": "Epic",
+    "Type": "Gun",
+    "Faction": "Neutral",
+    "MinDamage": "287",
+    "MaxDamage": "534",
+    "Speed": "2.9",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Nerubian Conquerer",
+    "Id": "39419",
+    "Slot": "Ranged"
+  },
+  "39426": {
+    "ItemLevel": "213",
+    "DisplayId": "54033",
+    "DisplaySlot": "26",
+    "IconPath": "inv_wand_1h_stratholme_d_02",
+    "Stats": {
+      "Stamina": "22",
+      "Intellect": "21",
+      "Spirit": "24",
+      "SpellPower": "37",
+      "HasteRating": "20"
+    },
+    "Quality": "Epic",
+    "Type": "Wand",
+    "Faction": "Neutral",
+    "MinDamage": "362",
+    "MaxDamage": "674",
+    "DamageType": "Shadow",
+    "Speed": "1.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wand of the Archlich",
+    "Id": "39426",
+    "Slot": "Ranged"
+  },
+  "39473": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_wand_1h_stratholme_d_01",
+    "Stats": {
+      "Stamina": "27",
+      "Intellect": "20",
+      "SpellPower": "33",
+      "CritRating": "15",
+      "Mp5": "10"
+    },
+    "Quality": "Epic",
+    "Type": "Wand",
+    "Faction": "Neutral",
+    "MinDamage": "332",
+    "MaxDamage": "617",
+    "DamageType": "Shadow",
+    "Speed": "1.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Contortion",
+    "Id": "39473",
+    "Slot": "Ranged"
+  },
+  "39712": {
+    "ItemLevel": "213",
+    "DisplayId": "54697",
+    "DisplaySlot": "26",
+    "IconPath": "inv_wand_16",
+    "Stats": {
+      "Stamina": "27",
+      "Intellect": "22",
+      "SpellPower": "37",
+      "HitRating": "18",
+      "HasteRating": "22"
+    },
+    "Quality": "Epic",
+    "Type": "Wand",
+    "Faction": "Neutral",
+    "MinDamage": "362",
+    "MaxDamage": "674",
+    "DamageType": "Shadow",
+    "Speed": "1.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Gemmed Wand of the Nerubians",
+    "Id": "39712",
+    "Slot": "Ranged"
+  },
+  "39728": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "spell_nature_slowingtotem",
+    "Stats": {
+      "TotemHWBaseCost": "79"
+    },
+    "Quality": "Epic",
+    "Type": "Totem",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Totem of Misery",
+    "Id": "39728",
+    "Slot": "Ranged"
+  },
+  "39757": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_qirajidol_strife",
+    "Stats": {
+      "BonusRipDamagePerCPPerTick": "21"
+    },
+    "Quality": "Epic",
+    "Type": "Idol",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Idol of Worship",
+    "Id": "39757",
+    "Slot": "Ranged"
+  },
+  "40190": {
+    "ItemLevel": "213",
+    "DisplayId": "57301",
+    "DisplaySlot": "25",
+    "IconPath": "inv_throwingknife_08",
+    "Stats": {
+      "Agility": "16",
+      "Stamina": "24",
+      "AttackPower": "62",
+      "CritRating": "16",
+      "HitRating": "32"
+    },
+    "Quality": "Epic",
+    "Type": "Thrown",
+    "Faction": "Neutral",
+    "MinDamage": "293",
+    "MaxDamage": "440",
+    "Speed": "1.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Spinning Fate",
+    "Id": "40190",
+    "Slot": "Ranged"
+  },
+  "40191": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_relics_libramofhope",
+    "Stats": {
+      "CrusaderStrikeDamage": "78.75"
+    },
+    "Quality": "Epic",
+    "Type": "Libram",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Libram of Radiance",
+    "Id": "40191",
+    "Slot": "Ranged"
+  },
+  "40207": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_shield_56",
+    "Stats": {
+      "BonusObliterateDamage": "336",
+      "BonusScourgeStrikeDamage": "189",
+      "BonusDeathStrikeDamage": "315"
+    },
+    "Quality": "Epic",
+    "Type": "Sigil",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sigil of Awareness",
+    "Id": "40207",
+    "Slot": "Ranged"
+  },
+  "40245": {
+    "ItemLevel": "213",
+    "DisplayId": "54774",
+    "DisplaySlot": "26",
+    "IconPath": "inv_wand_1h_stratholme_d_02",
+    "Stats": {
+      "Stamina": "24",
+      "Intellect": "25",
+      "SpellPower": "37",
+      "HasteRating": "18",
+      "Mp5": "11"
+    },
+    "Quality": "Epic",
+    "Type": "Wand",
+    "Faction": "Neutral",
+    "MinDamage": "402",
+    "MaxDamage": "748",
+    "DamageType": "Holy",
+    "Speed": "2",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Fading Glow",
+    "Id": "40245",
+    "Slot": "Ranged"
+  },
+  "40265": {
+    "ItemLevel": "213",
+    "DisplayId": "54834",
+    "DisplaySlot": "15",
+    "IconPath": "inv_weapon_bow_40",
+    "Stats": {
+      "Agility": "21",
+      "Stamina": "37",
+      "AttackPower": "62",
+      "CritRating": "20",
+      "HitRating": "16"
+    },
+    "Quality": "Epic",
+    "Type": "Bow",
+    "Faction": "Neutral",
+    "MinDamage": "277",
+    "MaxDamage": "515",
+    "Speed": "2.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Arrowsong",
+    "Id": "40265",
+    "Slot": "Ranged"
+  },
+  "40267": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "spell_nature_diseasecleansingtotem",
+    "Stats": {
+      "LightningSpellPower": "165"
+    },
+    "Quality": "Epic",
+    "Type": "Totem",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Totem of Hex",
+    "Id": "40267",
+    "Slot": "Ranged"
+  },
+  "40268": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_relics_libramoftruth",
+    "Stats": {
+      "HolyLightSpellPower": "141"
+    },
+    "Quality": "Epic",
+    "Type": "Libram",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Libram of Tolerance",
+    "Id": "40268",
+    "Slot": "Ranged"
+  },
+  "40284": {
+    "ItemLevel": "213",
+    "DisplayId": "54866",
+    "DisplaySlot": "26",
+    "IconPath": "inv_wand_1h_stratholme_d_01",
+    "Stats": {
+      "Stamina": "22",
+      "Intellect": "21",
+      "Spirit": "20",
+      "SpellPower": "37",
+      "CritRating": "24"
+    },
+    "Quality": "Epic",
+    "Type": "Wand",
+    "Faction": "Neutral",
+    "MinDamage": "362",
+    "MaxDamage": "674",
+    "DamageType": "Shadow",
+    "Speed": "1.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Plague Igniter",
+    "Id": "40284",
+    "Slot": "Ranged"
+  },
+  "40321": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_relics_idolofrejuvenation",
+    "Stats": {
+      "StarfireDmg": "165"
+    },
+    "Quality": "Epic",
+    "Type": "Idol",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Idol of the Shooting Star",
+    "Id": "40321",
+    "Slot": "Ranged"
+  },
+  "40322": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "spell_nature_groundingtotem",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "ShamanStormStrike",
+          "Stats": {
+            "HasteRating": "60"
+          },
+          "Duration": "6",
+          "Cooldown": "0",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1"
+    },
+    "Quality": "Epic",
+    "Type": "Totem",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Totem of Dueling",
+    "Id": "40322",
+    "Slot": "Ranged"
+  },
+  "40335": {
+    "ItemLevel": "213",
+    "DisplayId": "54977",
+    "DisplaySlot": "26",
+    "IconPath": "inv_mace_80",
+    "Stats": {
+      "Stamina": "22",
+      "Intellect": "17",
+      "SpellPower": "37",
+      "CritRating": "16",
+      "Mp5": "15"
+    },
+    "Quality": "Epic",
+    "Type": "Wand",
+    "Faction": "Neutral",
+    "MinDamage": "402",
+    "MaxDamage": "748",
+    "DamageType": "Holy",
+    "Speed": "2",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Touch of Horror",
+    "Id": "40335",
+    "Slot": "Ranged"
+  },
+  "40337": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_relics_libramofhope",
+    "Stats": {
+      "ConsecrationSpellPower": "141"
+    },
+    "Quality": "Epic",
+    "Type": "Libram",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Libram of Resurgence",
+    "Id": "40337",
+    "Slot": "Ranged"
+  },
+  "40342": {
+    "ItemLevel": "213",
+    "DisplayId": "43434",
+    "DisplaySlot": "28",
+    "IconPath": "inv_misc_thegoldencheep",
+    "Stats": {
+      "ReduceRejuvenationCost": "106"
+    },
+    "Quality": "Epic",
+    "Type": "Idol",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Idol of Awakening",
+    "Id": "40342",
+    "Slot": "Ranged"
+  },
+  "40346": {
+    "ItemLevel": "213",
+    "DisplayId": "54886",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_crossbow_25",
+    "Stats": {
+      "Agility": "18",
+      "Stamina": "33",
+      "AttackPower": "62",
+      "CritRating": "16",
+      "HasteRating": "25"
+    },
+    "Quality": "Epic",
+    "Type": "Crossbow",
+    "Faction": "Neutral",
+    "MinDamage": "317",
+    "MaxDamage": "476",
+    "Speed": "2.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Final Voyage",
+    "Id": "40346",
+    "Slot": "Ranged"
+  },
+  "40385": {
+    "ItemLevel": "226",
+    "DisplayId": "57465",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_rifle_24",
+    "Stats": {
+      "Agility": "36",
+      "Stamina": "30",
+      "AttackPower": "72",
+      "CritRating": "26"
+    },
+    "Quality": "Epic",
+    "Type": "Gun",
+    "Faction": "Neutral",
+    "MinDamage": "376",
+    "MaxDamage": "647",
+    "Speed": "2.9",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Envoy of Mortality",
+    "Id": "40385",
+    "Slot": "Ranged"
+  },
+  "40705": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_relics_libramofgrace",
+    "Stats": {
+      "HolyLightManaCostReduction": "113"
+    },
+    "Quality": "Epic",
+    "Type": "Libram",
+    "Faction": "Neutral",
+    "RequiredClasses": "Paladin",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Libram of Renewal",
+    "Id": "40705",
+    "Slot": "Ranged"
+  },
+  "40706": {
+    "ItemLevel": "200",
+    "DisplayId": "34960",
+    "DisplaySlot": "28",
+    "IconPath": "inv_relics_libramofhope",
+    "Stats": "none",
+    "Quality": "Epic",
+    "Type": "Libram",
+    "Faction": "Neutral",
+    "RequiredClasses": "Paladin",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Libram of Reciprocation",
+    "Id": "40706",
+    "Slot": "Ranged"
+  },
+  "40707": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_relics_libramoftruth",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "JudgementHit",
+          "Stats": {
+            "JudgementBlockValue": "352"
+          },
+          "Duration": "10",
+          "Cooldown": "0",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1"
+    },
+    "Quality": "Epic",
+    "Type": "Libram",
+    "Faction": "Neutral",
+    "RequiredClasses": "Paladin",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Libram of Obstruction",
+    "Id": "40707",
+    "Slot": "Ranged"
+  },
+  "40708": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "spell_nature_unrelentingstorm",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "ShamanLightningBolt",
+          "Stats": {
+            "HasteRating": "196"
+          },
+          "Duration": "10",
+          "Cooldown": "45",
+          "Chance": "0.15",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1"
+    },
+    "Quality": "Epic",
+    "Type": "Totem",
+    "Faction": "Neutral",
+    "RequiredClasses": "Shaman",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Totem of the Elemental Plane",
+    "Id": "40708",
+    "Slot": "Ranged"
+  },
+  "40709": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_relics_totemoflife",
+    "Stats": {
+      "TotemCHBaseCost": "78"
+    },
+    "Quality": "Epic",
+    "Type": "Totem",
+    "Faction": "Neutral",
+    "RequiredClasses": "Shaman",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Totem of Forest Growth",
+    "Id": "40709",
+    "Slot": "Ranged"
+  },
+  "40710": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_relics_totemofrebirth",
+    "Stats": {
+      "BonusWFAttackPower": "212"
+    },
+    "Quality": "Epic",
+    "Type": "Totem",
+    "Faction": "Neutral",
+    "RequiredClasses": "Shaman",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Totem of Splintering",
+    "Id": "40710",
+    "Slot": "Ranged"
+  },
+  "40711": {
+    "ItemLevel": "200",
+    "DisplayId": "54481",
+    "DisplaySlot": "28",
+    "IconPath": "inv_relics_idolofhealth",
+    "Stats": {
+      "LifebloomTickHealBonus": "125"
+    },
+    "Quality": "Epic",
+    "Type": "Idol",
+    "Faction": "Neutral",
+    "RequiredClasses": "Druid",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Idol of Lush Moss",
+    "Id": "40711",
+    "Slot": "Ranged"
+  },
+  "40712": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "spell_arcane_arcane03",
+    "Stats": {
+      "WrathDmg": "70"
+    },
+    "Quality": "Epic",
+    "Type": "Idol",
+    "Faction": "Neutral",
+    "RequiredClasses": "Druid",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Idol of Steadfast Renewal",
+    "Id": "40712",
+    "Slot": "Ranged"
+  },
+  "40713": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_relics_idolofferocity",
+    "Stats": {
+      "BonusShredDamage": "203"
+    },
+    "Quality": "Epic",
+    "Type": "Idol",
+    "Faction": "Neutral",
+    "RequiredClasses": "Druid",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Idol of the Ravenous Beast",
+    "Id": "40713",
+    "Slot": "Ranged"
+  },
+  "40715": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_shield_56",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "HeartStrikeHit",
+          "Stats": {
+            "CritRating": "173"
+          },
+          "Duration": "10",
+          "Cooldown": "0",
+          "Chance": "0.15",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "2"
+    },
+    "Quality": "Epic",
+    "Type": "Sigil",
+    "Faction": "Neutral",
+    "RequiredClasses": "Death Knight",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sigil of Haunted Dreams",
+    "Id": "40715",
+    "Slot": "Ranged"
+  },
+  "40716": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_throwingknife_07",
+    "Stats": {
+      "Agility": "19",
+      "Stamina": "27",
+      "AttackPower": "56",
+      "CritRating": "27"
+    },
+    "Quality": "Epic",
+    "Type": "Thrown",
+    "Faction": "Neutral",
+    "MinDamage": "268",
+    "MaxDamage": "403",
+    "Speed": "1.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Lillehoff's Winged Blades",
+    "Id": "40716",
+    "Slot": "Ranged"
+  },
+  "41168": {
+    "ItemLevel": "200",
+    "DisplayId": "57237",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_rifle_19",
+    "Stats": {
+      "Stamina": "42",
+      "HitRating": "18",
+      "DefenseRating": "21"
+    },
+    "Quality": "Epic",
+    "Type": "Gun",
+    "Faction": "Neutral",
+    "MinDamage": "181",
+    "MaxDamage": "337",
+    "Speed": "2",
+    "Bind": "BoE",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Armor Plated Combat Shotgun",
+    "Id": "41168",
+    "Slot": "Ranged"
+  },
+  "43284": {
+    "ItemLevel": "200",
+    "DisplayId": "54525",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_crossbow_22",
+    "Stats": {
+      "Agility": "28",
+      "Stamina": "25",
+      "AttackPower": "48",
+      "HasteRating": "24"
+    },
+    "Quality": "Rare",
+    "Type": "Crossbow",
+    "Faction": "Neutral",
+    "MinDamage": "272",
+    "MaxDamage": "409",
+    "Speed": "2.9",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Amanitar Skullbow",
+    "Id": "43284",
+    "Slot": "Ranged"
+  },
+  "44245": {
+    "ItemLevel": "200",
+    "DisplayId": "56210",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_rifle_01",
+    "Stats": {
+      "AttackPower": "68",
+      "CritRating": "18",
+      "HitRating": "14"
+    },
+    "Quality": "Rare",
+    "Type": "Gun",
+    "Faction": "Neutral",
+    "MinDamage": "238",
+    "MaxDamage": "444",
+    "Speed": "2.9",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Zombie Sweeper Shotgun",
+    "Id": "44245",
+    "Slot": "Ranged"
+  },
+  "44504": {
+    "ItemLevel": "200",
+    "DisplayId": "57236",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_rifle_06",
+    "Stats": {
+      "AttackPower": "78",
+      "CritRating": "21"
+    },
+    "Quality": "Epic",
+    "Type": "Gun",
+    "Faction": "Neutral",
+    "MinDamage": "254",
+    "MaxDamage": "472",
+    "Speed": "2.8",
+    "Bind": "BoE",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "AttackPower": "8"
+    },
+    "Name": "Nesingwary 4000",
+    "Id": "44504",
+    "Slot": "Ranged"
+  },
+  "45086": {
+    "ItemLevel": "232",
+    "DisplayId": "58948",
+    "DisplaySlot": "25",
+    "IconPath": "inv_throwingknife_08",
+    "Stats": {
+      "Agility": "26",
+      "Stamina": "40",
+      "AttackPower": "76",
+      "HitRating": "25",
+      "HasteRating": "21"
+    },
+    "Quality": "Epic",
+    "Type": "Thrown",
+    "Faction": "Neutral",
+    "MinDamage": "335",
+    "MaxDamage": "503",
+    "Speed": "1.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Rising Sun",
+    "Id": "45086",
+    "Slot": "Ranged"
+  },
+  "45114": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "spell_nature_slowingtotem",
+    "Stats": {
+      "TotemCHBaseHeal": "243"
+    },
+    "Quality": "Epic",
+    "Type": "Totem",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Steamcaller's Totem",
+    "Id": "45114",
+    "Slot": "Ranged"
+  },
+  "45130": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_weapon_rifle_35",
+    "Stats": {
+      "Agility": "32",
+      "Stamina": "31",
+      "AttackPower": "28",
+      "HasteRating": "22"
+    },
+    "Quality": "Epic",
+    "Type": "Gun",
+    "Faction": "Alliance",
+    "MinDamage": "300",
+    "MaxDamage": "451",
+    "Speed": "2.9",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Blunderbuss of Khaz Modan",
+    "Id": "45130",
+    "Slot": "Ranged"
+  },
+  "45137": {
+    "ItemLevel": "232",
+    "DisplayId": "58902",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_rifle_31",
+    "Stats": {
+      "Stamina": "57",
+      "Strength": "27",
+      "HitRating": "21",
+      "DodgeRating": "25",
+      "DefenseRating": "26"
+    },
+    "Quality": "Epic",
+    "Type": "Gun",
+    "Faction": "Neutral",
+    "MinDamage": "401",
+    "MaxDamage": "684",
+    "Speed": "2.9",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Veranus' Bane",
+    "Id": "45137",
+    "Slot": "Ranged"
+  },
+  "45144": {
+    "ItemLevel": "226",
+    "DisplayId": "51913",
+    "DisplaySlot": "28",
+    "IconPath": "inv_shield_56",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "RuneStrikeHit",
+          "Stats": {
+            "DodgeRating": "136"
+          },
+          "Duration": "5",
+          "Cooldown": "0",
+          "Chance": "1",
+          "MaxStack": "0"
+        }
+      },
+      "SpecialEffectCount": "1"
+    },
+    "Quality": "Epic",
+    "Type": "Sigil",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sigil of Deflection",
+    "Id": "45144",
+    "Slot": "Ranged"
+  },
+  "45145": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_relics_libramofhope",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "HolyShield",
+          "Stats": {
+            "HolyShieldBlockValue": "450"
+          },
+          "Duration": "20",
+          "Cooldown": "0",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1"
+    },
+    "Quality": "Epic",
+    "Type": "Libram",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Libram of the Sacred Shield",
+    "Id": "45145",
+    "Slot": "Ranged"
+  },
+  "45169": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_herb_flamecap",
+    "Stats": {
+      "BonusSSDamage": "155"
+    },
+    "Quality": "Epic",
+    "Type": "Totem",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Totem of the Dancing Flame",
+    "Id": "45169",
+    "Slot": "Ranged"
+  },
+  "45170": {
+    "ItemLevel": "232",
+    "DisplayId": "59390",
+    "DisplaySlot": "26",
+    "IconPath": "inv_wand_29",
+    "Stats": {
+      "Stamina": "39",
+      "Intellect": "26",
+      "Spirit": "25",
+      "SpellPower": "44",
+      "CritRating": "24"
+    },
+    "Quality": "Epic",
+    "Type": "Wand",
+    "Faction": "Neutral",
+    "MinDamage": "460",
+    "MaxDamage": "855",
+    "DamageType": "Frost",
+    "Speed": "2",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Scepter of Creation",
+    "Id": "45170",
+    "Slot": "Ranged"
+  },
+  "45210": {
+    "ItemLevel": "200",
+    "DisplayId": "59582",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_rifle_34",
+    "Stats": {
+      "Agility": "32",
+      "Stamina": "31",
+      "AttackPower": "28",
+      "HasteRating": "22"
+    },
+    "Quality": "Epic",
+    "Type": "Gun",
+    "Faction": "Horde",
+    "MinDamage": "300",
+    "MaxDamage": "451",
+    "Speed": "2.9",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sen'jin Beakblade Longrifle",
+    "Id": "45210",
+    "Slot": "Ranged"
+  },
+  "45254": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_shield_56",
+    "Stats": {
+      "BonusDeathCoilDamage": "380",
+      "BonusFrostStrikeDamage": "113"
+    },
+    "Quality": "Epic",
+    "Type": "Sigil",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sigil of the Vengeful Heart",
+    "Id": "45254",
+    "Slot": "Ranged"
+  },
+  "45255": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "spell_nature_diseasecleansingtotem",
+    "Stats": {
+      "LavaBurstBonus": "215"
+    },
+    "Quality": "Epic",
+    "Type": "Totem",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Thunderfall Totem",
+    "Id": "45255",
+    "Slot": "Ranged"
+  },
+  "45257": {
+    "ItemLevel": "232",
+    "DisplayId": "59389",
+    "DisplaySlot": "26",
+    "IconPath": "inv_wand_28",
+    "Stats": {
+      "Stamina": "33",
+      "Intellect": "25",
+      "Spirit": "24",
+      "SpellPower": "44",
+      "HitRating": "27"
+    },
+    "Quality": "Epic",
+    "Type": "Wand",
+    "Faction": "Neutral",
+    "MinDamage": "414",
+    "MaxDamage": "769",
+    "DamageType": "Fire",
+    "Speed": "1.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Quartz Crystal Wand",
+    "Id": "45257",
+    "Slot": "Ranged"
+  },
+  "45261": {
+    "ItemLevel": "232",
+    "DisplayId": "58899",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_rifle_33",
+    "Stats": {
+      "Agility": "38",
+      "Stamina": "33",
+      "AttackPower": "54",
+      "ArmorPenetrationRating": "21",
+      "HasteRating": "27"
+    },
+    "Quality": "Epic",
+    "Type": "Gun",
+    "Faction": "Neutral",
+    "MinDamage": "401",
+    "MaxDamage": "684",
+    "Speed": "2.9",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Giant's Bane",
+    "Id": "45261",
+    "Slot": "Ranged"
+  },
+  "45270": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_relics_idolofrejuvenation",
+    "Stats": {
+      "InsectSwarmDmg": "374"
+    },
+    "Quality": "Epic",
+    "Type": "Idol",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Idol of the Crying Wind",
+    "Id": "45270",
+    "Slot": "Ranged"
+  },
+  "45294": {
+    "ItemLevel": "232",
+    "DisplayId": "59392",
+    "DisplaySlot": "26",
+    "IconPath": "inv_wand_29",
+    "Stats": {
+      "Stamina": "26",
+      "Intellect": "19",
+      "Spirit": "22",
+      "SpellPower": "45",
+      "HitRating": "29"
+    },
+    "Quality": "Epic",
+    "Type": "Wand",
+    "Faction": "Neutral",
+    "MinDamage": "414",
+    "MaxDamage": "769",
+    "DamageType": "Nature",
+    "Speed": "1.8",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Spirit": "4"
+    },
+    "Name": "Petrified Ivy Sprig",
+    "Id": "45294",
+    "Slot": "Ranged"
+  },
+  "45296": {
+    "ItemLevel": "232",
+    "DisplayId": "58949",
+    "DisplaySlot": "25",
+    "IconPath": "inv_throwingknife_08",
+    "Stats": {
+      "Agility": "23",
+      "Stamina": "28",
+      "AttackPower": "62",
+      "ArmorPenetrationRating": "28",
+      "HitRating": "22"
+    },
+    "Quality": "Epic",
+    "Type": "Thrown",
+    "Faction": "Neutral",
+    "MinDamage": "390",
+    "MaxDamage": "586",
+    "Speed": "2.1",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Twirling Blades",
+    "Id": "45296",
+    "Slot": "Ranged"
+  },
+  "45309": {
+    "ItemLevel": "219",
+    "DisplayId": "58901",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_rifle_33",
+    "Stats": {
+      "Stamina": "42",
+      "ArmorPenetrationRating": "31",
+      "CritRating": "29",
+      "HitRating": "24"
+    },
+    "Quality": "Epic",
+    "Type": "Gun",
+    "Faction": "Neutral",
+    "MinDamage": "289",
+    "MaxDamage": "537",
+    "Speed": "2.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Rifle of the Platinum Guard",
+    "Id": "45309",
+    "Slot": "Ranged"
+  },
+  "45327": {
+    "ItemLevel": "232",
+    "DisplayId": "58878",
+    "DisplaySlot": "15",
+    "IconPath": "inv_weapon_bow_51",
+    "Stats": {
+      "Agility": "38",
+      "Stamina": "36",
+      "AttackPower": "54",
+      "CritRating": "25",
+      "HasteRating": "22"
+    },
+    "Quality": "Epic",
+    "Type": "Bow",
+    "Faction": "Neutral",
+    "MinDamage": "387",
+    "MaxDamage": "661",
+    "Speed": "2.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Siren's Cry",
+    "Id": "45327",
+    "Slot": "Ranged"
+  },
+  "45436": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_relics_libramoftruth",
+    "Stats": {
+      "HolyLightSpellPower": "160"
+    },
+    "Quality": "Epic",
+    "Type": "Libram",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Libram of the Resolute",
+    "Id": "45436",
+    "Slot": "Ranged"
+  },
+  "45509": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_qirajidol_strife",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "MangleBearHit",
+          "Stats": {
+            "Agility": "153"
+          },
+          "Duration": "12",
+          "Cooldown": "0",
+          "Chance": "0.7",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "2"
+    },
+    "Quality": "Epic",
+    "Type": "Idol",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Idol of the Corruptor",
+    "Id": "45509",
+    "Slot": "Ranged"
+  },
+  "45510": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_relics_libramofhope",
+    "Stats": {
+      "DivineStormDamage": "235"
+    },
+    "Quality": "Epic",
+    "Type": "Libram",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Libram of Discord",
+    "Id": "45510",
+    "Slot": "Ranged"
+  },
+  "45511": {
+    "ItemLevel": "232",
+    "DisplayId": "59391",
+    "DisplaySlot": "26",
+    "IconPath": "inv_wand_28",
+    "Stats": {
+      "Stamina": "37",
+      "Intellect": "26",
+      "SpellPower": "44",
+      "CritRating": "18",
+      "HasteRating": "29"
+    },
+    "Quality": "Epic",
+    "Type": "Wand",
+    "Faction": "Neutral",
+    "MinDamage": "414",
+    "MaxDamage": "769",
+    "DamageType": "Shadow",
+    "Speed": "1.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Scepter of Lost Souls",
+    "Id": "45511",
+    "Slot": "Ranged"
+  },
+  "45570": {
+    "ItemLevel": "239",
+    "DisplayId": "58880",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_crossbow_33",
+    "Stats": {
+      "Agility": "40",
+      "Stamina": "40",
+      "AttackPower": "58",
+      "CritRating": "28",
+      "HitRating": "23"
+    },
+    "Quality": "Epic",
+    "Type": "Crossbow",
+    "Faction": "Neutral",
+    "MinDamage": "465",
+    "MaxDamage": "657",
+    "Speed": "2.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Skyforge Crossbow",
+    "Id": "45570",
+    "Slot": "Ranged"
+  },
+  "45713": {
+    "ItemLevel": "219",
+    "DisplayId": "58952",
+    "DisplaySlot": "26",
+    "IconPath": "inv_wand_28",
+    "Stats": {
+      "Stamina": "29",
+      "Intellect": "26",
+      "Spirit": "24",
+      "SpellPower": "39",
+      "CritRating": "20"
+    },
+    "Quality": "Epic",
+    "Type": "Wand",
+    "Faction": "Neutral",
+    "MinDamage": "378",
+    "MaxDamage": "702",
+    "DamageType": "Holy",
+    "Speed": "1.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Nurturing Touch",
+    "Id": "45713",
+    "Slot": "Ranged"
+  },
+  "45870": {
+    "ItemLevel": "232",
+    "DisplayId": "58900",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_rifle_33",
+    "Stats": {
+      "Agility": "29",
+      "Stamina": "30",
+      "AttackPower": "66",
+      "HitRating": "27"
+    },
+    "Quality": "Epic",
+    "Type": "Gun",
+    "Faction": "Neutral",
+    "MinDamage": "415",
+    "MaxDamage": "708",
+    "Speed": "3",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "AttackPower": "8"
+    },
+    "Name": "Magnetized Projectile Emitter",
+    "Id": "45870",
+    "Slot": "Ranged"
+  },
+  "45872": {
+    "ItemLevel": "219",
+    "DisplayId": "58739",
+    "DisplaySlot": "15",
+    "IconPath": "inv_weapon_bow_51",
+    "Stats": {
+      "Agility": "26",
+      "Stamina": "39",
+      "AttackPower": "66",
+      "ArmorPenetrationRating": "17",
+      "HitRating": "16"
+    },
+    "Quality": "Epic",
+    "Type": "Bow",
+    "Faction": "Neutral",
+    "MinDamage": "299",
+    "MaxDamage": "556",
+    "Speed": "2.9",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Avalanche",
+    "Id": "45872",
+    "Slot": "Ranged"
+  },
+  "46018": {
+    "ItemLevel": "219",
+    "DisplayId": "58879",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_crossbow_33",
+    "Stats": {
+      "Agility": "24",
+      "Stamina": "29",
+      "AttackPower": "68",
+      "ArmorPenetrationRating": "26",
+      "HitRating": "16"
+    },
+    "Quality": "Epic",
+    "Type": "Crossbow",
+    "Faction": "Neutral",
+    "MinDamage": "342",
+    "MaxDamage": "513",
+    "Speed": "2.9",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Deliverance",
+    "Id": "46018",
+    "Slot": "Ranged"
+  },
+  "46138": {
+    "ItemLevel": "226",
+    "DisplayId": "34954",
+    "DisplaySlot": "28",
+    "IconPath": "inv_relics_idolofrejuvenation",
+    "Stats": {
+      "NourishSpellpower": "187"
+    },
+    "Quality": "Epic",
+    "Type": "Idol",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Idol of the Flourishing Life",
+    "Id": "46138",
+    "Slot": "Ranged"
+  },
+  "46339": {
+    "ItemLevel": "219",
+    "DisplayId": "58899",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_rifle_33",
+    "Stats": {
+      "Stamina": "51",
+      "Strength": "33",
+      "CritRating": "22",
+      "HasteRating": "22"
+    },
+    "Quality": "Epic",
+    "Type": "Gun",
+    "Faction": "Neutral",
+    "MinDamage": "299",
+    "MaxDamage": "556",
+    "Speed": "2.9",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Mimiron's Repeater",
+    "Id": "46339",
+    "Slot": "Ranged"
+  },
+  "46342": {
+    "ItemLevel": "219",
+    "DisplayId": "59552",
+    "DisplaySlot": "15",
+    "IconPath": "inv_weapon_bow_51",
+    "Stats": {
+      "Agility": "33",
+      "Stamina": "39",
+      "AttackPower": "46",
+      "CritRating": "17",
+      "HasteRating": "22"
+    },
+    "Quality": "Epic",
+    "Type": "Bow",
+    "Faction": "Neutral",
+    "MinDamage": "299",
+    "MaxDamage": "556",
+    "Speed": "2.9",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Golemheart Longbow",
+    "Id": "46342",
+    "Slot": "Ranged"
+  },
+  "46994": {
+    "ItemLevel": "245",
+    "DisplayId": "60579",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_crossbow_34",
+    "Stats": {
+      "Agility": "43",
+      "Stamina": "43",
+      "AttackPower": "57",
+      "ArmorPenetrationRating": "28",
+      "HasteRating": "28"
+    },
+    "Quality": "Epic",
+    "Type": "Crossbow",
+    "Faction": "Alliance",
+    "MinDamage": "494",
+    "MaxDamage": "694",
+    "Speed": "2.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Talonstrike",
+    "Id": "46994",
+    "Slot": "Ranged"
+  },
+  "46995": {
+    "ItemLevel": "258",
+    "DisplayId": "60664",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_crossbow_34",
+    "Stats": {
+      "Agility": "40",
+      "Stamina": "48",
+      "AttackPower": "49",
+      "ArmorPenetrationRating": "32",
+      "HasteRating": "32"
+    },
+    "Quality": "Epic",
+    "Type": "Crossbow",
+    "Faction": "Alliance",
+    "MinDamage": "564",
+    "MaxDamage": "784",
+    "Speed": "2.8",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Talonstrike",
+    "Id": "46995",
+    "Slot": "Ranged"
+  },
+  "47267": {
+    "ItemLevel": "245",
+    "DisplayId": "60595",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_crossbow_35",
+    "Stats": {
+      "Agility": "43",
+      "Stamina": "43",
+      "AttackPower": "57",
+      "ArmorPenetrationRating": "28",
+      "HasteRating": "28"
+    },
+    "Quality": "Epic",
+    "Type": "Crossbow",
+    "Faction": "Horde",
+    "MinDamage": "494",
+    "MaxDamage": "694",
+    "Speed": "2.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Death's Head Crossbow",
+    "Id": "47267",
+    "Slot": "Ranged"
+  },
+  "47428": {
+    "ItemLevel": "258",
+    "DisplayId": "60595",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_crossbow_35",
+    "Stats": {
+      "Agility": "40",
+      "Stamina": "48",
+      "AttackPower": "49",
+      "ArmorPenetrationRating": "32",
+      "HasteRating": "32"
+    },
+    "Quality": "Epic",
+    "Type": "Crossbow",
+    "Faction": "Horde",
+    "MinDamage": "564",
+    "MaxDamage": "784",
+    "Speed": "2.8",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Death's Head Crossbow",
+    "Id": "47428",
+    "Slot": "Ranged"
+  },
+  "47521": {
+    "ItemLevel": "258",
+    "DisplayId": "60667",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_rifle_35",
+    "Stats": {
+      "Agility": "48",
+      "Stamina": "48",
+      "AttackPower": "49",
+      "CritRating": "32",
+      "HasteRating": "24"
+    },
+    "Quality": "Epic",
+    "Type": "Gun",
+    "Faction": "Alliance",
+    "MinDamage": "527",
+    "MaxDamage": "869",
+    "Speed": "2.9",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "BRK-1000",
+    "Id": "47521",
+    "Slot": "Ranged"
+  },
+  "47523": {
+    "ItemLevel": "258",
+    "DisplayId": "60623",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_rifle_36",
+    "Stats": {
+      "Agility": "48",
+      "Stamina": "48",
+      "AttackPower": "49",
+      "CritRating": "32",
+      "HasteRating": "24"
+    },
+    "Quality": "Epic",
+    "Type": "Gun",
+    "Faction": "Horde",
+    "MinDamage": "527",
+    "MaxDamage": "869",
+    "Speed": "2.9",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Fezzik's Autocannon",
+    "Id": "47523",
+    "Slot": "Ranged"
+  },
+  "47568": {
+    "ItemLevel": "219",
+    "DisplayId": "60647",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_rifle_34",
+    "Stats": {
+      "Agility": "34",
+      "Stamina": "35",
+      "AttackPower": "42",
+      "ArmorPenetrationRating": "34"
+    },
+    "Quality": "Epic",
+    "Type": "Gun",
+    "Faction": "Neutral",
+    "MinDamage": "309",
+    "MaxDamage": "575",
+    "Speed": "3",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "True-aim Long Rifle",
+    "Id": "47568",
+    "Slot": "Ranged"
+  },
+  "47612": {
+    "ItemLevel": "232",
+    "DisplayId": "60605",
+    "DisplaySlot": "26",
+    "IconPath": "inv_wand_15",
+    "Stats": {
+      "Stamina": "36",
+      "Intellect": "26",
+      "SpellPower": "44",
+      "CritRating": "28",
+      "HasteRating": "21"
+    },
+    "Quality": "Epic",
+    "Type": "Wand",
+    "Faction": "Alliance",
+    "MinDamage": "414",
+    "MaxDamage": "769",
+    "DamageType": "Nature",
+    "Speed": "1.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Rod of Imprisoned Souls",
+    "Id": "47612",
+    "Slot": "Ranged"
+  },
+  "47658": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_wand_32",
+    "Stats": {
+      "Stamina": "32",
+      "Intellect": "32",
+      "Spirit": "28",
+      "SpellPower": "50",
+      "HitRating": "28"
+    },
+    "Quality": "Epic",
+    "Type": "Wand",
+    "Faction": "Neutral",
+    "MinDamage": "455",
+    "MaxDamage": "846",
+    "DamageType": "Nature",
+    "Speed": "1.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Brimstone Igniter",
+    "Id": "47658",
+    "Slot": "Ranged"
+  },
+  "47659": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_throwingknife_07",
+    "Stats": {
+      "Agility": "43",
+      "Stamina": "43",
+      "AttackPower": "57",
+      "ArmorPenetrationRating": "28",
+      "ExpertiseRating": "28"
+    },
+    "Quality": "Epic",
+    "Type": "Thrown",
+    "Faction": "Neutral",
+    "MinDamage": "368",
+    "MaxDamage": "552",
+    "Speed": "1.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Crimson Star",
+    "Id": "47659",
+    "Slot": "Ranged"
+  },
+  "47660": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_throwingaxepvp320_07",
+    "Stats": {
+      "Stamina": "64",
+      "Strength": "32",
+      "HitRating": "22",
+      "DodgeRating": "28",
+      "DefenseRating": "28"
+    },
+    "Quality": "Epic",
+    "Type": "Thrown",
+    "Faction": "Neutral",
+    "MinDamage": "368",
+    "MaxDamage": "552",
+    "Speed": "1.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Blades of the Sable Cross",
+    "Id": "47660",
+    "Slot": "Ranged"
+  },
+  "47661": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_relics_libramofhope",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "SealOfVengeanceTick",
+          "Stats": {
+            "Strength": "200"
+          },
+          "Duration": "16",
+          "Cooldown": "6",
+          "Chance": "0.7",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1"
+    },
+    "Quality": "Epic",
+    "Type": "Libram",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Libram of Valiance",
+    "Id": "47661",
+    "Slot": "Ranged"
+  },
+  "47662": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_relics_libramoftruth",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "HolyLightCast",
+          "Stats": {
+            "SpellPower": "234"
+          },
+          "Duration": "15",
+          "Cooldown": "10",
+          "Chance": "0.7",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1"
+    },
+    "Quality": "Epic",
+    "Type": "Libram",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Libram of Veracity",
+    "Id": "47662",
+    "Slot": "Ranged"
+  },
+  "47664": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_relics_libramofhope",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "HammeroftheRighteous",
+          "Stats": {
+            "DodgeRating": "200"
+          },
+          "Duration": "18",
+          "Cooldown": "10",
+          "Chance": "0.8",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1"
+    },
+    "Quality": "Epic",
+    "Type": "Libram",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Libram of Defiance",
+    "Id": "47664",
+    "Slot": "Ranged"
+  },
+  "47665": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "spell_nature_slowingtotem",
+    "Stats": {
+      "RestoShamRelicT9": "234"
+    },
+    "Quality": "Epic",
+    "Type": "Totem",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Totem of Calming Tides",
+    "Id": "47665",
+    "Slot": "Ranged"
+  },
+  "47666": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "spell_nature_diseasecleansingtotem",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "ShamanLightningBolt",
+          "Stats": {
+            "HasteRating": "200"
+          },
+          "Duration": "12",
+          "Cooldown": "0",
+          "Chance": "0.7",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1"
+    },
+    "Quality": "Epic",
+    "Type": "Totem",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Totem of Electrifying Wind",
+    "Id": "47666",
+    "Slot": "Ranged"
+  },
+  "47667": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "spell_nature_earthelemental_totem",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "ShamanLavaLash",
+          "Stats": {
+            "AttackPower": "400"
+          },
+          "Duration": "18",
+          "Cooldown": "9",
+          "Chance": "0.8",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1"
+    },
+    "Quality": "Epic",
+    "Type": "Totem",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Totem of Quaking Earth",
+    "Id": "47667",
+    "Slot": "Ranged"
+  },
+  "47668": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_qirajidol_strife",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "MangleCatOrShredHit",
+          "Stats": {
+            "Agility": "200"
+          },
+          "Duration": "16",
+          "Cooldown": "8",
+          "Chance": "0.85",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "2"
+    },
+    "Quality": "Epic",
+    "Type": "Idol",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Idol of Mutilation",
+    "Id": "47668",
+    "Slot": "Ranged"
+  },
+  "47670": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_relics_idolofrejuvenation",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "MoonfireTick",
+          "Stats": {
+            "CritRating": "200"
+          },
+          "Duration": "12",
+          "Cooldown": "0",
+          "Chance": "0.7",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1"
+    },
+    "Quality": "Epic",
+    "Type": "Idol",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Idol of Lunar Fury",
+    "Id": "47670",
+    "Slot": "Ranged"
+  },
+  "47671": {
+    "ItemLevel": "245",
+    "DisplayId": "34954",
+    "DisplaySlot": "28",
+    "IconPath": "inv_relics_idolofrejuvenation",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "RejuvenationTick",
+          "Stats": {
+            "SpellPower": "234"
+          },
+          "Duration": "9",
+          "Cooldown": "0",
+          "Chance": "0.7",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1"
+    },
+    "Quality": "Epic",
+    "Type": "Idol",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Idol of Flaring Growth",
+    "Id": "47671",
+    "Slot": "Ranged"
+  },
+  "47672": {
+    "ItemLevel": "245",
+    "DisplayId": "51913",
+    "DisplaySlot": "28",
+    "IconPath": "inv_shield_56",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "RuneStrikeHit",
+          "Stats": {
+            "DodgeRating": "200"
+          },
+          "Duration": "20",
+          "Cooldown": "0",
+          "Chance": "0.8",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1"
+    },
+    "Quality": "Epic",
+    "Type": "Sigil",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sigil of Insolence",
+    "Id": "47672",
+    "Slot": "Ranged"
+  },
+  "47673": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_shield_56",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DeathStrikeHit",
+          "Stats": {
+            "Strength": "200"
+          },
+          "Duration": "20",
+          "Cooldown": "10",
+          "Chance": "0.8",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "3"
+    },
+    "Quality": "Epic",
+    "Type": "Sigil",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sigil of Virulence",
+    "Id": "47673",
+    "Slot": "Ranged"
+  },
+  "47740": {
+    "ItemLevel": "232",
+    "DisplayId": "60607",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_rifle_35",
+    "Stats": {
+      "Agility": "35",
+      "Stamina": "20",
+      "AttackPower": "59",
+      "CritRating": "26",
+      "HitRating": "15"
+    },
+    "Quality": "Epic",
+    "Type": "Gun",
+    "Faction": "Alliance",
+    "MinDamage": "387",
+    "MaxDamage": "661",
+    "Speed": "2.8",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "The Diplomat",
+    "Id": "47740",
+    "Slot": "Ranged"
+  },
+  "47741": {
+    "ItemLevel": "232",
+    "DisplayId": "60579",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_crossbow_34",
+    "Stats": {
+      "Agility": "38",
+      "Stamina": "38",
+      "AttackPower": "50",
+      "CritRating": "26",
+      "HasteRating": "23"
+    },
+    "Quality": "Epic",
+    "Type": "Crossbow",
+    "Faction": "Alliance",
+    "MinDamage": "448",
+    "MaxDamage": "637",
+    "Speed": "2.9",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Baelgun's Heavy Crossbow",
+    "Id": "47741",
+    "Slot": "Ranged"
+  },
+  "47856": {
+    "ItemLevel": "232",
+    "DisplayId": "61271",
+    "DisplaySlot": "26",
+    "IconPath": "inv_wand_31",
+    "Stats": {
+      "Stamina": "36",
+      "Intellect": "26",
+      "SpellPower": "44",
+      "CritRating": "28",
+      "HasteRating": "21"
+    },
+    "Quality": "Epic",
+    "Type": "Wand",
+    "Faction": "Horde",
+    "MinDamage": "414",
+    "MaxDamage": "769",
+    "DamageType": "Nature",
+    "Speed": "1.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Scepter of Imprisoned Souls",
+    "Id": "47856",
+    "Slot": "Ranged"
+  },
+  "47883": {
+    "ItemLevel": "232",
+    "DisplayId": "60623",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_rifle_36",
+    "Stats": {
+      "Agility": "35",
+      "Stamina": "20",
+      "AttackPower": "59",
+      "CritRating": "26",
+      "HitRating": "15"
+    },
+    "Quality": "Epic",
+    "Type": "Gun",
+    "Faction": "Horde",
+    "MinDamage": "387",
+    "MaxDamage": "661",
+    "Speed": "2.8",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Widebarrel Flintlock",
+    "Id": "47883",
+    "Slot": "Ranged"
+  },
+  "47907": {
+    "ItemLevel": "232",
+    "DisplayId": "60686",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_crossbow_35",
+    "Stats": {
+      "Agility": "38",
+      "Stamina": "38",
+      "AttackPower": "50",
+      "CritRating": "26",
+      "HasteRating": "23"
+    },
+    "Quality": "Epic",
+    "Type": "Crossbow",
+    "Faction": "Horde",
+    "MinDamage": "448",
+    "MaxDamage": "637",
+    "Speed": "2.9",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Darkmaw Crossbow",
+    "Id": "47907",
+    "Slot": "Ranged"
+  },
+  "47922": {
+    "ItemLevel": "245",
+    "DisplayId": "60605",
+    "DisplaySlot": "26",
+    "IconPath": "inv_wand_15",
+    "Stats": {
+      "Stamina": "40",
+      "Intellect": "29",
+      "SpellPower": "50",
+      "CritRating": "31",
+      "HasteRating": "24"
+    },
+    "Quality": "Epic",
+    "Type": "Wand",
+    "Faction": "Alliance",
+    "MinDamage": "455",
+    "MaxDamage": "846",
+    "DamageType": "Nature",
+    "Speed": "1.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Rod of Imprisoned Souls",
+    "Id": "47922",
+    "Slot": "Ranged"
+  },
+  "47950": {
+    "ItemLevel": "245",
+    "DisplayId": "60607",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_rifle_35",
+    "Stats": {
+      "Agility": "40",
+      "Stamina": "23",
+      "AttackPower": "66",
+      "CritRating": "30",
+      "HitRating": "18"
+    },
+    "Quality": "Epic",
+    "Type": "Gun",
+    "Faction": "Alliance",
+    "MinDamage": "444",
+    "MaxDamage": "744",
+    "Speed": "2.8",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "The Diplomat",
+    "Id": "47950",
+    "Slot": "Ranged"
+  },
+  "47975": {
+    "ItemLevel": "245",
+    "DisplayId": "60579",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_crossbow_34",
+    "Stats": {
+      "Agility": "35",
+      "Stamina": "43",
+      "AttackPower": "57",
+      "CritRating": "30",
+      "HasteRating": "18"
+    },
+    "Quality": "Epic",
+    "Type": "Crossbow",
+    "Faction": "Alliance",
+    "MinDamage": "512",
+    "MaxDamage": "719",
+    "Speed": "2.9",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Baelgun's Heavy Crossbow",
+    "Id": "47975",
+    "Slot": "Ranged"
+  },
+  "47995": {
+    "ItemLevel": "245",
+    "DisplayId": "61271",
+    "DisplaySlot": "26",
+    "IconPath": "inv_wand_31",
+    "Stats": {
+      "Stamina": "40",
+      "Intellect": "29",
+      "SpellPower": "50",
+      "CritRating": "31",
+      "HasteRating": "24"
+    },
+    "Quality": "Epic",
+    "Type": "Wand",
+    "Faction": "Horde",
+    "MinDamage": "455",
+    "MaxDamage": "846",
+    "DamageType": "Nature",
+    "Speed": "1.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Scepter of Imprisoned Souls",
+    "Id": "47995",
+    "Slot": "Ranged"
+  },
+  "48022": {
+    "ItemLevel": "245",
+    "DisplayId": "60623",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_rifle_36",
+    "Stats": {
+      "Agility": "40",
+      "Stamina": "23",
+      "AttackPower": "66",
+      "CritRating": "30",
+      "HitRating": "18"
+    },
+    "Quality": "Epic",
+    "Type": "Gun",
+    "Faction": "Horde",
+    "MinDamage": "444",
+    "MaxDamage": "744",
+    "Speed": "2.8",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Widebarrel Flintlock",
+    "Id": "48022",
+    "Slot": "Ranged"
+  },
+  "48052": {
+    "ItemLevel": "245",
+    "DisplayId": "60686",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_crossbow_35",
+    "Stats": {
+      "Agility": "35",
+      "Stamina": "43",
+      "AttackPower": "57",
+      "CritRating": "30",
+      "HasteRating": "18"
+    },
+    "Quality": "Epic",
+    "Type": "Crossbow",
+    "Faction": "Horde",
+    "MinDamage": "512",
+    "MaxDamage": "719",
+    "Speed": "2.9",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Darkmaw Crossbow",
+    "Id": "48052",
+    "Slot": "Ranged"
+  },
+  "48697": {
+    "ItemLevel": "245",
+    "DisplayId": "62470",
+    "DisplaySlot": "15",
+    "IconPath": "inv_weapon_bow_51",
+    "Stats": {
+      "Agility": "39",
+      "Stamina": "32",
+      "AttackPower": "57",
+      "ArmorPenetrationRating": "24",
+      "HitRating": "24"
+    },
+    "Quality": "Epic",
+    "Type": "Bow",
+    "Faction": "Horde",
+    "MinDamage": "444",
+    "MaxDamage": "744",
+    "Speed": "2.8",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "HitRating": "4"
+    },
+    "Name": "Frenzystrike Longbow",
+    "Id": "48697",
+    "Slot": "Ranged"
+  },
+  "48711": {
+    "ItemLevel": "245",
+    "DisplayId": "61687",
+    "DisplaySlot": "15",
+    "IconPath": "inv_weapon_bow_52",
+    "Stats": {
+      "Agility": "39",
+      "Stamina": "32",
+      "AttackPower": "57",
+      "ArmorPenetrationRating": "24",
+      "HitRating": "24"
+    },
+    "Quality": "Epic",
+    "Type": "Bow",
+    "Faction": "Alliance",
+    "MinDamage": "444",
+    "MaxDamage": "744",
+    "Speed": "2.8",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "HitRating": "4"
+    },
+    "Name": "Rhok'shalla, the Shadow's Bane",
+    "Id": "48711",
+    "Slot": "Ranged"
+  },
+  "49305": {
+    "ItemLevel": "232",
+    "DisplayId": "63201",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_rifle_09",
+    "Stats": {
+      "Agility": "38",
+      "Stamina": "35",
+      "AttackPower": "53",
+      "CritRating": "38"
+    },
+    "Quality": "Epic",
+    "Type": "Gun",
+    "Faction": "Neutral",
+    "MinDamage": "401",
+    "MaxDamage": "684",
+    "Speed": "2.9",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Snub-Nose Blastershot Launcher",
+    "Id": "49305",
+    "Slot": "Ranged"
+  },
+  "49493": {
+    "ItemLevel": "245",
+    "DisplayId": "63201",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_rifle_09",
+    "Stats": {
+      "Agility": "43",
+      "Stamina": "39",
+      "AttackPower": "59",
+      "CritRating": "43"
+    },
+    "Quality": "Epic",
+    "Type": "Gun",
+    "Faction": "Neutral",
+    "MinDamage": "460",
+    "MaxDamage": "771",
+    "Speed": "2.9",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Rifled Blastershot Launcher",
+    "Id": "49493",
+    "Slot": "Ranged"
+  },
+  "49813": {
+    "ItemLevel": "219",
+    "DisplayId": "52413",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_rifle_13",
+    "Stats": {
+      "Agility": "26",
+      "Stamina": "26",
+      "AttackPower": "67",
+      "CritRating": "34"
+    },
+    "Quality": "Epic",
+    "Type": "Gun",
+    "Faction": "Neutral",
+    "MinDamage": "299",
+    "MaxDamage": "556",
+    "Speed": "2.9",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Rimebane Rifle",
+    "Id": "49813",
+    "Slot": "Ranged"
+  },
+  "49844": {
+    "ItemLevel": "219",
+    "DisplayId": "64748",
+    "DisplaySlot": "15",
+    "IconPath": "inv_weapon_bow_44",
+    "Stats": {
+      "Agility": "34",
+      "Stamina": "26",
+      "AttackPower": "51",
+      "HitRating": "20",
+      "HasteRating": "24"
+    },
+    "Quality": "Epic",
+    "Type": "Bow",
+    "Faction": "Neutral",
+    "MinDamage": "309",
+    "MaxDamage": "575",
+    "Speed": "3",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Crypt Fiend Slayer",
+    "Id": "49844",
+    "Slot": "Ranged"
+  },
+  "49852": {
+    "ItemLevel": "219",
+    "DisplayId": "64745",
+    "DisplaySlot": "26",
+    "IconPath": "inv_wand_1h_stratholme_d_01",
+    "Stats": {
+      "Stamina": "30",
+      "Intellect": "24",
+      "Spirit": "22",
+      "SpellPower": "39",
+      "HasteRating": "22"
+    },
+    "Quality": "Epic",
+    "Type": "Wand",
+    "Faction": "Neutral",
+    "MinDamage": "378",
+    "MaxDamage": "702",
+    "DamageType": "Nature",
+    "Speed": "1.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Coffin Nail",
+    "Id": "49852",
+    "Slot": "Ranged"
+  },
+  "49981": {
+    "ItemLevel": "271",
+    "DisplayId": "64371",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_crossbow_38",
+    "Stats": {
+      "Agility": "54",
+      "Stamina": "54",
+      "AttackPower": "72",
+      "ArmorPenetrationRating": "36",
+      "CritRating": "36"
+    },
+    "Quality": "Epic",
+    "Type": "Crossbow",
+    "Faction": "Neutral",
+    "MinDamage": "688",
+    "MaxDamage": "949",
+    "Speed": "3",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Fal'inrush, Defender of Quel'thalas",
+    "Id": "49981",
+    "Slot": "Ranged"
+  },
+  "50033": {
+    "ItemLevel": "264",
+    "DisplayId": "64357",
+    "DisplaySlot": "26",
+    "IconPath": "inv_wand_35",
+    "Stats": {
+      "Stamina": "39",
+      "Intellect": "39",
+      "SpellPower": "60",
+      "CritRating": "34",
+      "HasteRating": "34"
+    },
+    "Quality": "Epic",
+    "Type": "Wand",
+    "Faction": "Neutral",
+    "MinDamage": "524",
+    "MaxDamage": "975",
+    "DamageType": "Fire",
+    "Speed": "1.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Corpse-Impaling Spike",
+    "Id": "50033",
+    "Slot": "Ranged"
+  },
+  "50034": {
+    "ItemLevel": "264",
+    "DisplayId": "65744",
+    "DisplaySlot": "15",
+    "IconPath": "inv_weapon_bow_55",
+    "Stats": {
+      "Agility": "34",
+      "Stamina": "51",
+      "ZodProc": "0.04"
+    },
+    "Quality": "Epic",
+    "Type": "Bow",
+    "Faction": "Neutral",
+    "MinDamage": "541",
+    "MaxDamage": "887",
+    "Speed": "2.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Zod's Repeating Longbow",
+    "Id": "50034",
+    "Slot": "Ranged"
+  },
+  "50169": {
+    "ItemLevel": "232",
+    "DisplayId": "64770",
+    "DisplaySlot": "25",
+    "IconPath": "inv_throwingknife_02",
+    "Stats": {
+      "Agility": "38",
+      "Stamina": "33",
+      "AttackPower": "54",
+      "CritRating": "26",
+      "HasteRating": "23"
+    },
+    "Quality": "Epic",
+    "Type": "Thrown",
+    "Faction": "Neutral",
+    "MinDamage": "335",
+    "MaxDamage": "503",
+    "Speed": "1.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Papa's Brand New Knife",
+    "Id": "50169",
+    "Slot": "Ranged"
+  },
+  "50262": {
+    "ItemLevel": "232",
+    "DisplayId": "64765",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_crossbow_30",
+    "Stats": {
+      "Agility": "38",
+      "Stamina": "29",
+      "AttackPower": "58",
+      "CritRating": "20",
+      "HitRating": "28"
+    },
+    "Quality": "Epic",
+    "Type": "Crossbow",
+    "Faction": "Neutral",
+    "MinDamage": "464",
+    "MaxDamage": "659",
+    "Speed": "3",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Felglacier Bolter",
+    "Id": "50262",
+    "Slot": "Ranged"
+  },
+  "50291": {
+    "ItemLevel": "232",
+    "DisplayId": "64760",
+    "DisplaySlot": "26",
+    "IconPath": "inv_wand_1h_stratholme_d_02",
+    "Stats": {
+      "Stamina": "33",
+      "Intellect": "27",
+      "SpellPower": "44",
+      "CritRating": "22",
+      "HitRating": "27"
+    },
+    "Quality": "Epic",
+    "Type": "Wand",
+    "Faction": "Neutral",
+    "MinDamage": "483",
+    "MaxDamage": "898",
+    "DamageType": "Shadow",
+    "Speed": "2.1",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Soulsplinter",
+    "Id": "50291",
+    "Slot": "Ranged"
+  },
+  "50444": {
+    "ItemLevel": "264",
+    "DisplayId": "64366",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_rifle_39",
+    "Stats": {
+      "Stamina": "77",
+      "Strength": "39",
+      "HitRating": "26",
+      "DodgeRating": "34",
+      "ParryRating": "34"
+    },
+    "Quality": "Epic",
+    "Type": "Gun",
+    "Faction": "Neutral",
+    "MinDamage": "406",
+    "MaxDamage": "665",
+    "Speed": "2.1",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Rowan's Rifle of Silver Bullets",
+    "Id": "50444",
+    "Slot": "Ranged"
+  },
+  "50454": {
+    "ItemLevel": "264",
+    "DisplayId": "58200",
+    "DisplaySlot": "28",
+    "IconPath": "trade_herbalism",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "RejuvenationTick",
+          "Stats": {
+            "SpellPower": "32"
+          },
+          "Duration": "15",
+          "Cooldown": "0",
+          "Chance": "1",
+          "MaxStack": "8"
+        }
+      },
+      "SpecialEffectCount": "1"
+    },
+    "Quality": "Epic",
+    "Type": "Idol",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Idol of the Black Willow",
+    "Id": "50454",
+    "Slot": "Ranged"
+  },
+  "50455": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_scroll_15",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "CrusaderStrikeHit",
+          "Stats": {
+            "Strength": "44"
+          },
+          "Duration": "15",
+          "Cooldown": "0",
+          "Chance": "1",
+          "MaxStack": "5"
+        }
+      },
+      "SpecialEffectCount": "1"
+    },
+    "Quality": "Epic",
+    "Type": "Libram",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Libram of Three Truths",
+    "Id": "50455",
+    "Slot": "Ranged"
+  },
+  "50456": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "spell_nature_natureguardian",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "RakeTick",
+          "Stats": {
+            "Agility": "44"
+          },
+          "Duration": "15",
+          "Cooldown": "0",
+          "Chance": "1",
+          "MaxStack": "5"
+        }
+      },
+      "SpecialEffectCount": "2"
+    },
+    "Quality": "Epic",
+    "Type": "Idol",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Idol of the Crying Moon",
+    "Id": "50456",
+    "Slot": "Ranged"
+  },
+  "50457": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_offhand_1h_ulduarraid_d_01",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "InsectSwarmOrMoonfireTick",
+          "Stats": {
+            "CritRating": "44"
+          },
+          "Duration": "15",
+          "Cooldown": "0",
+          "Chance": "1",
+          "MaxStack": "5"
+        }
+      },
+      "SpecialEffectCount": "1"
+    },
+    "Quality": "Epic",
+    "Type": "Idol",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Idol of the Lunar Eclipse",
+    "Id": "50457",
+    "Slot": "Ranged"
+  },
+  "50458": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "spell_frost_frostnova",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "ShamanFlameShockDoTTick",
+          "Stats": {
+            "HasteRating": "44"
+          },
+          "Duration": "30",
+          "Cooldown": "0",
+          "Chance": "1",
+          "MaxStack": "5"
+        }
+      },
+      "SpecialEffectCount": "1"
+    },
+    "Quality": "Epic",
+    "Type": "Totem",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Bizuri's Totem of Shattered Ice",
+    "Id": "50458",
+    "Slot": "Ranged"
+  },
+  "50459": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_noose_01",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DeathStrikeHit",
+          "Stats": {
+            "Strength": "73"
+          },
+          "Duration": "15",
+          "Cooldown": "0",
+          "Chance": "1",
+          "MaxStack": "3"
+        }
+      },
+      "SpecialEffectCount": "3"
+    },
+    "Quality": "Epic",
+    "Type": "Sigil",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sigil of the Hanged Man",
+    "Id": "50459",
+    "Slot": "Ranged"
+  },
+  "50460": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "spell_holy_blessedresillience",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "HolyShockCast",
+          "Stats": {
+            "SpellPower": "85"
+          },
+          "Duration": "15",
+          "Cooldown": "0",
+          "Chance": "1",
+          "MaxStack": "3"
+        }
+      },
+      "SpecialEffectCount": "1"
+    },
+    "Quality": "Epic",
+    "Type": "Libram",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Libram of Blinding Light",
+    "Id": "50460",
+    "Slot": "Ranged"
+  },
+  "50461": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_offhand_ulduarraid_d_02",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "ShieldofRighteousness",
+          "Stats": {
+            "DodgeRating": "73"
+          },
+          "Duration": "15",
+          "Cooldown": "0",
+          "Chance": "1",
+          "MaxStack": "3"
+        }
+      },
+      "SpecialEffectCount": "1"
+    },
+    "Quality": "Epic",
+    "Type": "Libram",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Libram of the Eternal Tower",
+    "Id": "50461",
+    "Slot": "Ranged"
+  },
+  "50462": {
+    "ItemLevel": "264",
+    "DisplayId": "64615",
+    "DisplaySlot": "28",
+    "IconPath": "ability_mount_ebonblade",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "RuneStrikeHit",
+          "Stats": {
+            "DodgeRating": "44"
+          },
+          "Duration": "15",
+          "Cooldown": "0",
+          "Chance": "1",
+          "MaxStack": "0"
+        }
+      },
+      "SpecialEffectCount": "1"
+    },
+    "Quality": "Epic",
+    "Type": "Sigil",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sigil of the Bone Gryphon",
+    "Id": "50462",
+    "Slot": "Ranged"
+  },
+  "50463": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_gem_diamond_03",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "ShamanStormStrike",
+          "Stats": {
+            "AttackPower": "146"
+          },
+          "Duration": "15",
+          "Cooldown": "0",
+          "Chance": "1",
+          "MaxStack": "3"
+        }
+      },
+      "SpecialEffectCount": "1"
+    },
+    "Quality": "Epic",
+    "Type": "Totem",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Totem of the Avalanche",
+    "Id": "50463",
+    "Slot": "Ranged"
+  },
+  "50464": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "spell_frost_summonwaterelemental",
+    "Stats": {
+      "RestoShamRelicT10": "255"
+    },
+    "Quality": "Epic",
+    "Type": "Totem",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Totem of the Surging Sea",
+    "Id": "50464",
+    "Slot": "Ranged"
+  },
+  "50472": {
+    "ItemLevel": "264",
+    "DisplayId": "64360",
+    "DisplaySlot": "26",
+    "IconPath": "inv_wand_34",
+    "Stats": {
+      "Stamina": "39",
+      "Intellect": "39",
+      "Spirit": "34",
+      "SpellPower": "60",
+      "CritRating": "34"
+    },
+    "Quality": "Epic",
+    "Type": "Wand",
+    "Faction": "Neutral",
+    "MinDamage": "524",
+    "MaxDamage": "975",
+    "DamageType": "Fire",
+    "Speed": "1.8",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Nightmare Ender",
+    "Id": "50472",
+    "Slot": "Ranged"
+  },
+  "50474": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_throwingknife_07",
+    "Stats": {
+      "Agility": "51",
+      "Stamina": "51",
+      "AttackPower": "68",
+      "CritRating": "34",
+      "HasteRating": "34"
+    },
+    "Quality": "Epic",
+    "Type": "Thrown",
+    "Faction": "Neutral",
+    "MinDamage": "424",
+    "MaxDamage": "637",
+    "Speed": "1.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Shrapnel Star",
+    "Id": "50474",
+    "Slot": "Ranged"
+  },
+  "50631": {
+    "ItemLevel": "277",
+    "DisplayId": "64360",
+    "DisplaySlot": "26",
+    "IconPath": "inv_wand_34",
+    "Stats": {
+      "Stamina": "44",
+      "Intellect": "44",
+      "Spirit": "30",
+      "SpellPower": "58",
+      "CritRating": "38"
+    },
+    "Quality": "Epic",
+    "Type": "Wand",
+    "Faction": "Neutral",
+    "MinDamage": "580",
+    "MaxDamage": "1077",
+    "DamageType": "Fire",
+    "Speed": "1.8",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Nightmare Ender",
+    "Id": "50631",
+    "Slot": "Ranged"
+  },
+  "50638": {
+    "ItemLevel": "277",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_weapon_bow_55",
+    "Stats": {
+      "Agility": "22",
+      "Stamina": "57",
+      "ZodProc": "0.05"
+    },
+    "Quality": "Epic",
+    "Type": "Bow",
+    "Faction": "Neutral",
+    "MinDamage": "618",
+    "MaxDamage": "1000",
+    "Speed": "2.8",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "AttackPower": "8"
+    },
+    "Name": "Zod's Repeating Longbow",
+    "Id": "50638",
+    "Slot": "Ranged"
+  },
+  "50684": {
+    "ItemLevel": "277",
+    "DisplayId": "64357",
+    "DisplaySlot": "26",
+    "IconPath": "inv_wand_35",
+    "Stats": {
+      "Stamina": "44",
+      "Intellect": "44",
+      "SpellPower": "58",
+      "CritRating": "38",
+      "HasteRating": "30"
+    },
+    "Quality": "Epic",
+    "Type": "Wand",
+    "Faction": "Neutral",
+    "MinDamage": "580",
+    "MaxDamage": "1077",
+    "DamageType": "Fire",
+    "Speed": "1.8",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Corpse-Impaling Spike",
+    "Id": "50684",
+    "Slot": "Ranged"
+  },
+  "50733": {
+    "ItemLevel": "284",
+    "DisplayId": "64371",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_crossbow_38",
+    "Stats": {
+      "Agility": "62",
+      "Stamina": "62",
+      "AttackPower": "66",
+      "ArmorPenetrationRating": "33",
+      "CritRating": "41"
+    },
+    "Quality": "Epic",
+    "Type": "Crossbow",
+    "Faction": "Neutral",
+    "MinDamage": "782",
+    "MaxDamage": "1071",
+    "Speed": "3",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Fal'inrush, Defender of Quel'thalas",
+    "Id": "50733",
+    "Slot": "Ranged"
+  },
+  "50776": {
+    "ItemLevel": "251",
+    "DisplayId": "64354",
+    "DisplaySlot": "15",
+    "IconPath": "inv_weapon_bow_56",
+    "Stats": {
+      "Agility": "45",
+      "Stamina": "34",
+      "AttackPower": "69",
+      "CritRating": "31",
+      "HitRating": "28"
+    },
+    "Quality": "Epic",
+    "Type": "Bow",
+    "Faction": "Neutral",
+    "MinDamage": "490",
+    "MaxDamage": "814",
+    "Speed": "2.9",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Njorndar Bone Bow",
+    "Id": "50776",
+    "Slot": "Ranged"
+  },
+  "50999": {
+    "ItemLevel": "251",
+    "DisplayId": "48157",
+    "DisplaySlot": "25",
+    "IconPath": "inv_throwingknife_01",
+    "Stats": {
+      "Agility": "45",
+      "Stamina": "41",
+      "AttackPower": "64",
+      "CritRating": "31",
+      "HitRating": "28"
+    },
+    "Quality": "Epic",
+    "Type": "Thrown",
+    "Faction": "Neutral",
+    "MinDamage": "384",
+    "MaxDamage": "577",
+    "Speed": "1.8",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Gluth's Fetching Knife",
+    "Id": "50999",
+    "Slot": "Ranged"
+  },
+  "51326": {
+    "ItemLevel": "251",
+    "DisplayId": "64995",
+    "DisplaySlot": "26",
+    "IconPath": "inv_wand_34",
+    "Stats": {
+      "Stamina": "43",
+      "Intellect": "31",
+      "SpellPower": "53",
+      "HitRating": "33",
+      "HasteRating": "25"
+    },
+    "Quality": "Epic",
+    "Type": "Wand",
+    "Faction": "Neutral",
+    "MinDamage": "502",
+    "MaxDamage": "933",
+    "DamageType": "Frost",
+    "Speed": "1.9",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wand of Ruby Claret",
+    "Id": "51326",
+    "Slot": "Ranged"
+  },
+  "51385": {
+    "ItemLevel": "251",
+    "DisplayId": "64363",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_rifle_39",
+    "Stats": {
+      "Agility": "45",
+      "Stamina": "32",
+      "AttackPower": "70",
+      "ArmorPenetrationRating": "31",
+      "HasteRating": "28"
+    },
+    "Quality": "Epic",
+    "Type": "Gun",
+    "Faction": "Neutral",
+    "MinDamage": "500",
+    "MaxDamage": "836",
+    "Speed": "3",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Stakethrower",
+    "Id": "51385",
+    "Slot": "Ranged"
+  },
+  "51394": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_weapon_bow_56",
+    "Stats": {
+      "Stamina": "77",
+      "AttackPower": "102",
+      "CritRating": "34",
+      "Resilience": "34"
+    },
+    "Quality": "Epic",
+    "Type": "Bow",
+    "Faction": "Neutral",
+    "MinDamage": "641",
+    "MaxDamage": "889",
+    "Speed": "3",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Longbow",
+    "Id": "51394",
+    "Slot": "Ranged"
+  },
+  "51395": {
+    "ItemLevel": "277",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_weapon_bow_56",
+    "Stats": {
+      "Stamina": "86",
+      "AttackPower": "115",
+      "CritRating": "38",
+      "Resilience": "38"
+    },
+    "Quality": "Epic",
+    "Type": "Bow",
+    "Faction": "Neutral",
+    "MinDamage": "730",
+    "MaxDamage": "1003",
+    "Speed": "3",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Recurve",
+    "Id": "51395",
+    "Slot": "Ranged"
+  },
+  "51410": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_wand_36",
+    "Stats": {
+      "Stamina": "58",
+      "Intellect": "26",
+      "SpellPower": "60",
+      "CritRating": "34",
+      "Resilience": "34"
+    },
+    "Quality": "Epic",
+    "Type": "Wand",
+    "Faction": "Neutral",
+    "MinDamage": "554",
+    "MaxDamage": "1029",
+    "DamageType": "Fire",
+    "Speed": "1.9",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Touch of Defeat",
+    "Id": "51410",
+    "Slot": "Ranged"
+  },
+  "51411": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_weapon_crossbow_38",
+    "Stats": {
+      "Stamina": "77",
+      "AttackPower": "102",
+      "CritRating": "34",
+      "Resilience": "34"
+    },
+    "Quality": "Epic",
+    "Type": "Crossbow",
+    "Faction": "Neutral",
+    "MinDamage": "641",
+    "MaxDamage": "889",
+    "Speed": "3",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Heavy Crossbow",
+    "Id": "51411",
+    "Slot": "Ranged"
+  },
+  "51412": {
+    "ItemLevel": "277",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_weapon_crossbow_38",
+    "Stats": {
+      "Stamina": "86",
+      "AttackPower": "115",
+      "CritRating": "38",
+      "Resilience": "38"
+    },
+    "Quality": "Epic",
+    "Type": "Crossbow",
+    "Faction": "Neutral",
+    "MinDamage": "730",
+    "MaxDamage": "1003",
+    "Speed": "3",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Repeater",
+    "Id": "51412",
+    "Slot": "Ranged"
+  },
+  "51417": {
+    "ItemLevel": "270",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_shield_56",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "PlagueStrikeHit",
+          "Stats": {
+            "AttackPower": "204"
+          },
+          "Duration": "10",
+          "Cooldown": "0",
+          "Chance": "1",
+          "MaxStack": "0"
+        }
+      },
+      "SpecialEffectCount": "1"
+    },
+    "Quality": "Epic",
+    "Type": "Sigil",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Sigil of Strife",
+    "Id": "51417",
+    "Slot": "Ranged"
+  },
+  "51423": {
+    "ItemLevel": "270",
+    "DisplayId": "9659",
+    "DisplaySlot": "28",
+    "IconPath": "spell_nature_naturetouchgrow",
+    "Stats": {
+      "LifebloomTickHealBonus": "448"
+    },
+    "Quality": "Epic",
+    "Type": "Idol",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Idol of Tenacity",
+    "Id": "51423",
+    "Slot": "Ranged"
+  },
+  "51429": {
+    "ItemLevel": "270",
+    "DisplayId": "34953",
+    "DisplaySlot": "28",
+    "IconPath": "inv_relics_idolofhealth",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "MangleCatHit",
+          "Stats": {
+            "AttackPower": "204"
+          },
+          "Duration": "10",
+          "Cooldown": "0",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1"
+    },
+    "Quality": "Epic",
+    "Type": "Idol",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Idol of Resolve",
+    "Id": "51429",
+    "Slot": "Ranged"
+  },
+  "51437": {
+    "ItemLevel": "270",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_relics_idolofhealth",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "MoonfireCast",
+          "Stats": {
+            "SpellPower": "119"
+          },
+          "Duration": "10",
+          "Cooldown": "0",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1"
+    },
+    "Quality": "Epic",
+    "Type": "Idol",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Idol of Steadfastness",
+    "Id": "51437",
+    "Slot": "Ranged"
+  },
+  "51449": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_weapon_rifle_39",
+    "Stats": {
+      "Stamina": "77",
+      "AttackPower": "102",
+      "CritRating": "34",
+      "Resilience": "34"
+    },
+    "Quality": "Epic",
+    "Type": "Gun",
+    "Faction": "Neutral",
+    "MinDamage": "641",
+    "MaxDamage": "889",
+    "Speed": "3",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Rifle",
+    "Id": "51449",
+    "Slot": "Ranged"
+  },
+  "51450": {
+    "ItemLevel": "277",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_weapon_rifle_39",
+    "Stats": {
+      "Stamina": "86",
+      "AttackPower": "115",
+      "CritRating": "38",
+      "Resilience": "38"
+    },
+    "Quality": "Epic",
+    "Type": "Gun",
+    "Faction": "Neutral",
+    "MinDamage": "730",
+    "MaxDamage": "1003",
+    "Speed": "3",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Shotgun",
+    "Id": "51450",
+    "Slot": "Ranged"
+  },
+  "51451": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_wand_36",
+    "Stats": {
+      "Stamina": "58",
+      "Intellect": "26",
+      "SpellPower": "60",
+      "Resilience": "34",
+      "HasteRating": "34"
+    },
+    "Quality": "Epic",
+    "Type": "Wand",
+    "Faction": "Neutral",
+    "MinDamage": "554",
+    "MaxDamage": "1029",
+    "DamageType": "Fire",
+    "Speed": "1.9",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Wand of Alacrity",
+    "Id": "51451",
+    "Slot": "Ranged"
+  },
+  "51472": {
+    "ItemLevel": "270",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_book_07",
+    "Stats": {
+      "FlashOfLightSpellPower": "510"
+    },
+    "Quality": "Epic",
+    "Type": "Libram",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Libram of Justice",
+    "Id": "51472",
+    "Slot": "Ranged"
+  },
+  "51478": {
+    "ItemLevel": "270",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_relics_libramofhope",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "CrusaderStrikeHit",
+          "Stats": {
+            "AttackPower": "204"
+          },
+          "Duration": "10",
+          "Cooldown": "0",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1"
+    },
+    "Quality": "Epic",
+    "Type": "Libram",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Libram of Fortitude",
+    "Id": "51478",
+    "Slot": "Ranged"
+  },
+  "51501": {
+    "ItemLevel": "270",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "spell_frost_summonwaterelemental",
+    "Stats": {
+      "TotemLHWSpellpower": "459"
+    },
+    "Quality": "Epic",
+    "Type": "Totem",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Totem of the Third Wind",
+    "Id": "51501",
+    "Slot": "Ranged"
+  },
+  "51507": {
+    "ItemLevel": "270",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "spell_nature_slowingtotem",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "ShamanLavaLash",
+          "Stats": {
+            "AttackPower": "204"
+          },
+          "Duration": "10",
+          "Cooldown": "0",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1"
+    },
+    "Quality": "Epic",
+    "Type": "Totem",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Totem of Indomitability",
+    "Id": "51507",
+    "Slot": "Ranged"
+  },
+  "51513": {
+    "ItemLevel": "270",
+    "DisplayId": "25246",
+    "DisplaySlot": "28",
+    "IconPath": "spell_nature_slowingtotem",
+    "Stats": "none",
+    "Quality": "Epic",
+    "Type": "Totem",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Totem of Survival",
+    "Id": "51513",
+    "Slot": "Ranged"
+  },
+  "51531": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_wand_36",
+    "Stats": {
+      "Stamina": "58",
+      "Intellect": "26",
+      "SpellPower": "60",
+      "SpellPenetration": "43",
+      "Resilience": "34"
+    },
+    "Quality": "Epic",
+    "Type": "Wand",
+    "Faction": "Neutral",
+    "MinDamage": "554",
+    "MaxDamage": "1029",
+    "DamageType": "Fire",
+    "Speed": "1.9",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Piercing Touch",
+    "Id": "51531",
+    "Slot": "Ranged"
+  },
+  "51532": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_wand_36",
+    "Stats": {
+      "Stamina": "58",
+      "Intellect": "26",
+      "Spirit": "34",
+      "SpellPower": "60",
+      "Resilience": "34"
+    },
+    "Quality": "Epic",
+    "Type": "Wand",
+    "Faction": "Neutral",
+    "MinDamage": "554",
+    "MaxDamage": "1029",
+    "DamageType": "Fire",
+    "Speed": "1.9",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Baton of Light",
+    "Id": "51532",
+    "Slot": "Ranged"
+  },
+  "51535": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_throwingaxepvp330_08",
+    "Stats": {
+      "Stamina": "77",
+      "AttackPower": "102",
+      "CritRating": "34",
+      "Resilience": "34"
+    },
+    "Quality": "Epic",
+    "Type": "Thrown",
+    "Faction": "Neutral",
+    "MinDamage": "448",
+    "MaxDamage": "672",
+    "Speed": "1.9",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's War Edge",
+    "Id": "51535",
+    "Slot": "Ranged"
+  },
+  "51553": {
+    "ItemLevel": "251",
+    "DisplayId": "64358",
+    "DisplaySlot": "26",
+    "IconPath": "inv_wand_35",
+    "Stats": {
+      "Stamina": "43",
+      "Intellect": "31",
+      "Spirit": "33",
+      "SpellPower": "53",
+      "CritRating": "25"
+    },
+    "Quality": "Epic",
+    "Type": "Wand",
+    "Faction": "Neutral",
+    "MinDamage": "581",
+    "MaxDamage": "1080",
+    "DamageType": "Nature",
+    "Speed": "2.2",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Lana'thel's Bloody Nail",
+    "Id": "51553",
+    "Slot": "Ranged"
+  },
+  "51561": {
+    "ItemLevel": "251",
+    "DisplayId": "64365",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_rifle_39",
+    "Stats": {
+      "Stamina": "68",
+      "Strength": "45",
+      "BlockRating": "26",
+      "BlockValue": "63",
+      "DefenseRating": "24"
+    },
+    "Quality": "Epic",
+    "Type": "Gun",
+    "Faction": "Neutral",
+    "MinDamage": "433",
+    "MaxDamage": "724",
+    "Speed": "2.6",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Dreamhunter's Carbine",
+    "Id": "51561",
+    "Slot": "Ranged"
+  },
+  "51802": {
+    "ItemLevel": "258",
+    "DisplayId": "64370",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_crossbow_38",
+    "Stats": {
+      "Agility": "48",
+      "Stamina": "42",
+      "AttackPower": "69",
+      "ArmorPenetrationRating": "32",
+      "CritRating": "32"
+    },
+    "Quality": "Epic",
+    "Type": "Crossbow",
+    "Faction": "Neutral",
+    "MinDamage": "603",
+    "MaxDamage": "840",
+    "Speed": "3",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Windrunner's Heartseeker",
+    "Id": "51802",
+    "Slot": "Ranged"
+  },
+  "51834": {
+    "ItemLevel": "264",
+    "DisplayId": "64365",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_rifle_39",
+    "Stats": {
+      "Stamina": "65",
+      "Strength": "43",
+      "BlockRating": "29",
+      "BlockValue": "71",
+      "DefenseRating": "27"
+    },
+    "Quality": "Epic",
+    "Type": "Gun",
+    "Faction": "Neutral",
+    "MinDamage": "497",
+    "MaxDamage": "818",
+    "Speed": "2.6",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Dreamhunter's Carbine",
+    "Id": "51834",
+    "Slot": "Ranged"
+  },
+  "51838": {
+    "ItemLevel": "264",
+    "DisplayId": "64358",
+    "DisplaySlot": "26",
+    "IconPath": "inv_wand_35",
+    "Stats": {
+      "Stamina": "48",
+      "Intellect": "35",
+      "Spirit": "37",
+      "SpellPower": "51",
+      "CritRating": "20"
+    },
+    "Quality": "Epic",
+    "Type": "Wand",
+    "Faction": "Neutral",
+    "MinDamage": "641",
+    "MaxDamage": "1191",
+    "DamageType": "Nature",
+    "Speed": "2.2",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Spirit": "4"
+    },
+    "Name": "Lana'thel's Bloody Nail",
+    "Id": "51838",
+    "Slot": "Ranged"
+  },
+  "51845": {
+    "ItemLevel": "264",
+    "DisplayId": "64363",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_rifle_39",
+    "Stats": {
+      "Agility": "43",
+      "Stamina": "36",
+      "AttackPower": "79",
+      "ArmorPenetrationRating": "36",
+      "HasteRating": "23"
+    },
+    "Quality": "Epic",
+    "Type": "Gun",
+    "Faction": "Neutral",
+    "MinDamage": "575",
+    "MaxDamage": "945",
+    "Speed": "3",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Stakethrower",
+    "Id": "51845",
+    "Slot": "Ranged"
+  },
+  "51852": {
+    "ItemLevel": "264",
+    "DisplayId": "64995",
+    "DisplaySlot": "26",
+    "IconPath": "inv_wand_34",
+    "Stats": {
+      "Stamina": "48",
+      "Intellect": "35",
+      "SpellPower": "51",
+      "HitRating": "29",
+      "HasteRating": "28"
+    },
+    "Quality": "Epic",
+    "Type": "Wand",
+    "Faction": "Neutral",
+    "MinDamage": "554",
+    "MaxDamage": "1029",
+    "DamageType": "Frost",
+    "Speed": "1.9",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "HasteRating": "4"
+    },
+    "Name": "Wand of Ruby Claret",
+    "Id": "51852",
+    "Slot": "Ranged"
+  },
+  "51880": {
+    "ItemLevel": "264",
+    "DisplayId": "48157",
+    "DisplaySlot": "25",
+    "IconPath": "inv_throwingknife_01",
+    "Stats": {
+      "Agility": "43",
+      "Stamina": "46",
+      "AttackPower": "72",
+      "CritRating": "28",
+      "HitRating": "31"
+    },
+    "Quality": "Epic",
+    "Type": "Thrown",
+    "Faction": "Neutral",
+    "MinDamage": "424",
+    "MaxDamage": "637",
+    "Speed": "1.8",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "AttackPower": "8"
+    },
+    "Name": "Gluth's Fetching Knife",
+    "Id": "51880",
+    "Slot": "Ranged"
+  },
+  "51927": {
+    "ItemLevel": "264",
+    "DisplayId": "64353",
+    "DisplaySlot": "15",
+    "IconPath": "inv_weapon_bow_55",
+    "Stats": {
+      "Agility": "43",
+      "Stamina": "39",
+      "AttackPower": "78",
+      "CritRating": "36",
+      "HitRating": "23"
+    },
+    "Quality": "Epic",
+    "Type": "Bow",
+    "Faction": "Neutral",
+    "MinDamage": "555",
+    "MaxDamage": "913",
+    "Speed": "2.9",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Njorndar Bone Bow",
+    "Id": "51927",
+    "Slot": "Ranged"
+  },
+  "51940": {
+    "ItemLevel": "271",
+    "DisplayId": "64370",
+    "DisplaySlot": "26",
+    "IconPath": "inv_weapon_crossbow_38",
+    "Stats": {
+      "Agility": "54",
+      "Stamina": "48",
+      "AttackPower": "61",
+      "ArmorPenetrationRating": "36",
+      "CritRating": "28"
+    },
+    "Quality": "Epic",
+    "Type": "Crossbow",
+    "Faction": "Neutral",
+    "MinDamage": "682",
+    "MaxDamage": "943",
+    "Speed": "3",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Windrunner's Heartseeker",
+    "Id": "51940",
+    "Slot": "Ranged"
+  }
+}

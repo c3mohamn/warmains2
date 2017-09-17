@@ -1,0 +1,5767 @@
+{
+  "37166": {
+    "ItemLevel": "200",
+    "DisplayId": "52326",
+    "DisplaySlot": "12",
+    "IconPath": "spell_shadow_bloodboil",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "AttackPower": "670"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "HitRating": "55"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sphere of Red Dragon's Blood",
+    "Id": "37166",
+    "Slot": "Trinket"
+  },
+  "37220": {
+    "ItemLevel": "200",
+    "DisplayId": "51724",
+    "DisplaySlot": "12",
+    "IconPath": "inv_fabric_moonrag_02",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageTaken",
+          "Stats": {
+            "DamageTakenMultiplier": "-0.01"
+          },
+          "Duration": "10",
+          "Cooldown": "1",
+          "Chance": "0.05",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Stamina": "111"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Essence of Gossamer",
+    "Id": "37220",
+    "Slot": "Trinket"
+  },
+  "37254": {
+    "ItemLevel": "200",
+    "DisplayId": "7245",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_orb_03",
+    "Stats": "none",
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Super Simian Sphere",
+    "Id": "37254",
+    "Slot": "Trinket"
+  },
+  "37264": {
+    "ItemLevel": "200",
+    "DisplayId": "51001",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_enggizmos_12",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "SpellHit",
+          "Stats": {
+            "ShadowDamage": "1460"
+          },
+          "Duration": "0",
+          "Cooldown": "45",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "HasteRating": "74"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Pendulum of Telluric Currents",
+    "Id": "37264",
+    "Slot": "Trinket"
+  },
+  "37390": {
+    "ItemLevel": "200",
+    "DisplayId": "51706",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_stonetablet_02",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "PhysicalHit",
+          "Stats": {
+            "HasteRating": "444"
+          },
+          "Duration": "10",
+          "Cooldown": "45",
+          "Chance": "0.15",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "CritRating": "74"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Meteorite Whetstone",
+    "Id": "37390",
+    "Slot": "Trinket"
+  },
+  "37638": {
+    "ItemLevel": "200",
+    "DisplayId": "53122",
+    "DisplaySlot": "12",
+    "IconPath": "spell_holy_sealofsacrifice",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "Health": "3025"
+          },
+          "Duration": "15",
+          "Cooldown": "180",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "BonusArmor": "550"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Offering of Sacrifice",
+    "Id": "37638",
+    "Slot": "Trinket"
+  },
+  "37657": {
+    "ItemLevel": "200",
+    "DisplayId": "51518",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_enggizmos_06",
+    "Stats": {
+      "HasteRating": "73"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Spark of Life",
+    "Id": "37657",
+    "Slot": "Trinket"
+  },
+  "37660": {
+    "ItemLevel": "200",
+    "DisplayId": "31282",
+    "DisplaySlot": "12",
+    "IconPath": "spell_fire_fire",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "SpellCast",
+          "Stats": {
+            "SpellPower": "512"
+          },
+          "Duration": "10",
+          "Cooldown": "45",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "CritRating": "73"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Forge Ember",
+    "Id": "37660",
+    "Slot": "Trinket"
+  },
+  "37723": {
+    "ItemLevel": "200",
+    "DisplayId": "52572",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_bone_08",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "ArmorPenetrationRating": "291"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "AttackPower": "148"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Incisor Fragment",
+    "Id": "37723",
+    "Slot": "Trinket"
+  },
+  "37734": {
+    "ItemLevel": "200",
+    "DisplayId": "52576",
+    "DisplaySlot": "12",
+    "IconPath": "racial_troll_berserk",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "BonusHealingReceived": "232"
+          },
+          "Duration": "30",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Spirit": "73"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Talisman of Troll Divinity",
+    "Id": "37734",
+    "Slot": "Trinket"
+  },
+  "37835": {
+    "ItemLevel": "200",
+    "DisplayId": "26622",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_bell_01",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "SpellCast",
+          "Stats": {
+            "Mp5": "125"
+          },
+          "Duration": "15",
+          "Cooldown": "45",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "SpellPower": "106"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Je'Tze's Bell",
+    "Id": "37835",
+    "Slot": "Trinket"
+  },
+  "37844": {
+    "ItemLevel": "200",
+    "DisplayId": "52614",
+    "DisplaySlot": "12",
+    "IconPath": "spell_shadow_burningspirit",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "SpellPower": "346"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Mp5": "36"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Winged Talisman",
+    "Id": "37844",
+    "Slot": "Trinket"
+  },
+  "37872": {
+    "ItemLevel": "200",
+    "DisplayId": "55012",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_armorkit_21",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "BlockValue": "440"
+          },
+          "Duration": "40",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "BlockRating": "74"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Lavanthor's Talisman",
+    "Id": "37872",
+    "Slot": "Trinket"
+  },
+  "37873": {
+    "ItemLevel": "200",
+    "DisplayId": "44237",
+    "DisplaySlot": "12",
+    "IconPath": "inv_jewelry_talisman_13",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "SpellPower": "346"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "HitRating": "73"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Mark of the War Prisoner",
+    "Id": "37873",
+    "Slot": "Trinket"
+  },
+  "39229": {
+    "ItemLevel": "200",
+    "DisplayId": "35361",
+    "DisplaySlot": "12",
+    "IconPath": "inv_trinket_naxxramas04",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "SpellCast",
+          "Stats": {
+            "HasteRating": "505"
+          },
+          "Duration": "10",
+          "Cooldown": "45",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "SpellPower": "98"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Embrace of the Spider",
+    "Id": "39229",
+    "Slot": "Trinket"
+  },
+  "39257": {
+    "ItemLevel": "200",
+    "DisplayId": "35442",
+    "DisplaySlot": "12",
+    "IconPath": "inv_trinket_naxxramas03",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "AttackPower": "670"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "CritRating": "84"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Loatheb's Shadow",
+    "Id": "39257",
+    "Slot": "Trinket"
+  },
+  "39292": {
+    "ItemLevel": "200",
+    "DisplayId": "35439",
+    "DisplaySlot": "12",
+    "IconPath": "inv_trinket_naxxramas05",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "Health": "3025"
+          },
+          "Duration": "15",
+          "Cooldown": "180",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "DefenseRating": "84"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Repelling Charge",
+    "Id": "39292",
+    "Slot": "Trinket"
+  },
+  "39388": {
+    "ItemLevel": "200",
+    "DisplayId": "35445",
+    "DisplaySlot": "12",
+    "IconPath": "inv_trinket_naxxramas06",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "Spirit": "336"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Spirit": "84"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Spirit-World Glass",
+    "Id": "39388",
+    "Slot": "Trinket"
+  },
+  "40255": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_trinket_naxxramas03",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "SpellCast",
+          "Stats": {
+            "SpellPower": "765"
+          },
+          "Duration": "10",
+          "Cooldown": "45",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "HitRating": "71"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Dying Curse",
+    "Id": "40255",
+    "Slot": "Trinket"
+  },
+  "40256": {
+    "ItemLevel": "213",
+    "DisplayId": "35361",
+    "DisplaySlot": "12",
+    "IconPath": "inv_trinket_naxxramas04",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "PhysicalHit",
+          "Stats": {
+            "ArmorPenetrationRating": "612"
+          },
+          "Duration": "10",
+          "Cooldown": "45",
+          "Chance": "0.15",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "HitRating": "83"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Grim Toll",
+    "Id": "40256",
+    "Slot": "Trinket"
+  },
+  "40257": {
+    "ItemLevel": "213",
+    "DisplayId": "35439",
+    "DisplaySlot": "12",
+    "IconPath": "inv_trinket_naxxramas05",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "DodgeRating": "455"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "BonusArmor": "850"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Defender's Code",
+    "Id": "40257",
+    "Slot": "Trinket"
+  },
+  "40258": {
+    "ItemLevel": "213",
+    "DisplayId": "35429",
+    "DisplaySlot": "12",
+    "IconPath": "inv_trinket_naxxramas01",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "HealingSpellCast",
+          "Stats": {
+            "Healed": "3572"
+          },
+          "Duration": "0",
+          "Cooldown": "45",
+          "Chance": "0.2",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "SpellPower": "111"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Forethought Talisman",
+    "Id": "40258",
+    "Slot": "Trinket"
+  },
+  "40371": {
+    "ItemLevel": "213",
+    "DisplayId": "35442",
+    "DisplaySlot": "12",
+    "IconPath": "inv_trinket_naxxramas03",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "PhysicalHit",
+          "Stats": {
+            "ArcaneDamage": "1880"
+          },
+          "Duration": "0",
+          "Cooldown": "45",
+          "Chance": "0.15",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "AttackPower": "190"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Bandit's Insignia",
+    "Id": "40371",
+    "Slot": "Trinket"
+  },
+  "40372": {
+    "ItemLevel": "213",
+    "DisplayId": "35429",
+    "DisplaySlot": "12",
+    "IconPath": "inv_trinket_naxxramas01",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "ParryRating": "375"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "ParryRating": "95"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Rune of Repulsion",
+    "Id": "40372",
+    "Slot": "Trinket"
+  },
+  "40373": {
+    "ItemLevel": "213",
+    "DisplayId": "35445",
+    "DisplaySlot": "12",
+    "IconPath": "inv_trinket_naxxramas06",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DoTTick",
+          "Stats": {
+            "ShadowDamage": "1050"
+          },
+          "Duration": "0",
+          "Cooldown": "45",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "CritRating": "95",
+      "ExtractOfNecromanticPowerProc": "1"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Extract of Necromantic Power",
+    "Id": "40373",
+    "Slot": "Trinket"
+  },
+  "40382": {
+    "ItemLevel": "213",
+    "DisplayId": "35442",
+    "DisplaySlot": "12",
+    "IconPath": "inv_trinket_naxxramas03",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "SpellCrit",
+          "Stats": {
+            "ManaRestore": "900"
+          },
+          "Duration": "0",
+          "Cooldown": "45",
+          "Chance": "0.25",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "CritRating": "95"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Soul of the Dead",
+    "Id": "40382",
+    "Slot": "Trinket"
+  },
+  "40430": {
+    "ItemLevel": "200",
+    "DisplayId": "53197",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_head_dragon_green",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "SpellCast",
+          "Stats": {
+            "Spirit": "18"
+          },
+          "Duration": "10",
+          "Cooldown": "0",
+          "Chance": "1",
+          "MaxStack": "10"
+        }
+      },
+      "SpecialEffectCount": "1"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Majestic Dragon Figurine",
+    "Id": "40430",
+    "Slot": "Trinket"
+  },
+  "40431": {
+    "ItemLevel": "213",
+    "DisplayId": "53285",
+    "DisplaySlot": "12",
+    "IconPath": "spell_shadow_rainoffire",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "PhysicalHit",
+          "Stats": {
+            "AttackPower": "16"
+          },
+          "Duration": "10",
+          "Cooldown": "0",
+          "Chance": "1",
+          "MaxStack": "20"
+        }
+      },
+      "SpecialEffectCount": "1"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Fury of the Five Flights",
+    "Id": "40431",
+    "Slot": "Trinket"
+  },
+  "40432": {
+    "ItemLevel": "213",
+    "DisplayId": "53291",
+    "DisplaySlot": "12",
+    "IconPath": "inv_offhand_hyjal_d_01",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "SpellCast",
+          "Stats": {
+            "SpellPower": "20"
+          },
+          "Duration": "10",
+          "Cooldown": "0",
+          "Chance": "1",
+          "MaxStack": "10"
+        }
+      },
+      "SpecialEffectCount": "1"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Illustration of the Dragon Soul",
+    "Id": "40432",
+    "Slot": "Trinket"
+  },
+  "40531": {
+    "ItemLevel": "226",
+    "DisplayId": "53630",
+    "DisplaySlot": "12",
+    "IconPath": "ability_hunter_readiness",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "HasteRating": "491"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "ExpertiseRating": "69"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Mark of Norgannon",
+    "Id": "40531",
+    "Slot": "Trinket"
+  },
+  "40532": {
+    "ItemLevel": "226",
+    "DisplayId": "45465",
+    "DisplaySlot": "12",
+    "IconPath": "inv_datacrystal09",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "Healed": "2710"
+          },
+          "Duration": "0",
+          "Cooldown": "60",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Mp5": "54"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Living Ice Crystals",
+    "Id": "40532",
+    "Slot": "Trinket"
+  },
+  "40682": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "ability_hunter_readiness",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageSpellCast",
+          "Stats": {
+            "SpellPower": "590"
+          },
+          "Duration": "10",
+          "Cooldown": "45",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "CritRating": "84"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sundial of the Exiled",
+    "Id": "40682",
+    "Slot": "Trinket"
+  },
+  "40683": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_qirajidol_sun",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "DodgeRating": "335"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "DodgeRating": "84"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Valor Medal of the First War",
+    "Id": "40683",
+    "Slot": "Trinket"
+  },
+  "40684": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_talisman_08",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "PhysicalCrit",
+          "Stats": {
+            "AttackPower": "1000"
+          },
+          "Duration": "10",
+          "Cooldown": "50",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "CritRating": "84"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Mirror of Truth",
+    "Id": "40684",
+    "Slot": "Trinket"
+  },
+  "40685": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_egg_05",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "HealingSpellCast",
+          "Stats": {
+            "HasteRating": "505"
+          },
+          "Duration": "10",
+          "Cooldown": "45",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "SpellPower": "98"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "The Egg of Mortal Essence",
+    "Id": "40685",
+    "Slot": "Trinket"
+  },
+  "41121": {
+    "ItemLevel": "200",
+    "DisplayId": "52868",
+    "DisplaySlot": "12",
+    "IconPath": "spell_nature_lightningoverload",
+    "Stats": {
+      "CritRating": "84"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Gnomish Lightning Generator",
+    "Id": "41121",
+    "Slot": "Trinket"
+  },
+  "42124": {
+    "ItemLevel": "226",
+    "DisplayId": "37840",
+    "DisplaySlot": "12",
+    "IconPath": "inv_jewelry_trinketpvp_01",
+    "Stats": {
+      "Resilience": "108",
+      "PVPTrinket": "1"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Medallion of the Alliance",
+    "Id": "42124",
+    "Slot": "Trinket"
+  },
+  "42126": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_trinketpvp_02",
+    "Stats": {
+      "Resilience": "108",
+      "PVPTrinket": "1"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Medallion of the Horde",
+    "Id": "42126",
+    "Slot": "Trinket"
+  },
+  "42128": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "ability_warrior_endlessrage",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "BattlemasterHealth": "3385"
+          },
+          "Duration": "15",
+          "Cooldown": "180",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "CritRating": "95"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Battlemaster's Hostility",
+    "Id": "42128",
+    "Slot": "Trinket"
+  },
+  "42129": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "ability_warrior_endlessrage",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "BattlemasterHealth": "3385"
+          },
+          "Duration": "15",
+          "Cooldown": "180",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "HitRating": "95"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Battlemaster's Accuracy",
+    "Id": "42129",
+    "Slot": "Trinket"
+  },
+  "42130": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "ability_warrior_endlessrage",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "BattlemasterHealth": "3385"
+          },
+          "Duration": "15",
+          "Cooldown": "180",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "HasteRating": "95"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Battlemaster's Avidity",
+    "Id": "42130",
+    "Slot": "Trinket"
+  },
+  "42131": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "ability_warrior_endlessrage",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "BattlemasterHealth": "3385"
+          },
+          "Duration": "15",
+          "Cooldown": "180",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "AttackPower": "190"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Battlemaster's Conviction",
+    "Id": "42131",
+    "Slot": "Trinket"
+  },
+  "42132": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "ability_warrior_endlessrage",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "BattlemasterHealth": "3385"
+          },
+          "Duration": "15",
+          "Cooldown": "180",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "SpellPower": "111"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Battlemaster's Bravery",
+    "Id": "42132",
+    "Slot": "Trinket"
+  },
+  "42133": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "ability_warrior_endlessrage",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "BattlemasterHealth": "4608"
+          },
+          "Duration": "15",
+          "Cooldown": "180",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "CritRating": "128"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Battlemaster's Fury",
+    "Id": "42133",
+    "Slot": "Trinket"
+  },
+  "42134": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "ability_warrior_endlessrage",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "BattlemasterHealth": "4608"
+          },
+          "Duration": "15",
+          "Cooldown": "180",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "HitRating": "128"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Battlemaster's Precision",
+    "Id": "42134",
+    "Slot": "Trinket"
+  },
+  "42135": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "ability_warrior_endlessrage",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "BattlemasterHealth": "4608"
+          },
+          "Duration": "15",
+          "Cooldown": "180",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "HasteRating": "128"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Battlemaster's Vivacity",
+    "Id": "42135",
+    "Slot": "Trinket"
+  },
+  "42136": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "ability_warrior_endlessrage",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "BattlemasterHealth": "4608"
+          },
+          "Duration": "15",
+          "Cooldown": "180",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "AttackPower": "256"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Battlemaster's Rage",
+    "Id": "42136",
+    "Slot": "Trinket"
+  },
+  "42137": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "ability_warrior_endlessrage",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "BattlemasterHealth": "4608"
+          },
+          "Duration": "15",
+          "Cooldown": "180",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "SpellPower": "150"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Battlemaster's Ruination",
+    "Id": "42137",
+    "Slot": "Trinket"
+  },
+  "42341": {
+    "ItemLevel": "200",
+    "DisplayId": "53455",
+    "DisplaySlot": "12",
+    "IconPath": "inv_jewelcrafting_crimsonhare",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "MovementSpeed": "0.3"
+          },
+          "Duration": "6",
+          "Cooldown": "180",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Stamina": "62"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Stamina": "9"
+    },
+    "Name": "Figurine - Ruby Hare",
+    "Id": "42341",
+    "Slot": "Trinket"
+  },
+  "42395": {
+    "ItemLevel": "200",
+    "DisplayId": "53454",
+    "DisplaySlot": "12",
+    "IconPath": "inv_jewelcrafting_purpleserpent",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "SpellPower": "292"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "HitRating": "42"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Figurine - Twilight Serpent",
+    "Id": "42395",
+    "Slot": "Trinket"
+  },
+  "42413": {
+    "ItemLevel": "200",
+    "DisplayId": "53453",
+    "DisplaySlot": "12",
+    "IconPath": "inv_jewelcrafting_azureowl",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "ManaRestore": "2340"
+          },
+          "Duration": "0",
+          "Cooldown": "300",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Intellect": "42"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "Mp5": "2"
+    },
+    "Name": "Figurine - Sapphire Owl",
+    "Id": "42413",
+    "Slot": "Trinket"
+  },
+  "42418": {
+    "ItemLevel": "200",
+    "DisplayId": "53456",
+    "DisplaySlot": "12",
+    "IconPath": "inv_jewelcrafting_emeraldboar",
+    "Stats": {
+      "AttackPower": "84"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "AttackPower": "12"
+    },
+    "Name": "Figurine - Emerald Boar",
+    "Id": "42418",
+    "Slot": "Trinket"
+  },
+  "42987": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_inscription_tarotgreatness",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageOrHealingDone",
+          "Stats": {
+            "HighestStat": "300"
+          },
+          "Duration": "15",
+          "Cooldown": "45",
+          "Chance": "0.33",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Strength": "90"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Darkmoon Card: Greatness",
+    "Id": "42987",
+    "Slot": "Trinket"
+  },
+  "42988": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_inscription_tarotillusion",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "ManaRestore": "1500"
+          },
+          "Duration": "0",
+          "Cooldown": "300",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "SpellPower": "100"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Darkmoon Card: Illusion",
+    "Id": "42988",
+    "Slot": "Trinket"
+  },
+  "42989": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_inscription_tarotberserker",
+    "Stats": {
+      "Resilience": "100"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Darkmoon Card: Berserker!",
+    "Id": "42989",
+    "Slot": "Trinket"
+  },
+  "42990": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_inscription_tarotdeath",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageDone",
+          "Stats": {
+            "ShadowDamage": "2000"
+          },
+          "Duration": "0",
+          "Cooldown": "45",
+          "Chance": "0.35",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "CritRating": "85",
+      "DarkmoonCardDeathProc": "1"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Darkmoon Card: Death",
+    "Id": "42990",
+    "Slot": "Trinket"
+  },
+  "43555": {
+    "ItemLevel": "200",
+    "DisplayId": "54963",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_coin_15",
+    "Stats": "none",
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Deputy Pa'trolla Badge",
+    "Id": "43555",
+    "Slot": "Trinket"
+  },
+  "43573": {
+    "ItemLevel": "200",
+    "DisplayId": "55033",
+    "DisplaySlot": "12",
+    "IconPath": "inv_elemental_crystal_water",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "PhysicalCrit",
+          "Stats": {
+            "HasteRating": "410"
+          },
+          "Duration": "10",
+          "Cooldown": "45",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "HasteRating": "73"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Tears of Bitter Anguish",
+    "Id": "43573",
+    "Slot": "Trinket"
+  },
+  "44063": {
+    "ItemLevel": "200",
+    "DisplayId": "55609",
+    "DisplaySlot": "12",
+    "IconPath": "inv_jewelcrafting_goldencrab",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "DodgeRating": "300"
+          },
+          "Duration": "10",
+          "Cooldown": "60",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Stamina": "63"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "Stamina": "9"
+    },
+    "Name": "Figurine - Monarch Crab",
+    "Id": "44063",
+    "Slot": "Trinket"
+  },
+  "44073": {
+    "ItemLevel": "200",
+    "DisplayId": "55773",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_rune_14",
+    "Stats": {
+      "HasteRating": "71"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Frenzyheart Insignia of Fury",
+    "Id": "44073",
+    "Slot": "Trinket"
+  },
+  "44074": {
+    "ItemLevel": "200",
+    "DisplayId": "34188",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_rune_05",
+    "Stats": {
+      "CritRating": "71"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Oracle Talisman of Ablution",
+    "Id": "44074",
+    "Slot": "Trinket"
+  },
+  "44253": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_inscription_tarotgreatness",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageOrHealingDone",
+          "Stats": {
+            "HighestStat": "300"
+          },
+          "Duration": "15",
+          "Cooldown": "45",
+          "Chance": "0.33",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Agility": "90"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Darkmoon Card: Greatness",
+    "Id": "44253",
+    "Slot": "Trinket"
+  },
+  "44254": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_inscription_tarotgreatness",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageOrHealingDone",
+          "Stats": {
+            "HighestStat": "300"
+          },
+          "Duration": "15",
+          "Cooldown": "45",
+          "Chance": "0.33",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Spirit": "90"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Darkmoon Card: Greatness",
+    "Id": "44254",
+    "Slot": "Trinket"
+  },
+  "44255": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_inscription_tarotgreatness",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageOrHealingDone",
+          "Stats": {
+            "HighestStat": "300"
+          },
+          "Duration": "15",
+          "Cooldown": "45",
+          "Chance": "0.33",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Intellect": "90"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Darkmoon Card: Greatness",
+    "Id": "44255",
+    "Slot": "Trinket"
+  },
+  "44322": {
+    "ItemLevel": "200",
+    "DisplayId": "56385",
+    "DisplaySlot": "12",
+    "IconPath": "spell_holy_aspiration",
+    "Stats": {
+      "SpellPower": "59",
+      "HasteRating": "50",
+      "HealthRestore": "0.4",
+      "BonusManaPotion": "0.4"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Mercurial Alchemist Stone",
+    "Id": "44322",
+    "Slot": "Trinket"
+  },
+  "44323": {
+    "ItemLevel": "200",
+    "DisplayId": "56385",
+    "DisplaySlot": "12",
+    "IconPath": "spell_holy_aspiration",
+    "Stats": {
+      "Stamina": "75",
+      "DodgeRating": "50",
+      "HealthRestore": "0.4",
+      "BonusManaPotion": "0.4"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Indestructible Alchemist's Stone",
+    "Id": "44323",
+    "Slot": "Trinket"
+  },
+  "44324": {
+    "ItemLevel": "200",
+    "DisplayId": "56385",
+    "DisplaySlot": "12",
+    "IconPath": "spell_holy_aspiration",
+    "Stats": {
+      "AttackPower": "100",
+      "CritRating": "50",
+      "HealthRestore": "0.4",
+      "BonusManaPotion": "0.4"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Mighty Alchemist's Stone",
+    "Id": "44324",
+    "Slot": "Trinket"
+  },
+  "44912": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "spell_arcane_arcanetorrent",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "SpellCast",
+          "Stats": {
+            "SpellPower": "590"
+          },
+          "Duration": "10",
+          "Cooldown": "45",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Resilience": "84"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Flow of Knowledge",
+    "Id": "44912",
+    "Slot": "Trinket"
+  },
+  "44914": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "trade_blacksmithing",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "PhysicalHit",
+          "Stats": {
+            "AttackPower": "1000"
+          },
+          "Duration": "10",
+          "Cooldown": "45",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Resilience": "84"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Anvil of Titans",
+    "Id": "44914",
+    "Slot": "Trinket"
+  },
+  "45131": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_banner_02",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "PhysicalHit",
+          "Stats": {
+            "CritRating": "328"
+          },
+          "Duration": "10",
+          "Cooldown": "45",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Resilience": "73"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Jouster's Fury",
+    "Id": "45131",
+    "Slot": "Trinket"
+  },
+  "45148": {
+    "ItemLevel": "226",
+    "DisplayId": "59249",
+    "DisplaySlot": "12",
+    "IconPath": "spell_fire_burnout",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "SpellPower": "505"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "HitRating": "107"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Living Flame",
+    "Id": "45148",
+    "Slot": "Trinket"
+  },
+  "45158": {
+    "ItemLevel": "226",
+    "DisplayId": "59320",
+    "DisplaySlot": "12",
+    "IconPath": "inv_spiritshard_01",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "DodgeRating": "432"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Stamina": "162"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Heart of Iron",
+    "Id": "45158",
+    "Slot": "Trinket"
+  },
+  "45219": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_banner_03",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "PhysicalHit",
+          "Stats": {
+            "CritRating": "328"
+          },
+          "Duration": "10",
+          "Cooldown": "45",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Resilience": "73"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Jouster's Fury",
+    "Id": "45219",
+    "Slot": "Trinket"
+  },
+  "45263": {
+    "ItemLevel": "226",
+    "DisplayId": "59318",
+    "DisplaySlot": "12",
+    "IconPath": "inv_pet_scorchedstone",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "AttackPower": "856"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "CritRating": "108"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathstone",
+    "Id": "45263",
+    "Slot": "Trinket"
+  },
+  "45286": {
+    "ItemLevel": "219",
+    "DisplayId": "59324",
+    "DisplaySlot": "12",
+    "IconPath": "spell_frost_fireresistancetotem",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "PhysicalCrit",
+          "Stats": {
+            "AttackPower": "1234"
+          },
+          "Duration": "10",
+          "Cooldown": "50",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "HitRating": "95"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Pyrite Infuser",
+    "Id": "45286",
+    "Slot": "Trinket"
+  },
+  "45292": {
+    "ItemLevel": "219",
+    "DisplayId": "59311",
+    "DisplaySlot": "12",
+    "IconPath": "ability_druid_typhoon",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "SpellPower": "408"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Mp5": "54"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Energy Siphon",
+    "Id": "45292",
+    "Slot": "Trinket"
+  },
+  "45308": {
+    "ItemLevel": "219",
+    "DisplayId": "59524",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_eye_02",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "SpellCast",
+          "Stats": {
+            "SpellPower": "25"
+          },
+          "Duration": "10",
+          "Cooldown": "0",
+          "Chance": "1",
+          "MaxStack": "5"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "CritRating": "87"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Eye of the Broodmother",
+    "Id": "45308",
+    "Slot": "Trinket"
+  },
+  "45313": {
+    "ItemLevel": "219",
+    "DisplayId": "59313",
+    "DisplaySlot": "12",
+    "IconPath": "inv_shield_59",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "BonusArmor": "5152"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "DodgeRating": "105"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Furnace Stone",
+    "Id": "45313",
+    "Slot": "Trinket"
+  },
+  "45466": {
+    "ItemLevel": "226",
+    "DisplayId": "59237",
+    "DisplaySlot": "12",
+    "IconPath": "inv_spiritshard_02",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "HasteRating": "432"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "SpellPower": "125"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Scale of Fates",
+    "Id": "45466",
+    "Slot": "Trinket"
+  },
+  "45490": {
+    "ItemLevel": "226",
+    "DisplayId": "59319",
+    "DisplaySlot": "12",
+    "IconPath": "achievement_dungeon_ulduar77_25man",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "SpellCast",
+          "Stats": {
+            "SpellPower": "751"
+          },
+          "Duration": "10",
+          "Cooldown": "45",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Intellect": "108"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Pandora's Plea",
+    "Id": "45490",
+    "Slot": "Trinket"
+  },
+  "45507": {
+    "ItemLevel": "226",
+    "DisplayId": "34132",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_ahnqirajtrinket_05",
+    "Stats": {
+      "DodgeRating": "107"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "The General's Heart",
+    "Id": "45507",
+    "Slot": "Trinket"
+  },
+  "45518": {
+    "ItemLevel": "239",
+    "DisplayId": "59269",
+    "DisplaySlot": "12",
+    "IconPath": "spell_holy_summonlightwell",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageSpellCast",
+          "Stats": {
+            "SpellPower": "850"
+          },
+          "Duration": "10",
+          "Cooldown": "45",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "CritRating": "120"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Flare of the Heavens",
+    "Id": "45518",
+    "Slot": "Trinket"
+  },
+  "45522": {
+    "ItemLevel": "226",
+    "DisplayId": "59322",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_gem_bloodstone_03",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "PhysicalCrit",
+          "Stats": {
+            "AttackPower": "1284"
+          },
+          "Duration": "10",
+          "Cooldown": "50",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "HitRating": "108"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Blood of the Old God",
+    "Id": "45522",
+    "Slot": "Trinket"
+  },
+  "45535": {
+    "ItemLevel": "239",
+    "DisplayId": "59317",
+    "DisplaySlot": "12",
+    "IconPath": "spell_holy_improvedresistanceauras",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "SpellCast",
+          "Stats": {
+            "Mp5": "241"
+          },
+          "Duration": "15",
+          "Cooldown": "45",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "SpellPower": "140"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Show of Faith",
+    "Id": "45535",
+    "Slot": "Trinket"
+  },
+  "45609": {
+    "ItemLevel": "239",
+    "DisplayId": "59321",
+    "DisplaySlot": "12",
+    "IconPath": "spell_arcane_starfire",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "PhysicalHit",
+          "Stats": {
+            "HasteRating": "726"
+          },
+          "Duration": "10",
+          "Cooldown": "45",
+          "Chance": "0.15",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "AttackPower": "240"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Comet's Trail",
+    "Id": "45609",
+    "Slot": "Trinket"
+  },
+  "45703": {
+    "ItemLevel": "219",
+    "DisplayId": "59326",
+    "DisplaySlot": "12",
+    "IconPath": "spell_nature_invisibilitytotem",
+    "Stats": {
+      "Spirit": "100",
+      "SpellsManaReduction": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Spark of Hope",
+    "Id": "45703",
+    "Slot": "Trinket"
+  },
+  "45866": {
+    "ItemLevel": "219",
+    "DisplayId": "48007",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_rune_10",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageSpellCast",
+          "Stats": {
+            "HasteRating": "522"
+          },
+          "Duration": "10",
+          "Cooldown": "45",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "HitRating": "108"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Elemental Focus Stone",
+    "Id": "45866",
+    "Slot": "Trinket"
+  },
+  "45929": {
+    "ItemLevel": "226",
+    "DisplayId": "59325",
+    "DisplaySlot": "12",
+    "IconPath": "spell_ice_rune",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "SpellCast",
+          "Stats": {
+            "Mp5": "195"
+          },
+          "Duration": "15",
+          "Cooldown": "45",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "SpellPower": "110"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sif's Remembrance",
+    "Id": "45929",
+    "Slot": "Trinket"
+  },
+  "45931": {
+    "ItemLevel": "226",
+    "DisplayId": "48009",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_rune_11",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "PhysicalHit",
+          "Stats": {
+            "ArmorPenetrationRating": "665"
+          },
+          "Duration": "10",
+          "Cooldown": "45",
+          "Chance": "0.15",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "CritRating": "102"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Mjolnir Runestone",
+    "Id": "45931",
+    "Slot": "Trinket"
+  },
+  "46021": {
+    "ItemLevel": "219",
+    "DisplayId": "59316",
+    "DisplaySlot": "12",
+    "IconPath": "inv_crown_13",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "ParryRating": "380"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Stamina": "155"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Royal Seal of King Llane",
+    "Id": "46021",
+    "Slot": "Trinket"
+  },
+  "46038": {
+    "ItemLevel": "226",
+    "DisplayId": "59323",
+    "DisplaySlot": "12",
+    "IconPath": "spell_shadow_seedofdestruction",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "PhysicalHit",
+          "Stats": {
+            "CritRating": "612"
+          },
+          "Duration": "10",
+          "Cooldown": "45",
+          "Chance": "0.15",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "AttackPower": "222"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Dark Matter",
+    "Id": "46038",
+    "Slot": "Trinket"
+  },
+  "46051": {
+    "ItemLevel": "226",
+    "DisplayId": "59328",
+    "DisplaySlot": "12",
+    "IconPath": "achievement_dungeon_ulduarraid_misc_04",
+    "Stats": {
+      "Intellect": "111"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Meteorite Crystal",
+    "Id": "46051",
+    "Slot": "Trinket"
+  },
+  "46081": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_rune_10",
+    "Stats": {
+      "SpellPower": "111",
+      "PVPTrinket": "1"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Titan-Forged Rune of Audacity",
+    "Id": "46081",
+    "Slot": "Trinket"
+  },
+  "46082": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_rune_11",
+    "Stats": {
+      "AttackPower": "190",
+      "PVPTrinket": "1"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Titan-Forged Rune of Determination",
+    "Id": "46082",
+    "Slot": "Trinket"
+  },
+  "46083": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_rune_07",
+    "Stats": {
+      "HitRating": "95",
+      "PVPTrinket": "1"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Titan-Forged Rune of Accuracy",
+    "Id": "46083",
+    "Slot": "Trinket"
+  },
+  "46084": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_rune_06",
+    "Stats": {
+      "CritRating": "95",
+      "PVPTrinket": "1"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Titan-Forged Rune of Cruelty",
+    "Id": "46084",
+    "Slot": "Trinket"
+  },
+  "46085": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_rune_05",
+    "Stats": {
+      "HasteRating": "95",
+      "PVPTrinket": "1"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Titan-Forged Rune of Alacrity",
+    "Id": "46085",
+    "Slot": "Trinket"
+  },
+  "46086": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_platnumdisks",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "AttackPower": "752"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Resilience": "95"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Platinum Disks of Battle",
+    "Id": "46086",
+    "Slot": "Trinket"
+  },
+  "46087": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_platnumdisks",
+    "Stats": {
+      "Resilience": "95"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Platinum Disks of Sorcery",
+    "Id": "46087",
+    "Slot": "Trinket"
+  },
+  "46088": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_platnumdisks",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "HasteRating": "375"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Resilience": "95"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Platinum Disks of Swiftness",
+    "Id": "46088",
+    "Slot": "Trinket"
+  },
+  "46312": {
+    "ItemLevel": "226",
+    "DisplayId": "34132",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_ahnqirajtrinket_05",
+    "Stats": {
+      "CritRating": "136"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Vanquished Clutches of Yogg-Saron",
+    "Id": "46312",
+    "Slot": "Trinket"
+  },
+  "47041": {
+    "ItemLevel": "245",
+    "DisplayId": "59319",
+    "DisplaySlot": "12",
+    "IconPath": "achievement_dungeon_ulduar77_25man",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "SpellCast",
+          "Stats": {
+            "Mp5": "16"
+          },
+          "Duration": "10",
+          "Cooldown": "0",
+          "Chance": "1",
+          "MaxStack": "8"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "SpellPower": "150"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Solace of the Defeated",
+    "Id": "47041",
+    "Slot": "Trinket"
+  },
+  "47059": {
+    "ItemLevel": "258",
+    "DisplayId": "59319",
+    "DisplaySlot": "12",
+    "IconPath": "achievement_dungeon_ulduar77_25man",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "SpellCast",
+          "Stats": {
+            "Mp5": "18"
+          },
+          "Duration": "10",
+          "Cooldown": "0",
+          "Chance": "1",
+          "MaxStack": "8"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "SpellPower": "168"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Solace of the Defeated",
+    "Id": "47059",
+    "Slot": "Trinket"
+  },
+  "47080": {
+    "ItemLevel": "245",
+    "DisplayId": "61410",
+    "DisplaySlot": "12",
+    "IconPath": "inv_scarab_crystal",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "BattlemasterHealth": "4610"
+          },
+          "Duration": "15",
+          "Cooldown": "180",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Stamina": "192"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Satrina's Impeding Scarab",
+    "Id": "47080",
+    "Slot": "Trinket"
+  },
+  "47088": {
+    "ItemLevel": "258",
+    "DisplayId": "61410",
+    "DisplaySlot": "12",
+    "IconPath": "inv_scarab_crystal",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "BattlemasterHealth": "5186"
+          },
+          "Duration": "15",
+          "Cooldown": "180",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Stamina": "216"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Satrina's Impeding Scarab",
+    "Id": "47088",
+    "Slot": "Trinket"
+  },
+  "47115": {
+    "ItemLevel": "245",
+    "DisplayId": "61413",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_bone_skull_02",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageDone",
+          "Stats": {
+            "Paragon": "450"
+          },
+          "Duration": "15",
+          "Cooldown": "45",
+          "Chance": "0.35",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "AttackPower": "256"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Death's Verdict",
+    "Id": "47115",
+    "Slot": "Trinket"
+  },
+  "47131": {
+    "ItemLevel": "258",
+    "DisplayId": "61413",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_bone_skull_02",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageDone",
+          "Stats": {
+            "Paragon": "510"
+          },
+          "Duration": "15",
+          "Cooldown": "45",
+          "Chance": "0.35",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "AttackPower": "288"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Death's Verdict",
+    "Id": "47131",
+    "Slot": "Trinket"
+  },
+  "47182": {
+    "ItemLevel": "245",
+    "DisplayId": "59316",
+    "DisplaySlot": "12",
+    "IconPath": "inv_crown_13",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "SpellCrit",
+          "Stats": {
+            "FireDamage": "627.3333"
+          },
+          "Duration": "0",
+          "Cooldown": "2",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "SpellPower": "150"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Reign of the Unliving",
+    "Id": "47182",
+    "Slot": "Trinket"
+  },
+  "47188": {
+    "ItemLevel": "258",
+    "DisplayId": "59316",
+    "DisplaySlot": "12",
+    "IconPath": "inv_crown_13",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "SpellCrit",
+          "Stats": {
+            "FireDamage": "705.6667"
+          },
+          "Duration": "0",
+          "Cooldown": "2",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "SpellPower": "168"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Reign of the Unliving",
+    "Id": "47188",
+    "Slot": "Trinket"
+  },
+  "47213": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_rune_09",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageSpellCast",
+          "Stats": {
+            "SpellPower": "590"
+          },
+          "Duration": "10",
+          "Cooldown": "45",
+          "Chance": "0.25",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "HasteRating": "84"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Abyssal Rune",
+    "Id": "47213",
+    "Slot": "Trinket"
+  },
+  "47214": {
+    "ItemLevel": "200",
+    "DisplayId": "61414",
+    "DisplaySlot": "12",
+    "IconPath": "inv_bannerpvp_03",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "PhysicalHit",
+          "Stats": {
+            "AttackPower": "1008"
+          },
+          "Duration": "10",
+          "Cooldown": "45",
+          "Chance": "0.2",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "ArmorPenetrationRating": "84"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Banner of Victory",
+    "Id": "47214",
+    "Slot": "Trinket"
+  },
+  "47215": {
+    "ItemLevel": "200",
+    "DisplayId": "59322",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_gem_bloodstone_03",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "SpellCast",
+          "Stats": {
+            "ManaRestore": "500"
+          },
+          "Duration": "0",
+          "Cooldown": "45",
+          "Chance": "0.4",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Intellect": "84"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Tears of the Vanquished",
+    "Id": "47215",
+    "Slot": "Trinket"
+  },
+  "47216": {
+    "ItemLevel": "200",
+    "DisplayId": "61415",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_gem_bloodstone_02",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageTakenPhysical",
+          "Stats": {
+            "BonusArmor": "7056"
+          },
+          "Duration": "10",
+          "Cooldown": "45",
+          "Chance": "0.25",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Stamina": "126"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "The Black Heart",
+    "Id": "47216",
+    "Slot": "Trinket"
+  },
+  "47271": {
+    "ItemLevel": "245",
+    "DisplayId": "59319",
+    "DisplaySlot": "12",
+    "IconPath": "achievement_dungeon_ulduar77_25man",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "SpellCast",
+          "Stats": {
+            "Mp5": "16"
+          },
+          "Duration": "10",
+          "Cooldown": "0",
+          "Chance": "1",
+          "MaxStack": "8"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "SpellPower": "150"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Solace of the Fallen",
+    "Id": "47271",
+    "Slot": "Trinket"
+  },
+  "47290": {
+    "ItemLevel": "245",
+    "DisplayId": "61410",
+    "DisplaySlot": "12",
+    "IconPath": "inv_scarab_crystal",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "BattlemasterHealth": "4610"
+          },
+          "Duration": "15",
+          "Cooldown": "180",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Stamina": "192"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Juggernaut's Vitality",
+    "Id": "47290",
+    "Slot": "Trinket"
+  },
+  "47303": {
+    "ItemLevel": "245",
+    "DisplayId": "61413",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_bone_skull_02",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageDone",
+          "Stats": {
+            "Paragon": "450"
+          },
+          "Duration": "15",
+          "Cooldown": "45",
+          "Chance": "0.35",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "AttackPower": "256"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Death's Choice",
+    "Id": "47303",
+    "Slot": "Trinket"
+  },
+  "47316": {
+    "ItemLevel": "245",
+    "DisplayId": "59316",
+    "DisplaySlot": "12",
+    "IconPath": "inv_crown_13",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "SpellCrit",
+          "Stats": {
+            "FireDamage": "627.3333"
+          },
+          "Duration": "0",
+          "Cooldown": "2",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "SpellPower": "150"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Reign of the Dead",
+    "Id": "47316",
+    "Slot": "Trinket"
+  },
+  "47432": {
+    "ItemLevel": "258",
+    "DisplayId": "59319",
+    "DisplaySlot": "12",
+    "IconPath": "achievement_dungeon_ulduar77_25man",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "SpellCast",
+          "Stats": {
+            "Mp5": "18"
+          },
+          "Duration": "10",
+          "Cooldown": "0",
+          "Chance": "1",
+          "MaxStack": "8"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "SpellPower": "168"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Solace of the Fallen",
+    "Id": "47432",
+    "Slot": "Trinket"
+  },
+  "47451": {
+    "ItemLevel": "258",
+    "DisplayId": "61410",
+    "DisplaySlot": "12",
+    "IconPath": "inv_scarab_crystal",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "BattlemasterHealth": "5186"
+          },
+          "Duration": "15",
+          "Cooldown": "180",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Stamina": "216"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Juggernaut's Vitality",
+    "Id": "47451",
+    "Slot": "Trinket"
+  },
+  "47464": {
+    "ItemLevel": "258",
+    "DisplayId": "61413",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_bone_skull_02",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageDone",
+          "Stats": {
+            "Paragon": "510"
+          },
+          "Duration": "15",
+          "Cooldown": "45",
+          "Chance": "0.35",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "AttackPower": "288"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Death's Choice",
+    "Id": "47464",
+    "Slot": "Trinket"
+  },
+  "47477": {
+    "ItemLevel": "258",
+    "DisplayId": "59316",
+    "DisplaySlot": "12",
+    "IconPath": "inv_crown_13",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "SpellCrit",
+          "Stats": {
+            "FireDamage": "705.6667"
+          },
+          "Duration": "0",
+          "Cooldown": "2",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "SpellPower": "168"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Reign of the Dead",
+    "Id": "47477",
+    "Slot": "Trinket"
+  },
+  "47725": {
+    "ItemLevel": "232",
+    "DisplayId": "61409",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_horn_04",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "SpecialEffects": {
+              "SpecialEffect": {
+                "Trigger": "MeleeHit",
+                "Stats": {
+                  "AttackPower": "215"
+                },
+                "Duration": "20",
+                "Cooldown": "0",
+                "Chance": "1",
+                "MaxStack": "5"
+              }
+            },
+            "SpecialEffectCount": "1"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "ExpertiseRating": "83"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Victor's Call",
+    "Id": "47725",
+    "Slot": "Trinket"
+  },
+  "47726": {
+    "ItemLevel": "232",
+    "DisplayId": "45854",
+    "DisplaySlot": "12",
+    "IconPath": "inv_jewelry_necklace_27",
+    "Stats": {
+      "CritRating": "114"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Talisman of Volatile Power",
+    "Id": "47726",
+    "Slot": "Trinket"
+  },
+  "47727": {
+    "ItemLevel": "232",
+    "DisplayId": "7244",
+    "DisplaySlot": "12",
+    "IconPath": "inv_jewelry_talisman_02",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "SpecialEffects": {
+              "SpecialEffect": {
+                "Trigger": "DamageTaken",
+                "Stats": {
+                  "BonusArmor": "1265"
+                },
+                "Duration": "INF",
+                "Cooldown": "0",
+                "Chance": "1",
+                "MaxStack": "5"
+              }
+            },
+            "SpecialEffectCount": "1"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "DodgeRating": "114"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Fervor of the Frostborn",
+    "Id": "47727",
+    "Slot": "Trinket"
+  },
+  "47728": {
+    "ItemLevel": "232",
+    "DisplayId": "48009",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_rune_11",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "SpecialEffects": {
+              "SpecialEffect": {
+                "Trigger": "HealingSpellCast",
+                "Stats": {
+                  "SpellPower": "66"
+                },
+                "Duration": "20",
+                "Cooldown": "0",
+                "Chance": "1",
+                "MaxStack": "8"
+              }
+            },
+            "SpecialEffectCount": "1"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Mp5": "57"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Binding Light",
+    "Id": "47728",
+    "Slot": "Trinket"
+  },
+  "47734": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_gem_bloodstone_03",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "AttackPower": "1024"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "HitRating": "128"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Mark of Supremacy",
+    "Id": "47734",
+    "Slot": "Trinket"
+  },
+  "47735": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_spiritshard_01",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "DodgeRating": "512"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "BonusArmor": "1792"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Glyph of Indomitability",
+    "Id": "47735",
+    "Slot": "Trinket"
+  },
+  "47879": {
+    "ItemLevel": "232",
+    "DisplayId": "45854",
+    "DisplaySlot": "12",
+    "IconPath": "inv_jewelry_necklace_27",
+    "Stats": {
+      "CritRating": "114"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Fetish of Volatile Power",
+    "Id": "47879",
+    "Slot": "Trinket"
+  },
+  "47880": {
+    "ItemLevel": "232",
+    "DisplayId": "48009",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_rune_11",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "SpecialEffects": {
+              "SpecialEffect": {
+                "Trigger": "HealingSpellCast",
+                "Stats": {
+                  "SpellPower": "66"
+                },
+                "Duration": "20",
+                "Cooldown": "0",
+                "Chance": "1",
+                "MaxStack": "8"
+              }
+            },
+            "SpecialEffectCount": "1"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Mp5": "57"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Binding Stone",
+    "Id": "47880",
+    "Slot": "Trinket"
+  },
+  "47881": {
+    "ItemLevel": "232",
+    "DisplayId": "61409",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_horn_04",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "SpecialEffects": {
+              "SpecialEffect": {
+                "Trigger": "MeleeHit",
+                "Stats": {
+                  "AttackPower": "215"
+                },
+                "Duration": "20",
+                "Cooldown": "0",
+                "Chance": "1",
+                "MaxStack": "5"
+              }
+            },
+            "SpecialEffectCount": "1"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "ExpertiseRating": "83"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Vengeance of the Forsaken",
+    "Id": "47881",
+    "Slot": "Trinket"
+  },
+  "47882": {
+    "ItemLevel": "232",
+    "DisplayId": "7244",
+    "DisplaySlot": "12",
+    "IconPath": "inv_jewelry_talisman_02",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "SpecialEffects": {
+              "SpecialEffect": {
+                "Trigger": "DamageTaken",
+                "Stats": {
+                  "BonusArmor": "1265"
+                },
+                "Duration": "INF",
+                "Cooldown": "0",
+                "Chance": "1",
+                "MaxStack": "5"
+              }
+            },
+            "SpecialEffectCount": "1"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "DodgeRating": "114"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Eitrigg's Oath",
+    "Id": "47882",
+    "Slot": "Trinket"
+  },
+  "47946": {
+    "ItemLevel": "245",
+    "DisplayId": "45854",
+    "DisplaySlot": "12",
+    "IconPath": "inv_jewelry_necklace_27",
+    "Stats": {
+      "CritRating": "126"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Talisman of Volatile Power",
+    "Id": "47946",
+    "Slot": "Trinket"
+  },
+  "47947": {
+    "ItemLevel": "245",
+    "DisplayId": "48009",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_rune_11",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "SpecialEffects": {
+              "SpecialEffect": {
+                "Trigger": "HealingSpellCast",
+                "Stats": {
+                  "SpellPower": "74"
+                },
+                "Duration": "20",
+                "Cooldown": "0",
+                "Chance": "1",
+                "MaxStack": "8"
+              }
+            },
+            "SpecialEffectCount": "1"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Mp5": "63"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Binding Light",
+    "Id": "47947",
+    "Slot": "Trinket"
+  },
+  "47948": {
+    "ItemLevel": "245",
+    "DisplayId": "61409",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_horn_04",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "SpecialEffects": {
+              "SpecialEffect": {
+                "Trigger": "MeleeHit",
+                "Stats": {
+                  "AttackPower": "250"
+                },
+                "Duration": "20",
+                "Cooldown": "0",
+                "Chance": "1",
+                "MaxStack": "5"
+              }
+            },
+            "SpecialEffectCount": "1"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "ExpertiseRating": "83"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Victor's Call",
+    "Id": "47948",
+    "Slot": "Trinket"
+  },
+  "47949": {
+    "ItemLevel": "245",
+    "DisplayId": "7244",
+    "DisplaySlot": "12",
+    "IconPath": "inv_jewelry_talisman_02",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "SpecialEffects": {
+              "SpecialEffect": {
+                "Trigger": "DamageTaken",
+                "Stats": {
+                  "BonusArmor": "1422"
+                },
+                "Duration": "INF",
+                "Cooldown": "0",
+                "Chance": "1",
+                "MaxStack": "5"
+              }
+            },
+            "SpecialEffectCount": "1"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "DodgeRating": "126"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Fervor of the Frostborn",
+    "Id": "47949",
+    "Slot": "Trinket"
+  },
+  "48018": {
+    "ItemLevel": "245",
+    "DisplayId": "45854",
+    "DisplaySlot": "12",
+    "IconPath": "inv_jewelry_necklace_27",
+    "Stats": {
+      "CritRating": "126"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Fetish of Volatile Power",
+    "Id": "48018",
+    "Slot": "Trinket"
+  },
+  "48019": {
+    "ItemLevel": "245",
+    "DisplayId": "48009",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_rune_11",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "SpecialEffects": {
+              "SpecialEffect": {
+                "Trigger": "HealingSpellCast",
+                "Stats": {
+                  "SpellPower": "74"
+                },
+                "Duration": "20",
+                "Cooldown": "0",
+                "Chance": "1",
+                "MaxStack": "8"
+              }
+            },
+            "SpecialEffectCount": "1"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Mp5": "63"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Binding Stone",
+    "Id": "48019",
+    "Slot": "Trinket"
+  },
+  "48020": {
+    "ItemLevel": "245",
+    "DisplayId": "61409",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_horn_04",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "SpecialEffects": {
+              "SpecialEffect": {
+                "Trigger": "MeleeHit",
+                "Stats": {
+                  "AttackPower": "250"
+                },
+                "Duration": "20",
+                "Cooldown": "0",
+                "Chance": "1",
+                "MaxStack": "5"
+              }
+            },
+            "SpecialEffectCount": "1"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "ExpertiseRating": "83"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Vengeance of the Forsaken",
+    "Id": "48020",
+    "Slot": "Trinket"
+  },
+  "48021": {
+    "ItemLevel": "245",
+    "DisplayId": "7244",
+    "DisplaySlot": "12",
+    "IconPath": "inv_jewelry_talisman_02",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "SpecialEffects": {
+              "SpecialEffect": {
+                "Trigger": "DamageTaken",
+                "Stats": {
+                  "BonusArmor": "1422"
+                },
+                "Duration": "INF",
+                "Cooldown": "0",
+                "Chance": "1",
+                "MaxStack": "5"
+              }
+            },
+            "SpecialEffectCount": "1"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "DodgeRating": "126"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Eitrigg's Oath",
+    "Id": "48021",
+    "Slot": "Trinket"
+  },
+  "48722": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_spiritshard_01",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "HasteRating": "512"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "HitRating": "128"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Shard of the Crystal Heart",
+    "Id": "48722",
+    "Slot": "Trinket"
+  },
+  "48724": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_gem_bloodstone_03",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "SpellPower": "599"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Intellect": "128"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Talisman of Resurgence",
+    "Id": "48724",
+    "Slot": "Trinket"
+  },
+  "49074": {
+    "ItemLevel": "200",
+    "DisplayId": "29947",
+    "DisplaySlot": "12",
+    "IconPath": "inv_jewelry_talisman_08",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "PhysicalCrit",
+          "Stats": {
+            "AttackPower": "1000"
+          },
+          "Duration": "10",
+          "Cooldown": "50",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "CritRating": "84"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Coren's Chromium Coaster",
+    "Id": "49074",
+    "Slot": "Trinket"
+  },
+  "49076": {
+    "ItemLevel": "200",
+    "DisplayId": "43431",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_pocketwatch_02",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageSpellCast",
+          "Stats": {
+            "SpellPower": "590"
+          },
+          "Duration": "10",
+          "Cooldown": "45",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "CritRating": "84"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Mithril Pocketwatch",
+    "Id": "49076",
+    "Slot": "Trinket"
+  },
+  "49078": {
+    "ItemLevel": "200",
+    "DisplayId": "18047",
+    "DisplaySlot": "12",
+    "IconPath": "inv_egg_02",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "HealingSpellCast",
+          "Stats": {
+            "HasteRating": "505"
+          },
+          "Duration": "10",
+          "Cooldown": "45",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "SpellPower": "98"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Ancient Pickled Egg",
+    "Id": "49078",
+    "Slot": "Trinket"
+  },
+  "49080": {
+    "ItemLevel": "200",
+    "DisplayId": "53485",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_bone_08",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "DodgeRating": "335"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "DodgeRating": "84"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Brawler's Souvenir",
+    "Id": "49080",
+    "Slot": "Trinket"
+  },
+  "49116": {
+    "ItemLevel": "200",
+    "DisplayId": "49636",
+    "DisplaySlot": "12",
+    "IconPath": "inv_drink_04",
+    "Stats": {
+      "Stamina": "170"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Bitter Balebrew Charm",
+    "Id": "49116",
+    "Slot": "Trinket"
+  },
+  "49118": {
+    "ItemLevel": "200",
+    "DisplayId": "49650",
+    "DisplaySlot": "12",
+    "IconPath": "inv_drink_08",
+    "Stats": {
+      "Stamina": "170"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Bubbling Brightbrew Charm",
+    "Id": "49118",
+    "Slot": "Trinket"
+  },
+  "49310": {
+    "ItemLevel": "232",
+    "DisplayId": "26374",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_monsterscales_15",
+    "Stats": {
+      "Mp5": "85"
+    },
+    "Quality": "Epic",
+    "SetName": "Purified Shard of the Gods",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Purified Shard of the Scale",
+    "Id": "49310",
+    "Slot": "Trinket"
+  },
+  "49312": {
+    "ItemLevel": "232",
+    "DisplayId": "30764",
+    "DisplaySlot": "12",
+    "IconPath": "spell_shadow_lifedrain",
+    "Stats": {
+      "ParryRating": "95",
+      "DefenseRating": "60",
+      "Hp5": "89",
+      "FireResistance": "15"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Purified Onyxia Blood Talisman",
+    "Id": "49312",
+    "Slot": "Trinket"
+  },
+  "49463": {
+    "ItemLevel": "232",
+    "DisplayId": "26374",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_monsterscales_15",
+    "Stats": {
+      "Hp5": "510"
+    },
+    "Quality": "Epic",
+    "SetName": "Purified Shard of the Gods",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Purified Shard of the Flame",
+    "Id": "49463",
+    "Slot": "Trinket"
+  },
+  "49464": {
+    "ItemLevel": "245",
+    "DisplayId": "26374",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_monsterscales_15",
+    "Stats": {
+      "Hp5": "576"
+    },
+    "Quality": "Epic",
+    "SetName": "Shiny Shard of the Gods",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Shiny Shard of the Flame",
+    "Id": "49464",
+    "Slot": "Trinket"
+  },
+  "49488": {
+    "ItemLevel": "245",
+    "DisplayId": "26374",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_monsterscales_15",
+    "Stats": {
+      "Mp5": "96"
+    },
+    "Quality": "Epic",
+    "SetName": "Shiny Shard of the Gods",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Shiny Shard of the Scale",
+    "Id": "49488",
+    "Slot": "Trinket"
+  },
+  "50198": {
+    "ItemLevel": "232",
+    "DisplayId": "64254",
+    "DisplaySlot": "12",
+    "IconPath": "inv_qirajidol_onyx",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "PhysicalCrit",
+          "Stats": {
+            "ArmorPenetrationRating": "678"
+          },
+          "Duration": "10",
+          "Cooldown": "45",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "CritRating": "114"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Needle-Encrusted Scorpion",
+    "Id": "50198",
+    "Slot": "Trinket"
+  },
+  "50235": {
+    "ItemLevel": "232",
+    "DisplayId": "67667",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_bone_10",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "BattlemasterHealth": "4104"
+          },
+          "Duration": "15",
+          "Cooldown": "180",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "DodgeRating": "113"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Ick's Rotting Thumb",
+    "Id": "50235",
+    "Slot": "Trinket"
+  },
+  "50259": {
+    "ItemLevel": "232",
+    "DisplayId": "64256",
+    "DisplaySlot": "12",
+    "IconPath": "inv_datacrystal09",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "SpecialEffects": {
+              "SpecialEffect": {
+                "Trigger": "SpellCrit",
+                "Stats": {
+                  "CritRating": "-184"
+                },
+                "Duration": "INF",
+                "Cooldown": "0",
+                "Chance": "1",
+                "MaxStack": "5"
+              }
+            },
+            "SpecialEffectCount": "1",
+            "CritRating": "920"
+          },
+          "Duration": "20",
+          "Cooldown": "180",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "SpellPower": "111"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Nevermelting Ice Crystal",
+    "Id": "50259",
+    "Slot": "Trinket"
+  },
+  "50260": {
+    "ItemLevel": "232",
+    "DisplayId": "64252",
+    "DisplaySlot": "12",
+    "IconPath": "inv_jewelcrafting_empyreansapphire_01",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "HealingSpellHit",
+          "Stats": {
+            "ManaRestore": "11"
+          },
+          "Duration": "0",
+          "Cooldown": "0.33",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "2"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Ephemeral Snowflake",
+    "Id": "50260",
+    "Slot": "Trinket"
+  },
+  "50339": {
+    "ItemLevel": "251",
+    "DisplayId": "64261",
+    "DisplaySlot": "12",
+    "IconPath": "inv_jewelry_trinket_05",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "ManaRestore": "1625"
+          },
+          "Duration": "0",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "SpellPower": "158"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50346",
+    "Name": "Sliver of Pure Ice",
+    "Id": "50339",
+    "Slot": "Trinket"
+  },
+  "50340": {
+    "ItemLevel": "251",
+    "DisplayId": "43609",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_spyglass_02",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageSpellHit",
+          "Stats": {
+            "SpellPower": "18"
+          },
+          "Duration": "10",
+          "Cooldown": "0",
+          "Chance": "1",
+          "MaxStack": "10"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "CritRating": "131"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50345",
+    "Name": "Muradin's Spyglass",
+    "Id": "50340",
+    "Slot": "Trinket"
+  },
+  "50341": {
+    "ItemLevel": "251",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_ore_feliron_01",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageTakenPhysical",
+          "Stats": {
+            "Stamina": "24"
+          },
+          "Duration": "10",
+          "Cooldown": "0",
+          "Chance": "0.6",
+          "MaxStack": "10"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "BonusArmor": "1890"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50344",
+    "Name": "Unidentifiable Organ",
+    "Id": "50341",
+    "Slot": "Trinket"
+  },
+  "50342": {
+    "ItemLevel": "251",
+    "DisplayId": "61413",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_bone_skull_02",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageDone",
+          "Stats": {
+            "AttackPower": "1100"
+          },
+          "Duration": "15",
+          "Cooldown": "45",
+          "Chance": "0.35",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "CritRating": "131"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50343",
+    "Name": "Whispering Fanged Skull",
+    "Id": "50342",
+    "Slot": "Trinket"
+  },
+  "50343": {
+    "ItemLevel": "264",
+    "DisplayId": "61413",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_bone_skull_02",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageDone",
+          "Stats": {
+            "AttackPower": "1250"
+          },
+          "Duration": "15",
+          "Cooldown": "45",
+          "Chance": "0.35",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "CritRating": "148"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50343",
+    "Name": "Whispering Fanged Skull",
+    "Id": "50343",
+    "Slot": "Trinket"
+  },
+  "50344": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_ore_feliron_01",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageTakenPhysical",
+          "Stats": {
+            "Stamina": "27"
+          },
+          "Duration": "10",
+          "Cooldown": "0",
+          "Chance": "0.6",
+          "MaxStack": "10"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "BonusArmor": "2128"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50344",
+    "Name": "Unidentifiable Organ",
+    "Id": "50344",
+    "Slot": "Trinket"
+  },
+  "50345": {
+    "ItemLevel": "264",
+    "DisplayId": "43609",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_spyglass_02",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageSpellHit",
+          "Stats": {
+            "SpellPower": "20"
+          },
+          "Duration": "10",
+          "Cooldown": "0",
+          "Chance": "1",
+          "MaxStack": "10"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "CritRating": "152"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50345",
+    "Name": "Muradin's Spyglass",
+    "Id": "50345",
+    "Slot": "Trinket"
+  },
+  "50346": {
+    "ItemLevel": "264",
+    "DisplayId": "64261",
+    "DisplaySlot": "12",
+    "IconPath": "inv_jewelry_trinket_05",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "ManaRestore": "1830"
+          },
+          "Duration": "0",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "SpellPower": "178"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50346",
+    "Name": "Sliver of Pure Ice",
+    "Id": "50346",
+    "Slot": "Trinket"
+  },
+  "50348": {
+    "ItemLevel": "277",
+    "DisplayId": "64245",
+    "DisplaySlot": "12",
+    "IconPath": "inv_jewelry_trinket_01",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageSpellHit",
+          "Stats": {
+            "SpellPower": "665.5"
+          },
+          "Duration": "20",
+          "Cooldown": "45",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "HasteRating": "170"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50348",
+    "Name": "Dislodged Foreign Object",
+    "Id": "50348",
+    "Slot": "Trinket"
+  },
+  "50349": {
+    "ItemLevel": "277",
+    "DisplayId": "64239",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_coin_18",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageTakenPhysical",
+          "Stats": {
+            "BonusArmor": "6426"
+          },
+          "Duration": "10",
+          "Cooldown": "30",
+          "Chance": "0.175",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "DodgeRating": "172"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50349",
+    "Name": "Corpse Tongue Coin",
+    "Id": "50349",
+    "Slot": "Trinket"
+  },
+  "50351": {
+    "ItemLevel": "264",
+    "DisplayId": "64711",
+    "DisplaySlot": "12",
+    "IconPath": "inv_alchemy_enchantedvial",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "MeleeAttack",
+          "Stats": {
+            "MoteOfAnger": "0.5"
+          },
+          "Duration": "0",
+          "Cooldown": "0",
+          "Chance": "0.5",
+          "MaxStack": "8"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "HitRating": "85"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50706",
+    "Name": "Tiny Abomination in a Jar",
+    "Id": "50351",
+    "Slot": "Trinket"
+  },
+  "50352": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_coin_18",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageTakenPhysical",
+          "Stats": {
+            "BonusArmor": "5712"
+          },
+          "Duration": "10",
+          "Cooldown": "30",
+          "Chance": "0.175",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "DodgeRating": "152"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50349",
+    "Name": "Corpse Tongue Coin",
+    "Id": "50352",
+    "Slot": "Trinket"
+  },
+  "50353": {
+    "ItemLevel": "264",
+    "DisplayId": "64245",
+    "DisplaySlot": "12",
+    "IconPath": "inv_jewelry_trinket_01",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageSpellHit",
+          "Stats": {
+            "SpellPower": "577.5"
+          },
+          "Duration": "20",
+          "Cooldown": "45",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "HasteRating": "155"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50348",
+    "Name": "Dislodged Foreign Object",
+    "Id": "50353",
+    "Slot": "Trinket"
+  },
+  "50354": {
+    "ItemLevel": "264",
+    "DisplayId": "64237",
+    "DisplaySlot": "12",
+    "IconPath": "inv_jewelcrafting_gem_28",
+    "Stats": {
+      "Mp5": "76"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50726",
+    "Name": "Bauble of True Blood",
+    "Id": "50354",
+    "Slot": "Trinket"
+  },
+  "50355": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_rune_12",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "PhysicalHit",
+          "Stats": {
+            "AttackPower": "17"
+          },
+          "Duration": "10",
+          "Cooldown": "0",
+          "Chance": "1",
+          "MaxStack": "20"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "HasteRating": "153"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Herkuml War Token",
+    "Id": "50355",
+    "Slot": "Trinket"
+  },
+  "50356": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_key_15",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "DamageAbsorbed": "6400"
+          },
+          "Duration": "10",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Stamina": "228"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Corroded Skeleton Key",
+    "Id": "50356",
+    "Slot": "Trinket"
+  },
+  "50357": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_trinket_02",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "SpellPower": "716"
+          },
+          "Duration": "20",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "HitRating": "152"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Maghia's Misguided Quill",
+    "Id": "50357",
+    "Slot": "Trinket"
+  },
+  "50358": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_ammo_gunpowder_05",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "SpellCast",
+          "Stats": {
+            "Mp5": "304"
+          },
+          "Duration": "15",
+          "Cooldown": "45",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "SpellPower": "179"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Purified Lunar Dust",
+    "Id": "50358",
+    "Slot": "Trinket"
+  },
+  "50359": {
+    "ItemLevel": "264",
+    "DisplayId": "64236",
+    "DisplaySlot": "12",
+    "IconPath": "inv_jewelry_trinket_02",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "HealingSpellHit",
+          "Stats": {
+            "Healed": "6000"
+          },
+          "Duration": "0",
+          "Cooldown": "45",
+          "Chance": "0.3",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "SpellPower": "179"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50366",
+    "Name": "Althor's Abacus",
+    "Id": "50359",
+    "Slot": "Trinket"
+  },
+  "50360": {
+    "ItemLevel": "264",
+    "DisplayId": "64247",
+    "DisplaySlot": "12",
+    "IconPath": "inv_jewelry_trinket_03",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DoTTick",
+          "Stats": {
+            "SpellPower": "1074"
+          },
+          "Duration": "20",
+          "Cooldown": "100",
+          "Chance": "0.3",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "CritRating": "152"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50365",
+    "Name": "Phylactery of the Nameless Lich",
+    "Id": "50360",
+    "Slot": "Trinket"
+  },
+  "50361": {
+    "ItemLevel": "264",
+    "DisplayId": "64251",
+    "DisplaySlot": "12",
+    "IconPath": "inv_jewelry_trinket_06",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "FrostResistance": "239",
+            "NatureResistance": "239",
+            "FireResistance": "239",
+            "ShadowResistance": "239",
+            "ArcaneResistance": "239"
+          },
+          "Duration": "10",
+          "Cooldown": "60",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Stamina": "228"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50364",
+    "Name": "Sindragosa's Flawless Fang",
+    "Id": "50361",
+    "Slot": "Trinket"
+  },
+  "50362": {
+    "ItemLevel": "264",
+    "DisplayId": "64244",
+    "DisplaySlot": "12",
+    "IconPath": "inv_jewelry_trinket_04",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "PhysicalHit",
+          "Stats": {
+            "DeathbringerProc": "600"
+          },
+          "Duration": "30",
+          "Cooldown": "105",
+          "Chance": "0.15",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "ArmorPenetrationRating": "155"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50363",
+    "Name": "Deathbringer's Will",
+    "Id": "50362",
+    "Slot": "Trinket"
+  },
+  "50363": {
+    "ItemLevel": "277",
+    "DisplayId": "64244",
+    "DisplaySlot": "12",
+    "IconPath": "inv_jewelry_trinket_04",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "PhysicalHit",
+          "Stats": {
+            "DeathbringerProc": "700"
+          },
+          "Duration": "30",
+          "Cooldown": "105",
+          "Chance": "0.15",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "ArmorPenetrationRating": "167"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50363",
+    "Name": "Deathbringer's Will",
+    "Id": "50363",
+    "Slot": "Trinket"
+  },
+  "50364": {
+    "ItemLevel": "277",
+    "DisplayId": "64251",
+    "DisplaySlot": "12",
+    "IconPath": "inv_jewelry_trinket_06",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "FrostResistance": "268",
+            "NatureResistance": "268",
+            "FireResistance": "268",
+            "ShadowResistance": "268",
+            "ArcaneResistance": "268"
+          },
+          "Duration": "10",
+          "Cooldown": "60",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Stamina": "258"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50364",
+    "Name": "Sindragosa's Flawless Fang",
+    "Id": "50364",
+    "Slot": "Trinket"
+  },
+  "50365": {
+    "ItemLevel": "277",
+    "DisplayId": "64247",
+    "DisplaySlot": "12",
+    "IconPath": "inv_jewelry_trinket_03",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DoTTick",
+          "Stats": {
+            "SpellPower": "1207"
+          },
+          "Duration": "20",
+          "Cooldown": "100",
+          "Chance": "0.3",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "CritRating": "172"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50365",
+    "Name": "Phylactery of the Nameless Lich",
+    "Id": "50365",
+    "Slot": "Trinket"
+  },
+  "50366": {
+    "ItemLevel": "277",
+    "DisplayId": "64236",
+    "DisplaySlot": "12",
+    "IconPath": "inv_jewelry_trinket_02",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "HealingSpellHit",
+          "Stats": {
+            "Healed": "6789"
+          },
+          "Duration": "0",
+          "Cooldown": "45",
+          "Chance": "0.3",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "SpellPower": "201"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50366",
+    "Name": "Althor's Abacus",
+    "Id": "50366",
+    "Slot": "Trinket"
+  },
+  "50706": {
+    "ItemLevel": "277",
+    "DisplayId": "64711",
+    "DisplaySlot": "12",
+    "IconPath": "inv_alchemy_enchantedvial",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "MeleeAttack",
+          "Stats": {
+            "MoteOfAnger": "0.5"
+          },
+          "Duration": "0",
+          "Cooldown": "0",
+          "Chance": "0.5",
+          "MaxStack": "7"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "HitRating": "85"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50706",
+    "Name": "Tiny Abomination in a Jar",
+    "Id": "50706",
+    "Slot": "Trinket"
+  },
+  "50726": {
+    "ItemLevel": "277",
+    "DisplayId": "64237",
+    "DisplaySlot": "12",
+    "IconPath": "inv_jewelcrafting_gem_28",
+    "Stats": {
+      "Mp5": "86"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50726",
+    "Name": "Bauble of True Blood",
+    "Id": "50726",
+    "Slot": "Trinket"
+  },
+  "51377": {
+    "ItemLevel": "264",
+    "DisplayId": "37840",
+    "DisplaySlot": "12",
+    "IconPath": "inv_jewelry_trinketpvp_01",
+    "Stats": {
+      "Resilience": "153",
+      "PVPTrinket": "1"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Medallion of the Alliance",
+    "Id": "51377",
+    "Slot": "Trinket"
+  },
+  "51378": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_trinketpvp_02",
+    "Stats": {
+      "Resilience": "153",
+      "PVPTrinket": "1"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Medallion of the Horde",
+    "Id": "51378",
+    "Slot": "Trinket"
+  },
+  "54569": {
+    "ItemLevel": "271",
+    "DisplayId": "68109",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_rubysanctum4",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageDone",
+          "Stats": {
+            "AttackPower": "1304"
+          },
+          "Duration": "15",
+          "Cooldown": "45",
+          "Chance": "0.35",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "ArmorPenetrationRating": "163"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "54569",
+    "Name": "Sharpened Twilight Scale",
+    "Id": "54569",
+    "Slot": "Trinket"
+  },
+  "54571": {
+    "ItemLevel": "271",
+    "DisplayId": "68107",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_rubysanctum3",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageTakenPhysical",
+          "Stats": {
+            "DodgeRating": "733"
+          },
+          "Duration": "10",
+          "Cooldown": "45",
+          "Chance": "0.175",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "BonusArmor": "2282"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "54571",
+    "Name": "Petrified Twilight Scale",
+    "Id": "54571",
+    "Slot": "Trinket"
+  },
+  "54572": {
+    "ItemLevel": "271",
+    "DisplayId": "68106",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_rubysanctum2",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageSpellHit",
+          "Stats": {
+            "SpellPower": "763"
+          },
+          "Duration": "15",
+          "Cooldown": "45",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "HasteRating": "163"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "54572",
+    "Name": "Charred Twilight Scale",
+    "Id": "54572",
+    "Slot": "Trinket"
+  },
+  "54573": {
+    "ItemLevel": "271",
+    "DisplayId": "68108",
+    "DisplaySlot": "12",
+    "IconPath": "inv_misc_rubysanctum1",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "SpecialEffects": {
+              "SpecialEffect": {
+                "Trigger": "HealingSpellCast",
+                "Stats": {
+                  "Healed": "1780"
+                },
+                "Duration": "6",
+                "Cooldown": "0",
+                "Chance": "1",
+                "MaxStack": "1"
+              }
+            },
+            "SpecialEffectCount": "1"
+          },
+          "Duration": "15",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "SpellPower": "190"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Glowing Twilight Scale",
+    "Id": "54573",
+    "Slot": "Trinket"
+  },
+  "54588": {
+    "ItemLevel": "284",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_rubysanctum2",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageSpellHit",
+          "Stats": {
+            "SpellPower": "861"
+          },
+          "Duration": "15",
+          "Cooldown": "45",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "HasteRating": "184"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "54572",
+    "Name": "Charred Twilight Scale",
+    "Id": "54588",
+    "Slot": "Trinket"
+  },
+  "54589": {
+    "ItemLevel": "284",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_rubysanctum1",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "SpecialEffects": {
+              "SpecialEffect": {
+                "Trigger": "HealingSpellCast",
+                "Stats": {
+                  "Healed": "2010"
+                },
+                "Duration": "6",
+                "Cooldown": "0",
+                "Chance": "1",
+                "MaxStack": "1"
+              }
+            },
+            "SpecialEffectCount": "1"
+          },
+          "Duration": "15",
+          "Cooldown": "120",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "SpellPower": "215"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Glowing Twilight Scale",
+    "Id": "54589",
+    "Slot": "Trinket"
+  },
+  "54590": {
+    "ItemLevel": "284",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_rubysanctum4",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageDone",
+          "Stats": {
+            "AttackPower": "1472"
+          },
+          "Duration": "15",
+          "Cooldown": "45",
+          "Chance": "0.35",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "ArmorPenetrationRating": "184"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "54569",
+    "Name": "Sharpened Twilight Scale",
+    "Id": "54590",
+    "Slot": "Trinket"
+  },
+  "54591": {
+    "ItemLevel": "284",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_rubysanctum3",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageTakenPhysical",
+          "Stats": {
+            "DodgeRating": "828"
+          },
+          "Duration": "10",
+          "Cooldown": "45",
+          "Chance": "0.175",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "BonusArmor": "2576"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "54571",
+    "Name": "Petrified Twilight Scale",
+    "Id": "54591",
+    "Slot": "Trinket"
+  }
+}

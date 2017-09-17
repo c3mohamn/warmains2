@@ -1,0 +1,41 @@
+@import 'theme';
+
+
+// BUTTONS
+.button {
+  padding: .8rem 1.5rem;
+  box-shadow: $wm-boxshadow-2;
+
+  &:active {
+    box-shadow: $wm-boxshadow-1;
+  }
+}
+
+// INPUTS
+.input-field {
+  border: none;
+  box-shadow: none;
+  outline: none;
+  border-bottom: 2px solid rgba($wm-primary-dark, .5);
+
+  &:focus {
+    border: none;
+    box-shadow: none;
+    outline: none;
+    border-bottom: 2px solid $wm-primary-dark;
+  }
+}
+
+.input-search {
+  border: none;
+  outline: none;
+  box-shadow: $wm-boxshadow-1;
+
+  &:focus {
+    border: none;
+    outline: none;
+    box-shadow: $wm-boxshadow-1;
+  }
+}
+
+// TODO: Input fields with errors

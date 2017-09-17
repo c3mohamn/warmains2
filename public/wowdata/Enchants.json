@@ -1,0 +1,1349 @@
+{
+  "11644": {
+    "IconPath": "inv_misc_gem_03",
+    "Id": "11644",
+    "enchantId": "1505",
+    "Name": "Lesser Arcanum of Resilience",
+    "Slot": "Legs",
+    "Stats": {
+      "FireResistance": "20"
+    }
+  },
+  "18283": {
+    "IconPath": "inv_misc_spyglass_02",
+    "Id": "18283",
+    "enchantId": "2523",
+    "Name": "Biznicks 247x128 Accurascope",
+    "Slot": "Ranged",
+    "Stats": {
+      "RangedHitRating": "30"
+    }
+  },
+  "18329": {
+    "IconPath": "inv_misc_gem_02",
+    "Id": "18329",
+    "enchantId": "2543",
+    "Name": "Arcanum of Rapidity",
+    "Slot": "Head",
+    "Stats": {
+      "HasteRating": "10"
+    }
+  },
+  "19782": {
+    "IconPath": "spell_holy_sealofwrath",
+    "Id": "19782",
+    "enchantId": "2583",
+    "Name": "Presence of Might",
+    "Slot": "Legs",
+    "Stats": {
+      "Stamina": "10",
+      "BlockValue": "30",
+      "DefenseRating": "10"
+    }
+  },
+  "23549": {
+    "IconPath": "spell_shadow_antishadow",
+    "Id": "23549",
+    "enchantId": "2716",
+    "Name": "Fortitude of the Scourge",
+    "Slot": "Shoulders",
+    "Stats": {
+      "BonusArmor": "100",
+      "Stamina": "16"
+    }
+  },
+  "25651": {
+    "IconPath": "inv_misc_armorkit_26",
+    "Id": "25651",
+    "enchantId": "2793",
+    "Name": "Vindicator's Armor Kit",
+    "Slot": "Feet",
+    "Stats": {
+      "DefenseRating": "8"
+    }
+  },
+  "28889": {
+    "IconPath": "spell_holy_blessingofprotection",
+    "Id": "28889",
+    "enchantId": "2978",
+    "Name": "Greater Inscription of Warding",
+    "Slot": "Shoulders",
+    "Stats": {
+      "DodgeRating": "15",
+      "DefenseRating": "10"
+    }
+  },
+  "28911": {
+    "IconPath": "spell_holy_championsgrace",
+    "Id": "28911",
+    "enchantId": "2991",
+    "Name": "Greater Inscription of the Knight",
+    "Slot": "Shoulders",
+    "Stats": {
+      "DodgeRating": "10",
+      "DefenseRating": "15"
+    }
+  },
+  "29186": {
+    "IconPath": "ability_warrior_victoryrush",
+    "Id": "29186",
+    "enchantId": "2999",
+    "Name": "Arcanum of the Defender",
+    "Slot": "Head",
+    "Stats": {
+      "DodgeRating": "17",
+      "DefenseRating": "16"
+    }
+  },
+  "29187": {
+    "IconPath": "ability_warrior_shieldmastery",
+    "Id": "29187",
+    "enchantId": "2998",
+    "Name": "Inscription of Endurance",
+    "Slot": "Shoulders",
+    "Stats": {
+      "FrostResistance": "4",
+      "NatureResistance": "4",
+      "FireResistance": "4",
+      "ShadowResistance": "4",
+      "ArcaneResistance": "4"
+    }
+  },
+  "29191": {
+    "IconPath": "spell_nature_lightningoverload",
+    "Id": "29191",
+    "enchantId": "3002",
+    "Name": "Arcanum of Power",
+    "Slot": "Head",
+    "Stats": {
+      "SpellPower": "22",
+      "HitRating": "14"
+    }
+  },
+  "29192": {
+    "IconPath": "ability_druid_demoralizingroar",
+    "Id": "29192",
+    "enchantId": "3003",
+    "Name": "Arcanum of Ferocity",
+    "Slot": "Head",
+    "Stats": {
+      "AttackPower": "34",
+      "HitRating": "16"
+    }
+  },
+  "29483": {
+    "IconPath": "spell_shadow_antishadow",
+    "Id": "29483",
+    "enchantId": "2984",
+    "Name": "Shadow Armor Kit",
+    "Slot": "Legs",
+    "Stats": {
+      "ShadowResistance": "8"
+    }
+  },
+  "29485": {
+    "IconPath": "spell_fire_sealoffire",
+    "Id": "29485",
+    "enchantId": "2985",
+    "Name": "Flame Armor Kit",
+    "Slot": "Legs",
+    "Stats": {
+      "FireResistance": "8"
+    }
+  },
+  "29486": {
+    "IconPath": "spell_frost_frostarmor02",
+    "Id": "29486",
+    "enchantId": "2987",
+    "Name": "Frost Armor Kit",
+    "Slot": "Legs",
+    "Stats": {
+      "FrostResistance": "8"
+    }
+  },
+  "29487": {
+    "IconPath": "spell_nature_spiritarmor",
+    "Id": "29487",
+    "enchantId": "2988",
+    "Name": "Nature Armor Kit",
+    "Slot": "Legs",
+    "Stats": {
+      "NatureResistance": "8"
+    }
+  },
+  "29488": {
+    "IconPath": "spell_shadow_sealofkings",
+    "Id": "29488",
+    "enchantId": "2989",
+    "Name": "Arcane Armor Kit",
+    "Slot": "Legs",
+    "Stats": {
+      "ArcaneResistance": "8"
+    }
+  },
+  "30846": {
+    "IconPath": "ability_rogue_masterofsubtlety",
+    "Id": "30846",
+    "enchantId": "3096",
+    "Name": "Arcanum of the Outcast",
+    "Slot": "Head",
+    "Stats": {
+      "Strength": "17",
+      "Intellect": "16"
+    }
+  },
+  "33185": {
+    "IconPath": "spell_frost_chainsofice",
+    "Id": "33185",
+    "enchantId": "3223",
+    "Name": "Adamantite Weapon Chain",
+    "Slot": "OneHand",
+    "Stats": {
+      "ParryRating": "15"
+    }
+  },
+  "34207": {
+    "IconPath": "inv_misc_armorkit_08",
+    "Id": "34207",
+    "enchantId": "3260",
+    "Name": "Glove Reinforcements",
+    "Slot": "Hands",
+    "Stats": {
+      "BonusArmor": "240"
+    }
+  },
+  "38373": {
+    "IconPath": "inv_misc_armorkit_32",
+    "Id": "38373",
+    "enchantId": "3822",
+    "Name": "Frosthide Leg Armor",
+    "Slot": "Legs",
+    "Stats": {
+      "Agility": "22",
+      "Stamina": "55"
+    }
+  },
+  "38374": {
+    "IconPath": "inv_misc_armorkit_33",
+    "Id": "38374",
+    "enchantId": "3823",
+    "Name": "Icescale Leg Armor",
+    "Slot": "Legs",
+    "Stats": {
+      "AttackPower": "75",
+      "CritRating": "22"
+    }
+  },
+  "38376": {
+    "IconPath": "inv_misc_armorkit_30",
+    "Id": "38376",
+    "enchantId": "3330",
+    "Name": "Heavy Borean Armor Kit",
+    "Slot": "Shoulders",
+    "Stats": {
+      "Stamina": "18"
+    }
+  },
+  "38851": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38851",
+    "enchantId": "931",
+    "Name": "Minor Haste",
+    "Slot": "Hands",
+    "Stats": {
+      "HasteRating": "10"
+    }
+  },
+  "38894": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38894",
+    "enchantId": "2621",
+    "Name": "Subtlety",
+    "Slot": "Back",
+    "Stats": {
+      "ThreatReductionMultiplier": "0.02"
+    }
+  },
+  "38895": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38895",
+    "enchantId": "2622",
+    "Name": "Dodge",
+    "Slot": "Back",
+    "Stats": {
+      "DodgeRating": "12"
+    }
+  },
+  "38897": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38897",
+    "enchantId": "2647",
+    "Name": "Brawn",
+    "Slot": "Wrist",
+    "Stats": {
+      "Strength": "12"
+    }
+  },
+  "38899": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38899",
+    "enchantId": "2648",
+    "Name": "Major Defense",
+    "Slot": "Wrist",
+    "Stats": {
+      "DefenseRating": "12"
+    }
+  },
+  "38901": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38901",
+    "enchantId": "2679",
+    "Name": "Restore Mana Prime",
+    "Slot": "Wrist",
+    "Stats": {
+      "Mp5": "8"
+    }
+  },
+  "38904": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38904",
+    "enchantId": "2653",
+    "Name": "Tough Shield",
+    "Slot": "OffHand",
+    "Stats": {
+      "BlockValue": "36"
+    }
+  },
+  "38906": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38906",
+    "enchantId": "2655",
+    "Name": "Shield Block",
+    "Slot": "OffHand",
+    "Stats": {
+      "BlockRating": "15"
+    }
+  },
+  "38912": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38912",
+    "enchantId": "3233",
+    "Name": "Exceptional Mana",
+    "Slot": "Chest",
+    "Stats": {
+      "Mana": "250"
+    }
+  },
+  "38915": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38915",
+    "enchantId": "2664",
+    "Name": "Major Resistance",
+    "Slot": "Back",
+    "Stats": {
+      "FrostResistance": "7",
+      "NatureResistance": "7",
+      "FireResistance": "7",
+      "ShadowResistance": "7",
+      "ArcaneResistance": "7"
+    }
+  },
+  "38920": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38920",
+    "enchantId": "2668",
+    "Name": "Potency",
+    "Slot": "OneHand",
+    "Stats": {
+      "Strength": "20"
+    }
+  },
+  "38922": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38922",
+    "enchantId": "2670",
+    "Name": "Major Agility",
+    "Slot": "TwoHand",
+    "Stats": {
+      "Agility": "35"
+    }
+  },
+  "38923": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38923",
+    "enchantId": "2671",
+    "Name": "Sunfire",
+    "Slot": "OneHand",
+    "Stats": {
+      "SpellFireDamageRating": "50",
+      "SpellArcaneDamageRating": "50"
+    }
+  },
+  "38924": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38924",
+    "enchantId": "2672",
+    "Name": "Soulfrost",
+    "Slot": "OneHand",
+    "Stats": {
+      "SpellShadowDamageRating": "54",
+      "SpellFrostDamageRating": "54"
+    }
+  },
+  "38925": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38925",
+    "enchantId": "2673",
+    "Name": "Mongoose",
+    "Slot": "OneHand",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "MeleeHit",
+          "Stats": {
+            "Agility": "120",
+            "HasteRating": "30"
+          },
+          "Duration": "15",
+          "Cooldown": "0",
+          "Chance": "-1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1"
+    }
+  },
+  "38928": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38928",
+    "enchantId": "1144",
+    "Name": "Major Spirit",
+    "Slot": "Chest",
+    "Stats": {
+      "Spirit": "15"
+    }
+  },
+  "38933": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38933",
+    "enchantId": "684",
+    "Name": "Major Strength",
+    "Slot": "Hands",
+    "Stats": {
+      "Strength": "15"
+    }
+  },
+  "38942": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38942",
+    "enchantId": "1441",
+    "Name": "Greater Shadow Resistance",
+    "Slot": "Back",
+    "Stats": {
+      "ShadowResistance": "15"
+    }
+  },
+  "38943": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38943",
+    "enchantId": "2939",
+    "Name": "Cat's Swiftness",
+    "Slot": "Feet",
+    "Stats": {
+      "Agility": "6",
+      "MovementSpeed": "0.08"
+    }
+  },
+  "38945": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38945",
+    "enchantId": "1071",
+    "Name": "Major Stamina",
+    "Slot": "OffHand",
+    "Stats": {
+      "Stamina": "18"
+    }
+  },
+  "38948": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38948",
+    "enchantId": "3225",
+    "Name": "Executioner",
+    "Slot": "OneHand",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "MeleeHit",
+          "Stats": {
+            "ArmorPenetrationRating": "120"
+          },
+          "Duration": "15",
+          "Cooldown": "0",
+          "Chance": "-1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1"
+    }
+  },
+  "38949": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38949",
+    "enchantId": "3229",
+    "Name": "Resilience",
+    "Slot": "OffHand",
+    "Stats": {
+      "Resilience": "12"
+    }
+  },
+  "38950": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38950",
+    "enchantId": "3230",
+    "Name": "Superior Frost Resistance",
+    "Slot": "Back",
+    "Stats": {
+      "FrostResistance": "20"
+    }
+  },
+  "38951": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38951",
+    "enchantId": "3231",
+    "Name": "Expertise",
+    "Slot": "Hands",
+    "Stats": {
+      "ExpertiseRating": "15"
+    }
+  },
+  "38954": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38954",
+    "enchantId": "1952",
+    "Name": "Defense",
+    "Slot": "OffHand",
+    "Stats": {
+      "DefenseRating": "20"
+    }
+  },
+  "38956": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38956",
+    "enchantId": "1400",
+    "Name": "Superior Nature Resistance",
+    "Slot": "Back",
+    "Stats": {
+      "NatureResistance": "20"
+    }
+  },
+  "38961": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38961",
+    "enchantId": "1147",
+    "Name": "Greater Spirit",
+    "Slot": "Feet",
+    "Stats": {
+      "Spirit": "18"
+    }
+  },
+  "38962": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38962",
+    "enchantId": "2381",
+    "Name": "Greater Mana Restoration",
+    "Slot": "Chest",
+    "Stats": {
+      "Mp5": "10"
+    }
+  },
+  "38963": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38963",
+    "enchantId": "3844",
+    "Name": "Exceptional Spirit",
+    "Slot": "OneHand",
+    "Stats": {
+      "Spirit": "45"
+    }
+  },
+  "38965": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38965",
+    "enchantId": "3239",
+    "Name": "Icebreaker",
+    "Slot": "OneHand",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "MeleeHit",
+          "Stats": {
+            "FireDamage": "200"
+          },
+          "Duration": "0",
+          "Cooldown": "0",
+          "Chance": "-3",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1"
+    }
+  },
+  "38966": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38966",
+    "enchantId": "1075",
+    "Name": "Greater Fortitude",
+    "Slot": "Feet",
+    "Stats": {
+      "Stamina": "22"
+    }
+  },
+  "38967": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38967",
+    "enchantId": "3222",
+    "Name": "Major Agility",
+    "Slot": "Hands",
+    "Stats": {
+      "Agility": "20"
+    }
+  },
+  "38968": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38968",
+    "enchantId": "1119",
+    "Name": "Exceptional Intellect",
+    "Slot": "Wrist",
+    "Stats": {
+      "Intellect": "16"
+    }
+  },
+  "38969": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38969",
+    "enchantId": "1354",
+    "Name": "Superior Fire Resistance",
+    "Slot": "Back",
+    "Stats": {
+      "FireResistance": "20"
+    }
+  },
+  "38973": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38973",
+    "enchantId": "3243",
+    "Name": "Spell Piercing",
+    "Slot": "Back",
+    "Stats": {
+      "SpellPenetration": "35"
+    }
+  },
+  "38974": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38974",
+    "enchantId": "3244",
+    "Name": "Greater Vitality",
+    "Slot": "Feet",
+    "Stats": {
+      "Mp5": "7",
+      "Hp5": "7"
+    }
+  },
+  "38975": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38975",
+    "enchantId": "3245",
+    "Name": "Exceptional Resilience",
+    "Slot": "Chest",
+    "Stats": {
+      "Resilience": "20"
+    }
+  },
+  "38976": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38976",
+    "enchantId": "983",
+    "Name": "Superior Agility",
+    "Slot": "Feet",
+    "Stats": {
+      "Agility": "16"
+    }
+  },
+  "38978": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38978",
+    "enchantId": "1951",
+    "Name": "Titanweave",
+    "Slot": "Back",
+    "Stats": {
+      "DefenseRating": "16"
+    }
+  },
+  "38979": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38979",
+    "enchantId": "3246",
+    "Name": "Exceptional Spellpower",
+    "Slot": "Hands",
+    "Stats": {
+      "SpellPower": "28"
+    }
+  },
+  "38980": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38980",
+    "enchantId": "1147",
+    "Name": "Major Spirit",
+    "Slot": "Wrist",
+    "Stats": {
+      "Spirit": "18"
+    }
+  },
+  "38982": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38982",
+    "enchantId": "1262",
+    "Name": "Superior Arcane Resistance",
+    "Slot": "Back",
+    "Stats": {
+      "ArcaneResistance": "20"
+    }
+  },
+  "38985": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38985",
+    "enchantId": "3249",
+    "Name": "Greater Blasting",
+    "Slot": "Hands",
+    "Stats": {
+      "CritRating": "16"
+    }
+  },
+  "38986": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38986",
+    "enchantId": "3826",
+    "Name": "Icewalker",
+    "Slot": "Feet",
+    "Stats": {
+      "CritRating": "12",
+      "HitRating": "12"
+    }
+  },
+  "38987": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38987",
+    "enchantId": "2661",
+    "Name": "Greater Stats",
+    "Slot": "Wrist",
+    "Stats": {
+      "Agility": "6",
+      "Stamina": "6",
+      "Strength": "6",
+      "Intellect": "6",
+      "Spirit": "6"
+    }
+  },
+  "38990": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38990",
+    "enchantId": "3253",
+    "Name": "Armsman",
+    "Slot": "Hands",
+    "Stats": {
+      "ParryRating": "10",
+      "ThreatIncreaseMultiplier": "0.02"
+    }
+  },
+  "38993": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38993",
+    "enchantId": "3256",
+    "Name": "Shadow Armor",
+    "Slot": "Back",
+    "Stats": {
+      "Agility": "10"
+    }
+  },
+  "38995": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "38995",
+    "enchantId": "1103",
+    "Name": "Exceptional Agility",
+    "Slot": "OneHand",
+    "Stats": {
+      "Agility": "26"
+    }
+  },
+  "39001": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "39001",
+    "enchantId": "3294",
+    "Name": "Mighty Armor",
+    "Slot": "Back",
+    "Stats": {
+      "BonusArmor": "225"
+    }
+  },
+  "39002": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "39002",
+    "enchantId": "1953",
+    "Name": "Greater Defense",
+    "Slot": "Chest",
+    "Stats": {
+      "DefenseRating": "22"
+    }
+  },
+  "39003": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "39003",
+    "enchantId": "3831",
+    "Name": "Greater Speed",
+    "Slot": "Back",
+    "Stats": {
+      "HasteRating": "23"
+    }
+  },
+  "39004": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "39004",
+    "enchantId": "3296",
+    "Name": "Wisdom",
+    "Slot": "Back",
+    "Stats": {
+      "Spirit": "10",
+      "ThreatReductionMultiplier": "0.02"
+    }
+  },
+  "39005": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "39005",
+    "enchantId": "3297",
+    "Name": "Super Health",
+    "Slot": "Chest",
+    "Stats": {
+      "Health": "275"
+    }
+  },
+  "39006": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "39006",
+    "enchantId": "3232",
+    "Name": "Tuskarr's Vitality",
+    "Slot": "Feet",
+    "Stats": {
+      "Stamina": "15",
+      "MovementSpeed": "0.08"
+    }
+  },
+  "41146": {
+    "IconPath": "inv_misc_spyglass_03",
+    "Id": "41146",
+    "enchantId": "3607",
+    "Name": "Sun Scope",
+    "Slot": "Ranged",
+    "Stats": {
+      "RangedHasteRating": "40"
+    }
+  },
+  "41167": {
+    "IconPath": "inv_misc_spyglass_02",
+    "Id": "41167",
+    "enchantId": "3608",
+    "Name": "Heartseeker Scope",
+    "Slot": "Ranged",
+    "Stats": {
+      "RangedCritRating": "40"
+    }
+  },
+  "41602": {
+    "IconPath": "spell_nature_astralrecalgroup",
+    "Id": "41602",
+    "enchantId": "3719",
+    "Name": "Brilliant Spellthread",
+    "Slot": "Legs",
+    "Stats": {
+      "Spirit": "20",
+      "SpellPower": "50"
+    }
+  },
+  "41604": {
+    "IconPath": "spell_nature_astralrecalgroup",
+    "Id": "41604",
+    "enchantId": "3721",
+    "Name": "Sapphire Spellthread",
+    "Slot": "Legs",
+    "Stats": {
+      "Stamina": "30",
+      "SpellPower": "50"
+    }
+  },
+  "41976": {
+    "IconPath": "inv_belt_18",
+    "Id": "41976",
+    "enchantId": "3731",
+    "Name": "Titanium Weapon Chain",
+    "Slot": "OneHand",
+    "Stats": {
+      "HitRating": "28"
+    }
+  },
+  "43987": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "43987",
+    "enchantId": "3790",
+    "Name": "Black Magic",
+    "Slot": "OneHand",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "MangleCatOrShredOrInfectedWoundsHit",
+          "Stats": {
+            "HasteRating": "250"
+          },
+          "Duration": "10",
+          "Cooldown": "35",
+          "Chance": "0.35",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "2"
+    }
+  },
+  "44068": {
+    "IconPath": "spell_holy_powerinfusion",
+    "Id": "44068",
+    "enchantId": "3794",
+    "Name": "Inscription of Dominance",
+    "Slot": "Shoulders",
+    "Stats": {
+      "SpellPower": "23",
+      "Resilience": "15"
+    }
+  },
+  "44069": {
+    "IconPath": "ability_warrior_shieldmastery",
+    "Id": "44069",
+    "enchantId": "3795",
+    "Name": "Arcanum of Triumph",
+    "Slot": "Head",
+    "Stats": {
+      "AttackPower": "50",
+      "Resilience": "20"
+    }
+  },
+  "44075": {
+    "IconPath": "spell_arcane_arcaneresilience",
+    "Id": "44075",
+    "enchantId": "3797",
+    "Name": "Arcanum of Dominance",
+    "Slot": "Head",
+    "Stats": {
+      "SpellPower": "29",
+      "Resilience": "20"
+    }
+  },
+  "44137": {
+    "IconPath": "spell_frost_frozencore",
+    "Id": "44137",
+    "enchantId": "3812",
+    "Name": "Arcanum of the Frosty Soul",
+    "Slot": "Head",
+    "Stats": {
+      "Stamina": "30",
+      "FrostResistance": "25"
+    }
+  },
+  "44138": {
+    "IconPath": "trade_brewpoison",
+    "Id": "44138",
+    "enchantId": "3813",
+    "Name": "Arcanum of Toxic Warding",
+    "Slot": "Head",
+    "Stats": {
+      "Stamina": "30",
+      "NatureResistance": "25"
+    }
+  },
+  "44139": {
+    "IconPath": "ability_paladin_gaurdedbythelight",
+    "Id": "44139",
+    "enchantId": "3814",
+    "Name": "Arcanum of the Fleeing Shadow",
+    "Slot": "Head",
+    "Stats": {
+      "Stamina": "30",
+      "ShadowResistance": "25"
+    }
+  },
+  "44140": {
+    "IconPath": "ability_druid_eclipse",
+    "Id": "44140",
+    "enchantId": "3815",
+    "Name": "Arcanum of the Eclipsed Moon",
+    "Slot": "Head",
+    "Stats": {
+      "Stamina": "30",
+      "ArcaneResistance": "25"
+    }
+  },
+  "44141": {
+    "IconPath": "spell_fire_burnout",
+    "Id": "44141",
+    "enchantId": "3816",
+    "Name": "Arcanum of the Flame's Soul",
+    "Slot": "Head",
+    "Stats": {
+      "Stamina": "30",
+      "FireResistance": "25"
+    }
+  },
+  "44149": {
+    "IconPath": "ability_warrior_rampage",
+    "Id": "44149",
+    "enchantId": "3817",
+    "Name": "Arcanum of Torment",
+    "Slot": "Head",
+    "Stats": {
+      "AttackPower": "50",
+      "CritRating": "20"
+    }
+  },
+  "44150": {
+    "IconPath": "ability_warrior_swordandboard",
+    "Id": "44150",
+    "enchantId": "3818",
+    "Name": "Arcanum of the Stalwart Protector",
+    "Slot": "Head",
+    "Stats": {
+      "Stamina": "37",
+      "DefenseRating": "20"
+    }
+  },
+  "44455": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "44455",
+    "enchantId": "1128",
+    "Name": "Greater Intellect",
+    "Slot": "OffHand",
+    "Stats": {
+      "Intellect": "25"
+    }
+  },
+  "44457": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "44457",
+    "enchantId": "1099",
+    "Name": "Major Agility",
+    "Slot": "Back",
+    "Stats": {
+      "Agility": "22"
+    }
+  },
+  "44458": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "44458",
+    "enchantId": "1603",
+    "Name": "Crusher",
+    "Slot": "Hands",
+    "Stats": {
+      "AttackPower": "44"
+    }
+  },
+  "44463": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "44463",
+    "enchantId": "3827",
+    "Name": "Massacre",
+    "Slot": "TwoHand",
+    "Stats": {
+      "AttackPower": "110"
+    }
+  },
+  "44465": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "44465",
+    "enchantId": "3832",
+    "Name": "Powerful Stats",
+    "Slot": "Chest",
+    "Stats": {
+      "Agility": "10",
+      "Stamina": "10",
+      "Strength": "10",
+      "Intellect": "10",
+      "Spirit": "10"
+    }
+  },
+  "44466": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "44466",
+    "enchantId": "3833",
+    "Name": "Superior Potency",
+    "Slot": "OneHand",
+    "Stats": {
+      "AttackPower": "65"
+    }
+  },
+  "44467": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "44467",
+    "enchantId": "3834",
+    "Name": "Mighty Spellpower",
+    "Slot": "OneHand",
+    "Stats": {
+      "SpellPower": "63"
+    }
+  },
+  "44470": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "44470",
+    "enchantId": "2332",
+    "Name": "Superior Spellpower",
+    "Slot": "Wrist",
+    "Stats": {
+      "SpellPower": "30"
+    }
+  },
+  "44493": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "44493",
+    "enchantId": "3789",
+    "Name": "Berserking",
+    "Slot": "OneHand",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "MeleeHit",
+          "Stats": {
+            "AttackPower": "400",
+            "BonusArmorMultiplier": "-0.05"
+          },
+          "Duration": "15",
+          "Cooldown": "0",
+          "Chance": "-1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1"
+    }
+  },
+  "44739": {
+    "IconPath": "ability_hunter_rapidregeneration",
+    "Id": "44739",
+    "enchantId": "3843",
+    "Name": "Diamond-cut Refractor Scope",
+    "Slot": "Ranged",
+    "Stats": {
+      "ScopeDamage": "15"
+    }
+  },
+  "44815": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "44815",
+    "enchantId": "3845",
+    "Name": "Greater Assault",
+    "Slot": "Wrist",
+    "Stats": {
+      "AttackPower": "50"
+    }
+  },
+  "44871": {
+    "IconPath": "inv_axe_85",
+    "Id": "44871",
+    "enchantId": "3808",
+    "Name": "Greater Inscription of the Axe",
+    "Slot": "Shoulders",
+    "Stats": {
+      "AttackPower": "40",
+      "CritRating": "15"
+    }
+  },
+  "44872": {
+    "IconPath": "spell_arcane_teleportorgrimmar",
+    "Id": "44872",
+    "enchantId": "3809",
+    "Name": "Greater Inscription of the Crag",
+    "Slot": "Shoulders",
+    "Stats": {
+      "SpellPower": "24",
+      "Mp5": "8"
+    }
+  },
+  "44873": {
+    "IconPath": "spell_holy_divinepurpose",
+    "Id": "44873",
+    "enchantId": "3811",
+    "Name": "Greater Inscription of the Pinnacle",
+    "Slot": "Shoulders",
+    "Stats": {
+      "DodgeRating": "20",
+      "DefenseRating": "15"
+    }
+  },
+  "44936": {
+    "IconPath": "inv_shield_19",
+    "Id": "44936",
+    "enchantId": "3849",
+    "Name": "Titanium Plating",
+    "Slot": "OffHand",
+    "Stats": {
+      "BlockValue": "81"
+    }
+  },
+  "44947": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "44947",
+    "enchantId": "3850",
+    "Name": "Major Stamina",
+    "Slot": "Wrist",
+    "Stats": {
+      "Stamina": "40"
+    }
+  },
+  "44957": {
+    "IconPath": "inv_shoulder_61",
+    "Id": "44957",
+    "enchantId": "3852",
+    "Name": "Greater Inscription of the Gladiator",
+    "Slot": "Shoulders",
+    "Stats": {
+      "Stamina": "30",
+      "Resilience": "15"
+    }
+  },
+  "45056": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "45056",
+    "enchantId": "3854",
+    "Name": "Greater Spellpower (Staff)",
+    "Slot": "TwoHand",
+    "Stats": {
+      "SpellPower": "81"
+    }
+  },
+  "46026": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "46026",
+    "enchantId": "3869",
+    "Name": "Blade Ward",
+    "Slot": "OneHand",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "MeleeHit",
+          "Stats": {
+            "ParryRating": "200"
+          },
+          "Duration": "10",
+          "Cooldown": "0",
+          "Chance": "-1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1"
+    }
+  },
+  "46098": {
+    "IconPath": "inv_misc_enchantedscroll",
+    "Id": "46098",
+    "enchantId": "3870",
+    "Name": "Blood Draining",
+    "Slot": "OneHand",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageTaken",
+          "Stats": {
+            "SpecialEffects": {
+              "SpecialEffect": {
+                "Trigger": "MeleeHit",
+                "Stats": {
+                  "HealthRestore": "400"
+                },
+                "Duration": "20",
+                "Cooldown": "0",
+                "Chance": "1",
+                "MaxStack": "5"
+              }
+            },
+            "SpecialEffectCount": "1"
+          },
+          "Duration": "0",
+          "Cooldown": "0",
+          "Chance": "0.35",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1"
+    }
+  },
+  "50338": {
+    "IconPath": "spell_nature_lightningoverload",
+    "Id": "50338",
+    "enchantId": "3810",
+    "Name": "Greater Inscription of the Storm",
+    "Slot": "Shoulders",
+    "Stats": {
+      "SpellPower": "24",
+      "CritRating": "15"
+    }
+  },
+  "50368": {
+    "IconPath": "spell_fire_masterofelements",
+    "Id": "50368",
+    "enchantId": "3820",
+    "Name": "Arcanum of Burning Mysteries",
+    "Slot": "Head",
+    "Stats": {
+      "SpellPower": "30",
+      "CritRating": "20"
+    }
+  },
+  "50370": {
+    "IconPath": "ability_warrior_shieldmastery",
+    "Id": "50370",
+    "enchantId": "3819",
+    "Name": "Arcanum of Blissful Mending",
+    "Slot": "Head",
+    "Stats": {
+      "SpellPower": "30",
+      "Mp5": "10"
+    }
+  },
+  "50372": {
+    "IconPath": "ability_warrior_shieldmastery",
+    "Id": "50372",
+    "enchantId": "3842",
+    "Name": "Arcanum of the Savage Gladiator",
+    "Slot": "Head",
+    "Stats": {
+      "Stamina": "30",
+      "Resilience": "25"
+    }
+  },
+  "": {
+    "Requirements": "engineering",
+    "IconPath": "trade_engineering",
+    "Id": "",
+    "SpellId": "54998",
+    "enchantId": "3603",
+    "Name": "Hand-Mounted Pyro Rocket",
+    "Slot": "Hands",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "Use",
+          "Stats": {
+            "FireDamage": "1837"
+          },
+          "Duration": "0",
+          "Cooldown": "45",
+          "Chance": "1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1"
+    }
+  }
+}

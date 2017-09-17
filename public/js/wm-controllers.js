@@ -1,0 +1,1 @@
+!function(t,e,n){"use strict";wmApp.controller("homeCtrl",["$scope",function(t){t.testHome="in home ctrl"}]),wmApp.controller("indexCtrl",["$scope",function(t){t.testIndex="index"}]),wmApp.controller("stylesCtrl",["$scope",function(t){t.testStyles="in styles ctrl"}])}(window,document);

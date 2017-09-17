@@ -1,0 +1,4510 @@
+{
+  "37141": {
+    "ItemLevel": "200",
+    "DisplayId": "35437",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_30naxxramas",
+    "Stats": {
+      "Stamina": "51",
+      "Intellect": "34",
+      "SpellPower": "50",
+      "Mp5": "18"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Amulet of Dazzling Light",
+    "Id": "37141",
+    "Slot": "Neck"
+  },
+  "37290": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_ahnqiraj_03",
+    "Stats": {
+      "Stamina": "31",
+      "Intellect": "33",
+      "Spirit": "43",
+      "SpellPower": "50"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Dragon Prow Amulet",
+    "Id": "37290",
+    "Slot": "Neck"
+  },
+  "37397": {
+    "ItemLevel": "200",
+    "DisplayId": "4841",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_amulet_03",
+    "Stats": {
+      "Stamina": "57",
+      "Strength": "47",
+      "CritRating": "43"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Gold Amulet of Kings",
+    "Id": "37397",
+    "Slot": "Neck"
+  },
+  "37595": {
+    "ItemLevel": "200",
+    "DisplayId": "31899",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_17",
+    "Stats": {
+      "Stamina": "43",
+      "Intellect": "28",
+      "SpellPower": "50",
+      "HitRating": "43"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Necklace of Taldaram",
+    "Id": "37595",
+    "Slot": "Neck"
+  },
+  "37646": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "spell_fire_totemofwrath",
+    "Stats": {
+      "Stamina": "63",
+      "Strength": "44",
+      "BlockValue": "87",
+      "DefenseRating": "28"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Burning Skull Pendant",
+    "Id": "37646",
+    "Slot": "Neck"
+  },
+  "37683": {
+    "ItemLevel": "200",
+    "DisplayId": "9852",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_04",
+    "Stats": {
+      "Stamina": "24",
+      "Intellect": "41",
+      "Spirit": "42",
+      "SpellPower": "50"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Necromancer's Amulet",
+    "Id": "37683",
+    "Slot": "Neck"
+  },
+  "37689": {
+    "ItemLevel": "200",
+    "DisplayId": "48511",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_43",
+    "Stats": {
+      "Stamina": "64",
+      "Strength": "43",
+      "ParryRating": "31",
+      "DefenseRating": "25"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Pendant of the Nathrezim",
+    "Id": "37689",
+    "Slot": "Neck"
+  },
+  "37861": {
+    "ItemLevel": "200",
+    "DisplayId": "31603",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_16",
+    "Stats": {
+      "Agility": "29",
+      "Stamina": "45",
+      "AttackPower": "86",
+      "CritRating": "42"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Necklace of Arcane Spheres",
+    "Id": "37861",
+    "Slot": "Neck"
+  },
+  "39146": {
+    "ItemLevel": "200",
+    "DisplayId": "35373",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_27naxxramas",
+    "Stats": {
+      "Agility": "36",
+      "Stamina": "29",
+      "AttackPower": "100",
+      "HitRating": "24",
+      "ExpertiseRating": "38"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Collar of Dissolution",
+    "Id": "39146",
+    "Slot": "Neck"
+  },
+  "39232": {
+    "ItemLevel": "200",
+    "DisplayId": "35358",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_29naxxramas",
+    "Stats": {
+      "Stamina": "31",
+      "Intellect": "41",
+      "SpellPower": "57",
+      "HasteRating": "36",
+      "Mp5": "15"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Pendant of Lost Vocations",
+    "Id": "39232",
+    "Slot": "Neck"
+  },
+  "39246": {
+    "ItemLevel": "200",
+    "DisplayId": "35437",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_30naxxramas",
+    "Stats": {
+      "BonusArmor": "350",
+      "Stamina": "75",
+      "Strength": "50",
+      "DodgeRating": "27",
+      "DefenseRating": "25"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Amulet of Autopsy",
+    "Id": "39246",
+    "Slot": "Neck"
+  },
+  "39282": {
+    "ItemLevel": "200",
+    "DisplayId": "35373",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_27naxxramas",
+    "Stats": {
+      "Stamina": "28",
+      "Intellect": "33",
+      "Spirit": "25",
+      "SpellPower": "57",
+      "CritRating": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Bone-Linked Amulet",
+    "Id": "39282",
+    "Slot": "Neck"
+  },
+  "39392": {
+    "ItemLevel": "200",
+    "DisplayId": "35437",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_30naxxramas",
+    "Stats": {
+      "Stamina": "36",
+      "Intellect": "38",
+      "Spirit": "34",
+      "SpellPower": "59",
+      "HasteRating": "33"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Veiled Amulet of Life",
+    "Id": "39392",
+    "Slot": "Neck"
+  },
+  "39421": {
+    "ItemLevel": "213",
+    "DisplayId": "35373",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_27naxxramas",
+    "Stats": {
+      "Agility": "32",
+      "Stamina": "55",
+      "AttackPower": "112",
+      "CritRating": "41",
+      "HasteRating": "38"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Gem of Imprisoned Vassals",
+    "Id": "39421",
+    "Slot": "Neck"
+  },
+  "39470": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_28naxxramas",
+    "Stats": {
+      "Stamina": "75",
+      "Strength": "48",
+      "BlockRating": "26",
+      "BlockValue": "81",
+      "DefenseRating": "27"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Medallion of the Disgraced",
+    "Id": "39470",
+    "Slot": "Neck"
+  },
+  "39472": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_30naxxramas",
+    "Stats": {
+      "Stamina": "42",
+      "Intellect": "33",
+      "SpellPower": "59",
+      "HitRating": "34",
+      "HasteRating": "36"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Chain of Latent Energies",
+    "Id": "39472",
+    "Slot": "Neck"
+  },
+  "40064": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_30naxxramas",
+    "Stats": {
+      "Stamina": "55",
+      "Intellect": "43",
+      "Spirit": "38",
+      "SpellPower": "65",
+      "HitRating": "28"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Thunderstorm Amulet",
+    "Id": "40064",
+    "Slot": "Neck"
+  },
+  "40065": {
+    "ItemLevel": "213",
+    "DisplayId": "35358",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_29naxxramas",
+    "Stats": {
+      "Agility": "38",
+      "Stamina": "55",
+      "AttackPower": "112",
+      "CritRating": "43",
+      "HitRating": "28"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Fool's Trial",
+    "Id": "40065",
+    "Slot": "Neck"
+  },
+  "40069": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_27naxxramas",
+    "Stats": {
+      "Stamina": "84",
+      "Strength": "43",
+      "HitRating": "28",
+      "DodgeRating": "41",
+      "DefenseRating": "32"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Heritage",
+    "Id": "40069",
+    "Slot": "Neck"
+  },
+  "40071": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_28naxxramas",
+    "Stats": {
+      "Stamina": "42",
+      "Intellect": "43",
+      "SpellPower": "66",
+      "HasteRating": "32",
+      "Mp5": "20"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Chains of Adoration",
+    "Id": "40071",
+    "Slot": "Neck"
+  },
+  "40369": {
+    "ItemLevel": "213",
+    "DisplayId": "35437",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_30naxxramas",
+    "Stats": {
+      "Agility": "56",
+      "Stamina": "32",
+      "AttackPower": "82",
+      "CritRating": "28",
+      "HasteRating": "43"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Icy Blast Amulet",
+    "Id": "40369",
+    "Slot": "Neck"
+  },
+  "40374": {
+    "ItemLevel": "213",
+    "DisplayId": "35373",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_27naxxramas",
+    "Stats": {
+      "Stamina": "48",
+      "Intellect": "38",
+      "SpellPower": "65",
+      "CritRating": "37",
+      "HasteRating": "41"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Cosmic Lights",
+    "Id": "40374",
+    "Slot": "Neck"
+  },
+  "40378": {
+    "ItemLevel": "213",
+    "DisplayId": "35358",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_29naxxramas",
+    "Stats": {
+      "Stamina": "42",
+      "Intellect": "41",
+      "SpellPower": "66",
+      "CritRating": "43",
+      "Mp5": "16"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Ceaseless Pity",
+    "Id": "40378",
+    "Slot": "Neck"
+  },
+  "40387": {
+    "ItemLevel": "226",
+    "DisplayId": "35373",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_27naxxramas",
+    "Stats": {
+      "BonusArmor": "336",
+      "Stamina": "94",
+      "Strength": "49",
+      "DefenseRating": "46",
+      "ExpertiseRating": "31"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Boundless Ambition",
+    "Id": "40387",
+    "Slot": "Neck"
+  },
+  "40412": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_28naxxramas",
+    "Stats": {
+      "Stamina": "55",
+      "Intellect": "38",
+      "Spirit": "56",
+      "SpellPower": "50",
+      "CritRating": "28"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Ousted Bead Necklace",
+    "Id": "40412",
+    "Slot": "Neck"
+  },
+  "40427": {
+    "ItemLevel": "200",
+    "DisplayId": "53194",
+    "DisplaySlot": "2",
+    "IconPath": "spell_arcane_blast",
+    "Stats": {
+      "Stamina": "48",
+      "Intellect": "37",
+      "SpellPower": "53",
+      "CritRating": "35",
+      "HitRating": "31"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Circle of Arcane Streams",
+    "Id": "40427",
+    "Slot": "Neck"
+  },
+  "40486": {
+    "ItemLevel": "213",
+    "DisplayId": "39212",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_32",
+    "Stats": {
+      "Stamina": "51",
+      "Intellect": "34",
+      "Spirit": "38",
+      "SpellPower": "69",
+      "CritRating": "37"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Necklace of the Glittering Chamber",
+    "Id": "40486",
+    "Slot": "Neck"
+  },
+  "40678": {
+    "ItemLevel": "200",
+    "DisplayId": "35358",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_29naxxramas",
+    "Stats": {
+      "Agility": "45",
+      "Stamina": "51",
+      "AttackPower": "100",
+      "CritRating": "38"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Pendant of the Outcast Hero",
+    "Id": "40678",
+    "Slot": "Neck"
+  },
+  "40679": {
+    "ItemLevel": "200",
+    "DisplayId": "35437",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_30naxxramas",
+    "Stats": {
+      "Stamina": "75",
+      "Strength": "41",
+      "HitRating": "21",
+      "DodgeRating": "32",
+      "DefenseRating": "33"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Chained Military Gorget",
+    "Id": "40679",
+    "Slot": "Neck"
+  },
+  "40680": {
+    "ItemLevel": "200",
+    "DisplayId": "35373",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_27naxxramas",
+    "Stats": {
+      "Stamina": "49",
+      "Intellect": "38",
+      "Spirit": "34",
+      "SpellPower": "59",
+      "HitRating": "25"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Encircling Burnished Gold Chains",
+    "Id": "40680",
+    "Slot": "Neck"
+  },
+  "40681": {
+    "ItemLevel": "200",
+    "DisplayId": "35359",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_28naxxramas",
+    "Stats": {
+      "Stamina": "37",
+      "Intellect": "38",
+      "SpellPower": "59",
+      "CritRating": "34",
+      "Mp5": "16"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Lattice Choker of Light",
+    "Id": "40681",
+    "Slot": "Neck"
+  },
+  "42027": {
+    "ItemLevel": "213",
+    "DisplayId": "39162",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "84",
+      "AttackPower": "112",
+      "CritRating": "38",
+      "Resilience": "37"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Deadly Gladiator's Pendant of Triumph",
+    "Id": "42027",
+    "Slot": "Neck"
+  },
+  "42028": {
+    "ItemLevel": "213",
+    "DisplayId": "39162",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "84",
+      "AttackPower": "112",
+      "HitRating": "38",
+      "Resilience": "37"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Deadly Gladiator's Pendant of Victory",
+    "Id": "42028",
+    "Slot": "Neck"
+  },
+  "42029": {
+    "ItemLevel": "213",
+    "DisplayId": "39162",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "66",
+      "Intellect": "29",
+      "SpellPower": "66",
+      "CritRating": "38",
+      "Resilience": "37"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Deadly Gladiator's Pendant of Dominance",
+    "Id": "42029",
+    "Slot": "Neck"
+  },
+  "42030": {
+    "ItemLevel": "213",
+    "DisplayId": "39162",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "66",
+      "Intellect": "29",
+      "SpellPower": "66",
+      "HitRating": "38",
+      "Resilience": "37"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Deadly Gladiator's Pendant of Ascendancy",
+    "Id": "42030",
+    "Slot": "Neck"
+  },
+  "42031": {
+    "ItemLevel": "213",
+    "DisplayId": "39162",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "66",
+      "Intellect": "29",
+      "SpellPower": "66",
+      "Resilience": "37",
+      "HasteRating": "38"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Deadly Gladiator's Pendant of Subjugation",
+    "Id": "42031",
+    "Slot": "Neck"
+  },
+  "42032": {
+    "ItemLevel": "213",
+    "DisplayId": "39162",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "66",
+      "Intellect": "29",
+      "Spirit": "38",
+      "SpellPower": "66",
+      "Resilience": "37"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Deadly Gladiator's Pendant of Deliverance",
+    "Id": "42032",
+    "Slot": "Neck"
+  },
+  "42033": {
+    "ItemLevel": "213",
+    "DisplayId": "39162",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "66",
+      "Intellect": "29",
+      "SpellPower": "66",
+      "Resilience": "37",
+      "Mp5": "19"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Deadly Gladiator's Pendant of Salvation",
+    "Id": "42033",
+    "Slot": "Neck"
+  },
+  "42034": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "94",
+      "AttackPower": "126",
+      "CritRating": "42",
+      "Resilience": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Furious Gladiator's Pendant of Triumph",
+    "Id": "42034",
+    "Slot": "Neck"
+  },
+  "42035": {
+    "ItemLevel": "226",
+    "DisplayId": "39162",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "94",
+      "AttackPower": "126",
+      "HitRating": "42",
+      "Resilience": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Furious Gladiator's Pendant of Victory",
+    "Id": "42035",
+    "Slot": "Neck"
+  },
+  "42036": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "73",
+      "Intellect": "31",
+      "SpellPower": "73",
+      "CritRating": "42",
+      "Resilience": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Furious Gladiator's Pendant of Dominance",
+    "Id": "42036",
+    "Slot": "Neck"
+  },
+  "42037": {
+    "ItemLevel": "226",
+    "DisplayId": "39162",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "73",
+      "Intellect": "31",
+      "SpellPower": "73",
+      "HitRating": "42",
+      "Resilience": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Furious Gladiator's Pendant of Ascendancy",
+    "Id": "42037",
+    "Slot": "Neck"
+  },
+  "42038": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "73",
+      "Intellect": "31",
+      "SpellPower": "73",
+      "Resilience": "42",
+      "HasteRating": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Furious Gladiator's Pendant of Subjugation",
+    "Id": "42038",
+    "Slot": "Neck"
+  },
+  "42039": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "73",
+      "Intellect": "31",
+      "Spirit": "42",
+      "SpellPower": "73",
+      "Resilience": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Furious Gladiator's Pendant of Deliverance",
+    "Id": "42039",
+    "Slot": "Neck"
+  },
+  "42040": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "73",
+      "Intellect": "31",
+      "SpellPower": "73",
+      "Resilience": "42",
+      "Mp5": "21"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Furious Gladiator's Pendant of Salvation",
+    "Id": "42040",
+    "Slot": "Neck"
+  },
+  "42041": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "114",
+      "AttackPower": "151",
+      "CritRating": "50",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Relentless Gladiator's Pendant of Triumph",
+    "Id": "42041",
+    "Slot": "Neck"
+  },
+  "42042": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "114",
+      "AttackPower": "151",
+      "HitRating": "50",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Relentless Gladiator's Pendant of Victory",
+    "Id": "42042",
+    "Slot": "Neck"
+  },
+  "42043": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "86",
+      "Intellect": "38",
+      "SpellPower": "89",
+      "CritRating": "50",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Relentless Gladiator's Pendant of Dominance",
+    "Id": "42043",
+    "Slot": "Neck"
+  },
+  "42044": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "86",
+      "Intellect": "38",
+      "SpellPower": "89",
+      "HitRating": "50",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Relentless Gladiator's Pendant of Ascendancy",
+    "Id": "42044",
+    "Slot": "Neck"
+  },
+  "42045": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "86",
+      "Intellect": "38",
+      "SpellPower": "89",
+      "Resilience": "50",
+      "HasteRating": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Relentless Gladiator's Pendant of Subjugation",
+    "Id": "42045",
+    "Slot": "Neck"
+  },
+  "42046": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "86",
+      "Intellect": "38",
+      "Spirit": "50",
+      "SpellPower": "89",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Relentless Gladiator's Pendant of Deliverance",
+    "Id": "42046",
+    "Slot": "Neck"
+  },
+  "42047": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "86",
+      "Intellect": "38",
+      "SpellPower": "89",
+      "Resilience": "50",
+      "Mp5": "25"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Relentless Gladiator's Pendant of Salvation",
+    "Id": "42047",
+    "Slot": "Neck"
+  },
+  "42645": {
+    "ItemLevel": "200",
+    "DisplayId": "32008",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_14",
+    "Stats": {
+      "Agility": "33",
+      "Stamina": "51",
+      "AttackPower": "84",
+      "ArmorPenetrationRating": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Titanium Impact Choker",
+    "Id": "42645",
+    "Slot": "Neck"
+  },
+  "42646": {
+    "ItemLevel": "200",
+    "DisplayId": "53566",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_33",
+    "Stats": {
+      "BonusArmor": "350",
+      "Stamina": "63",
+      "Strength": "49",
+      "DefenseRating": "34"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Titanium Earthguard Chain",
+    "Id": "42646",
+    "Slot": "Neck"
+  },
+  "42647": {
+    "ItemLevel": "200",
+    "DisplayId": "39214",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_35",
+    "Stats": {
+      "Stamina": "43",
+      "Intellect": "36",
+      "SpellPower": "49",
+      "CritRating": "41"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Intellect": "4"
+    },
+    "Name": "Titanium Spellshock Necklace",
+    "Id": "42647",
+    "Slot": "Neck"
+  },
+  "43282": {
+    "ItemLevel": "200",
+    "DisplayId": "33906",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_ahnqiraj_03",
+    "Stats": {
+      "Stamina": "66",
+      "Strength": "42",
+      "DodgeRating": "21",
+      "DefenseRating": "33"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Shadowseeker's Pendant",
+    "Id": "43282",
+    "Slot": "Neck"
+  },
+  "43285": {
+    "ItemLevel": "200",
+    "DisplayId": "34204",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_ahnqiraj_01",
+    "Stats": {
+      "Stamina": "40",
+      "Intellect": "31",
+      "SpellPower": "50",
+      "CritRating": "42"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Amulet of the Spell Flinger",
+    "Id": "43285",
+    "Slot": "Neck"
+  },
+  "43404": {
+    "ItemLevel": "200",
+    "DisplayId": "39212",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_32",
+    "Stats": {
+      "Stamina": "64",
+      "Intellect": "28",
+      "Spirit": "29",
+      "SpellPower": "50"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Zuramat's Necklace",
+    "Id": "43404",
+    "Slot": "Neck"
+  },
+  "43992": {
+    "ItemLevel": "200",
+    "DisplayId": "48510",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_41",
+    "Stats": {
+      "Stamina": "37",
+      "Intellect": "38",
+      "SpellPower": "49",
+      "CritRating": "26",
+      "Mp5": "16"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Volitant Amulet",
+    "Id": "43992",
+    "Slot": "Neck"
+  },
+  "44657": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_17",
+    "Stats": {
+      "Stamina": "42",
+      "Intellect": "43",
+      "SpellPower": "56",
+      "CritRating": "30",
+      "Mp5": "19"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Torque of the Red Dragonflight",
+    "Id": "44657",
+    "Slot": "Neck"
+  },
+  "44658": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_32",
+    "Stats": {
+      "Stamina": "42",
+      "Intellect": "43",
+      "SpellPower": "56",
+      "HitRating": "30",
+      "HasteRating": "37"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Chain of the Ancient Wyrm",
+    "Id": "44658",
+    "Slot": "Neck"
+  },
+  "44659": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_15",
+    "Stats": {
+      "Agility": "38",
+      "Stamina": "55",
+      "AttackPower": "96",
+      "ArmorPenetrationRating": "28",
+      "CritRating": "35"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "AttackPower": "8"
+    },
+    "Name": "Pendant of the Dragonsworn",
+    "Id": "44659",
+    "Slot": "Neck"
+  },
+  "44660": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_05",
+    "Stats": {
+      "Stamina": "72",
+      "Strength": "56",
+      "ParryRating": "30",
+      "BlockRating": "24",
+      "DefenseRating": "25"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Drakescale Collar",
+    "Id": "44660",
+    "Slot": "Neck"
+  },
+  "44661": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_amulet_05",
+    "Stats": {
+      "Stamina": "46",
+      "Intellect": "48",
+      "SpellPower": "64",
+      "HitRating": "33",
+      "HasteRating": "43"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Wyrmrest Necklace of Power",
+    "Id": "44661",
+    "Slot": "Neck"
+  },
+  "44662": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_talisman_09",
+    "Stats": {
+      "Stamina": "46",
+      "Intellect": "48",
+      "SpellPower": "64",
+      "CritRating": "35",
+      "Mp5": "20"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Life-Binder's Locket",
+    "Id": "44662",
+    "Slot": "Neck"
+  },
+  "44664": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_34",
+    "Stats": {
+      "Agility": "42",
+      "Stamina": "63",
+      "AttackPower": "110",
+      "ArmorPenetrationRating": "31",
+      "CritRating": "41"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "AttackPower": "8"
+    },
+    "Name": "Favor of the Dragon Queen",
+    "Id": "44664",
+    "Slot": "Neck"
+  },
+  "44665": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_02",
+    "Stats": {
+      "Stamina": "94",
+      "Strength": "63",
+      "ParryRating": "34",
+      "BlockRating": "28",
+      "DefenseRating": "28"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Nexus War Champion Beads",
+    "Id": "44665",
+    "Slot": "Neck"
+  },
+  "45116": {
+    "ItemLevel": "226",
+    "DisplayId": "35358",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_29naxxramas",
+    "Stats": {
+      "Stamina": "49",
+      "Intellect": "46",
+      "SpellPower": "74",
+      "HasteRating": "39",
+      "Mp5": "23"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Freya's Choker of Warding",
+    "Id": "45116",
+    "Slot": "Neck"
+  },
+  "45133": {
+    "ItemLevel": "239",
+    "DisplayId": "39211",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_31",
+    "Stats": {
+      "Stamina": "61",
+      "Intellect": "51",
+      "SpellPower": "75",
+      "HitRating": "46",
+      "HasteRating": "41"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Pendant of Fiery Havoc",
+    "Id": "45133",
+    "Slot": "Neck"
+  },
+  "45152": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_16",
+    "Stats": {
+      "Stamina": "57",
+      "Strength": "43",
+      "ArmorPenetrationRating": "47"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Pendant of Azure Dreams",
+    "Id": "45152",
+    "Slot": "Neck"
+  },
+  "45153": {
+    "ItemLevel": "200",
+    "DisplayId": "34318",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_20",
+    "Stats": {
+      "Agility": "47",
+      "Stamina": "38",
+      "AttackPower": "86",
+      "HasteRating": "26"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Susurrating Shell Necklace",
+    "Id": "45153",
+    "Slot": "Neck"
+  },
+  "45154": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_15",
+    "Stats": {
+      "Stamina": "33",
+      "Intellect": "21",
+      "Spirit": "50",
+      "SpellPower": "50"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Necklace of Valiant Blood",
+    "Id": "45154",
+    "Slot": "Neck"
+  },
+  "45155": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_31",
+    "Stats": {
+      "Stamina": "42",
+      "Intellect": "29",
+      "SpellPower": "52",
+      "HitRating": "43"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Choker of Spiral Focus",
+    "Id": "45155",
+    "Slot": "Neck"
+  },
+  "45193": {
+    "ItemLevel": "226",
+    "DisplayId": "39209",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_33",
+    "Stats": {
+      "Stamina": "72",
+      "Strength": "72",
+      "CritRating": "46",
+      "HasteRating": "36"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Insurmountable Fervor",
+    "Id": "45193",
+    "Slot": "Neck"
+  },
+  "45206": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_09",
+    "Stats": {
+      "Agility": "47",
+      "Stamina": "38",
+      "AttackPower": "86",
+      "HasteRating": "26"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Choker of Feral Fury",
+    "Id": "45206",
+    "Slot": "Neck"
+  },
+  "45207": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_19",
+    "Stats": {
+      "Stamina": "42",
+      "Intellect": "29",
+      "SpellPower": "52",
+      "HitRating": "43"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Necklace of Stolen Skulls",
+    "Id": "45207",
+    "Slot": "Neck"
+  },
+  "45213": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_42",
+    "Stats": {
+      "Stamina": "33",
+      "Intellect": "21",
+      "Spirit": "50",
+      "SpellPower": "50"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Pendant of Emerald Crusader",
+    "Id": "45213",
+    "Slot": "Neck"
+  },
+  "45223": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_34",
+    "Stats": {
+      "Stamina": "57",
+      "Strength": "43",
+      "ArmorPenetrationRating": "47"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Razor's Edge Pendant",
+    "Id": "45223",
+    "Slot": "Neck"
+  },
+  "45236": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_gem_lionseye_01",
+    "Stats": {
+      "Stamina": "46",
+      "Intellect": "43",
+      "Spirit": "41",
+      "SpellPower": "74",
+      "CritRating": "49"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Unblinking Eye",
+    "Id": "45236",
+    "Slot": "Neck"
+  },
+  "45243": {
+    "ItemLevel": "239",
+    "DisplayId": "35437",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_30naxxramas",
+    "Stats": {
+      "Stamina": "70",
+      "Intellect": "48",
+      "Spirit": "47",
+      "SpellPower": "75",
+      "HasteRating": "35"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Spirit": "4"
+    },
+    "Name": "Sapphire Amulet of Renewal",
+    "Id": "45243",
+    "Slot": "Neck"
+  },
+  "45262": {
+    "ItemLevel": "226",
+    "DisplayId": "48510",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_41",
+    "Stats": {
+      "Stamina": "94",
+      "Strength": "63",
+      "BlockRating": "28",
+      "BlockValue": "84",
+      "DefenseRating": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Necklace of Unerring Mettle",
+    "Id": "45262",
+    "Slot": "Neck"
+  },
+  "45285": {
+    "ItemLevel": "219",
+    "DisplayId": "9860",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_09",
+    "Stats": {
+      "Stamina": "67",
+      "Strength": "68",
+      "ArmorPenetrationRating": "43",
+      "HitRating": "34"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Might of the Leviathan",
+    "Id": "45285",
+    "Slot": "Neck"
+  },
+  "45443": {
+    "ItemLevel": "239",
+    "DisplayId": "7271",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_amulet_02",
+    "Stats": {
+      "Stamina": "61",
+      "Intellect": "51",
+      "SpellPower": "75",
+      "HasteRating": "40",
+      "Mp5": "24"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Charm of Meticulous Timing",
+    "Id": "45443",
+    "Slot": "Neck"
+  },
+  "45447": {
+    "ItemLevel": "226",
+    "DisplayId": "44703",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_ring_45",
+    "Stats": {
+      "Stamina": "51",
+      "Intellect": "36",
+      "Spirit": "37",
+      "SpellPower": "74",
+      "HasteRating": "40"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "CritRating": "4"
+    },
+    "Name": "Watchful Eye of Fate",
+    "Id": "45447",
+    "Slot": "Neck"
+  },
+  "45459": {
+    "ItemLevel": "239",
+    "DisplayId": "9852",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_04",
+    "Stats": {
+      "Stamina": "81",
+      "Strength": "74",
+      "ArmorPenetrationRating": "48",
+      "HitRating": "40"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Frigid Strength of Hodir",
+    "Id": "45459",
+    "Slot": "Neck"
+  },
+  "45480": {
+    "ItemLevel": "226",
+    "DisplayId": "9858",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_10",
+    "Stats": {
+      "Agility": "63",
+      "Stamina": "63",
+      "AttackPower": "92",
+      "HitRating": "36",
+      "HasteRating": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Nymph Heart Charm",
+    "Id": "45480",
+    "Slot": "Neck"
+  },
+  "45485": {
+    "ItemLevel": "239",
+    "DisplayId": "48507",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_47",
+    "Stats": {
+      "Stamina": "96",
+      "Strength": "71",
+      "DodgeRating": "30",
+      "ParryRating": "37",
+      "DefenseRating": "37"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Bronze Pendant of the Vanir",
+    "Id": "45485",
+    "Slot": "Neck"
+  },
+  "45517": {
+    "ItemLevel": "239",
+    "DisplayId": "54999",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_45",
+    "Stats": {
+      "Agility": "64",
+      "Stamina": "70",
+      "AttackPower": "86",
+      "CritRating": "48",
+      "HasteRating": "41"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Pendulum of Infinity",
+    "Id": "45517",
+    "Slot": "Neck"
+  },
+  "45538": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_15",
+    "Stats": {
+      "Stamina": "94",
+      "Strength": "46",
+      "DodgeRating": "43",
+      "DefenseRating": "41",
+      "ExpertiseRating": "36"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Titanstone Pendant",
+    "Id": "45538",
+    "Slot": "Neck"
+  },
+  "45539": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_40",
+    "Stats": {
+      "Stamina": "63",
+      "Intellect": "42",
+      "Spirit": "36",
+      "SpellPower": "74",
+      "HitRating": "46"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Pendant of Focused Energies",
+    "Id": "45539",
+    "Slot": "Neck"
+  },
+  "45696": {
+    "ItemLevel": "219",
+    "DisplayId": "31907",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_18",
+    "Stats": {
+      "BonusArmor": "336",
+      "Stamina": "88",
+      "Strength": "60",
+      "DodgeRating": "37",
+      "DefenseRating": "41"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Mark of the Unyielding",
+    "Id": "45696",
+    "Slot": "Neck"
+  },
+  "45699": {
+    "ItemLevel": "219",
+    "DisplayId": "48509",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_44",
+    "Stats": {
+      "Stamina": "47",
+      "Intellect": "45",
+      "SpellPower": "69",
+      "HitRating": "46",
+      "HasteRating": "29"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Pendant of the Piercing Glare",
+    "Id": "45699",
+    "Slot": "Neck"
+  },
+  "45812": {
+    "ItemLevel": "200",
+    "DisplayId": "51280",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_24",
+    "Stats": {
+      "Stamina": "64",
+      "AttackPower": "86",
+      "CritRating": "28",
+      "Resilience": "29"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Emerald Choker",
+    "Id": "45812",
+    "Slot": "Neck"
+  },
+  "45813": {
+    "ItemLevel": "200",
+    "DisplayId": "31603",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_16",
+    "Stats": {
+      "Stamina": "42",
+      "Intellect": "29",
+      "SpellPower": "50",
+      "CritRating": "28",
+      "Resilience": "29"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Sky Sapphire Amulet",
+    "Id": "45813",
+    "Slot": "Neck"
+  },
+  "45819": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_42",
+    "Stats": {
+      "Stamina": "93",
+      "Strength": "65",
+      "CritRating": "36",
+      "HitRating": "45"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Spiked Battleguard Choker",
+    "Id": "45819",
+    "Slot": "Neck"
+  },
+  "45820": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_40",
+    "Stats": {
+      "Agility": "63",
+      "Stamina": "69",
+      "AttackPower": "84",
+      "ArmorPenetrationRating": "46",
+      "CritRating": "36"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Broach of the Wailing Night",
+    "Id": "45820",
+    "Slot": "Neck"
+  },
+  "45821": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_47",
+    "Stats": {
+      "Stamina": "94",
+      "Strength": "42",
+      "HitRating": "42",
+      "DodgeRating": "43",
+      "DefenseRating": "41"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Shard of the Crystal Forest",
+    "Id": "45821",
+    "Slot": "Neck"
+  },
+  "45822": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_41",
+    "Stats": {
+      "Stamina": "63",
+      "Intellect": "43",
+      "Spirit": "41",
+      "SpellPower": "74",
+      "HasteRating": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Evoker's Charm",
+    "Id": "45822",
+    "Slot": "Neck"
+  },
+  "45823": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_amulet_04",
+    "Stats": {
+      "Stamina": "63",
+      "Intellect": "43",
+      "SpellPower": "74",
+      "CritRating": "41",
+      "Mp5": "21"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Frozen Tear of Elune",
+    "Id": "45823",
+    "Slot": "Neck"
+  },
+  "45933": {
+    "ItemLevel": "226",
+    "DisplayId": "59307",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_46",
+    "Stats": {
+      "Stamina": "45",
+      "Intellect": "43",
+      "SpellPower": "74",
+      "CritRating": "41",
+      "HasteRating": "31"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "CritRating": "4"
+    },
+    "Name": "Pendant of the Shallow Grave",
+    "Id": "45933",
+    "Slot": "Neck"
+  },
+  "45945": {
+    "ItemLevel": "226",
+    "DisplayId": "59308",
+    "DisplaySlot": "2",
+    "IconPath": "spell_nature_wispsplodegreen",
+    "Stats": {
+      "Agility": "57",
+      "Stamina": "54",
+      "AttackPower": "92",
+      "ArmorPenetrationRating": "38",
+      "HitRating": "32"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "HitRating": "4"
+    },
+    "Name": "Seed of Budding Carnage",
+    "Id": "45945",
+    "Slot": "Neck"
+  },
+  "45995": {
+    "ItemLevel": "200",
+    "DisplayId": "35359",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_28naxxramas",
+    "Stats": "none",
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Forgotten Necklace",
+    "Id": "45995",
+    "Slot": "Neck"
+  },
+  "46008": {
+    "ItemLevel": "219",
+    "DisplayId": "34034",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_22",
+    "Stats": {
+      "Agility": "60",
+      "Stamina": "51",
+      "AttackPower": "54",
+      "CritRating": "46",
+      "HasteRating": "43"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Choker of the Abyss",
+    "Id": "46008",
+    "Slot": "Neck"
+  },
+  "46015": {
+    "ItemLevel": "219",
+    "DisplayId": "31899",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_17",
+    "Stats": {
+      "Stamina": "58",
+      "Intellect": "40",
+      "SpellPower": "70",
+      "CritRating": "29",
+      "Mp5": "23"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Pendant of Endless Despair",
+    "Id": "46015",
+    "Slot": "Neck"
+  },
+  "46022": {
+    "ItemLevel": "219",
+    "DisplayId": "34274",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_ahnqiraj_02",
+    "Stats": {
+      "Stamina": "68",
+      "Strength": "67",
+      "CritRating": "43",
+      "HitRating": "35"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Pendant of a Thousand Maws",
+    "Id": "46022",
+    "Slot": "Neck"
+  },
+  "46040": {
+    "ItemLevel": "226",
+    "DisplayId": "48507",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_47",
+    "Stats": {
+      "Stamina": "72",
+      "Strength": "66",
+      "CritRating": "42",
+      "HasteRating": "36"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "HitRating": "4"
+    },
+    "Name": "Strength of the Heavens",
+    "Id": "46040",
+    "Slot": "Neck"
+  },
+  "46047": {
+    "ItemLevel": "226",
+    "DisplayId": "48508",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_42",
+    "Stats": {
+      "Stamina": "54",
+      "Intellect": "46",
+      "SpellPower": "66",
+      "CritRating": "36",
+      "Mp5": "19"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Pendant of the Somber Witness",
+    "Id": "46047",
+    "Slot": "Neck"
+  },
+  "46343": {
+    "ItemLevel": "219",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_18",
+    "Stats": {
+      "BonusArmor": "336",
+      "Stamina": "89",
+      "Strength": "46",
+      "ParryRating": "59",
+      "ExpertiseRating": "30"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Fervor of the Protectorate",
+    "Id": "46343",
+    "Slot": "Neck"
+  },
+  "46373": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "94",
+      "AttackPower": "126",
+      "ArmorPenetrationRating": "42",
+      "Resilience": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Furious Gladiator's Pendant of Sundering",
+    "Id": "46373",
+    "Slot": "Neck"
+  },
+  "46374": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "114",
+      "AttackPower": "151",
+      "ArmorPenetrationRating": "50",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Relentless Gladiator's Pendant of Sundering",
+    "Id": "46374",
+    "Slot": "Neck"
+  },
+  "47043": {
+    "ItemLevel": "245",
+    "DisplayId": "39210",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_34",
+    "Stats": {
+      "Agility": "76",
+      "Stamina": "76",
+      "AttackPower": "101",
+      "CritRating": "54",
+      "HasteRating": "44"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Charge of the Demon Lord",
+    "Id": "47043",
+    "Slot": "Neck"
+  },
+  "47060": {
+    "ItemLevel": "258",
+    "DisplayId": "39210",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_34",
+    "Stats": {
+      "Agility": "77",
+      "Stamina": "85",
+      "AttackPower": "98",
+      "CritRating": "61",
+      "HasteRating": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Charge of the Demon Lord",
+    "Id": "47060",
+    "Slot": "Neck"
+  },
+  "47105": {
+    "ItemLevel": "245",
+    "DisplayId": "39209",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_33",
+    "Stats": {
+      "Stamina": "86",
+      "Strength": "86",
+      "CritRating": "50",
+      "HitRating": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "The Executioner's Malice",
+    "Id": "47105",
+    "Slot": "Neck"
+  },
+  "47110": {
+    "ItemLevel": "258",
+    "DisplayId": "39209",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_33",
+    "Stats": {
+      "Stamina": "97",
+      "Strength": "89",
+      "CritRating": "57",
+      "HitRating": "49"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "The Executioner's Malice",
+    "Id": "47110",
+    "Slot": "Neck"
+  },
+  "47116": {
+    "ItemLevel": "245",
+    "DisplayId": "48509",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_44",
+    "Stats": {
+      "BonusArmor": "546",
+      "Stamina": "114",
+      "Strength": "76",
+      "DodgeRating": "40",
+      "DefenseRating": "40"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "The Arbiter's Muse",
+    "Id": "47116",
+    "Slot": "Neck"
+  },
+  "47133": {
+    "ItemLevel": "258",
+    "DisplayId": "48509",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_44",
+    "Stats": {
+      "BonusArmor": "616",
+      "Stamina": "116",
+      "Strength": "85",
+      "DodgeRating": "37",
+      "DefenseRating": "45"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "The Arbiter's Muse",
+    "Id": "47133",
+    "Slot": "Neck"
+  },
+  "47139": {
+    "ItemLevel": "245",
+    "DisplayId": "39162",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "58",
+      "Intellect": "58",
+      "SpellPower": "89",
+      "CritRating": "58",
+      "HasteRating": "38"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wail of the Val'kyr",
+    "Id": "47139",
+    "Slot": "Neck"
+  },
+  "47144": {
+    "ItemLevel": "258",
+    "DisplayId": "39162",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "65",
+      "Intellect": "65",
+      "SpellPower": "91",
+      "CritRating": "57",
+      "HasteRating": "43"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Wail of the Val'kyr",
+    "Id": "47144",
+    "Slot": "Neck"
+  },
+  "47219": {
+    "ItemLevel": "200",
+    "DisplayId": "39212",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_32",
+    "Stats": {
+      "Stamina": "38",
+      "Intellect": "34",
+      "SpellPower": "53",
+      "CritRating": "36",
+      "HitRating": "21"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "HitRating": "4"
+    },
+    "Name": "Brilliant Hailstone Amulet",
+    "Id": "47219",
+    "Slot": "Neck"
+  },
+  "47272": {
+    "ItemLevel": "245",
+    "DisplayId": "39210",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_34",
+    "Stats": {
+      "Agility": "76",
+      "Stamina": "76",
+      "AttackPower": "101",
+      "CritRating": "54",
+      "HasteRating": "44"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Charge of the Eredar",
+    "Id": "47272",
+    "Slot": "Neck"
+  },
+  "47297": {
+    "ItemLevel": "245",
+    "DisplayId": "39209",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_33",
+    "Stats": {
+      "Stamina": "86",
+      "Strength": "86",
+      "CritRating": "50",
+      "HitRating": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "The Executioner's Vice",
+    "Id": "47297",
+    "Slot": "Neck"
+  },
+  "47305": {
+    "ItemLevel": "245",
+    "DisplayId": "48509",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_44",
+    "Stats": {
+      "BonusArmor": "546",
+      "Stamina": "114",
+      "Strength": "76",
+      "DodgeRating": "40",
+      "DefenseRating": "40"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Legionnaire's Gorget",
+    "Id": "47305",
+    "Slot": "Neck"
+  },
+  "47307": {
+    "ItemLevel": "245",
+    "DisplayId": "39162",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "58",
+      "Intellect": "58",
+      "SpellPower": "89",
+      "CritRating": "58",
+      "HasteRating": "38"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Cry of the Val'kyr",
+    "Id": "47307",
+    "Slot": "Neck"
+  },
+  "47433": {
+    "ItemLevel": "258",
+    "DisplayId": "39210",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_34",
+    "Stats": {
+      "Agility": "77",
+      "Stamina": "85",
+      "AttackPower": "98",
+      "CritRating": "61",
+      "HasteRating": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Charge of the Eredar",
+    "Id": "47433",
+    "Slot": "Neck"
+  },
+  "47458": {
+    "ItemLevel": "258",
+    "DisplayId": "39209",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_33",
+    "Stats": {
+      "Stamina": "97",
+      "Strength": "89",
+      "CritRating": "57",
+      "HitRating": "49"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "The Executioner's Vice",
+    "Id": "47458",
+    "Slot": "Neck"
+  },
+  "47466": {
+    "ItemLevel": "258",
+    "DisplayId": "48509",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_44",
+    "Stats": {
+      "BonusArmor": "616",
+      "Stamina": "116",
+      "Strength": "85",
+      "DodgeRating": "37",
+      "DefenseRating": "45"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Legionnaire's Gorget",
+    "Id": "47466",
+    "Slot": "Neck"
+  },
+  "47468": {
+    "ItemLevel": "258",
+    "DisplayId": "39162",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "65",
+      "Intellect": "65",
+      "SpellPower": "91",
+      "CritRating": "57",
+      "HasteRating": "43"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Cry of the Val'kyr",
+    "Id": "47468",
+    "Slot": "Neck"
+  },
+  "47494": {
+    "ItemLevel": "219",
+    "DisplayId": "39162",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Agility": "42",
+      "Stamina": "52",
+      "AttackPower": "119",
+      "ArmorPenetrationRating": "33",
+      "CritRating": "44"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Ancient Pendant of Arathor",
+    "Id": "47494",
+    "Slot": "Neck"
+  },
+  "47562": {
+    "ItemLevel": "219",
+    "DisplayId": "39211",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_31",
+    "Stats": {
+      "Stamina": "43",
+      "Intellect": "41",
+      "SpellPower": "67",
+      "CritRating": "29",
+      "Mp5": "21"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Intellect": "4"
+    },
+    "Name": "Symbol of Redemption",
+    "Id": "47562",
+    "Slot": "Neck"
+  },
+  "47566": {
+    "ItemLevel": "219",
+    "DisplayId": "40038",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_29",
+    "Stats": {
+      "Stamina": "89",
+      "Strength": "42",
+      "DodgeRating": "30",
+      "BlockValue": "104",
+      "DefenseRating": "34"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "The Warlord's Depravity",
+    "Id": "47566",
+    "Slot": "Neck"
+  },
+  "47607": {
+    "ItemLevel": "232",
+    "DisplayId": "34274",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_ahnqiraj_02",
+    "Stats": {
+      "Agility": "67",
+      "Stamina": "57",
+      "AttackPower": "97",
+      "ArmorPenetrationRating": "42",
+      "CritRating": "46"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Collar of Ceaseless Torment",
+    "Id": "47607",
+    "Slot": "Neck"
+  },
+  "47619": {
+    "ItemLevel": "232",
+    "DisplayId": "59307",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_46",
+    "Stats": {
+      "Stamina": "52",
+      "Intellect": "50",
+      "SpellPower": "78",
+      "CritRating": "45",
+      "Mp5": "22"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Amulet of Binding Elements",
+    "Id": "47619",
+    "Slot": "Neck"
+  },
+  "47679": {
+    "ItemLevel": "232",
+    "DisplayId": "48510",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_41",
+    "Stats": {
+      "Stamina": "100",
+      "Strength": "39",
+      "DodgeRating": "45",
+      "DefenseRating": "45",
+      "ExpertiseRating": "48"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Endurance of the Infernal",
+    "Id": "47679",
+    "Slot": "Neck"
+  },
+  "47747": {
+    "ItemLevel": "232",
+    "DisplayId": "59307",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_46",
+    "Stats": {
+      "Stamina": "47",
+      "Intellect": "51",
+      "SpellPower": "69",
+      "CritRating": "46",
+      "HitRating": "36"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Intellect": "4"
+    },
+    "Name": "Darkbane Pendant",
+    "Id": "47747",
+    "Slot": "Neck"
+  },
+  "47849": {
+    "ItemLevel": "232",
+    "DisplayId": "34274",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_ahnqiraj_02",
+    "Stats": {
+      "Agility": "67",
+      "Stamina": "57",
+      "AttackPower": "97",
+      "ArmorPenetrationRating": "42",
+      "CritRating": "46"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Collar of Unending Torment",
+    "Id": "47849",
+    "Slot": "Neck"
+  },
+  "47864": {
+    "ItemLevel": "232",
+    "DisplayId": "59307",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_46",
+    "Stats": {
+      "Stamina": "52",
+      "Intellect": "50",
+      "SpellPower": "78",
+      "CritRating": "45",
+      "Mp5": "22"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Pendant of Binding Elements",
+    "Id": "47864",
+    "Slot": "Neck"
+  },
+  "47872": {
+    "ItemLevel": "232",
+    "DisplayId": "48510",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_41",
+    "Stats": {
+      "Stamina": "100",
+      "Strength": "39",
+      "DodgeRating": "45",
+      "DefenseRating": "45",
+      "ExpertiseRating": "48"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Fortitude of the Infernal",
+    "Id": "47872",
+    "Slot": "Neck"
+  },
+  "47890": {
+    "ItemLevel": "232",
+    "DisplayId": "59307",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_46",
+    "Stats": {
+      "Stamina": "47",
+      "Intellect": "51",
+      "SpellPower": "69",
+      "CritRating": "46",
+      "HitRating": "36"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Intellect": "4"
+    },
+    "Name": "Darkbane Amulet",
+    "Id": "47890",
+    "Slot": "Neck"
+  },
+  "47915": {
+    "ItemLevel": "245",
+    "DisplayId": "34274",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_ahnqiraj_02",
+    "Stats": {
+      "Agility": "70",
+      "Stamina": "65",
+      "AttackPower": "106",
+      "ArmorPenetrationRating": "40",
+      "CritRating": "52"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Collar of Ceaseless Torment",
+    "Id": "47915",
+    "Slot": "Neck"
+  },
+  "47930": {
+    "ItemLevel": "245",
+    "DisplayId": "59307",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_46",
+    "Stats": {
+      "Stamina": "59",
+      "Intellect": "57",
+      "SpellPower": "80",
+      "CritRating": "50",
+      "Mp5": "21"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Intellect": "4"
+    },
+    "Name": "Amulet of Binding Elements",
+    "Id": "47930",
+    "Slot": "Neck"
+  },
+  "47939": {
+    "ItemLevel": "245",
+    "DisplayId": "48510",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_41",
+    "Stats": {
+      "Stamina": "114",
+      "Strength": "40",
+      "DodgeRating": "50",
+      "DefenseRating": "46",
+      "ExpertiseRating": "46"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "DodgeRating": "4"
+    },
+    "Name": "Endurance of the Infernal",
+    "Id": "47939",
+    "Slot": "Neck"
+  },
+  "47957": {
+    "ItemLevel": "245",
+    "DisplayId": "59307",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_46",
+    "Stats": {
+      "Stamina": "54",
+      "Intellect": "58",
+      "SpellPower": "80",
+      "CritRating": "52",
+      "HitRating": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Intellect": "4"
+    },
+    "Name": "Darkbane Pendant",
+    "Id": "47957",
+    "Slot": "Neck"
+  },
+  "47988": {
+    "ItemLevel": "245",
+    "DisplayId": "34274",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_ahnqiraj_02",
+    "Stats": {
+      "Agility": "70",
+      "Stamina": "65",
+      "AttackPower": "106",
+      "ArmorPenetrationRating": "40",
+      "CritRating": "52"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Collar of Unending Torment",
+    "Id": "47988",
+    "Slot": "Neck"
+  },
+  "48003": {
+    "ItemLevel": "245",
+    "DisplayId": "59307",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_46",
+    "Stats": {
+      "Stamina": "59",
+      "Intellect": "57",
+      "SpellPower": "80",
+      "CritRating": "50",
+      "Mp5": "21"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Intellect": "4"
+    },
+    "Name": "Pendant of Binding Elements",
+    "Id": "48003",
+    "Slot": "Neck"
+  },
+  "48011": {
+    "ItemLevel": "245",
+    "DisplayId": "48510",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_41",
+    "Stats": {
+      "Stamina": "114",
+      "Strength": "40",
+      "DodgeRating": "50",
+      "DefenseRating": "46",
+      "ExpertiseRating": "46"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "DodgeRating": "4"
+    },
+    "Name": "Fortitude of the Infernal",
+    "Id": "48011",
+    "Slot": "Neck"
+  },
+  "48030": {
+    "ItemLevel": "245",
+    "DisplayId": "59307",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_46",
+    "Stats": {
+      "Stamina": "54",
+      "Intellect": "58",
+      "SpellPower": "80",
+      "CritRating": "52",
+      "HitRating": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Intellect": "4"
+    },
+    "Name": "Darkbane Amulet",
+    "Id": "48030",
+    "Slot": "Neck"
+  },
+  "49306": {
+    "ItemLevel": "232",
+    "DisplayId": "16132",
+    "DisplaySlot": "2",
+    "IconPath": "inv_belt_12",
+    "Stats": {
+      "Stamina": "100",
+      "Strength": "51",
+      "DodgeRating": "45",
+      "DefenseRating": "45",
+      "ExpertiseRating": "34"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Eskhandar's Choker",
+    "Id": "49306",
+    "Slot": "Neck"
+  },
+  "49485": {
+    "ItemLevel": "245",
+    "DisplayId": "9860",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_09",
+    "Stats": {
+      "Agility": "76",
+      "Stamina": "58",
+      "AttackPower": "96",
+      "CritRating": "52",
+      "HitRating": "48",
+      "FireResistance": "10"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sparkling Onyxia Tooth Pendant",
+    "Id": "49485",
+    "Slot": "Neck"
+  },
+  "49492": {
+    "ItemLevel": "245",
+    "DisplayId": "16132",
+    "DisplaySlot": "2",
+    "IconPath": "inv_belt_12",
+    "Stats": {
+      "Stamina": "114",
+      "Strength": "58",
+      "DodgeRating": "50",
+      "DefenseRating": "50",
+      "ExpertiseRating": "38"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Eskhandar's Links",
+    "Id": "49492",
+    "Slot": "Neck"
+  },
+  "49799": {
+    "ItemLevel": "219",
+    "DisplayId": "54999",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_45",
+    "Stats": {
+      "Stamina": "54",
+      "Intellect": "42",
+      "SpellPower": "70",
+      "CritRating": "41",
+      "HitRating": "38"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Coil of Missing Gems",
+    "Id": "49799",
+    "Slot": "Neck"
+  },
+  "49818": {
+    "ItemLevel": "219",
+    "DisplayId": "9852",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_04",
+    "Stats": {
+      "Stamina": "68",
+      "Strength": "68",
+      "ArmorPenetrationRating": "30",
+      "CritRating": "45"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Painfully Sharp Choker",
+    "Id": "49818",
+    "Slot": "Neck"
+  },
+  "49975": {
+    "ItemLevel": "264",
+    "DisplayId": "64194",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_53",
+    "Stats": {
+      "Stamina": "69",
+      "Intellect": "69",
+      "Spirit": "60",
+      "SpellPower": "97",
+      "HasteRating": "52"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Bone Sentinel's Amulet",
+    "Id": "49975",
+    "Slot": "Neck"
+  },
+  "49989": {
+    "ItemLevel": "264",
+    "DisplayId": "64190",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_48",
+    "Stats": {
+      "Stamina": "103",
+      "Strength": "95",
+      "CritRating": "60",
+      "HitRating": "52"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Ahn'kahar Onyx Neckguard",
+    "Id": "49989",
+    "Slot": "Neck"
+  },
+  "50005": {
+    "ItemLevel": "264",
+    "DisplayId": "64219",
+    "DisplaySlot": "2",
+    "IconPath": "item_icecrownnecklaced",
+    "Stats": {
+      "Stamina": "69",
+      "Intellect": "69",
+      "SpellPower": "97",
+      "HitRating": "52",
+      "HasteRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Amulet of the Silent Eulogy",
+    "Id": "50005",
+    "Slot": "Neck"
+  },
+  "50023": {
+    "ItemLevel": "264",
+    "DisplayId": "64213",
+    "DisplaySlot": "2",
+    "IconPath": "item_icecrownnecklaceb",
+    "Stats": {
+      "BonusArmor": "672",
+      "Stamina": "124",
+      "Strength": "90",
+      "DodgeRating": "40",
+      "DefenseRating": "48"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Bile-Encrusted Medallion",
+    "Id": "50023",
+    "Slot": "Neck"
+  },
+  "50061": {
+    "ItemLevel": "264",
+    "DisplayId": "64203",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_49",
+    "Stats": {
+      "Stamina": "69",
+      "Intellect": "69",
+      "SpellPower": "97",
+      "CritRating": "52",
+      "Mp5": "30"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Holiday's Grace",
+    "Id": "50061",
+    "Slot": "Neck"
+  },
+  "50180": {
+    "ItemLevel": "264",
+    "DisplayId": "64201",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_50",
+    "Stats": {
+      "Stamina": "103",
+      "Strength": "95",
+      "ArmorPenetrationRating": "65",
+      "ExpertiseRating": "45"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Lana'thel's Chain of Flagellation",
+    "Id": "50180",
+    "Slot": "Neck"
+  },
+  "50182": {
+    "ItemLevel": "264",
+    "DisplayId": "64222",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelcrafting_crimsonspinel_02",
+    "Stats": {
+      "Stamina": "69",
+      "Intellect": "69",
+      "SpellPower": "97",
+      "CritRating": "57",
+      "HasteRating": "53"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Blood Queen's Crimson Choker",
+    "Id": "50182",
+    "Slot": "Neck"
+  },
+  "50195": {
+    "ItemLevel": "264",
+    "DisplayId": "64211",
+    "DisplaySlot": "2",
+    "IconPath": "item_icecrownnecklacec",
+    "Stats": {
+      "Stamina": "124",
+      "Strength": "69",
+      "HitRating": "46",
+      "DodgeRating": "52",
+      "DefenseRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Noose of Malachite",
+    "Id": "50195",
+    "Slot": "Neck"
+  },
+  "50196": {
+    "ItemLevel": "232",
+    "DisplayId": "64207",
+    "DisplaySlot": "2",
+    "IconPath": "inv_spiritshard_02",
+    "Stats": {
+      "Stamina": "51",
+      "Intellect": "51",
+      "SpellPower": "78",
+      "HasteRating": "34",
+      "Mp5": "25"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Love's Prisoner",
+    "Id": "50196",
+    "Slot": "Neck"
+  },
+  "50211": {
+    "ItemLevel": "232",
+    "DisplayId": "43085",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_39",
+    "Stats": {
+      "Stamina": "59",
+      "Intellect": "48",
+      "SpellPower": "78",
+      "CritRating": "45",
+      "HasteRating": "45"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Arcane Loops of Anger",
+    "Id": "50211",
+    "Slot": "Neck"
+  },
+  "50228": {
+    "ItemLevel": "232",
+    "DisplayId": "34034",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_22",
+    "Stats": {
+      "Agility": "67",
+      "Stamina": "54",
+      "AttackPower": "99",
+      "CritRating": "39",
+      "HasteRating": "48"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Barbed Ymirheim Choker",
+    "Id": "50228",
+    "Slot": "Neck"
+  },
+  "50310": {
+    "ItemLevel": "232",
+    "DisplayId": "64197",
+    "DisplaySlot": "2",
+    "IconPath": "inv_misc_shell_04",
+    "Stats": {
+      "Stamina": "100",
+      "Strength": "67",
+      "DodgeRating": "35",
+      "ParryRating": "35",
+      "DefenseRating": "35"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Fossilized Ammonite Choker",
+    "Id": "50310",
+    "Slot": "Neck"
+  },
+  "50421": {
+    "ItemLevel": "264",
+    "DisplayId": "64216",
+    "DisplaySlot": "2",
+    "IconPath": "inv_misc_monsterhorn_03",
+    "Stats": {
+      "Agility": "90",
+      "Stamina": "90",
+      "AttackPower": "105",
+      "ArmorPenetrationRating": "60",
+      "HasteRating": "52"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Sindragosa's Cruel Claw",
+    "Id": "50421",
+    "Slot": "Neck"
+  },
+  "50452": {
+    "ItemLevel": "264",
+    "DisplayId": "64272",
+    "DisplaySlot": "2",
+    "IconPath": "inv_misc_pelt_wolf_ruin_01",
+    "Stats": {
+      "Agility": "90",
+      "Stamina": "90",
+      "AttackPower": "105",
+      "CritRating": "69",
+      "HitRating": "38"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Wodin's Lucky Necklace",
+    "Id": "50452",
+    "Slot": "Neck"
+  },
+  "50609": {
+    "ItemLevel": "277",
+    "DisplayId": "64194",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_53",
+    "Stats": {
+      "Stamina": "78",
+      "Intellect": "78",
+      "Spirit": "68",
+      "SpellPower": "110",
+      "HasteRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Bone Sentinel's Amulet",
+    "Id": "50609",
+    "Slot": "Neck"
+  },
+  "50627": {
+    "ItemLevel": "277",
+    "DisplayId": "64211",
+    "DisplaySlot": "2",
+    "IconPath": "item_icecrownnecklacec",
+    "Stats": {
+      "Stamina": "141",
+      "Strength": "78",
+      "HitRating": "52",
+      "DodgeRating": "60",
+      "DefenseRating": "68"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Noose of Malachite",
+    "Id": "50627",
+    "Slot": "Neck"
+  },
+  "50633": {
+    "ItemLevel": "277",
+    "DisplayId": "64216",
+    "DisplaySlot": "2",
+    "IconPath": "inv_misc_monsterhorn_03",
+    "Stats": {
+      "Agility": "102",
+      "Stamina": "102",
+      "AttackPower": "120",
+      "ArmorPenetrationRating": "68",
+      "HasteRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Sindragosa's Cruel Claw",
+    "Id": "50633",
+    "Slot": "Neck"
+  },
+  "50647": {
+    "ItemLevel": "277",
+    "DisplayId": "64190",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_48",
+    "Stats": {
+      "Stamina": "116",
+      "Strength": "108",
+      "CritRating": "68",
+      "HitRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Ahn'kahar Onyx Neckguard",
+    "Id": "50647",
+    "Slot": "Neck"
+  },
+  "50658": {
+    "ItemLevel": "277",
+    "DisplayId": "64219",
+    "DisplaySlot": "2",
+    "IconPath": "item_icecrownnecklaced",
+    "Stats": {
+      "Stamina": "78",
+      "Intellect": "78",
+      "SpellPower": "110",
+      "HitRating": "60",
+      "HasteRating": "68"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Amulet of the Silent Eulogy",
+    "Id": "50658",
+    "Slot": "Neck"
+  },
+  "50682": {
+    "ItemLevel": "277",
+    "DisplayId": "64213",
+    "DisplaySlot": "2",
+    "IconPath": "item_icecrownnecklaceb",
+    "Stats": {
+      "BonusArmor": "756",
+      "Stamina": "141",
+      "Strength": "102",
+      "DodgeRating": "46",
+      "DefenseRating": "54"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Bile-Encrusted Medallion",
+    "Id": "50682",
+    "Slot": "Neck"
+  },
+  "50700": {
+    "ItemLevel": "277",
+    "DisplayId": "64203",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_49",
+    "Stats": {
+      "Stamina": "78",
+      "Intellect": "78",
+      "SpellPower": "110",
+      "CritRating": "60",
+      "Mp5": "34"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Holiday's Grace",
+    "Id": "50700",
+    "Slot": "Neck"
+  },
+  "50724": {
+    "ItemLevel": "277",
+    "DisplayId": "64222",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelcrafting_crimsonspinel_02",
+    "Stats": {
+      "Stamina": "78",
+      "Intellect": "78",
+      "SpellPower": "110",
+      "CritRating": "65",
+      "HasteRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Blood Queen's Crimson Choker",
+    "Id": "50724",
+    "Slot": "Neck"
+  },
+  "50728": {
+    "ItemLevel": "277",
+    "DisplayId": "64201",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_50",
+    "Stats": {
+      "Stamina": "116",
+      "Strength": "108",
+      "ArmorPenetrationRating": "73",
+      "ExpertiseRating": "52"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Lana'thel's Chain of Flagellation",
+    "Id": "50728",
+    "Slot": "Neck"
+  },
+  "50763": {
+    "ItemLevel": "251",
+    "DisplayId": "64199",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_52",
+    "Stats": {
+      "Stamina": "108",
+      "Strength": "79",
+      "DodgeRating": "45",
+      "ParryRating": "42",
+      "DefenseRating": "30"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Marrowgar's Scratching Choker",
+    "Id": "50763",
+    "Slot": "Neck"
+  },
+  "50809": {
+    "ItemLevel": "251",
+    "DisplayId": "64218",
+    "DisplaySlot": "2",
+    "IconPath": "item_icecrownnecklacea",
+    "Stats": {
+      "Stamina": "61",
+      "Intellect": "61",
+      "SpellPower": "85",
+      "CritRating": "55",
+      "HasteRating": "43"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Soulcleave Pendant",
+    "Id": "50809",
+    "Slot": "Neck"
+  },
+  "50852": {
+    "ItemLevel": "251",
+    "DisplayId": "53560",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_ring_78",
+    "Stats": {
+      "Agility": "72",
+      "Stamina": "64",
+      "AttackPower": "119",
+      "HitRating": "55",
+      "HasteRating": "43"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Precious's Putrid Collar",
+    "Id": "50852",
+    "Slot": "Neck"
+  },
+  "51008": {
+    "ItemLevel": "251",
+    "DisplayId": "64203",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_49",
+    "Stats": {
+      "Stamina": "63",
+      "Intellect": "60",
+      "SpellPower": "85",
+      "HasteRating": "53",
+      "Mp5": "23"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Choker of Filthy Diamonds",
+    "Id": "51008",
+    "Slot": "Neck"
+  },
+  "51012": {
+    "ItemLevel": "251",
+    "DisplayId": "64213",
+    "DisplaySlot": "2",
+    "IconPath": "item_icecrownnecklaceb",
+    "Stats": {
+      "Stamina": "91",
+      "Strength": "83",
+      "CritRating": "55",
+      "ExpertiseRating": "43"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Infected Choker",
+    "Id": "51012",
+    "Slot": "Neck"
+  },
+  "51016": {
+    "ItemLevel": "251",
+    "DisplayId": "64205",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_talisman_16",
+    "Stats": {
+      "Stamina": "63",
+      "Intellect": "60",
+      "SpellPower": "85",
+      "CritRating": "53",
+      "HitRating": "45"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Pendant of Split Veins",
+    "Id": "51016",
+    "Slot": "Neck"
+  },
+  "51331": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "103",
+      "Intellect": "46",
+      "SpellPower": "106",
+      "CritRating": "60",
+      "Resilience": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Pendant of Dominance",
+    "Id": "51331",
+    "Slot": "Neck"
+  },
+  "51333": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "103",
+      "Intellect": "46",
+      "SpellPower": "106",
+      "Resilience": "60",
+      "HasteRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Pendant of Subjugation",
+    "Id": "51333",
+    "Slot": "Neck"
+  },
+  "51335": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "103",
+      "Intellect": "46",
+      "SpellPower": "106",
+      "HitRating": "60",
+      "Resilience": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Pendant of Ascendancy",
+    "Id": "51335",
+    "Slot": "Neck"
+  },
+  "51347": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "103",
+      "Intellect": "46",
+      "SpellPower": "106",
+      "Resilience": "60",
+      "Mp5": "30"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Pendant of Salvation",
+    "Id": "51347",
+    "Slot": "Neck"
+  },
+  "51349": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "103",
+      "Intellect": "46",
+      "Spirit": "60",
+      "SpellPower": "106",
+      "Resilience": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Pendant of Deliverance",
+    "Id": "51349",
+    "Slot": "Neck"
+  },
+  "51353": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "136",
+      "AttackPower": "181",
+      "ArmorPenetrationRating": "60",
+      "Resilience": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Pendant of Sundering",
+    "Id": "51353",
+    "Slot": "Neck"
+  },
+  "51355": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "136",
+      "AttackPower": "181",
+      "CritRating": "60",
+      "Resilience": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Pendant of Triumph",
+    "Id": "51355",
+    "Slot": "Neck"
+  },
+  "51357": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "136",
+      "AttackPower": "181",
+      "HitRating": "60",
+      "Resilience": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Pendant of Victory",
+    "Id": "51357",
+    "Slot": "Neck"
+  },
+  "51548": {
+    "ItemLevel": "251",
+    "DisplayId": "64190",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_48",
+    "Stats": {
+      "Stamina": "91",
+      "Strength": "83",
+      "CritRating": "55",
+      "HasteRating": "43"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Collar of Haughty Disdain",
+    "Id": "51548",
+    "Slot": "Neck"
+  },
+  "51568": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "86",
+      "Intellect": "38",
+      "SpellPower": "80",
+      "Resilience": "50",
+      "HasteRating": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Titan-Forged Pendant of Ascendancy",
+    "Id": "51568",
+    "Slot": "Neck"
+  },
+  "51569": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_36",
+    "Stats": {
+      "Stamina": "114",
+      "AttackPower": "135",
+      "ArmorPenetrationRating": "42",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "AttackPower": "8"
+    },
+    "Name": "Titan-Forged Pendant of Victory",
+    "Id": "51569",
+    "Slot": "Neck"
+  },
+  "51779": {
+    "ItemLevel": "251",
+    "DisplayId": "6510",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_amulet_06",
+    "Stats": {
+      "Agility": "80",
+      "Stamina": "70",
+      "AttackPower": "98",
+      "ArmorPenetrationRating": "53",
+      "CritRating": "45"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Rimetooth Pendant",
+    "Id": "51779",
+    "Slot": "Neck"
+  },
+  "51822": {
+    "ItemLevel": "264",
+    "DisplayId": "6510",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_amulet_06",
+    "Stats": {
+      "Agility": "90",
+      "Stamina": "79",
+      "AttackPower": "113",
+      "ArmorPenetrationRating": "60",
+      "CritRating": "52"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Rimetooth Pendant",
+    "Id": "51822",
+    "Slot": "Neck"
+  },
+  "51842": {
+    "ItemLevel": "264",
+    "DisplayId": "64190",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_48",
+    "Stats": {
+      "Stamina": "103",
+      "Strength": "95",
+      "CritRating": "62",
+      "HasteRating": "49"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Collar of Haughty Disdain",
+    "Id": "51842",
+    "Slot": "Neck"
+  },
+  "51863": {
+    "ItemLevel": "264",
+    "DisplayId": "64205",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_talisman_16",
+    "Stats": {
+      "Stamina": "71",
+      "Intellect": "68",
+      "SpellPower": "97",
+      "CritRating": "60",
+      "HitRating": "52"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Pendant of Split Veins",
+    "Id": "51863",
+    "Slot": "Neck"
+  },
+  "51867": {
+    "ItemLevel": "264",
+    "DisplayId": "64213",
+    "DisplaySlot": "2",
+    "IconPath": "item_icecrownnecklaceb",
+    "Stats": {
+      "Stamina": "103",
+      "Strength": "95",
+      "CritRating": "62",
+      "ExpertiseRating": "49"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Infected Choker",
+    "Id": "51867",
+    "Slot": "Neck"
+  },
+  "51871": {
+    "ItemLevel": "264",
+    "DisplayId": "64203",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_49",
+    "Stats": {
+      "Stamina": "71",
+      "Intellect": "68",
+      "SpellPower": "97",
+      "HasteRating": "60",
+      "Mp5": "26"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Choker of Filthy Diamonds",
+    "Id": "51871",
+    "Slot": "Neck"
+  },
+  "51890": {
+    "ItemLevel": "264",
+    "DisplayId": "53560",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_ring_78",
+    "Stats": {
+      "Agility": "82",
+      "Stamina": "73",
+      "AttackPower": "134",
+      "HitRating": "62",
+      "HasteRating": "49"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Precious's Putrid Collar",
+    "Id": "51890",
+    "Slot": "Neck"
+  },
+  "51894": {
+    "ItemLevel": "264",
+    "DisplayId": "64218",
+    "DisplaySlot": "2",
+    "IconPath": "item_icecrownnecklacea",
+    "Stats": {
+      "Stamina": "69",
+      "Intellect": "69",
+      "SpellPower": "97",
+      "CritRating": "62",
+      "HasteRating": "49"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Soulcleave Pendant",
+    "Id": "51894",
+    "Slot": "Neck"
+  },
+  "51934": {
+    "ItemLevel": "264",
+    "DisplayId": "64199",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_52",
+    "Stats": {
+      "Stamina": "124",
+      "Strength": "89",
+      "DodgeRating": "51",
+      "ParryRating": "48",
+      "DefenseRating": "35"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Marrowgar's Scratching Choker",
+    "Id": "51934",
+    "Slot": "Neck"
+  },
+  "53103": {
+    "ItemLevel": "258",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_amulet_06",
+    "Stats": {
+      "Agility": "85",
+      "Stamina": "75",
+      "AttackPower": "122",
+      "CritRating": "57",
+      "ExpertiseRating": "41"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Baltharus' Gift",
+    "Id": "53103",
+    "Slot": "Neck"
+  },
+  "53132": {
+    "ItemLevel": "271",
+    "DisplayId": "64190",
+    "DisplaySlot": "2",
+    "IconPath": "inv_jewelry_necklace_48",
+    "Stats": {
+      "Stamina": "110",
+      "Strength": "102",
+      "ArmorPenetrationRating": "56",
+      "CritRating": "64"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Penumbra Pendant",
+    "Id": "53132",
+    "Slot": "Neck"
+  },
+  "54557": {
+    "ItemLevel": "271",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_amulet_06",
+    "Stats": {
+      "Agility": "96",
+      "Stamina": "84",
+      "AttackPower": "138",
+      "CritRating": "64",
+      "ExpertiseRating": "48"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Baltharus' Gift",
+    "Id": "54557",
+    "Slot": "Neck"
+  },
+  "54581": {
+    "ItemLevel": "284",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_necklace_48",
+    "Stats": {
+      "Stamina": "124",
+      "Strength": "116",
+      "ArmorPenetrationRating": "65",
+      "CritRating": "73"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Penumbra Pendant",
+    "Id": "54581",
+    "Slot": "Neck"
+  }
+}

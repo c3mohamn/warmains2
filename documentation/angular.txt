@@ -1,0 +1,17 @@
+Structure:
+  Main angular file is public/js/wm.js.
+  This contains the main warmains angular app along with the config for all
+  states.
+  All controllers are in public/js/controllers, and directives alike.
+  These js files are minified and combined into 1 controller/directive js file.
+
+States:
+  The main index.jade file contains routing all the different states.
+  States are stored in public/states as html files.
+
+Create new states:
+
+  1. Create the state in wm.js config.
+  2. Create the html state partial in /public/states.
+  3. Create the controller (if needed) in /public/js/controllers.
+  4. BEFORE GULP: will need to include the controller in index / footer

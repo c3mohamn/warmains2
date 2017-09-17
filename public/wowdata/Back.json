@@ -1,0 +1,4112 @@
+{
+  "37197": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_02",
+    "Stats": {
+      "Armor": "145",
+      "Stamina": "66",
+      "Strength": "42",
+      "BlockValue": "84",
+      "DefenseRating": "29"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Tattered Castle Drape",
+    "Id": "37197",
+    "Slot": "Back"
+  },
+  "37291": {
+    "ItemLevel": "200",
+    "DisplayId": "51004",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_06",
+    "Stats": {
+      "Armor": "145",
+      "Stamina": "42",
+      "Intellect": "29",
+      "SpellPower": "51",
+      "HasteRating": "42"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Ancient Dragon Spirit Cape",
+    "Id": "37291",
+    "Slot": "Back"
+  },
+  "37630": {
+    "ItemLevel": "200",
+    "DisplayId": "47068",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_19",
+    "Stats": {
+      "Armor": "145",
+      "Stamina": "31",
+      "Intellect": "43",
+      "Spirit": "32",
+      "SpellPower": "51"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Shroud of Moorabi",
+    "Id": "37630",
+    "Slot": "Back"
+  },
+  "37647": {
+    "ItemLevel": "200",
+    "DisplayId": "23018",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_18",
+    "Stats": {
+      "Armor": "145",
+      "Stamina": "37",
+      "Strength": "60",
+      "CritRating": "34"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Cloak of Bloodied Waters",
+    "Id": "37647",
+    "Slot": "Back"
+  },
+  "37728": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_21",
+    "Stats": {
+      "Armor": "145",
+      "Stamina": "66",
+      "Strength": "31",
+      "HitRating": "25",
+      "DefenseRating": "42"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Cloak of the Enemy",
+    "Id": "37728",
+    "Slot": "Back"
+  },
+  "37799": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_06",
+    "Stats": {
+      "Armor": "145",
+      "Stamina": "37",
+      "Intellect": "31",
+      "Spirit": "38",
+      "SpellPower": "41"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Intellect": "4"
+    },
+    "Name": "Reanimator's Cloak",
+    "Id": "37799",
+    "Slot": "Back"
+  },
+  "37840": {
+    "ItemLevel": "200",
+    "DisplayId": "43086",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_06",
+    "Stats": {
+      "Armor": "145",
+      "Agility": "25",
+      "Stamina": "64",
+      "AttackPower": "86",
+      "ExpertiseRating": "31"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Shroud of Reverberation",
+    "Id": "37840",
+    "Slot": "Back"
+  },
+  "39225": {
+    "ItemLevel": "200",
+    "DisplayId": "35446",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_naxxramas_03",
+    "Stats": {
+      "Armor": "150",
+      "BonusArmor": "336",
+      "Stamina": "50",
+      "Strength": "39",
+      "HitRating": "28",
+      "DefenseRating": "37"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Cloak of Armed Strife",
+    "Id": "39225",
+    "Slot": "Back"
+  },
+  "39241": {
+    "ItemLevel": "200",
+    "DisplayId": "35444",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_naxxramas_03",
+    "Stats": {
+      "Armor": "150",
+      "Stamina": "36",
+      "Intellect": "38",
+      "Spirit": "36",
+      "SpellPower": "60",
+      "HitRating": "28"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Dark Shroud of the Scourge",
+    "Id": "39241",
+    "Slot": "Back"
+  },
+  "39272": {
+    "ItemLevel": "200",
+    "DisplayId": "35430",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_naxxramas_01",
+    "Stats": {
+      "Armor": "150",
+      "Stamina": "42",
+      "Intellect": "38",
+      "SpellPower": "59",
+      "HasteRating": "25",
+      "Mp5": "18"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Drape of Surgery",
+    "Id": "39272",
+    "Slot": "Back"
+  },
+  "39297": {
+    "ItemLevel": "200",
+    "DisplayId": "35366",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_naxxramas_02",
+    "Stats": {
+      "Armor": "150",
+      "Agility": "29",
+      "Stamina": "54",
+      "AttackPower": "100",
+      "ArmorPenetrationRating": "24",
+      "HasteRating": "38"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Cloak of Darkening",
+    "Id": "39297",
+    "Slot": "Back"
+  },
+  "39404": {
+    "ItemLevel": "200",
+    "DisplayId": "35444",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_naxxramas_03",
+    "Stats": {
+      "Armor": "150",
+      "Agility": "50",
+      "Stamina": "48",
+      "AttackPower": "100",
+      "CritRating": "23",
+      "HitRating": "21"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Cloak of Mastery",
+    "Id": "39404",
+    "Slot": "Back"
+  },
+  "39415": {
+    "ItemLevel": "200",
+    "DisplayId": "35408",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_naxxramas_01",
+    "Stats": {
+      "Armor": "150",
+      "Stamina": "42",
+      "Intellect": "36",
+      "SpellPower": "58",
+      "CritRating": "38",
+      "HasteRating": "25"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Shroud of the Citadel",
+    "Id": "39415",
+    "Slot": "Back"
+  },
+  "39425": {
+    "ItemLevel": "213",
+    "DisplayId": "35366",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_naxxramas_02",
+    "Stats": {
+      "Armor": "154",
+      "Stamina": "42",
+      "Intellect": "43",
+      "SpellPower": "66",
+      "CritRating": "38",
+      "Mp5": "19"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Cloak of the Dying",
+    "Id": "39425",
+    "Slot": "Back"
+  },
+  "40250": {
+    "ItemLevel": "213",
+    "DisplayId": "35430",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_naxxramas_01",
+    "Stats": {
+      "Armor": "154",
+      "Agility": "38",
+      "Stamina": "57",
+      "AttackPower": "110",
+      "ArmorPenetrationRating": "28",
+      "CritRating": "43"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Aged Winter Cloak",
+    "Id": "40250",
+    "Slot": "Back"
+  },
+  "40251": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_naxxramas_02",
+    "Stats": {
+      "Armor": "154",
+      "Stamina": "55",
+      "Intellect": "43",
+      "SpellPower": "65",
+      "CritRating": "38",
+      "HasteRating": "28"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Shroud of Luminosity",
+    "Id": "40251",
+    "Slot": "Back"
+  },
+  "40252": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_naxxramas_03",
+    "Stats": {
+      "Armor": "154",
+      "BonusArmor": "336",
+      "Stamina": "84",
+      "Strength": "56",
+      "DodgeRating": "38",
+      "DefenseRating": "25"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Cloak of the Shadowed Sun",
+    "Id": "40252",
+    "Slot": "Back"
+  },
+  "40253": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_naxxramas_02",
+    "Stats": {
+      "Armor": "154",
+      "Stamina": "42",
+      "Intellect": "43",
+      "Spirit": "38",
+      "SpellPower": "66",
+      "CritRating": "37"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Shawl of the Old Maid",
+    "Id": "40253",
+    "Slot": "Back"
+  },
+  "40254": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_naxxramas_03",
+    "Stats": {
+      "Armor": "154",
+      "Stamina": "48",
+      "Intellect": "41",
+      "SpellPower": "66",
+      "CritRating": "38",
+      "Mp5": "19"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Cloak of Averted Crisis",
+    "Id": "40254",
+    "Slot": "Back"
+  },
+  "40403": {
+    "ItemLevel": "226",
+    "DisplayId": "35446",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_naxxramas_03",
+    "Stats": {
+      "Armor": "157",
+      "Agility": "42",
+      "Stamina": "63",
+      "AttackPower": "126",
+      "CritRating": "49",
+      "HasteRating": "31"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Drape of the Deadly Foe",
+    "Id": "40403",
+    "Slot": "Back"
+  },
+  "40405": {
+    "ItemLevel": "226",
+    "DisplayId": "35312",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_naxxramas_02",
+    "Stats": {
+      "Armor": "157",
+      "Stamina": "46",
+      "Intellect": "42",
+      "Spirit": "49",
+      "SpellPower": "74",
+      "CritRating": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Cape of the Unworthy Wizard",
+    "Id": "40405",
+    "Slot": "Back"
+  },
+  "40410": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_naxxramas_01",
+    "Stats": {
+      "Armor": "154",
+      "Stamina": "84",
+      "Strength": "56",
+      "BlockRating": "29",
+      "BlockValue": "54",
+      "DefenseRating": "38"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Shadow of the Ghoul",
+    "Id": "40410",
+    "Slot": "Back"
+  },
+  "40721": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_05",
+    "Stats": {
+      "Armor": "154",
+      "Agility": "28",
+      "Stamina": "61",
+      "AttackPower": "112",
+      "CritRating": "43",
+      "HasteRating": "32"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Hammerhead Sharkskin Cloak",
+    "Id": "40721",
+    "Slot": "Back"
+  },
+  "40722": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_20",
+    "Stats": {
+      "Armor": "154",
+      "Stamina": "84",
+      "Strength": "41",
+      "HitRating": "32",
+      "DodgeRating": "37",
+      "DefenseRating": "38"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Platinum Mesh Cloak",
+    "Id": "40722",
+    "Slot": "Back"
+  },
+  "40723": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_18",
+    "Stats": {
+      "Armor": "154",
+      "Stamina": "48",
+      "Intellect": "38",
+      "Spirit": "37",
+      "SpellPower": "65",
+      "HasteRating": "41"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Disguise of the Kumiho",
+    "Id": "40723",
+    "Slot": "Back"
+  },
+  "40724": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_17",
+    "Stats": {
+      "Armor": "154",
+      "Stamina": "42",
+      "Intellect": "43",
+      "SpellPower": "66",
+      "HasteRating": "28",
+      "Mp5": "21"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Cloak of Kea Feathers",
+    "Id": "40724",
+    "Slot": "Back"
+  },
+  "41609": {
+    "ItemLevel": "200",
+    "DisplayId": "55336",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_02",
+    "Stats": {
+      "Armor": "150",
+      "Stamina": "43",
+      "Intellect": "36",
+      "SpellPower": "59",
+      "Mp5": "25"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Wispcloak",
+    "Id": "41609",
+    "Slot": "Back"
+  },
+  "41610": {
+    "ItemLevel": "200",
+    "DisplayId": "55335",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_02",
+    "Stats": {
+      "Armor": "150",
+      "SpellPower": "59",
+      "CritRating": "43",
+      "HasteRating": "53"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Deathchill Cloak",
+    "Id": "41610",
+    "Slot": "Back"
+  },
+  "42062": {
+    "ItemLevel": "213",
+    "DisplayId": "55663",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_19",
+    "Stats": {
+      "Armor": "154",
+      "Stamina": "66",
+      "Intellect": "29",
+      "SpellPower": "66",
+      "CritRating": "38",
+      "Resilience": "37"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Deadly Gladiator's Cloak of Dominance",
+    "Id": "42062",
+    "Slot": "Back"
+  },
+  "42063": {
+    "ItemLevel": "213",
+    "DisplayId": "55663",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_19",
+    "Stats": {
+      "Armor": "154",
+      "Stamina": "66",
+      "Intellect": "29",
+      "SpellPower": "66",
+      "Resilience": "37",
+      "HasteRating": "38"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Deadly Gladiator's Cloak of Subjugation",
+    "Id": "42063",
+    "Slot": "Back"
+  },
+  "42064": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_19",
+    "Stats": {
+      "Armor": "154",
+      "Stamina": "66",
+      "Intellect": "29",
+      "SpellPower": "66",
+      "HitRating": "38",
+      "Resilience": "37"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Deadly Gladiator's Cloak of Ascendancy",
+    "Id": "42064",
+    "Slot": "Back"
+  },
+  "42065": {
+    "ItemLevel": "213",
+    "DisplayId": "55663",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_19",
+    "Stats": {
+      "Armor": "154",
+      "Stamina": "66",
+      "Intellect": "29",
+      "SpellPower": "66",
+      "Resilience": "37",
+      "Mp5": "19"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Deadly Gladiator's Cloak of Salvation",
+    "Id": "42065",
+    "Slot": "Back"
+  },
+  "42066": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_19",
+    "Stats": {
+      "Armor": "154",
+      "Stamina": "66",
+      "Intellect": "29",
+      "Spirit": "38",
+      "SpellPower": "66",
+      "Resilience": "37"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Deadly Gladiator's Cloak of Deliverance",
+    "Id": "42066",
+    "Slot": "Back"
+  },
+  "42067": {
+    "ItemLevel": "213",
+    "DisplayId": "49738",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_19",
+    "Stats": {
+      "Armor": "154",
+      "Stamina": "84",
+      "AttackPower": "112",
+      "CritRating": "38",
+      "Resilience": "37"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Deadly Gladiator's Cloak of Triumph",
+    "Id": "42067",
+    "Slot": "Back"
+  },
+  "42068": {
+    "ItemLevel": "213",
+    "DisplayId": "49738",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_19",
+    "Stats": {
+      "Armor": "154",
+      "Stamina": "84",
+      "AttackPower": "112",
+      "HitRating": "38",
+      "Resilience": "37"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Deadly Gladiator's Cloak of Victory",
+    "Id": "42068",
+    "Slot": "Back"
+  },
+  "42069": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_19",
+    "Stats": {
+      "Armor": "157",
+      "Stamina": "73",
+      "Intellect": "31",
+      "SpellPower": "73",
+      "CritRating": "42",
+      "Resilience": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Furious Gladiator's Cloak of Dominance",
+    "Id": "42069",
+    "Slot": "Back"
+  },
+  "42070": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_19",
+    "Stats": {
+      "Armor": "157",
+      "Stamina": "73",
+      "Intellect": "31",
+      "SpellPower": "73",
+      "Resilience": "42",
+      "HasteRating": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Furious Gladiator's Cloak of Subjugation",
+    "Id": "42070",
+    "Slot": "Back"
+  },
+  "42071": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_19",
+    "Stats": {
+      "Armor": "157",
+      "Stamina": "73",
+      "Intellect": "31",
+      "SpellPower": "73",
+      "HitRating": "42",
+      "Resilience": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Furious Gladiator's Cloak of Ascendancy",
+    "Id": "42071",
+    "Slot": "Back"
+  },
+  "42072": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_19",
+    "Stats": {
+      "Armor": "157",
+      "Stamina": "73",
+      "Intellect": "31",
+      "SpellPower": "73",
+      "Resilience": "42",
+      "Mp5": "21"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Furious Gladiator's Cloak of Salvation",
+    "Id": "42072",
+    "Slot": "Back"
+  },
+  "42073": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_19",
+    "Stats": {
+      "Armor": "157",
+      "Stamina": "73",
+      "Intellect": "31",
+      "Spirit": "42",
+      "SpellPower": "73",
+      "Resilience": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Furious Gladiator's Cloak of Deliverance",
+    "Id": "42073",
+    "Slot": "Back"
+  },
+  "42074": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_19",
+    "Stats": {
+      "Armor": "157",
+      "Stamina": "94",
+      "AttackPower": "126",
+      "CritRating": "42",
+      "Resilience": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Furious Gladiator's Cloak of Triumph",
+    "Id": "42074",
+    "Slot": "Back"
+  },
+  "42075": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_19",
+    "Stats": {
+      "Armor": "157",
+      "Stamina": "94",
+      "AttackPower": "126",
+      "HitRating": "42",
+      "Resilience": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Furious Gladiator's Cloak of Victory",
+    "Id": "42075",
+    "Slot": "Back"
+  },
+  "42076": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_20",
+    "Stats": {
+      "Armor": "166",
+      "Stamina": "86",
+      "Intellect": "38",
+      "SpellPower": "89",
+      "CritRating": "50",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Relentless Gladiator's Cloak of Dominance",
+    "Id": "42076",
+    "Slot": "Back"
+  },
+  "42077": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "166",
+      "Stamina": "86",
+      "Intellect": "38",
+      "SpellPower": "89",
+      "Resilience": "50",
+      "HasteRating": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Relentless Gladiator's Cloak of Subjugation",
+    "Id": "42077",
+    "Slot": "Back"
+  },
+  "42078": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_06",
+    "Stats": {
+      "Armor": "166",
+      "Stamina": "86",
+      "Intellect": "38",
+      "SpellPower": "89",
+      "HitRating": "50",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Relentless Gladiator's Cloak of Ascendancy",
+    "Id": "42078",
+    "Slot": "Back"
+  },
+  "42079": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "166",
+      "Stamina": "86",
+      "Intellect": "38",
+      "SpellPower": "89",
+      "Resilience": "50",
+      "Mp5": "25"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Relentless Gladiator's Cloak of Salvation",
+    "Id": "42079",
+    "Slot": "Back"
+  },
+  "42080": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_20",
+    "Stats": {
+      "Armor": "166",
+      "Stamina": "86",
+      "Intellect": "38",
+      "Spirit": "50",
+      "SpellPower": "89",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Relentless Gladiator's Cloak of Deliverance",
+    "Id": "42080",
+    "Slot": "Back"
+  },
+  "42081": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_18",
+    "Stats": {
+      "Armor": "166",
+      "Stamina": "114",
+      "AttackPower": "151",
+      "CritRating": "50",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Relentless Gladiator's Cloak of Triumph",
+    "Id": "42081",
+    "Slot": "Back"
+  },
+  "42082": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "166",
+      "Stamina": "114",
+      "AttackPower": "151",
+      "HitRating": "50",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Relentless Gladiator's Cloak of Victory",
+    "Id": "42082",
+    "Slot": "Back"
+  },
+  "43283": {
+    "ItemLevel": "200",
+    "DisplayId": "54522",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_05",
+    "Stats": {
+      "Armor": "145",
+      "Stamina": "31",
+      "Intellect": "26",
+      "Spirit": "54",
+      "SpellPower": "43"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Subterranean Waterfall Shroud",
+    "Id": "43283",
+    "Slot": "Back"
+  },
+  "43406": {
+    "ItemLevel": "200",
+    "DisplayId": "28693",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_18",
+    "Stats": {
+      "Armor": "145",
+      "Agility": "43",
+      "Stamina": "64",
+      "AttackPower": "56",
+      "HitRating": "29"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Cloak of the Gushing Wound",
+    "Id": "43406",
+    "Slot": "Back"
+  },
+  "43565": {
+    "ItemLevel": "200",
+    "DisplayId": "56737",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_14",
+    "Stats": {
+      "Armor": "150",
+      "Stamina": "75",
+      "Strength": "41",
+      "DodgeRating": "49",
+      "ExpertiseRating": "21"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Durable Nerubhide Cape",
+    "Id": "43565",
+    "Slot": "Back"
+  },
+  "43566": {
+    "ItemLevel": "200",
+    "DisplayId": "56738",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_13",
+    "Stats": {
+      "Armor": "150",
+      "Agility": "24",
+      "Stamina": "75",
+      "AttackPower": "100",
+      "HasteRating": "38"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Ice Striker's Cloak",
+    "Id": "43566",
+    "Slot": "Back"
+  },
+  "43988": {
+    "ItemLevel": "200",
+    "DisplayId": "56114",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_20",
+    "Stats": {
+      "Armor": "150",
+      "Stamina": "63",
+      "Strength": "36",
+      "DodgeRating": "33",
+      "DefenseRating": "32",
+      "ExpertiseRating": "21"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Gale-Proof Cloak",
+    "Id": "43988",
+    "Slot": "Back"
+  },
+  "44005": {
+    "ItemLevel": "226",
+    "DisplayId": "35312",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_naxxramas_02",
+    "Stats": {
+      "Armor": "157",
+      "Stamina": "54",
+      "Intellect": "46",
+      "SpellPower": "64",
+      "CritRating": "34",
+      "HasteRating": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Pennant Cloak",
+    "Id": "44005",
+    "Slot": "Back"
+  },
+  "45138": {
+    "ItemLevel": "226",
+    "DisplayId": "58998",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_12",
+    "Stats": {
+      "Armor": "157",
+      "Stamina": "72",
+      "Strength": "72",
+      "ArmorPenetrationRating": "36",
+      "CritRating": "46"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Drape of the Drakerider",
+    "Id": "45138",
+    "Slot": "Back"
+  },
+  "45224": {
+    "ItemLevel": "226",
+    "DisplayId": "51374",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_02",
+    "Stats": {
+      "Armor": "157",
+      "Agility": "63",
+      "Stamina": "63",
+      "AttackPower": "84",
+      "HitRating": "36",
+      "HasteRating": "46"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Drape of the Lithe",
+    "Id": "45224",
+    "Slot": "Back"
+  },
+  "45242": {
+    "ItemLevel": "239",
+    "DisplayId": "58997",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_13",
+    "Stats": {
+      "Armor": "162",
+      "Stamina": "61",
+      "Intellect": "51",
+      "SpellPower": "75",
+      "CritRating": "43",
+      "HitRating": "41"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Drape of Mortal Downfall",
+    "Id": "45242",
+    "Slot": "Back"
+  },
+  "45317": {
+    "ItemLevel": "219",
+    "DisplayId": "59029",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_09",
+    "Stats": {
+      "Armor": "155",
+      "Stamina": "65",
+      "Intellect": "35",
+      "SpellPower": "74",
+      "HasteRating": "39",
+      "Mp5": "15"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Shawl of the Caretaker",
+    "Id": "45317",
+    "Slot": "Back"
+  },
+  "45318": {
+    "ItemLevel": "219",
+    "DisplayId": "58995",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_22",
+    "Stats": {
+      "Armor": "155",
+      "Stamina": "67",
+      "Strength": "68",
+      "CritRating": "30",
+      "HasteRating": "46"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Drape of Fuming Anger",
+    "Id": "45318",
+    "Slot": "Back"
+  },
+  "45319": {
+    "ItemLevel": "226",
+    "DisplayId": "35430",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_naxxramas_01",
+    "Stats": {
+      "Armor": "157",
+      "Stamina": "94",
+      "Strength": "46",
+      "HitRating": "36",
+      "DodgeRating": "41",
+      "DefenseRating": "43"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Cloak of the Makers",
+    "Id": "45319",
+    "Slot": "Back"
+  },
+  "45322": {
+    "ItemLevel": "219",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_21",
+    "Stats": {
+      "Armor": "155",
+      "Stamina": "90",
+      "Strength": "49",
+      "BlockRating": "40",
+      "DefenseRating": "32",
+      "ExpertiseRating": "26"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Cloak of the Iron Council",
+    "Id": "45322",
+    "Slot": "Back"
+  },
+  "45461": {
+    "ItemLevel": "239",
+    "DisplayId": "58996",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_05",
+    "Stats": {
+      "Armor": "162",
+      "Agility": "64",
+      "Stamina": "70",
+      "AttackPower": "102",
+      "HitRating": "40",
+      "HasteRating": "41"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Drape of Icy Intent",
+    "Id": "45461",
+    "Slot": "Back"
+  },
+  "45486": {
+    "ItemLevel": "239",
+    "DisplayId": "59002",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_naxxramas_02",
+    "Stats": {
+      "Armor": "162",
+      "Stamina": "61",
+      "Intellect": "51",
+      "SpellPower": "75",
+      "CritRating": "40",
+      "Mp5": "24"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Drape of the Sullen Goddess",
+    "Id": "45486",
+    "Slot": "Back"
+  },
+  "45493": {
+    "ItemLevel": "226",
+    "DisplayId": "58977",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "157",
+      "Stamina": "46",
+      "Intellect": "42",
+      "Spirit": "42",
+      "SpellPower": "74",
+      "CritRating": "49"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Asimov's Drape",
+    "Id": "45493",
+    "Slot": "Back"
+  },
+  "45496": {
+    "ItemLevel": "239",
+    "DisplayId": "59035",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_19",
+    "Stats": {
+      "Armor": "162",
+      "Stamina": "96",
+      "Strength": "48",
+      "HitRating": "24",
+      "DefenseRating": "71",
+      "ExpertiseRating": "31"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Titanskin Cloak",
+    "Id": "45496",
+    "Slot": "Back"
+  },
+  "45529": {
+    "ItemLevel": "226",
+    "DisplayId": "59028",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "157",
+      "Stamina": "46",
+      "Intellect": "46",
+      "Spirit": "49",
+      "SpellPower": "74",
+      "CritRating": "36"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Shawl of Haunted Memories",
+    "Id": "45529",
+    "Slot": "Back"
+  },
+  "45541": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_05",
+    "Stats": {
+      "Armor": "157",
+      "Stamina": "46",
+      "Intellect": "49",
+      "SpellPower": "74",
+      "HasteRating": "36",
+      "Mp5": "23"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Shroud of Alteration",
+    "Id": "45541",
+    "Slot": "Back"
+  },
+  "45588": {
+    "ItemLevel": "239",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_21",
+    "Stats": {
+      "Armor": "162",
+      "Stamina": "106",
+      "Strength": "64",
+      "CritRating": "47",
+      "HitRating": "37"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Drape of the Skyborn",
+    "Id": "45588",
+    "Slot": "Back"
+  },
+  "45618": {
+    "ItemLevel": "239",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_06",
+    "Stats": {
+      "Armor": "162",
+      "Stamina": "70",
+      "Intellect": "48",
+      "Spirit": "48",
+      "SpellPower": "75",
+      "HasteRating": "39"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Sunglimmer Cloak",
+    "Id": "45618",
+    "Slot": "Back"
+  },
+  "45704": {
+    "ItemLevel": "219",
+    "DisplayId": "54674",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_18",
+    "Stats": {
+      "Armor": "155",
+      "Agility": "60",
+      "Stamina": "51",
+      "AttackPower": "86",
+      "CritRating": "44",
+      "HitRating": "32"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Shawl of the Shattered Giant",
+    "Id": "45704",
+    "Slot": "Back"
+  },
+  "45810": {
+    "ItemLevel": "200",
+    "DisplayId": "55663",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_19",
+    "Stats": {
+      "Armor": "145",
+      "Stamina": "42",
+      "Intellect": "29",
+      "SpellPower": "50",
+      "CritRating": "28",
+      "Resilience": "29"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Cloak of Crimson Snow",
+    "Id": "45810",
+    "Slot": "Back"
+  },
+  "45811": {
+    "ItemLevel": "200",
+    "DisplayId": "49738",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_19",
+    "Stats": {
+      "Armor": "145",
+      "Stamina": "64",
+      "AttackPower": "86",
+      "CritRating": "28",
+      "Resilience": "29"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Frostguard Drape",
+    "Id": "45811",
+    "Slot": "Back"
+  },
+  "45873": {
+    "ItemLevel": "219",
+    "DisplayId": "59040",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_13",
+    "Stats": {
+      "Armor": "155",
+      "Agility": "60",
+      "Stamina": "51",
+      "AttackPower": "92",
+      "CritRating": "43",
+      "HasteRating": "29"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Winter's Frigid Embrace",
+    "Id": "45873",
+    "Slot": "Back"
+  },
+  "45973": {
+    "ItemLevel": "219",
+    "DisplayId": "56737",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_14",
+    "Stats": {
+      "Armor": "155",
+      "Stamina": "67",
+      "Strength": "68",
+      "ArmorPenetrationRating": "43",
+      "CritRating": "35"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Stylish Power Cape",
+    "Id": "45973",
+    "Slot": "Back"
+  },
+  "46014": {
+    "ItemLevel": "219",
+    "DisplayId": "59026",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_20",
+    "Stats": {
+      "Armor": "155",
+      "Stamina": "88",
+      "Strength": "43",
+      "HitRating": "35",
+      "ParryRating": "29",
+      "DefenseRating": "46"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Saronite Animus Cloak",
+    "Id": "46014",
+    "Slot": "Back"
+  },
+  "46032": {
+    "ItemLevel": "226",
+    "DisplayId": "58999",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_14",
+    "Stats": {
+      "Armor": "157",
+      "Agility": "53",
+      "Stamina": "55",
+      "AttackPower": "92",
+      "ArmorPenetrationRating": "30",
+      "CritRating": "40"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Drape of the Faceless General",
+    "Id": "46032",
+    "Slot": "Back"
+  },
+  "46042": {
+    "ItemLevel": "226",
+    "DisplayId": "59000",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_06",
+    "Stats": {
+      "Armor": "157",
+      "Stamina": "45",
+      "Intellect": "36",
+      "SpellPower": "74",
+      "CritRating": "49",
+      "HitRating": "31"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Drape of the Messenger",
+    "Id": "46042",
+    "Slot": "Back"
+  },
+  "46320": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_21",
+    "Stats": {
+      "Armor": "157",
+      "Stamina": "95",
+      "Strength": "55",
+      "CritRating": "42",
+      "HitRating": "32"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Drape of the Skyherald",
+    "Id": "46320",
+    "Slot": "Back"
+  },
+  "46321": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_06",
+    "Stats": {
+      "Armor": "157",
+      "Stamina": "63",
+      "Intellect": "42",
+      "Spirit": "42",
+      "SpellPower": "64",
+      "HasteRating": "34"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Sunglimmer Drape",
+    "Id": "46321",
+    "Slot": "Back"
+  },
+  "46341": {
+    "ItemLevel": "219",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_09",
+    "Stats": {
+      "Armor": "155",
+      "Stamina": "65",
+      "Intellect": "37",
+      "SpellPower": "68",
+      "CritRating": "39",
+      "HasteRating": "30"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Drape of the Spellweaver",
+    "Id": "46341",
+    "Slot": "Back"
+  },
+  "46347": {
+    "ItemLevel": "219",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_09",
+    "Stats": {
+      "Armor": "155",
+      "Stamina": "68",
+      "Intellect": "30",
+      "SpellPower": "69",
+      "CritRating": "29",
+      "Mp5": "24"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Cloak of the Dormant Blaze",
+    "Id": "46347",
+    "Slot": "Back"
+  },
+  "46970": {
+    "ItemLevel": "245",
+    "DisplayId": "61403",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "166",
+      "Agility": "76",
+      "Stamina": "76",
+      "AttackPower": "101",
+      "CritRating": "50",
+      "HasteRating": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Drape of the Untamed Predator",
+    "Id": "46970",
+    "Slot": "Back"
+  },
+  "46971": {
+    "ItemLevel": "258",
+    "DisplayId": "61403",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "173",
+      "Agility": "77",
+      "Stamina": "85",
+      "AttackPower": "98",
+      "CritRating": "57",
+      "HasteRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Drape of the Untamed Predator",
+    "Id": "46971",
+    "Slot": "Back"
+  },
+  "46976": {
+    "ItemLevel": "245",
+    "DisplayId": "61401",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "166",
+      "Stamina": "58",
+      "Intellect": "58",
+      "Spirit": "50",
+      "SpellPower": "89",
+      "HasteRating": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Shawl of the Refreshing Winds",
+    "Id": "46976",
+    "Slot": "Back"
+  },
+  "46977": {
+    "ItemLevel": "258",
+    "DisplayId": "61401",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "173",
+      "Stamina": "65",
+      "Intellect": "65",
+      "Spirit": "57",
+      "SpellPower": "91",
+      "HasteRating": "49"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Shawl of the Refreshing Winds",
+    "Id": "46977",
+    "Slot": "Back"
+  },
+  "47042": {
+    "ItemLevel": "245",
+    "DisplayId": "26064",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "166",
+      "Stamina": "114",
+      "Strength": "58",
+      "DodgeRating": "50",
+      "DefenseRating": "50",
+      "ExpertiseRating": "38"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Pride of the Eredar",
+    "Id": "47042",
+    "Slot": "Back"
+  },
+  "47063": {
+    "ItemLevel": "258",
+    "DisplayId": "26064",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "173",
+      "Stamina": "116",
+      "Strength": "65",
+      "DodgeRating": "49",
+      "DefenseRating": "57",
+      "ExpertiseRating": "43"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Pride of the Eredar",
+    "Id": "47063",
+    "Slot": "Back"
+  },
+  "47089": {
+    "ItemLevel": "245",
+    "DisplayId": "61405",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "166",
+      "Stamina": "58",
+      "Intellect": "58",
+      "SpellPower": "89",
+      "HitRating": "50",
+      "HasteRating": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Cloak of Displacement",
+    "Id": "47089",
+    "Slot": "Back"
+  },
+  "47095": {
+    "ItemLevel": "258",
+    "DisplayId": "61405",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "173",
+      "Stamina": "65",
+      "Intellect": "65",
+      "SpellPower": "91",
+      "HitRating": "49",
+      "HasteRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Cloak of Displacement",
+    "Id": "47095",
+    "Slot": "Back"
+  },
+  "47183": {
+    "ItemLevel": "245",
+    "DisplayId": "33732",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "166",
+      "Stamina": "86",
+      "Strength": "86",
+      "CritRating": "54",
+      "HitRating": "44"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Strength of the Nerub",
+    "Id": "47183",
+    "Slot": "Back"
+  },
+  "47192": {
+    "ItemLevel": "258",
+    "DisplayId": "33732",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "173",
+      "Stamina": "97",
+      "Strength": "89",
+      "CritRating": "53",
+      "HitRating": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Strength of the Nerub",
+    "Id": "47192",
+    "Slot": "Back"
+  },
+  "47225": {
+    "ItemLevel": "245",
+    "DisplayId": "15040",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "166",
+      "Stamina": "58",
+      "Intellect": "58",
+      "SpellPower": "89",
+      "CritRating": "50",
+      "Mp5": "25"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Maiden's Favor",
+    "Id": "47225",
+    "Slot": "Back"
+  },
+  "47232": {
+    "ItemLevel": "200",
+    "DisplayId": "31131",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_20",
+    "Stats": {
+      "Armor": "150",
+      "Stamina": "57",
+      "Strength": "57",
+      "CritRating": "36",
+      "HasteRating": "28"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Drape of the Undefeated",
+    "Id": "47232",
+    "Slot": "Back"
+  },
+  "47238": {
+    "ItemLevel": "258",
+    "DisplayId": "15040",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "173",
+      "Stamina": "65",
+      "Intellect": "65",
+      "SpellPower": "91",
+      "CritRating": "49",
+      "Mp5": "28"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Maiden's Favor",
+    "Id": "47238",
+    "Slot": "Back"
+  },
+  "47256": {
+    "ItemLevel": "245",
+    "DisplayId": "61402",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_18",
+    "Stats": {
+      "Armor": "166",
+      "Stamina": "58",
+      "Intellect": "58",
+      "Spirit": "50",
+      "SpellPower": "89",
+      "HasteRating": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Drape of the Refreshing Winds",
+    "Id": "47256",
+    "Slot": "Back"
+  },
+  "47257": {
+    "ItemLevel": "245",
+    "DisplayId": "61404",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_18",
+    "Stats": {
+      "Armor": "166",
+      "Agility": "76",
+      "Stamina": "76",
+      "AttackPower": "101",
+      "CritRating": "50",
+      "HasteRating": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Cloak of the Untamed Predator",
+    "Id": "47257",
+    "Slot": "Back"
+  },
+  "47275": {
+    "ItemLevel": "245",
+    "DisplayId": "43290",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_18",
+    "Stats": {
+      "Armor": "166",
+      "Stamina": "114",
+      "Strength": "58",
+      "DodgeRating": "50",
+      "DefenseRating": "50",
+      "ExpertiseRating": "38"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Pride of the Demon Lord",
+    "Id": "47275",
+    "Slot": "Back"
+  },
+  "47291": {
+    "ItemLevel": "245",
+    "DisplayId": "61406",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_18",
+    "Stats": {
+      "Armor": "166",
+      "Stamina": "58",
+      "Intellect": "58",
+      "SpellPower": "89",
+      "HitRating": "50",
+      "HasteRating": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Shroud of Displacement",
+    "Id": "47291",
+    "Slot": "Back"
+  },
+  "47320": {
+    "ItemLevel": "245",
+    "DisplayId": "26141",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_18",
+    "Stats": {
+      "Armor": "166",
+      "Stamina": "86",
+      "Strength": "86",
+      "CritRating": "54",
+      "HitRating": "44"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Might of the Nerub",
+    "Id": "47320",
+    "Slot": "Back"
+  },
+  "47328": {
+    "ItemLevel": "245",
+    "DisplayId": "15163",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_18",
+    "Stats": {
+      "Armor": "166",
+      "Stamina": "58",
+      "Intellect": "58",
+      "SpellPower": "89",
+      "CritRating": "50",
+      "Mp5": "25"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Maiden's Adoration",
+    "Id": "47328",
+    "Slot": "Back"
+  },
+  "47417": {
+    "ItemLevel": "258",
+    "DisplayId": "61402",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_18",
+    "Stats": {
+      "Armor": "173",
+      "Stamina": "65",
+      "Intellect": "65",
+      "Spirit": "57",
+      "SpellPower": "91",
+      "HasteRating": "49"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Drape of the Refreshing Winds",
+    "Id": "47417",
+    "Slot": "Back"
+  },
+  "47418": {
+    "ItemLevel": "258",
+    "DisplayId": "61404",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_18",
+    "Stats": {
+      "Armor": "173",
+      "Agility": "77",
+      "Stamina": "85",
+      "AttackPower": "98",
+      "CritRating": "57",
+      "HasteRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Cloak of the Untamed Predator",
+    "Id": "47418",
+    "Slot": "Back"
+  },
+  "47436": {
+    "ItemLevel": "258",
+    "DisplayId": "43290",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_18",
+    "Stats": {
+      "Armor": "173",
+      "Stamina": "116",
+      "Strength": "65",
+      "DodgeRating": "49",
+      "DefenseRating": "57",
+      "ExpertiseRating": "43"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Pride of the Demon Lord",
+    "Id": "47436",
+    "Slot": "Back"
+  },
+  "47452": {
+    "ItemLevel": "258",
+    "DisplayId": "61406",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_18",
+    "Stats": {
+      "Armor": "173",
+      "Stamina": "65",
+      "Intellect": "65",
+      "SpellPower": "91",
+      "HitRating": "49",
+      "HasteRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Shroud of Displacement",
+    "Id": "47452",
+    "Slot": "Back"
+  },
+  "47481": {
+    "ItemLevel": "258",
+    "DisplayId": "26141",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_18",
+    "Stats": {
+      "Armor": "173",
+      "Stamina": "97",
+      "Strength": "89",
+      "CritRating": "53",
+      "HitRating": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Might of the Nerub",
+    "Id": "47481",
+    "Slot": "Back"
+  },
+  "47490": {
+    "ItemLevel": "258",
+    "DisplayId": "15163",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_18",
+    "Stats": {
+      "Armor": "173",
+      "Stamina": "65",
+      "Intellect": "65",
+      "SpellPower": "91",
+      "CritRating": "49",
+      "Mp5": "28"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Maiden's Adoration",
+    "Id": "47490",
+    "Slot": "Back"
+  },
+  "47501": {
+    "ItemLevel": "219",
+    "DisplayId": "61408",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_18",
+    "Stats": {
+      "Armor": "155",
+      "Stamina": "52",
+      "Intellect": "42",
+      "SpellPower": "70",
+      "CritRating": "33",
+      "HitRating": "44"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Kurisu's Indecision",
+    "Id": "47501",
+    "Slot": "Back"
+  },
+  "47545": {
+    "ItemLevel": "272",
+    "DisplayId": "61260",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "182",
+      "Agility": "97",
+      "Stamina": "97",
+      "AttackPower": "114",
+      "ArmorPenetrationRating": "57",
+      "CritRating": "65"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "AttackPower": "8"
+    },
+    "Name": "Vereesa's Dexterity",
+    "Id": "47545",
+    "Slot": "Back"
+  },
+  "47546": {
+    "ItemLevel": "272",
+    "DisplayId": "61400",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_18",
+    "Stats": {
+      "Armor": "182",
+      "Agility": "97",
+      "Stamina": "97",
+      "AttackPower": "114",
+      "ArmorPenetrationRating": "57",
+      "CritRating": "65"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "AttackPower": "8"
+    },
+    "Name": "Sylvanas' Cunning",
+    "Id": "47546",
+    "Slot": "Back"
+  },
+  "47547": {
+    "ItemLevel": "272",
+    "DisplayId": "61260",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "182",
+      "Stamina": "111",
+      "Strength": "103",
+      "CritRating": "65",
+      "HitRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Varian's Furor",
+    "Id": "47547",
+    "Slot": "Back"
+  },
+  "47548": {
+    "ItemLevel": "272",
+    "DisplayId": "61400",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_18",
+    "Stats": {
+      "Armor": "182",
+      "Stamina": "111",
+      "Strength": "103",
+      "CritRating": "65",
+      "HitRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Garrosh's Rage",
+    "Id": "47548",
+    "Slot": "Back"
+  },
+  "47549": {
+    "ItemLevel": "272",
+    "DisplayId": "61260",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "182",
+      "Stamina": "134",
+      "Strength": "97",
+      "DodgeRating": "43",
+      "ParryRating": "51",
+      "DefenseRating": "51"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Magni's Resolution",
+    "Id": "47549",
+    "Slot": "Back"
+  },
+  "47550": {
+    "ItemLevel": "272",
+    "DisplayId": "61400",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_18",
+    "Stats": {
+      "Armor": "182",
+      "Stamina": "134",
+      "Strength": "97",
+      "DodgeRating": "43",
+      "ParryRating": "51",
+      "DefenseRating": "51"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Cairne's Endurance",
+    "Id": "47550",
+    "Slot": "Back"
+  },
+  "47551": {
+    "ItemLevel": "272",
+    "DisplayId": "61400",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_18",
+    "Stats": {
+      "Armor": "182",
+      "Stamina": "74",
+      "Intellect": "74",
+      "SpellPower": "105",
+      "CritRating": "65",
+      "HasteRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Aethas' Intensity",
+    "Id": "47551",
+    "Slot": "Back"
+  },
+  "47552": {
+    "ItemLevel": "272",
+    "DisplayId": "61260",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "182",
+      "Stamina": "74",
+      "Intellect": "74",
+      "SpellPower": "105",
+      "CritRating": "65",
+      "HasteRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Jaina's Radiance",
+    "Id": "47552",
+    "Slot": "Back"
+  },
+  "47553": {
+    "ItemLevel": "272",
+    "DisplayId": "61260",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "182",
+      "Stamina": "74",
+      "Intellect": "74",
+      "Spirit": "65",
+      "SpellPower": "105",
+      "HasteRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Bolvar's Devotion",
+    "Id": "47553",
+    "Slot": "Back"
+  },
+  "47554": {
+    "ItemLevel": "272",
+    "DisplayId": "61400",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_18",
+    "Stats": {
+      "Armor": "182",
+      "Stamina": "74",
+      "Intellect": "74",
+      "Spirit": "65",
+      "SpellPower": "105",
+      "HasteRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Lady Liadrin's Conviction",
+    "Id": "47554",
+    "Slot": "Back"
+  },
+  "48666": {
+    "ItemLevel": "258",
+    "DisplayId": "61400",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_18",
+    "Stats": {
+      "Armor": "173",
+      "Stamina": "65",
+      "Intellect": "65",
+      "SpellPower": "91",
+      "CritRating": "57",
+      "HasteRating": "49"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Drape of the Sunreavers",
+    "Id": "48666",
+    "Slot": "Back"
+  },
+  "48667": {
+    "ItemLevel": "258",
+    "DisplayId": "61400",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_18",
+    "Stats": {
+      "Armor": "173",
+      "Stamina": "65",
+      "Intellect": "65",
+      "Spirit": "57",
+      "SpellPower": "91",
+      "HasteRating": "49"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Shawl of the Devout Crusader",
+    "Id": "48667",
+    "Slot": "Back"
+  },
+  "48668": {
+    "ItemLevel": "258",
+    "DisplayId": "61400",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_18",
+    "Stats": {
+      "Armor": "173",
+      "Agility": "85",
+      "Stamina": "85",
+      "AttackPower": "98",
+      "ArmorPenetrationRating": "49",
+      "CritRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "AttackPower": "8"
+    },
+    "Name": "Cloak of Serrated Blades",
+    "Id": "48668",
+    "Slot": "Back"
+  },
+  "48669": {
+    "ItemLevel": "258",
+    "DisplayId": "61400",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_18",
+    "Stats": {
+      "Armor": "173",
+      "Stamina": "97",
+      "Strength": "89",
+      "CritRating": "57",
+      "HitRating": "49"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Cloak of the Triumphant Combatant",
+    "Id": "48669",
+    "Slot": "Back"
+  },
+  "48670": {
+    "ItemLevel": "258",
+    "DisplayId": "61400",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_18",
+    "Stats": {
+      "Armor": "173",
+      "Stamina": "116",
+      "Strength": "85",
+      "DodgeRating": "37",
+      "ParryRating": "45",
+      "DefenseRating": "45"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Cloak of the Unflinching Guardian",
+    "Id": "48670",
+    "Slot": "Back"
+  },
+  "48671": {
+    "ItemLevel": "258",
+    "DisplayId": "61260",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "173",
+      "Stamina": "65",
+      "Intellect": "65",
+      "SpellPower": "91",
+      "CritRating": "57",
+      "HasteRating": "49"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Drape of Bitter Incantation",
+    "Id": "48671",
+    "Slot": "Back"
+  },
+  "48672": {
+    "ItemLevel": "258",
+    "DisplayId": "61260",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "173",
+      "Stamina": "65",
+      "Intellect": "65",
+      "Spirit": "57",
+      "SpellPower": "91",
+      "HasteRating": "49"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Shawl of Fervent Crusader",
+    "Id": "48672",
+    "Slot": "Back"
+  },
+  "48673": {
+    "ItemLevel": "258",
+    "DisplayId": "61260",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "173",
+      "Agility": "85",
+      "Stamina": "85",
+      "AttackPower": "98",
+      "ArmorPenetrationRating": "49",
+      "CritRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "AttackPower": "8"
+    },
+    "Name": "Cloak of the Silver Covenant",
+    "Id": "48673",
+    "Slot": "Back"
+  },
+  "48674": {
+    "ItemLevel": "258",
+    "DisplayId": "61260",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "173",
+      "Stamina": "97",
+      "Strength": "89",
+      "CritRating": "57",
+      "HitRating": "49"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Cloak of the Victorious Combatant",
+    "Id": "48674",
+    "Slot": "Back"
+  },
+  "48675": {
+    "ItemLevel": "258",
+    "DisplayId": "61260",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "173",
+      "Stamina": "116",
+      "Strength": "85",
+      "DodgeRating": "37",
+      "ParryRating": "45",
+      "DefenseRating": "45"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Cloak of the Unmoving Guardian",
+    "Id": "48675",
+    "Slot": "Back"
+  },
+  "49307": {
+    "ItemLevel": "232",
+    "DisplayId": "29719",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "159",
+      "Stamina": "59",
+      "Intellect": "48",
+      "SpellPower": "78",
+      "CritRating": "44",
+      "HasteRating": "30",
+      "FrostResistance": "6",
+      "ArcaneResistance": "6"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Fluttering Sapphiron Drape",
+    "Id": "49307",
+    "Slot": "Back"
+  },
+  "49491": {
+    "ItemLevel": "245",
+    "DisplayId": "29719",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "166",
+      "Stamina": "66",
+      "Intellect": "54",
+      "SpellPower": "89",
+      "CritRating": "50",
+      "HasteRating": "35",
+      "FrostResistance": "6",
+      "ArcaneResistance": "6"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Flowing Sapphiron Drape",
+    "Id": "49491",
+    "Slot": "Back"
+  },
+  "49792": {
+    "ItemLevel": "219",
+    "DisplayId": "64640",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_22",
+    "Stats": {
+      "Armor": "155",
+      "Agility": "59",
+      "Stamina": "52",
+      "AttackPower": "85",
+      "ArmorPenetrationRating": "37",
+      "HitRating": "41"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Accursed Crawling Cape",
+    "Id": "49792",
+    "Slot": "Back"
+  },
+  "49823": {
+    "ItemLevel": "219",
+    "DisplayId": "17238",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_18",
+    "Stats": {
+      "Armor": "155",
+      "Stamina": "59",
+      "Intellect": "40",
+      "SpellPower": "70",
+      "CritRating": "35",
+      "Mp5": "21"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Cloak of the Fallen Cardinal",
+    "Id": "49823",
+    "Slot": "Back"
+  },
+  "49832": {
+    "ItemLevel": "219",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_11",
+    "Stats": {
+      "Armor": "155",
+      "Stamina": "89",
+      "Strength": "59",
+      "DodgeRating": "31",
+      "ParryRating": "27",
+      "DefenseRating": "34"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Eerie Runeblade Polisher",
+    "Id": "49832",
+    "Slot": "Back"
+  },
+  "49842": {
+    "ItemLevel": "219",
+    "DisplayId": "64648",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "155",
+      "Stamina": "68",
+      "Strength": "68",
+      "CritRating": "42",
+      "HitRating": "35"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Tapestry of the Frozen Throne",
+    "Id": "49842",
+    "Slot": "Back"
+  },
+  "49998": {
+    "ItemLevel": "264",
+    "DisplayId": "64304",
+    "DisplaySlot": "16",
+    "IconPath": "item_icecrowncloak",
+    "Stats": {
+      "Armor": "177",
+      "Agility": "90",
+      "Stamina": "90",
+      "AttackPower": "105",
+      "CritRating": "52",
+      "HasteRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Shadowvault Slayer's Cloak",
+    "Id": "49998",
+    "Slot": "Back"
+  },
+  "50014": {
+    "ItemLevel": "264",
+    "DisplayId": "64300",
+    "DisplaySlot": "16",
+    "IconPath": "item_icecrowncape",
+    "Stats": {
+      "Armor": "177",
+      "Stamina": "69",
+      "Intellect": "69",
+      "Spirit": "60",
+      "SpellPower": "97",
+      "HasteRating": "52"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Greatcloak of the Turned Champion",
+    "Id": "50014",
+    "Slot": "Back"
+  },
+  "50019": {
+    "ItemLevel": "264",
+    "DisplayId": "64307",
+    "DisplaySlot": "16",
+    "IconPath": "item_icecrowncape",
+    "Stats": {
+      "Armor": "177",
+      "Stamina": "103",
+      "Strength": "95",
+      "CritRating": "60",
+      "HasteRating": "52"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Winding Sheet",
+    "Id": "50019",
+    "Slot": "Back"
+  },
+  "50074": {
+    "ItemLevel": "264",
+    "DisplayId": "54674",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_18",
+    "Stats": {
+      "Armor": "177",
+      "Stamina": "124",
+      "Strength": "69",
+      "HitRating": "38",
+      "DodgeRating": "60",
+      "DefenseRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Royal Crimson Cloak",
+    "Id": "50074",
+    "Slot": "Back"
+  },
+  "50205": {
+    "ItemLevel": "264",
+    "DisplayId": "28951",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "177",
+      "Stamina": "69",
+      "Intellect": "69",
+      "SpellPower": "97",
+      "CritRating": "60",
+      "HasteRating": "52"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Frostbinder's Shredded Cape",
+    "Id": "50205",
+    "Slot": "Back"
+  },
+  "50466": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_13",
+    "Stats": {
+      "Armor": "177",
+      "BonusArmor": "560",
+      "Stamina": "124",
+      "Strength": "90",
+      "DodgeRating": "48",
+      "DefenseRating": "48"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Sentinel's Winter Cloak",
+    "Id": "50466",
+    "Slot": "Back"
+  },
+  "50467": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_17",
+    "Stats": {
+      "Armor": "177",
+      "Stamina": "103",
+      "Strength": "95",
+      "ArmorPenetrationRating": "65",
+      "ExpertiseRating": "45"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Might of the Ocean Serpent",
+    "Id": "50467",
+    "Slot": "Back"
+  },
+  "50468": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "177",
+      "Stamina": "69",
+      "Intellect": "69",
+      "SpellPower": "97",
+      "CritRating": "52",
+      "Mp5": "30"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Drape of the Violet Tower",
+    "Id": "50468",
+    "Slot": "Back"
+  },
+  "50469": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "177",
+      "Stamina": "69",
+      "Intellect": "69",
+      "Spirit": "60",
+      "SpellPower": "97",
+      "CritRating": "52"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Volde's Cloak of the Night Sky",
+    "Id": "50469",
+    "Slot": "Back"
+  },
+  "50470": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_14",
+    "Stats": {
+      "Armor": "177",
+      "Agility": "90",
+      "Stamina": "90",
+      "AttackPower": "105",
+      "ArmorPenetrationRating": "52",
+      "CritRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Recovered Scarlet Onslaught Cape",
+    "Id": "50470",
+    "Slot": "Back"
+  },
+  "50628": {
+    "ItemLevel": "277",
+    "DisplayId": "28951",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "185",
+      "Stamina": "78",
+      "Intellect": "78",
+      "SpellPower": "110",
+      "CritRating": "68",
+      "HasteRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Frostbinder's Shredded Cape",
+    "Id": "50628",
+    "Slot": "Back"
+  },
+  "50653": {
+    "ItemLevel": "277",
+    "DisplayId": "64304",
+    "DisplaySlot": "16",
+    "IconPath": "item_icecrowncloak",
+    "Stats": {
+      "Armor": "185",
+      "Agility": "102",
+      "Stamina": "102",
+      "AttackPower": "120",
+      "CritRating": "60",
+      "HasteRating": "68"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Shadowvault Slayer's Cloak",
+    "Id": "50653",
+    "Slot": "Back"
+  },
+  "50668": {
+    "ItemLevel": "277",
+    "DisplayId": "64300",
+    "DisplaySlot": "16",
+    "IconPath": "item_icecrowncape",
+    "Stats": {
+      "Armor": "185",
+      "Stamina": "78",
+      "Intellect": "78",
+      "Spirit": "68",
+      "SpellPower": "110",
+      "HasteRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Greatcloak of the Turned Champion",
+    "Id": "50668",
+    "Slot": "Back"
+  },
+  "50677": {
+    "ItemLevel": "277",
+    "DisplayId": "64307",
+    "DisplaySlot": "16",
+    "IconPath": "item_icecrowncape",
+    "Stats": {
+      "Armor": "185",
+      "Stamina": "116",
+      "Strength": "108",
+      "CritRating": "68",
+      "HasteRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Winding Sheet",
+    "Id": "50677",
+    "Slot": "Back"
+  },
+  "50718": {
+    "ItemLevel": "277",
+    "DisplayId": "54674",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_18",
+    "Stats": {
+      "Armor": "185",
+      "Stamina": "141",
+      "Strength": "78",
+      "HitRating": "44",
+      "DodgeRating": "68",
+      "DefenseRating": "68"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Royal Crimson Cloak",
+    "Id": "50718",
+    "Slot": "Back"
+  },
+  "50764": {
+    "ItemLevel": "251",
+    "DisplayId": "61403",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "169",
+      "Agility": "72",
+      "Stamina": "61",
+      "AttackPower": "122",
+      "HitRating": "41",
+      "ExpertiseRating": "56"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Shawl of Nerubian Silk",
+    "Id": "50764",
+    "Slot": "Back"
+  },
+  "50791": {
+    "ItemLevel": "251",
+    "DisplayId": "64325",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_26",
+    "Stats": {
+      "Armor": "169",
+      "Stamina": "91",
+      "Strength": "83",
+      "CritRating": "32",
+      "HasteRating": "61"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Saronite Gargoyle Cloak",
+    "Id": "50791",
+    "Slot": "Back"
+  },
+  "50859": {
+    "ItemLevel": "251",
+    "DisplayId": "35430",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_naxxramas_01",
+    "Stats": {
+      "Armor": "169",
+      "Stamina": "108",
+      "Strength": "72",
+      "DodgeRating": "37",
+      "ParryRating": "42",
+      "DefenseRating": "45"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "DodgeRating": "4"
+    },
+    "Name": "Cloak of Many Skins",
+    "Id": "50859",
+    "Slot": "Back"
+  },
+  "51330": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_20",
+    "Stats": {
+      "Armor": "177",
+      "Stamina": "103",
+      "Intellect": "46",
+      "SpellPower": "106",
+      "CritRating": "60",
+      "Resilience": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Cloak of Dominance",
+    "Id": "51330",
+    "Slot": "Back"
+  },
+  "51332": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "177",
+      "Stamina": "103",
+      "Intellect": "46",
+      "SpellPower": "106",
+      "Resilience": "60",
+      "HasteRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Cloak of Subjugation",
+    "Id": "51332",
+    "Slot": "Back"
+  },
+  "51334": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_06",
+    "Stats": {
+      "Armor": "177",
+      "Stamina": "103",
+      "Intellect": "46",
+      "SpellPower": "106",
+      "HitRating": "60",
+      "Resilience": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Cloak of Ascendancy",
+    "Id": "51334",
+    "Slot": "Back"
+  },
+  "51346": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "177",
+      "Stamina": "103",
+      "Intellect": "46",
+      "SpellPower": "106",
+      "Resilience": "60",
+      "Mp5": "30"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Cloak of Salvation",
+    "Id": "51346",
+    "Slot": "Back"
+  },
+  "51348": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_20",
+    "Stats": {
+      "Armor": "177",
+      "Stamina": "103",
+      "Intellect": "46",
+      "Spirit": "60",
+      "SpellPower": "106",
+      "Resilience": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Cloak of Deliverance",
+    "Id": "51348",
+    "Slot": "Back"
+  },
+  "51354": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_18",
+    "Stats": {
+      "Armor": "177",
+      "Stamina": "136",
+      "AttackPower": "181",
+      "CritRating": "60",
+      "Resilience": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Cloak of Triumph",
+    "Id": "51354",
+    "Slot": "Back"
+  },
+  "51356": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "177",
+      "Stamina": "136",
+      "AttackPower": "181",
+      "HitRating": "60",
+      "Resilience": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Cloak of Victory",
+    "Id": "51356",
+    "Slot": "Back"
+  },
+  "51382": {
+    "ItemLevel": "251",
+    "DisplayId": "64323",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_20",
+    "Stats": {
+      "Armor": "169",
+      "Stamina": "61",
+      "Intellect": "61",
+      "SpellPower": "85",
+      "HasteRating": "45",
+      "Mp5": "27"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Mp5": "2"
+    },
+    "Name": "Heartsick Mender's Cape",
+    "Id": "51382",
+    "Slot": "Back"
+  },
+  "51570": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "166",
+      "Stamina": "86",
+      "Intellect": "38",
+      "SpellPower": "80",
+      "Resilience": "50",
+      "HasteRating": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Titan-Forged Cloak of Ascendancy",
+    "Id": "51570",
+    "Slot": "Back"
+  },
+  "51571": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_18",
+    "Stats": {
+      "Armor": "166",
+      "Stamina": "114",
+      "AttackPower": "135",
+      "ArmorPenetrationRating": "42",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "AttackPower": "8"
+    },
+    "Name": "Titan-Forged Cloak of Victory",
+    "Id": "51571",
+    "Slot": "Back"
+  },
+  "51584": {
+    "ItemLevel": "251",
+    "DisplayId": "46455",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_19",
+    "Stats": {
+      "Armor": "169",
+      "Stamina": "61",
+      "Intellect": "61",
+      "SpellPower": "85",
+      "HitRating": "41",
+      "HasteRating": "56"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "HitRating": "4"
+    },
+    "Name": "Lich Wrappings",
+    "Id": "51584",
+    "Slot": "Back"
+  },
+  "51826": {
+    "ItemLevel": "264",
+    "DisplayId": "46455",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_19",
+    "Stats": {
+      "Armor": "177",
+      "Stamina": "69",
+      "Intellect": "69",
+      "SpellPower": "97",
+      "HitRating": "48",
+      "HasteRating": "63"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "HitRating": "4"
+    },
+    "Name": "Lich Wrappings",
+    "Id": "51826",
+    "Slot": "Back"
+  },
+  "51848": {
+    "ItemLevel": "264",
+    "DisplayId": "64323",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_20",
+    "Stats": {
+      "Armor": "177",
+      "Stamina": "69",
+      "Intellect": "69",
+      "SpellPower": "97",
+      "HasteRating": "52",
+      "Mp5": "30"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Mp5": "2"
+    },
+    "Name": "Heartsick Mender's Cape",
+    "Id": "51848",
+    "Slot": "Back"
+  },
+  "51888": {
+    "ItemLevel": "264",
+    "DisplayId": "35430",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_naxxramas_01",
+    "Stats": {
+      "Armor": "177",
+      "Stamina": "124",
+      "Strength": "82",
+      "DodgeRating": "42",
+      "ParryRating": "48",
+      "DefenseRating": "51"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "DodgeRating": "4"
+    },
+    "Name": "Cloak of Many Skins",
+    "Id": "51888",
+    "Slot": "Back"
+  },
+  "51912": {
+    "ItemLevel": "264",
+    "DisplayId": "64325",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_26",
+    "Stats": {
+      "Armor": "177",
+      "Stamina": "103",
+      "Strength": "95",
+      "CritRating": "38",
+      "HasteRating": "69"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Saronite Gargoyle Cloak",
+    "Id": "51912",
+    "Slot": "Back"
+  },
+  "51933": {
+    "ItemLevel": "264",
+    "DisplayId": "61403",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "177",
+      "Agility": "82",
+      "Stamina": "69",
+      "AttackPower": "137",
+      "HitRating": "48",
+      "ExpertiseRating": "63"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Shawl of Nerubian Silk",
+    "Id": "51933",
+    "Slot": "Back"
+  },
+  "53115": {
+    "ItemLevel": "258",
+    "DisplayId": "64323",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_20",
+    "Stats": {
+      "Armor": "173",
+      "Stamina": "65",
+      "Intellect": "65",
+      "SpellPower": "91",
+      "HasteRating": "57",
+      "Mp5": "24"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Abduction's Cover",
+    "Id": "53115",
+    "Slot": "Back"
+  },
+  "53489": {
+    "ItemLevel": "271",
+    "DisplayId": "28951",
+    "DisplaySlot": "16",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "181",
+      "Stamina": "73",
+      "Intellect": "73",
+      "SpellPower": "104",
+      "CritRating": "56",
+      "HasteRating": "64"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Cloak of Burning Dusk",
+    "Id": "53489",
+    "Slot": "Back"
+  },
+  "54556": {
+    "ItemLevel": "271",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_20",
+    "Stats": {
+      "Armor": "181",
+      "Stamina": "73",
+      "Intellect": "73",
+      "SpellPower": "104",
+      "HasteRating": "64",
+      "Mp5": "28"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Abduction's Cover",
+    "Id": "54556",
+    "Slot": "Back"
+  },
+  "54583": {
+    "ItemLevel": "284",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "189",
+      "Stamina": "83",
+      "Intellect": "83",
+      "SpellPower": "118",
+      "CritRating": "65",
+      "HasteRating": "73"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Cloak of Burning Dusk",
+    "Id": "54583",
+    "Slot": "Back"
+  },
+  "54801": {
+    "ItemLevel": "232",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "649",
+      "Stamina": "100",
+      "Strength": "67",
+      "DodgeRating": "35",
+      "DefenseRating": "35"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Icebound Cloak",
+    "Id": "54801",
+    "Slot": "Back"
+  },
+  "54802": {
+    "ItemLevel": "232",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "159",
+      "Agility": "67",
+      "Stamina": "67",
+      "AttackPower": "89",
+      "CritRating": "51",
+      "HasteRating": "34"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "The Frost Lord's War Cloak",
+    "Id": "54802",
+    "Slot": "Back"
+  },
+  "54803": {
+    "ItemLevel": "232",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "159",
+      "Stamina": "76",
+      "Strength": "76",
+      "CritRating": "45",
+      "ExpertiseRating": "45"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "The Frost Lord's Battle Shroud",
+    "Id": "54803",
+    "Slot": "Back"
+  },
+  "54804": {
+    "ItemLevel": "232",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "159",
+      "Stamina": "51",
+      "Intellect": "51",
+      "SpellPower": "78",
+      "CritRating": "45",
+      "HasteRating": "45"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Shroud of Winter's Chill",
+    "Id": "54804",
+    "Slot": "Back"
+  },
+  "54805": {
+    "ItemLevel": "232",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_cape_16",
+    "Stats": {
+      "Armor": "159",
+      "Stamina": "51",
+      "Intellect": "51",
+      "Spirit": "45",
+      "SpellPower": "78",
+      "HasteRating": "45"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Cloak of the Frigid Winds",
+    "Id": "54805",
+    "Slot": "Back"
+  }
+}

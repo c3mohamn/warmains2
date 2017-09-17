@@ -1,0 +1,7505 @@
+{
+  "37150": {
+    "ItemLevel": "200",
+    "DisplayId": "50909",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_08",
+    "Stats": {
+      "Armor": "1489",
+      "Stamina": "85",
+      "Strength": "50",
+      "CritRating": "50"
+    },
+    "Quality": "Rare",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "CritRating": "4"
+    },
+    "Name": "Rift Striders",
+    "Id": "37150",
+    "Slot": "Feet"
+  },
+  "37167": {
+    "ItemLevel": "200",
+    "DisplayId": "52316",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_09",
+    "Stats": {
+      "Armor": "833",
+      "Agility": "42",
+      "Stamina": "38",
+      "AttackPower": "100",
+      "Intellect": "25",
+      "HasteRating": "30"
+    },
+    "Quality": "Rare",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Stamina": "9"
+    },
+    "Name": "Dragon Slayer's Sabatons",
+    "Id": "37167",
+    "Slot": "Feet"
+  },
+  "37218": {
+    "ItemLevel": "200",
+    "DisplayId": "52310",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_09",
+    "Stats": {
+      "Armor": "199",
+      "Stamina": "33",
+      "Intellect": "52",
+      "SpellPower": "68",
+      "CritRating": "57"
+    },
+    "Quality": "Rare",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Stone-Worn Footwraps",
+    "Id": "37218",
+    "Slot": "Feet"
+  },
+  "37367": {
+    "ItemLevel": "200",
+    "DisplayId": "51700",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_09",
+    "Stats": {
+      "Armor": "1489",
+      "Agility": "38",
+      "Stamina": "57",
+      "Strength": "60",
+      "HasteRating": "56"
+    },
+    "Quality": "Rare",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Echoing Stompers",
+    "Id": "37367",
+    "Slot": "Feet"
+  },
+  "37618": {
+    "ItemLevel": "200",
+    "DisplayId": "52568",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_08",
+    "Stats": {
+      "Armor": "1489",
+      "Stamina": "87",
+      "Strength": "57",
+      "DodgeRating": "33",
+      "DefenseRating": "42"
+    },
+    "Quality": "Rare",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Greaves of Ancient Evil",
+    "Id": "37618",
+    "Slot": "Feet"
+  },
+  "37629": {
+    "ItemLevel": "200",
+    "DisplayId": "53116",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_15",
+    "Stats": {
+      "Armor": "199",
+      "Stamina": "43",
+      "Intellect": "44",
+      "SpellPower": "68",
+      "CritRating": "57"
+    },
+    "Quality": "Rare",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Slithering Slippers",
+    "Id": "37629",
+    "Slot": "Feet"
+  },
+  "37632": {
+    "ItemLevel": "200",
+    "DisplayId": "50507",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_08",
+    "Stats": {
+      "Armor": "1489",
+      "Stamina": "57",
+      "Intellect": "38",
+      "SpellPower": "59",
+      "CritRating": "50"
+    },
+    "Quality": "Rare",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Intellect": "4"
+    },
+    "Name": "Mojo Frenzy Greaves",
+    "Id": "37632",
+    "Slot": "Feet"
+  },
+  "37640": {
+    "ItemLevel": "200",
+    "DisplayId": "53124",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_03",
+    "Stats": {
+      "Armor": "375",
+      "Stamina": "43",
+      "Intellect": "44",
+      "Spirit": "50",
+      "SpellPower": "59"
+    },
+    "Quality": "Rare",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Spirit": "4"
+    },
+    "Name": "Boots of Transformation",
+    "Id": "37640",
+    "Slot": "Feet"
+  },
+  "37654": {
+    "ItemLevel": "200",
+    "DisplayId": "52363",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_10",
+    "Stats": {
+      "Armor": "833",
+      "Stamina": "48",
+      "Intellect": "43",
+      "SpellPower": "68",
+      "HasteRating": "57"
+    },
+    "Quality": "Rare",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sabatons of the Ages",
+    "Id": "37654",
+    "Slot": "Feet"
+  },
+  "37666": {
+    "ItemLevel": "200",
+    "DisplayId": "51519",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_leather01",
+    "Stats": {
+      "Armor": "375",
+      "Agility": "58",
+      "Stamina": "57",
+      "AttackPower": "116",
+      "HitRating": "38"
+    },
+    "Quality": "Rare",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Boots of the Whirling Mist",
+    "Id": "37666",
+    "Slot": "Feet"
+  },
+  "37712": {
+    "ItemLevel": "200",
+    "DisplayId": "52568",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_08",
+    "Stats": {
+      "Armor": "1489",
+      "Stamina": "63",
+      "Strength": "58",
+      "BlockRating": "33",
+      "DefenseRating": "41"
+    },
+    "Quality": "Rare",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "BlockRating": "4"
+    },
+    "Name": "Terrace Defence Boots",
+    "Id": "37712",
+    "Slot": "Feet"
+  },
+  "37730": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_cloth_17",
+    "Stats": {
+      "Armor": "199",
+      "Stamina": "31",
+      "Intellect": "44",
+      "SpellPower": "59",
+      "HasteRating": "57"
+    },
+    "Quality": "Rare",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Cleric's Linen Shoes",
+    "Id": "37730",
+    "Slot": "Feet"
+  },
+  "37841": {
+    "ItemLevel": "200",
+    "DisplayId": "51936",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_07",
+    "Stats": {
+      "Armor": "375",
+      "Agility": "38",
+      "Stamina": "75",
+      "AttackPower": "116",
+      "CritRating": "30"
+    },
+    "Quality": "Rare",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Slag Footguards",
+    "Id": "37841",
+    "Slot": "Feet"
+  },
+  "37847": {
+    "ItemLevel": "200",
+    "DisplayId": "50507",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_08",
+    "Stats": {
+      "Armor": "1489",
+      "Stamina": "42",
+      "Intellect": "44",
+      "SpellPower": "68",
+      "CritRating": "57"
+    },
+    "Quality": "Rare",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Skywall Striders",
+    "Id": "37847",
+    "Slot": "Feet"
+  },
+  "37867": {
+    "ItemLevel": "200",
+    "DisplayId": "53625",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_19",
+    "Stats": {
+      "Armor": "199",
+      "Stamina": "45",
+      "Intellect": "57",
+      "Spirit": "39",
+      "SpellPower": "59"
+    },
+    "Quality": "Rare",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Footwraps of Teleportation",
+    "Id": "37867",
+    "Slot": "Feet"
+  },
+  "37870": {
+    "ItemLevel": "200",
+    "DisplayId": "55011",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_12",
+    "Stats": {
+      "Armor": "833",
+      "Agility": "30",
+      "Stamina": "45",
+      "AttackPower": "116",
+      "Intellect": "29",
+      "CritRating": "58"
+    },
+    "Quality": "Rare",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Twin-Headed Boots",
+    "Id": "37870",
+    "Slot": "Feet"
+  },
+  "39139": {
+    "ItemLevel": "200",
+    "DisplayId": "55381",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_06",
+    "Stats": {
+      "Armor": "1541",
+      "Stamina": "72",
+      "Strength": "67",
+      "CritRating": "38",
+      "HasteRating": "65"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Ravaging Sabatons",
+    "Id": "39139",
+    "Slot": "Feet"
+  },
+  "39189": {
+    "ItemLevel": "200",
+    "DisplayId": "57095",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_12",
+    "Stats": {
+      "Armor": "862",
+      "Stamina": "49",
+      "Intellect": "52",
+      "SpellPower": "77",
+      "CritRating": "50",
+      "Mp5": "16"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Boots of Persistence",
+    "Id": "39189",
+    "Slot": "Feet"
+  },
+  "39196": {
+    "ItemLevel": "200",
+    "DisplayId": "54223",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_05",
+    "Stats": {
+      "Armor": "388",
+      "Agility": "66",
+      "Stamina": "49",
+      "AttackPower": "96",
+      "CritRating": "38",
+      "HasteRating": "51"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Boots of the Worshiper",
+    "Id": "39196",
+    "Slot": "Feet"
+  },
+  "39215": {
+    "ItemLevel": "200",
+    "DisplayId": "57007",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_08",
+    "Stats": {
+      "Armor": "388",
+      "Stamina": "37",
+      "Intellect": "44",
+      "Spirit": "66",
+      "SpellPower": "77",
+      "HasteRating": "32"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Boots of the Follower",
+    "Id": "39215",
+    "Slot": "Feet"
+  },
+  "39234": {
+    "ItemLevel": "200",
+    "DisplayId": "55381",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_06",
+    "Stats": {
+      "Armor": "1541",
+      "Stamina": "99",
+      "Strength": "65",
+      "DodgeRating": "26",
+      "ParryRating": "33",
+      "DefenseRating": "44"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Plague-Impervious Boots",
+    "Id": "39234",
+    "Slot": "Feet"
+  },
+  "39236": {
+    "ItemLevel": "200",
+    "DisplayId": "54229",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_01",
+    "Stats": {
+      "Armor": "862",
+      "Agility": "38",
+      "Stamina": "48",
+      "AttackPower": "132",
+      "Intellect": "30",
+      "CritRating": "44",
+      "HasteRating": "29"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Trespasser's Boots",
+    "Id": "39236",
+    "Slot": "Feet"
+  },
+  "39254": {
+    "ItemLevel": "200",
+    "DisplayId": "54227",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_16",
+    "Stats": {
+      "Armor": "206",
+      "Stamina": "49",
+      "Intellect": "51",
+      "Spirit": "51",
+      "SpellPower": "77",
+      "HasteRating": "33"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Saltarello Shoes",
+    "Id": "39254",
+    "Slot": "Feet"
+  },
+  "39273": {
+    "ItemLevel": "200",
+    "DisplayId": "56612",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_11",
+    "Stats": {
+      "Armor": "206",
+      "Stamina": "48",
+      "Intellect": "50",
+      "Spirit": "38",
+      "SpellPower": "76",
+      "CritRating": "48"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sullen Cloth Boots",
+    "Id": "39273",
+    "Slot": "Feet"
+  },
+  "39369": {
+    "ItemLevel": "200",
+    "DisplayId": "54224",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_08",
+    "Stats": {
+      "Armor": "1541",
+      "Stamina": "49",
+      "Intellect": "51",
+      "SpellPower": "77",
+      "CritRating": "44",
+      "Mp5": "23"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sabatons of Deathlike Gloom",
+    "Id": "39369",
+    "Slot": "Feet"
+  },
+  "39701": {
+    "ItemLevel": "213",
+    "DisplayId": "54625",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_05",
+    "Stats": {
+      "Armor": "398",
+      "Agility": "50",
+      "Stamina": "57",
+      "AttackPower": "148",
+      "CritRating": "57",
+      "HitRating": "50"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Dawnwalkers",
+    "Id": "39701",
+    "Slot": "Feet"
+  },
+  "39706": {
+    "ItemLevel": "213",
+    "DisplayId": "55395",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_05",
+    "Stats": {
+      "Armor": "1580",
+      "Stamina": "82",
+      "Strength": "67",
+      "CritRating": "66",
+      "HasteRating": "43"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Sabatons of Sudden Reprisal",
+    "Id": "39706",
+    "Slot": "Feet"
+  },
+  "39717": {
+    "ItemLevel": "213",
+    "DisplayId": "55393",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_06",
+    "Stats": {
+      "Armor": "1580",
+      "Stamina": "94",
+      "Strength": "74",
+      "BlockRating": "33",
+      "BlockValue": "153",
+      "DefenseRating": "24"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Inexorable Sabatons",
+    "Id": "39717",
+    "Slot": "Feet"
+  },
+  "39734": {
+    "ItemLevel": "213",
+    "DisplayId": "57091",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_12",
+    "Stats": {
+      "Armor": "884",
+      "Stamina": "55",
+      "Intellect": "57",
+      "SpellPower": "88",
+      "HasteRating": "43",
+      "Mp5": "28"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Atonement Greaves",
+    "Id": "39734",
+    "Slot": "Feet"
+  },
+  "40184": {
+    "ItemLevel": "213",
+    "DisplayId": "54770",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_07",
+    "Stats": {
+      "Armor": "884",
+      "Agility": "75",
+      "Stamina": "75",
+      "AttackPower": "100",
+      "Intellect": "34",
+      "CritRating": "49",
+      "HasteRating": "33"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Crippled Treads",
+    "Id": "40184",
+    "Slot": "Feet"
+  },
+  "40187": {
+    "ItemLevel": "213",
+    "DisplayId": "54787",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_03",
+    "Stats": {
+      "Armor": "1580",
+      "Stamina": "57",
+      "Intellect": "57",
+      "SpellPower": "78",
+      "CritRating": "35",
+      "HasteRating": "55"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Intellect": "4"
+    },
+    "Name": "Poignant Sabatons",
+    "Id": "40187",
+    "Slot": "Feet"
+  },
+  "40206": {
+    "ItemLevel": "213",
+    "DisplayId": "55394",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_02",
+    "Stats": {
+      "Armor": "1580",
+      "Stamina": "85",
+      "Strength": "76",
+      "ArmorPenetrationRating": "37",
+      "HitRating": "73"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Iron-Spring Jumpers",
+    "Id": "40206",
+    "Slot": "Feet"
+  },
+  "40236": {
+    "ItemLevel": "213",
+    "DisplayId": "54789",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_16",
+    "Stats": {
+      "Armor": "212",
+      "Stamina": "57",
+      "Intellect": "57",
+      "SpellPower": "88",
+      "CritRating": "49",
+      "Mp5": "25"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Serene Echoes",
+    "Id": "40236",
+    "Slot": "Feet"
+  },
+  "40237": {
+    "ItemLevel": "213",
+    "DisplayId": "57094",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_13",
+    "Stats": {
+      "Armor": "884",
+      "Stamina": "73",
+      "Intellect": "57",
+      "SpellPower": "78",
+      "CritRating": "42",
+      "HasteRating": "38"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Eruption-Scarred Boots",
+    "Id": "40237",
+    "Slot": "Feet"
+  },
+  "40243": {
+    "ItemLevel": "213",
+    "DisplayId": "54775",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_02",
+    "Stats": {
+      "Armor": "398",
+      "Agility": "67",
+      "Stamina": "76",
+      "AttackPower": "112",
+      "ExpertiseRating": "30",
+      "HasteRating": "49"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "AttackPower": "8"
+    },
+    "Name": "Footwraps of Vile Deceit",
+    "Id": "40243",
+    "Slot": "Feet"
+  },
+  "40246": {
+    "ItemLevel": "213",
+    "DisplayId": "54763",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_12",
+    "Stats": {
+      "Armor": "212",
+      "Stamina": "64",
+      "Intellect": "57",
+      "SpellPower": "88",
+      "HitRating": "37",
+      "HasteRating": "55"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Boots of Impetuous Ideals",
+    "Id": "40246",
+    "Slot": "Feet"
+  },
+  "40269": {
+    "ItemLevel": "213",
+    "DisplayId": "56085",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_12",
+    "Stats": {
+      "Armor": "212",
+      "Stamina": "75",
+      "Intellect": "50",
+      "Spirit": "55",
+      "SpellPower": "78",
+      "CritRating": "35"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "CritRating": "4"
+    },
+    "Name": "Boots of Persuasion",
+    "Id": "40269",
+    "Slot": "Feet"
+  },
+  "40270": {
+    "ItemLevel": "213",
+    "DisplayId": "57008",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_08",
+    "Stats": {
+      "Armor": "398",
+      "Stamina": "64",
+      "Intellect": "53",
+      "Spirit": "49",
+      "SpellPower": "78",
+      "CritRating": "38"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "CritRating": "4"
+    },
+    "Name": "Boots of Septic Wounds",
+    "Id": "40270",
+    "Slot": "Feet"
+  },
+  "40297": {
+    "ItemLevel": "213",
+    "DisplayId": "55393",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_06",
+    "Stats": {
+      "Armor": "1580",
+      "Stamina": "111",
+      "Strength": "57",
+      "DodgeRating": "43",
+      "DefenseRating": "55",
+      "ExpertiseRating": "38"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sabatons of Endurance",
+    "Id": "40297",
+    "Slot": "Feet"
+  },
+  "40320": {
+    "ItemLevel": "213",
+    "DisplayId": "54787",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_03",
+    "Stats": {
+      "Armor": "1580",
+      "Stamina": "73",
+      "Intellect": "50",
+      "SpellPower": "88",
+      "CritRating": "43",
+      "Mp5": "28"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Faithful Steel Sabatons",
+    "Id": "40320",
+    "Slot": "Feet"
+  },
+  "40326": {
+    "ItemLevel": "213",
+    "DisplayId": "54789",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_16",
+    "Stats": {
+      "Armor": "212",
+      "Stamina": "51",
+      "Intellect": "50",
+      "Spirit": "66",
+      "SpellPower": "78",
+      "HasteRating": "33"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Spirit": "4"
+    },
+    "Name": "Boots of Forlorn Wishes",
+    "Id": "40326",
+    "Slot": "Feet"
+  },
+  "40367": {
+    "ItemLevel": "213",
+    "DisplayId": "54770",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_07",
+    "Stats": {
+      "Armor": "884",
+      "Agility": "42",
+      "Stamina": "75",
+      "AttackPower": "134",
+      "Intellect": "37",
+      "CritRating": "39",
+      "HasteRating": "40"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Boots of the Great Construct",
+    "Id": "40367",
+    "Slot": "Feet"
+  },
+  "40409": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_chain_01",
+    "Stats": {
+      "Armor": "398",
+      "Stamina": "46",
+      "Intellect": "57",
+      "Spirit": "38",
+      "SpellPower": "88",
+      "HasteRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Boots of the Escaped Captive",
+    "Id": "40409",
+    "Slot": "Feet"
+  },
+  "40519": {
+    "ItemLevel": "213",
+    "DisplayId": "53659",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_13",
+    "Stats": {
+      "Armor": "398",
+      "Stamina": "63",
+      "Intellect": "52",
+      "SpellPower": "90",
+      "CritRating": "41",
+      "HasteRating": "56"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Footsteps of Malygos",
+    "Id": "40519",
+    "Slot": "Feet"
+  },
+  "40549": {
+    "ItemLevel": "226",
+    "DisplayId": "53661",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_leather_02",
+    "Stats": {
+      "Armor": "903",
+      "Agility": "88",
+      "Stamina": "60",
+      "AttackPower": "122",
+      "ArmorPenetrationRating": "37",
+      "Intellect": "44",
+      "CritRating": "50"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Boots of the Renewed Flight",
+    "Id": "40549",
+    "Slot": "Feet"
+  },
+  "40558": {
+    "ItemLevel": "226",
+    "DisplayId": "53660",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_16",
+    "Stats": {
+      "Armor": "216",
+      "Stamina": "89",
+      "Intellect": "52",
+      "Spirit": "62",
+      "SpellPower": "99",
+      "HasteRating": "46"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Arcanic Tramplers",
+    "Id": "40558",
+    "Slot": "Feet"
+  },
+  "40591": {
+    "ItemLevel": "226",
+    "DisplayId": "53671",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_06",
+    "Stats": {
+      "Armor": "1614",
+      "Stamina": "81",
+      "Strength": "88",
+      "ArmorPenetrationRating": "84",
+      "CritRating": "54"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Melancholy Sabatons",
+    "Id": "40591",
+    "Slot": "Feet"
+  },
+  "40592": {
+    "ItemLevel": "226",
+    "DisplayId": "53672",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_08",
+    "Stats": {
+      "Armor": "1614",
+      "Stamina": "54",
+      "Intellect": "69",
+      "SpellPower": "98",
+      "HasteRating": "43",
+      "Mp5": "33"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Boots of Healing Energies",
+    "Id": "40592",
+    "Slot": "Feet"
+  },
+  "40742": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_plate_02",
+    "Stats": {
+      "Armor": "1580",
+      "Stamina": "112",
+      "Strength": "75",
+      "CritRating": "53",
+      "HitRating": "43"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Bladed Steelboots",
+    "Id": "40742",
+    "Slot": "Feet"
+  },
+  "40743": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_plate_08",
+    "Stats": {
+      "Armor": "1580",
+      "Stamina": "111",
+      "Strength": "75",
+      "DodgeRating": "33",
+      "ParryRating": "34",
+      "DefenseRating": "50"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Kyzoc's Ground Stompers",
+    "Id": "40743",
+    "Slot": "Feet"
+  },
+  "40745": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_plate_06",
+    "Stats": {
+      "Armor": "1580",
+      "Stamina": "73",
+      "Intellect": "50",
+      "SpellPower": "88",
+      "HasteRating": "49",
+      "Mp5": "25"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sabatons of Rapid Recovery",
+    "Id": "40745",
+    "Slot": "Feet"
+  },
+  "40746": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_chain_03",
+    "Stats": {
+      "Armor": "884",
+      "Agility": "49",
+      "Stamina": "75",
+      "AttackPower": "150",
+      "ArmorPenetrationRating": "39",
+      "Intellect": "40",
+      "HitRating": "39"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Pack-Ice Striders",
+    "Id": "40746",
+    "Slot": "Feet"
+  },
+  "40747": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_chain_05",
+    "Stats": {
+      "Armor": "884",
+      "Stamina": "64",
+      "Intellect": "53",
+      "SpellPower": "88",
+      "CritRating": "50",
+      "Mp5": "25"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Treads of Coastal Wandering",
+    "Id": "40747",
+    "Slot": "Feet"
+  },
+  "40748": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_08",
+    "Stats": {
+      "Armor": "398",
+      "Agility": "37",
+      "Stamina": "85",
+      "AttackPower": "150",
+      "CritRating": "43",
+      "HasteRating": "55"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Boots of Captain Ellis",
+    "Id": "40748",
+    "Slot": "Feet"
+  },
+  "40749": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_03",
+    "Stats": {
+      "Armor": "398",
+      "Stamina": "64",
+      "Intellect": "57",
+      "Spirit": "55",
+      "SpellPower": "88",
+      "Mp5": "19"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Rainey's Chewed Boots",
+    "Id": "40749",
+    "Slot": "Feet"
+  },
+  "40750": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_cloth_03",
+    "Stats": {
+      "Armor": "212",
+      "Stamina": "55",
+      "Intellect": "57",
+      "Spirit": "55",
+      "SpellPower": "88",
+      "HitRating": "43"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Xintor's Expeditionary Boots",
+    "Id": "40750",
+    "Slot": "Feet"
+  },
+  "40751": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_cloth_09",
+    "Stats": {
+      "Armor": "212",
+      "Stamina": "64",
+      "Intellect": "55",
+      "Spirit": "57",
+      "SpellPower": "88",
+      "HasteRating": "37"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Slippers of the Holy Light",
+    "Id": "40751",
+    "Slot": "Feet"
+  },
+  "40880": {
+    "ItemLevel": "213",
+    "DisplayId": "55755",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_01",
+    "Stats": {
+      "Armor": "1580",
+      "Stamina": "111",
+      "Strength": "67",
+      "CritRating": "42",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "RequiredClasses": "Warrior|Paladin|Death Knight",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Deadly Gladiator's Greaves of Triumph",
+    "Id": "40880",
+    "Slot": "Feet"
+  },
+  "40882": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_plate_01",
+    "Stats": {
+      "Armor": "1614",
+      "Stamina": "126",
+      "Strength": "77",
+      "CritRating": "49",
+      "Resilience": "56"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "RequiredClasses": "Warrior|Paladin|Death Knight",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Furious Gladiator's Greaves of Triumph",
+    "Id": "40882",
+    "Slot": "Feet"
+  },
+  "40884": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_plate_08",
+    "Stats": {
+      "Armor": "1700",
+      "Stamina": "151",
+      "Strength": "93",
+      "CritRating": "59",
+      "Resilience": "67"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "RequiredClasses": "Warrior|Paladin|Death Knight",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Relentless Gladiator's Greaves of Triumph",
+    "Id": "40884",
+    "Slot": "Feet"
+  },
+  "40975": {
+    "ItemLevel": "213",
+    "DisplayId": "55728",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_08",
+    "Stats": {
+      "Armor": "1580",
+      "Stamina": "85",
+      "Intellect": "37",
+      "SpellPower": "78",
+      "Resilience": "50",
+      "Mp5": "21"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "RequiredClasses": "Paladin",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Deadly Gladiator's Greaves of Salvation",
+    "Id": "40975",
+    "Slot": "Feet"
+  },
+  "40977": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_plate_08",
+    "Stats": {
+      "Armor": "1614",
+      "Stamina": "96",
+      "Intellect": "42",
+      "SpellPower": "90",
+      "Resilience": "56",
+      "Mp5": "25"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "RequiredClasses": "Warrior|Paladin",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Furious Gladiator's Greaves of Salvation",
+    "Id": "40977",
+    "Slot": "Feet"
+  },
+  "40979": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_plate_08",
+    "Stats": {
+      "Armor": "1700",
+      "Stamina": "115",
+      "Intellect": "51",
+      "SpellPower": "109",
+      "Resilience": "67",
+      "Mp5": "30"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "RequiredClasses": "Warrior|Paladin",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Relentless Gladiator's Greaves of Salvation",
+    "Id": "40979",
+    "Slot": "Feet"
+  },
+  "41054": {
+    "ItemLevel": "213",
+    "DisplayId": "56950",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_09",
+    "Stats": {
+      "Armor": "884",
+      "Stamina": "85",
+      "Intellect": "37",
+      "SpellPower": "78",
+      "Resilience": "50",
+      "Mp5": "21"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "RequiredClasses": "Hunter|Shaman",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Deadly Gladiator's Sabatons of Salvation",
+    "Id": "41054",
+    "Slot": "Feet"
+  },
+  "41055": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_plate_09",
+    "Stats": {
+      "Armor": "903",
+      "Stamina": "96",
+      "Intellect": "42",
+      "SpellPower": "90",
+      "Resilience": "56",
+      "Mp5": "25"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "RequiredClasses": "Hunter|Shaman",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Furious Gladiator's Sabatons of Salvation",
+    "Id": "41055",
+    "Slot": "Feet"
+  },
+  "41056": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_chain_07",
+    "Stats": {
+      "Armor": "951",
+      "Stamina": "115",
+      "Intellect": "51",
+      "SpellPower": "109",
+      "Resilience": "67",
+      "Mp5": "30"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "RequiredClasses": "Hunter|Shaman",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Relentless Gladiator's Sabatons of Salvation",
+    "Id": "41056",
+    "Slot": "Feet"
+  },
+  "41074": {
+    "ItemLevel": "213",
+    "DisplayId": "56950",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_09",
+    "Stats": {
+      "Armor": "884",
+      "Stamina": "85",
+      "Intellect": "37",
+      "SpellPower": "78",
+      "CritRating": "42",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "RequiredClasses": "Hunter|Shaman",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Deadly Gladiator's Sabatons of Dominance",
+    "Id": "41074",
+    "Slot": "Feet"
+  },
+  "41075": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_plate_09",
+    "Stats": {
+      "Armor": "903",
+      "Stamina": "96",
+      "Intellect": "42",
+      "SpellPower": "90",
+      "CritRating": "48",
+      "Resilience": "56"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "RequiredClasses": "Hunter|Shaman",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Furious Gladiator's Sabatons of Dominance",
+    "Id": "41075",
+    "Slot": "Feet"
+  },
+  "41076": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_chain_07",
+    "Stats": {
+      "Armor": "951",
+      "Stamina": "115",
+      "Intellect": "51",
+      "SpellPower": "109",
+      "CritRating": "59",
+      "Resilience": "67"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "RequiredClasses": "Hunter|Shaman",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Relentless Gladiator's Sabatons of Dominance",
+    "Id": "41076",
+    "Slot": "Feet"
+  },
+  "41229": {
+    "ItemLevel": "213",
+    "DisplayId": "56972",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_09",
+    "Stats": {
+      "Armor": "884",
+      "Agility": "41",
+      "Stamina": "85",
+      "AttackPower": "84",
+      "Intellect": "37",
+      "CritRating": "50",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "RequiredClasses": "Hunter|Shaman",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Deadly Gladiator's Sabatons of Triumph",
+    "Id": "41229",
+    "Slot": "Feet"
+  },
+  "41230": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_plate_09",
+    "Stats": {
+      "Armor": "903",
+      "Agility": "57",
+      "Stamina": "97",
+      "AttackPower": "96",
+      "Intellect": "35",
+      "CritRating": "56",
+      "Resilience": "56"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "RequiredClasses": "Hunter|Shaman",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Furious Gladiator's Sabatons of Triumph",
+    "Id": "41230",
+    "Slot": "Feet"
+  },
+  "41231": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_mail_02",
+    "Stats": {
+      "Armor": "951",
+      "Agility": "67",
+      "Stamina": "115",
+      "AttackPower": "119",
+      "Intellect": "51",
+      "CritRating": "59",
+      "Resilience": "67"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "RequiredClasses": "Hunter|Shaman",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Relentless Gladiator's Sabatons of Triumph",
+    "Id": "41231",
+    "Slot": "Feet"
+  },
+  "41391": {
+    "ItemLevel": "200",
+    "DisplayId": "53036",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_08",
+    "Stats": {
+      "Armor": "1541",
+      "Stamina": "67",
+      "Strength": "80",
+      "CritRating": "35"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Spiked Titansteel Treads",
+    "Id": "41391",
+    "Slot": "Feet"
+  },
+  "41392": {
+    "ItemLevel": "200",
+    "DisplayId": "53037",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_08",
+    "Stats": {
+      "Armor": "1541",
+      "Stamina": "120",
+      "Strength": "45",
+      "DefenseRating": "35"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Tempered Titansteel Treads",
+    "Id": "41392",
+    "Slot": "Feet"
+  },
+  "41394": {
+    "ItemLevel": "200",
+    "DisplayId": "53038",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_08",
+    "Stats": {
+      "Armor": "1541",
+      "SpellPower": "93",
+      "CritRating": "35",
+      "Mp5": "23"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Brilliant Titansteel Treads",
+    "Id": "41394",
+    "Slot": "Feet"
+  },
+  "41620": {
+    "ItemLevel": "213",
+    "DisplayId": "56424",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_05",
+    "Stats": {
+      "Armor": "398",
+      "Stamina": "85",
+      "Intellect": "37",
+      "Spirit": "42",
+      "SpellPower": "78",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "RequiredClasses": "Rogue|Druid",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Deadly Gladiator's Boots of Salvation",
+    "Id": "41620",
+    "Slot": "Feet"
+  },
+  "41621": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_cloth_05",
+    "Stats": {
+      "Armor": "406",
+      "Stamina": "96",
+      "Intellect": "42",
+      "Spirit": "48",
+      "SpellPower": "90",
+      "Resilience": "56"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "RequiredClasses": "Rogue|Druid",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Furious Gladiator's Boots of Salvation",
+    "Id": "41621",
+    "Slot": "Feet"
+  },
+  "41622": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_cloth_05",
+    "Stats": {
+      "Armor": "428",
+      "Stamina": "115",
+      "Intellect": "51",
+      "Spirit": "59",
+      "SpellPower": "109",
+      "Resilience": "67"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "RequiredClasses": "Rogue|Druid",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Relentless Gladiator's Boots of Salvation",
+    "Id": "41622",
+    "Slot": "Feet"
+  },
+  "41634": {
+    "ItemLevel": "213",
+    "DisplayId": "56424",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_05",
+    "Stats": {
+      "Armor": "398",
+      "Stamina": "85",
+      "Intellect": "37",
+      "SpellPower": "78",
+      "CritRating": "42",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "RequiredClasses": "Rogue|Druid",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Deadly Gladiator's Boots of Dominance",
+    "Id": "41634",
+    "Slot": "Feet"
+  },
+  "41635": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_cloth_05",
+    "Stats": {
+      "Armor": "406",
+      "Stamina": "96",
+      "Intellect": "42",
+      "SpellPower": "90",
+      "CritRating": "48",
+      "Resilience": "56"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "RequiredClasses": "Rogue|Druid",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": "none",
+    "Name": "Furious Gladiator's Boots of Dominance",
+    "Id": "41635",
+    "Slot": "Feet"
+  },
+  "41636": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_cloth_05",
+    "Stats": {
+      "Armor": "428",
+      "Stamina": "115",
+      "Intellect": "51",
+      "SpellPower": "109",
+      "CritRating": "59",
+      "Resilience": "67"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "RequiredClasses": "Rogue|Druid",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Relentless Gladiator's Boots of Dominance",
+    "Id": "41636",
+    "Slot": "Feet"
+  },
+  "41835": {
+    "ItemLevel": "213",
+    "DisplayId": "55648",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_05",
+    "Stats": {
+      "Armor": "398",
+      "Agility": "67",
+      "Stamina": "85",
+      "AttackPower": "74",
+      "CritRating": "42",
+      "Resilience": "49"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "RequiredClasses": "Rogue|Druid",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Deadly Gladiator's Boots of Triumph",
+    "Id": "41835",
+    "Slot": "Feet"
+  },
+  "41836": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_cloth_05",
+    "Stats": {
+      "Armor": "406",
+      "Agility": "77",
+      "Stamina": "96",
+      "AttackPower": "84",
+      "CritRating": "48",
+      "Resilience": "56"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "RequiredClasses": "Rogue|Druid",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Furious Gladiator's Boots of Triumph",
+    "Id": "41836",
+    "Slot": "Feet"
+  },
+  "41837": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_cloth_05",
+    "Stats": {
+      "Armor": "428",
+      "Agility": "93",
+      "Stamina": "115",
+      "AttackPower": "102",
+      "CritRating": "59",
+      "Resilience": "67"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "RequiredClasses": "Rogue|Druid",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Relentless Gladiator's Boots of Triumph",
+    "Id": "41837",
+    "Slot": "Feet"
+  },
+  "41884": {
+    "ItemLevel": "213",
+    "DisplayId": "55661",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_12",
+    "Stats": {
+      "Armor": "212",
+      "Stamina": "85",
+      "Intellect": "37",
+      "Spirit": "42",
+      "SpellPower": "78",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "RequiredClasses": "Priest|Mage|Warlock",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Deadly Gladiator's Treads of Salvation",
+    "Id": "41884",
+    "Slot": "Feet"
+  },
+  "41885": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_cloth_12",
+    "Stats": {
+      "Armor": "216",
+      "Stamina": "96",
+      "Intellect": "42",
+      "Spirit": "48",
+      "SpellPower": "90",
+      "Resilience": "56"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "RequiredClasses": "Priest|Mage|Warlock",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Furious Gladiator's Slippers of Salvation",
+    "Id": "41885",
+    "Slot": "Feet"
+  },
+  "41886": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_cloth_23",
+    "Stats": {
+      "Armor": "228",
+      "Stamina": "115",
+      "Intellect": "51",
+      "Spirit": "59",
+      "SpellPower": "109",
+      "Resilience": "67"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "RequiredClasses": "Priest|Mage|Warlock",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Relentless Gladiator's Treads of Salvation",
+    "Id": "41886",
+    "Slot": "Feet"
+  },
+  "41902": {
+    "ItemLevel": "213",
+    "DisplayId": "55752",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_12",
+    "Stats": {
+      "Armor": "212",
+      "Stamina": "85",
+      "Intellect": "37",
+      "SpellPower": "78",
+      "CritRating": "42",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "RequiredClasses": "Priest|Mage|Warlock",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Deadly Gladiator's Treads of Dominance",
+    "Id": "41902",
+    "Slot": "Feet"
+  },
+  "41903": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_cloth_12",
+    "Stats": {
+      "Armor": "216",
+      "Stamina": "96",
+      "Intellect": "42",
+      "SpellPower": "90",
+      "CritRating": "48",
+      "Resilience": "56"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "RequiredClasses": "Priest|Mage|Warlock",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Furious Gladiator's Slippers of Dominance",
+    "Id": "41903",
+    "Slot": "Feet"
+  },
+  "41904": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_cloth_23",
+    "Stats": {
+      "Armor": "228",
+      "Stamina": "115",
+      "Intellect": "51",
+      "SpellPower": "109",
+      "CritRating": "59",
+      "Resilience": "67"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "RequiredClasses": "Priest|Mage|Warlock",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Relentless Gladiator's Treads of Dominance",
+    "Id": "41904",
+    "Slot": "Feet"
+  },
+  "43312": {
+    "ItemLevel": "200",
+    "DisplayId": "51519",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_leather01",
+    "Stats": {
+      "Armor": "375",
+      "Agility": "33",
+      "Stamina": "61",
+      "AttackPower": "100",
+      "HasteRating": "50"
+    },
+    "Quality": "Rare",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Gorloc Muddy Footwraps",
+    "Id": "43312",
+    "Slot": "Feet"
+  },
+  "43402": {
+    "ItemLevel": "200",
+    "DisplayId": "55015",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_05",
+    "Stats": {
+      "Armor": "1489",
+      "Strength": "57",
+      "ArmorPenetrationRating": "43",
+      "HasteRating": "53"
+    },
+    "Quality": "Rare",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "The Obliterator Greaves",
+    "Id": "43402",
+    "Slot": "Feet"
+  },
+  "43405": {
+    "ItemLevel": "200",
+    "DisplayId": "50507",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_08",
+    "Stats": {
+      "Armor": "1489",
+      "Stamina": "57",
+      "Intellect": "57",
+      "SpellPower": "59",
+      "Mp5": "39"
+    },
+    "Quality": "Rare",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Intellect": "4"
+    },
+    "Name": "Sabatons of Erekem",
+    "Id": "43405",
+    "Slot": "Feet"
+  },
+  "43469": {
+    "ItemLevel": "200",
+    "DisplayId": "56724",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_06",
+    "Stats": {
+      "Armor": "862",
+      "Stamina": "49",
+      "Intellect": "51",
+      "SpellPower": "77",
+      "HasteRating": "66"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Revenant's Treads",
+    "Id": "43469",
+    "Slot": "Feet"
+  },
+  "43502": {
+    "ItemLevel": "200",
+    "DisplayId": "55205",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_07",
+    "Stats": {
+      "Armor": "388",
+      "Stamina": "57",
+      "Intellect": "48",
+      "Spirit": "66",
+      "SpellPower": "77"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Earthgiving Boots",
+    "Id": "43502",
+    "Slot": "Feet"
+  },
+  "43585": {
+    "ItemLevel": "213",
+    "DisplayId": "55042",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_05",
+    "Stats": {
+      "Armor": "212",
+      "Stamina": "129",
+      "FrostResistance": "86"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Red",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "Stamina": "9"
+    },
+    "Name": "Glacial Slippers",
+    "Id": "43585",
+    "Slot": "Feet"
+  },
+  "43588": {
+    "ItemLevel": "213",
+    "DisplayId": "55044",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_08",
+    "Stats": {
+      "Armor": "1580",
+      "Stamina": "129",
+      "FrostResistance": "86"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Red",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "Stamina": "9"
+    },
+    "Name": "Icebane Treads",
+    "Id": "43588",
+    "Slot": "Feet"
+  },
+  "43592": {
+    "ItemLevel": "213",
+    "DisplayId": "55049",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_01",
+    "Stats": {
+      "Armor": "398",
+      "Stamina": "129",
+      "FrostResistance": "86"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Red",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "Stamina": "9"
+    },
+    "Name": "Polar Boots",
+    "Id": "43592",
+    "Slot": "Feet"
+  },
+  "43595": {
+    "ItemLevel": "213",
+    "DisplayId": "55054",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_11",
+    "Stats": {
+      "Armor": "884",
+      "Stamina": "129",
+      "FrostResistance": "86"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Red",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "Stamina": "9"
+    },
+    "Name": "Icy Scale Boots",
+    "Id": "43595",
+    "Slot": "Feet"
+  },
+  "43996": {
+    "ItemLevel": "213",
+    "DisplayId": "53830",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_12",
+    "Stats": {
+      "Armor": "884",
+      "Stamina": "64",
+      "Intellect": "55",
+      "SpellPower": "78",
+      "CritRating": "50",
+      "Mp5": "20"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Sabatons of Firmament",
+    "Id": "43996",
+    "Slot": "Feet"
+  },
+  "44182": {
+    "ItemLevel": "200",
+    "DisplayId": "55900",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_05",
+    "Stats": {
+      "Armor": "862",
+      "Agility": "42",
+      "Stamina": "49",
+      "AttackPower": "66",
+      "Intellect": "41",
+      "HasteRating": "58"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Boots of Twinkling Stars",
+    "Id": "44182",
+    "Slot": "Feet"
+  },
+  "44201": {
+    "ItemLevel": "200",
+    "DisplayId": "55986",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_09",
+    "Stats": {
+      "Armor": "1489",
+      "Stamina": "85",
+      "Strength": "44",
+      "HitRating": "29",
+      "DefenseRating": "58"
+    },
+    "Quality": "Rare",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sabatons of Draconic Vigor",
+    "Id": "44201",
+    "Slot": "Feet"
+  },
+  "44202": {
+    "ItemLevel": "200",
+    "DisplayId": "55987",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_16",
+    "Stats": {
+      "Armor": "206",
+      "Stamina": "49",
+      "Intellect": "50",
+      "SpellPower": "77",
+      "HasteRating": "51"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Intellect": "4"
+    },
+    "Name": "Sandals of Crimson Fury",
+    "Id": "44202",
+    "Slot": "Feet"
+  },
+  "44297": {
+    "ItemLevel": "200",
+    "DisplayId": "56399",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_08",
+    "Stats": {
+      "Armor": "388",
+      "Agility": "51",
+      "Stamina": "49",
+      "AttackPower": "122",
+      "HitRating": "66"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Boots of the Neverending Path",
+    "Id": "44297",
+    "Slot": "Feet"
+  },
+  "44306": {
+    "ItemLevel": "200",
+    "DisplayId": "56297",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_06",
+    "Stats": {
+      "Armor": "1541",
+      "Stamina": "73",
+      "Strength": "50",
+      "CritRating": "66"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "HitRating": "6"
+    },
+    "Name": "Death-Inured Sabatons",
+    "Id": "44306",
+    "Slot": "Feet"
+  },
+  "44891": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_cloth_05",
+    "Stats": {
+      "Armor": "388",
+      "Stamina": "76",
+      "Intellect": "33",
+      "SpellPower": "68",
+      "HitRating": "36",
+      "Resilience": "44"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "RequiredClasses": "Druid",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Titan-Forged Boots of Dominance",
+    "Id": "44891",
+    "Slot": "Feet"
+  },
+  "44892": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_cloth_05",
+    "Stats": {
+      "Armor": "388",
+      "Stamina": "76",
+      "Intellect": "33",
+      "SpellPower": "68",
+      "Resilience": "44",
+      "HasteRating": "36"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "RequiredClasses": "Druid",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Titan-Forged Boots of Salvation",
+    "Id": "44892",
+    "Slot": "Feet"
+  },
+  "44893": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_cloth_05",
+    "Stats": {
+      "Armor": "388",
+      "Agility": "58",
+      "Stamina": "76",
+      "AttackPower": "66",
+      "ArmorPenetrationRating": "36",
+      "Resilience": "44"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "RequiredClasses": "Rogue|Druid",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Titan-Forged Boots of Triumph",
+    "Id": "44893",
+    "Slot": "Feet"
+  },
+  "44894": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_plate_08",
+    "Stats": {
+      "Armor": "1541",
+      "Stamina": "76",
+      "Intellect": "33",
+      "SpellPower": "68",
+      "CritRating": "36",
+      "Resilience": "44"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "RequiredClasses": "Paladin",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Titan-Forged Greaves of Salvation",
+    "Id": "44894",
+    "Slot": "Feet"
+  },
+  "44895": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_plate_01",
+    "Stats": {
+      "Armor": "1541",
+      "Stamina": "99",
+      "Strength": "58",
+      "HitRating": "36",
+      "Resilience": "44"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "RequiredClasses": "Warrior|Paladin|Death Knight",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Titan-Forged Greaves of Triumph",
+    "Id": "44895",
+    "Slot": "Feet"
+  },
+  "44896": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_plate_09",
+    "Stats": {
+      "Armor": "862",
+      "Stamina": "76",
+      "Intellect": "33",
+      "SpellPower": "68",
+      "HitRating": "36",
+      "Resilience": "44"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "RequiredClasses": "Shaman",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Titan-Forged Sabatons of Dominance",
+    "Id": "44896",
+    "Slot": "Feet"
+  },
+  "44897": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_plate_09",
+    "Stats": {
+      "Armor": "862",
+      "Stamina": "76",
+      "Intellect": "33",
+      "SpellPower": "68",
+      "Resilience": "44",
+      "HasteRating": "36"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "RequiredClasses": "Shaman",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Titan-Forged Sabatons of Salvation",
+    "Id": "44897",
+    "Slot": "Feet"
+  },
+  "44898": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_plate_09",
+    "Stats": {
+      "Armor": "862",
+      "Agility": "44",
+      "Stamina": "76",
+      "AttackPower": "50",
+      "Intellect": "36",
+      "HitRating": "44",
+      "Resilience": "44"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "RequiredClasses": "Hunter|Shaman",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Titan-Forged Sabatons of Triumph",
+    "Id": "44898",
+    "Slot": "Feet"
+  },
+  "44899": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_cloth_12",
+    "Stats": {
+      "Armor": "206",
+      "Stamina": "76",
+      "Intellect": "33",
+      "SpellPower": "68",
+      "HitRating": "36",
+      "Resilience": "44"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "RequiredClasses": "Priest|Mage|Warlock",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Titan-Forged Slippers of Dominance",
+    "Id": "44899",
+    "Slot": "Feet"
+  },
+  "44900": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_cloth_12",
+    "Stats": {
+      "Armor": "206",
+      "Stamina": "76",
+      "Intellect": "33",
+      "SpellPower": "68",
+      "Resilience": "44",
+      "HasteRating": "36"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "RequiredClasses": "Priest|Mage|Warlock",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Titan-Forged Slippers of Salvation",
+    "Id": "44900",
+    "Slot": "Feet"
+  },
+  "44930": {
+    "ItemLevel": "200",
+    "DisplayId": "57749",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_05",
+    "Stats": {
+      "Armor": "388",
+      "Stamina": "57",
+      "Intellect": "48",
+      "SpellPower": "77",
+      "CritRating": "66"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Windripper Boots",
+    "Id": "44930",
+    "Slot": "Feet"
+  },
+  "45135": {
+    "ItemLevel": "239",
+    "DisplayId": "58980",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_19",
+    "Stats": {
+      "Armor": "223",
+      "Stamina": "72",
+      "Intellect": "72",
+      "Spirit": "64",
+      "SpellPower": "102",
+      "HasteRating": "55"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "HasteRating": "6"
+    },
+    "Name": "Boots of Fiery Resolution",
+    "Id": "45135",
+    "Slot": "Feet"
+  },
+  "45159": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_leather_02",
+    "Stats": {
+      "Armor": "375",
+      "Agility": "42",
+      "Stamina": "49",
+      "AttackPower": "116",
+      "ArmorPenetrationRating": "41"
+    },
+    "Quality": "Rare",
+    "Type": "Leather",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "HitRating": "4"
+    },
+    "Name": "Treads of Nimble Evasion",
+    "Id": "45159",
+    "Slot": "Feet"
+  },
+  "45162": {
+    "ItemLevel": "226",
+    "DisplayId": "59738",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_leather_02",
+    "Stats": {
+      "Armor": "406",
+      "Agility": "85",
+      "Stamina": "73",
+      "AttackPower": "112",
+      "CritRating": "62",
+      "HasteRating": "56"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Flamestalker Boots",
+    "Id": "45162",
+    "Slot": "Feet"
+  },
+  "45163": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_plate_09",
+    "Stats": {
+      "Armor": "1489",
+      "Stamina": "84",
+      "Strength": "59",
+      "DodgeRating": "41",
+      "DefenseRating": "34"
+    },
+    "Quality": "Rare",
+    "Type": "Plate",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Stanchions of Unseatable Furor",
+    "Id": "45163",
+    "Slot": "Feet"
+  },
+  "45166": {
+    "ItemLevel": "226",
+    "DisplayId": "59707",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_11",
+    "Stats": {
+      "Armor": "1614",
+      "Stamina": "127",
+      "Strength": "62",
+      "HitRating": "49",
+      "DodgeRating": "57",
+      "DefenseRating": "55"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Charred Saronite Greaves",
+    "Id": "45166",
+    "Slot": "Feet"
+  },
+  "45183": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_chain_04",
+    "Stats": {
+      "Armor": "833",
+      "Stamina": "45",
+      "Intellect": "43",
+      "SpellPower": "71",
+      "CritRating": "47"
+    },
+    "Quality": "Rare",
+    "Type": "Mail",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Treads of the Glorious Spirit",
+    "Id": "45183",
+    "Slot": "Feet"
+  },
+  "45218": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_plate_09",
+    "Stats": {
+      "Armor": "1489",
+      "Stamina": "84",
+      "Strength": "59",
+      "DodgeRating": "41",
+      "DefenseRating": "34"
+    },
+    "Quality": "Rare",
+    "Type": "Plate",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Blood-Caked Stompers",
+    "Id": "45218",
+    "Slot": "Feet"
+  },
+  "45220": {
+    "ItemLevel": "200",
+    "DisplayId": "51519",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_leather01",
+    "Stats": {
+      "Armor": "375",
+      "Agility": "42",
+      "Stamina": "49",
+      "AttackPower": "116",
+      "ArmorPenetrationRating": "41"
+    },
+    "Quality": "Rare",
+    "Type": "Leather",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "HitRating": "4"
+    },
+    "Name": "Treads of the Earnest Squire",
+    "Id": "45220",
+    "Slot": "Feet"
+  },
+  "45221": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_chain_06",
+    "Stats": {
+      "Armor": "833",
+      "Stamina": "45",
+      "Intellect": "43",
+      "SpellPower": "71",
+      "CritRating": "47"
+    },
+    "Quality": "Rare",
+    "Type": "Mail",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Treads of Whispering Dreams",
+    "Id": "45221",
+    "Slot": "Feet"
+  },
+  "45232": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_cloth_19",
+    "Stats": {
+      "Armor": "406",
+      "Agility": "77",
+      "Stamina": "90",
+      "AttackPower": "98",
+      "ArmorPenetrationRating": "49",
+      "ExpertiseRating": "56"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Runed Ironhide Boots",
+    "Id": "45232",
+    "Slot": "Feet"
+  },
+  "45244": {
+    "ItemLevel": "239",
+    "DisplayId": "59248",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_07",
+    "Stats": {
+      "Armor": "931",
+      "Agility": "69",
+      "Stamina": "55",
+      "AttackPower": "114",
+      "Intellect": "49",
+      "CritRating": "42",
+      "HitRating": "42"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Greaves of Swift Vengeance",
+    "Id": "45244",
+    "Slot": "Feet"
+  },
+  "45249": {
+    "ItemLevel": "226",
+    "DisplayId": "59248",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_07",
+    "Stats": {
+      "Armor": "903",
+      "Agility": "85",
+      "Stamina": "66",
+      "AttackPower": "114",
+      "ArmorPenetrationRating": "57",
+      "Intellect": "45",
+      "HasteRating": "43"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Brass-lined Boots",
+    "Id": "45249",
+    "Slot": "Feet"
+  },
+  "45258": {
+    "ItemLevel": "226",
+    "DisplayId": "59735",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_16",
+    "Stats": {
+      "Armor": "216",
+      "Stamina": "73",
+      "Intellect": "60",
+      "SpellPower": "99",
+      "CritRating": "56",
+      "HitRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sandals of Rash Temperament",
+    "Id": "45258",
+    "Slot": "Feet"
+  },
+  "45260": {
+    "ItemLevel": "226",
+    "DisplayId": "59094",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_leather01",
+    "Stats": {
+      "Armor": "406",
+      "Stamina": "73",
+      "Intellect": "62",
+      "Spirit": "60",
+      "SpellPower": "90",
+      "CritRating": "41"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Boots of Hasty Revival",
+    "Id": "45260",
+    "Slot": "Feet"
+  },
+  "45302": {
+    "ItemLevel": "219",
+    "DisplayId": "59590",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_mail_01",
+    "Stats": {
+      "Armor": "402",
+      "Agility": "79",
+      "Stamina": "69",
+      "AttackPower": "114",
+      "CritRating": "60",
+      "HasteRating": "40"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Treads of the Invader",
+    "Id": "45302",
+    "Slot": "Feet"
+  },
+  "45330": {
+    "ItemLevel": "219",
+    "DisplayId": "59150",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_09",
+    "Stats": {
+      "Armor": "1596",
+      "Stamina": "90",
+      "Strength": "91",
+      "CritRating": "45",
+      "HitRating": "56"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Greaves of Iron Intensity",
+    "Id": "45330",
+    "Slot": "Feet"
+  },
+  "45378": {
+    "ItemLevel": "219",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_leather_02",
+    "Stats": {
+      "Armor": "402",
+      "Stamina": "69",
+      "Intellect": "57",
+      "Spirit": "52",
+      "SpellPower": "93",
+      "HasteRating": "53"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Boots of the Petrified Forest",
+    "Id": "45378",
+    "Slot": "Feet"
+  },
+  "45434": {
+    "ItemLevel": "226",
+    "DisplayId": "59204",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_11",
+    "Stats": {
+      "Armor": "1614",
+      "Stamina": "73",
+      "Intellect": "62",
+      "SpellPower": "90",
+      "CritRating": "48",
+      "Mp5": "28"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Mp5": "2"
+    },
+    "Name": "Greaves of the Rockmender",
+    "Id": "45434",
+    "Slot": "Feet"
+  },
+  "45441": {
+    "ItemLevel": "226",
+    "DisplayId": "61873",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_21",
+    "Stats": {
+      "Armor": "216",
+      "Stamina": "63",
+      "Intellect": "64",
+      "Spirit": "62",
+      "SpellPower": "99",
+      "CritRating": "49"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sandals of the Ancient Keeper",
+    "Id": "45441",
+    "Slot": "Feet"
+  },
+  "45483": {
+    "ItemLevel": "226",
+    "DisplayId": "59727",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_03",
+    "Stats": {
+      "Armor": "216",
+      "Stamina": "73",
+      "Intellect": "56",
+      "Spirit": "48",
+      "SpellPower": "90",
+      "HasteRating": "62"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Boots of the Servant",
+    "Id": "45483",
+    "Slot": "Feet"
+  },
+  "45501": {
+    "ItemLevel": "226",
+    "DisplayId": "59696",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_06",
+    "Stats": {
+      "Armor": "1614",
+      "Stamina": "96",
+      "Strength": "98",
+      "CritRating": "60",
+      "HitRating": "49"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Boots of the Underdweller",
+    "Id": "45501",
+    "Slot": "Feet"
+  },
+  "45513": {
+    "ItemLevel": "226",
+    "DisplayId": "59166",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_06",
+    "Stats": {
+      "Armor": "903",
+      "Stamina": "84",
+      "Intellect": "56",
+      "SpellPower": "99",
+      "HasteRating": "62",
+      "Mp5": "25"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Boots of the Forgotten Depths",
+    "Id": "45513",
+    "Slot": "Feet"
+  },
+  "45537": {
+    "ItemLevel": "239",
+    "DisplayId": "59037",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_17",
+    "Stats": {
+      "Armor": "223",
+      "Stamina": "82",
+      "Intellect": "69",
+      "SpellPower": "92",
+      "CritRating": "61",
+      "HasteRating": "47"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Treads of the False Oracle",
+    "Id": "45537",
+    "Slot": "Feet"
+  },
+  "45542": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_plate_08",
+    "Stats": {
+      "Armor": "1614",
+      "Stamina": "115",
+      "Strength": "84",
+      "ParryRating": "36",
+      "BlockValue": "135",
+      "DefenseRating": "44"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Greaves of the Stonewarder",
+    "Id": "45542",
+    "Slot": "Feet"
+  },
+  "45559": {
+    "ItemLevel": "226",
+    "DisplayId": "53671",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_06",
+    "Stats": {
+      "Armor": "1614",
+      "Stamina": "126",
+      "Strength": "69",
+      "CritRating": "49",
+      "HasteRating": "48"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Red",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "Strength": "6"
+    },
+    "Name": "Battlelord's Plate Boots",
+    "Id": "45559",
+    "Slot": "Feet"
+  },
+  "45560": {
+    "ItemLevel": "226",
+    "DisplayId": "59667",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_06",
+    "Stats": {
+      "Armor": "1614",
+      "Stamina": "103",
+      "Strength": "85",
+      "DodgeRating": "44",
+      "ParryRating": "37",
+      "DefenseRating": "37"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "Stamina": "9"
+    },
+    "Name": "Spiked Deathdealers",
+    "Id": "45560",
+    "Slot": "Feet"
+  },
+  "45561": {
+    "ItemLevel": "226",
+    "DisplayId": "59212",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_01",
+    "Stats": {
+      "Armor": "1614",
+      "Stamina": "73",
+      "Intellect": "60",
+      "SpellPower": "81",
+      "HasteRating": "49",
+      "Mp5": "24"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Treads of Destiny",
+    "Id": "45561",
+    "Slot": "Feet"
+  },
+  "45562": {
+    "ItemLevel": "226",
+    "DisplayId": "59168",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_13",
+    "Stats": {
+      "Armor": "903",
+      "Agility": "48",
+      "Stamina": "66",
+      "AttackPower": "138",
+      "ArmorPenetrationRating": "45",
+      "Intellect": "45",
+      "CritRating": "48"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Red",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "AttackPower": "12"
+    },
+    "Name": "Boots of Living Scale",
+    "Id": "45562",
+    "Slot": "Feet"
+  },
+  "45563": {
+    "ItemLevel": "226",
+    "DisplayId": "59652",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_12",
+    "Stats": {
+      "Armor": "903",
+      "Stamina": "63",
+      "Intellect": "64",
+      "SpellPower": "81",
+      "CritRating": "57",
+      "Mp5": "20"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Red",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Lightning Grounded Boots",
+    "Id": "45563",
+    "Slot": "Feet"
+  },
+  "45564": {
+    "ItemLevel": "226",
+    "DisplayId": "59117",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_leather01",
+    "Stats": {
+      "Armor": "406",
+      "Agility": "69",
+      "Stamina": "64",
+      "AttackPower": "114",
+      "CritRating": "56",
+      "HitRating": "48"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Footpads of Silence",
+    "Id": "45564",
+    "Slot": "Feet"
+  },
+  "45565": {
+    "ItemLevel": "226",
+    "DisplayId": "59093",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_03",
+    "Stats": {
+      "Armor": "406",
+      "Stamina": "63",
+      "Intellect": "64",
+      "Spirit": "49",
+      "SpellPower": "81",
+      "CritRating": "48"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Boots of Wintry Endurance",
+    "Id": "45565",
+    "Slot": "Feet"
+  },
+  "45566": {
+    "ItemLevel": "226",
+    "DisplayId": "59433",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_03",
+    "Stats": {
+      "Armor": "216",
+      "Stamina": "63",
+      "Intellect": "64",
+      "Spirit": "41",
+      "SpellPower": "81",
+      "HasteRating": "56"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Spellslinger's Slippers",
+    "Id": "45566",
+    "Slot": "Feet"
+  },
+  "45567": {
+    "ItemLevel": "226",
+    "DisplayId": "61873",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_21",
+    "Stats": {
+      "Armor": "216",
+      "Stamina": "73",
+      "Intellect": "60",
+      "Spirit": "57",
+      "SpellPower": "81",
+      "CritRating": "40"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Red",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Savior's Slippers",
+    "Id": "45567",
+    "Slot": "Feet"
+  },
+  "45599": {
+    "ItemLevel": "239",
+    "DisplayId": "59703",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_06",
+    "Stats": {
+      "Armor": "1663",
+      "Stamina": "108",
+      "Strength": "93",
+      "CritRating": "64",
+      "HasteRating": "47"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Sabatons of Lifeless Night",
+    "Id": "45599",
+    "Slot": "Feet"
+  },
+  "45615": {
+    "ItemLevel": "239",
+    "DisplayId": "59649",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_08",
+    "Stats": {
+      "Armor": "931",
+      "Stamina": "82",
+      "Intellect": "69",
+      "SpellPower": "92",
+      "CritRating": "56",
+      "Mp5": "28"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Planewalker Treads",
+    "Id": "45615",
+    "Slot": "Feet"
+  },
+  "45698": {
+    "ItemLevel": "219",
+    "DisplayId": "59754",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_05",
+    "Stats": {
+      "Armor": "1596",
+      "Stamina": "75",
+      "Intellect": "54",
+      "SpellPower": "91",
+      "CritRating": "41",
+      "Mp5": "30"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sabatons of the Iron Watcher",
+    "Id": "45698",
+    "Slot": "Feet"
+  },
+  "45701": {
+    "ItemLevel": "219",
+    "DisplayId": "59768",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_07",
+    "Stats": {
+      "Armor": "893",
+      "Stamina": "50",
+      "Intellect": "63",
+      "SpellPower": "88",
+      "CritRating": "47",
+      "Mp5": "21"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "CritRating": "4"
+    },
+    "Name": "Greaves of the Earthbinder",
+    "Id": "45701",
+    "Slot": "Feet"
+  },
+  "45988": {
+    "ItemLevel": "226",
+    "DisplayId": "59218",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_11",
+    "Stats": {
+      "Armor": "1614",
+      "Stamina": "102",
+      "Strength": "55",
+      "ParryRating": "57",
+      "DefenseRating": "50",
+      "ExpertiseRating": "43"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "Stamina": "9"
+    },
+    "Name": "Greaves of the Iron Army",
+    "Id": "45988",
+    "Slot": "Feet"
+  },
+  "45989": {
+    "ItemLevel": "226",
+    "DisplayId": "59779",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_03",
+    "Stats": {
+      "Armor": "903",
+      "Agility": "57",
+      "Stamina": "66",
+      "AttackPower": "138",
+      "Intellect": "40",
+      "CritRating": "38",
+      "HitRating": "48"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "AttackPower": "12"
+    },
+    "Name": "Tempered Mercury Greaves",
+    "Id": "45989",
+    "Slot": "Feet"
+  },
+  "46030": {
+    "ItemLevel": "219",
+    "DisplayId": "59036",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_14",
+    "Stats": {
+      "Armor": "214",
+      "Stamina": "69",
+      "Intellect": "57",
+      "Spirit": "42",
+      "SpellPower": "93",
+      "CritRating": "59"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Treads of the Dragon Council",
+    "Id": "46030",
+    "Slot": "Feet"
+  },
+  "46050": {
+    "ItemLevel": "226",
+    "DisplayId": "59724",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_21",
+    "Stats": {
+      "Armor": "216",
+      "Stamina": "64",
+      "Intellect": "65",
+      "Spirit": "45",
+      "SpellPower": "94",
+      "CritRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "Spirit": "6"
+    },
+    "Name": "Starlight Treads",
+    "Id": "46050",
+    "Slot": "Feet"
+  },
+  "46346": {
+    "ItemLevel": "219",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_chain_07",
+    "Stats": {
+      "Armor": "893",
+      "Agility": "57",
+      "Stamina": "63",
+      "AttackPower": "158",
+      "ArmorPenetrationRating": "41",
+      "Intellect": "42",
+      "CritRating": "46"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Boots of Unsettled Prey",
+    "Id": "46346",
+    "Slot": "Feet"
+  },
+  "46985": {
+    "ItemLevel": "245",
+    "DisplayId": "61365",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_11",
+    "Stats": {
+      "Armor": "1700",
+      "Stamina": "77",
+      "Intellect": "77",
+      "SpellPower": "109",
+      "CritRating": "59",
+      "HasteRating": "67"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Boots of the Courageous",
+    "Id": "46985",
+    "Slot": "Feet"
+  },
+  "46986": {
+    "ItemLevel": "258",
+    "DisplayId": "61365",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_11",
+    "Stats": {
+      "Armor": "1779",
+      "Stamina": "86",
+      "Intellect": "86",
+      "SpellPower": "114",
+      "CritRating": "60",
+      "HasteRating": "76"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Boots of the Courageous",
+    "Id": "46986",
+    "Slot": "Feet"
+  },
+  "46988": {
+    "ItemLevel": "245",
+    "DisplayId": "61707",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_leather01",
+    "Stats": {
+      "Armor": "428",
+      "Stamina": "77",
+      "Intellect": "77",
+      "Spirit": "59",
+      "SpellPower": "109",
+      "CritRating": "67"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Boots of the Unrelenting Storm",
+    "Id": "46988",
+    "Slot": "Feet"
+  },
+  "46989": {
+    "ItemLevel": "258",
+    "DisplayId": "61707",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_leather01",
+    "Stats": {
+      "Armor": "448",
+      "Stamina": "86",
+      "Intellect": "86",
+      "Spirit": "60",
+      "SpellPower": "114",
+      "CritRating": "76"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Boots of the Unrelenting Storm",
+    "Id": "46989",
+    "Slot": "Feet"
+  },
+  "46997": {
+    "ItemLevel": "245",
+    "DisplayId": "61372",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_06",
+    "Stats": {
+      "Armor": "1700",
+      "Stamina": "139",
+      "Strength": "101",
+      "DodgeRating": "45",
+      "ParryRating": "53",
+      "DefenseRating": "53"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Dawnbreaker Greaves",
+    "Id": "46997",
+    "Slot": "Feet"
+  },
+  "47003": {
+    "ItemLevel": "258",
+    "DisplayId": "61372",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_06",
+    "Stats": {
+      "Armor": "1779",
+      "Stamina": "146",
+      "Strength": "114",
+      "DodgeRating": "52",
+      "ParryRating": "52",
+      "DefenseRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "Stamina": "9"
+    },
+    "Name": "Dawnbreaker Greaves",
+    "Id": "47003",
+    "Slot": "Feet"
+  },
+  "47071": {
+    "ItemLevel": "245",
+    "DisplayId": "61706",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_leather_02",
+    "Stats": {
+      "Armor": "428",
+      "Agility": "93",
+      "Stamina": "101",
+      "AttackPower": "135",
+      "ArmorPenetrationRating": "59",
+      "HitRating": "67"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Treads of the Icewalker",
+    "Id": "47071",
+    "Slot": "Feet"
+  },
+  "47077": {
+    "ItemLevel": "258",
+    "DisplayId": "61706",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_leather_02",
+    "Stats": {
+      "Armor": "448",
+      "Agility": "98",
+      "Stamina": "114",
+      "AttackPower": "135",
+      "ArmorPenetrationRating": "68",
+      "HitRating": "76"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Treads of the Icewalker",
+    "Id": "47077",
+    "Slot": "Feet"
+  },
+  "47090": {
+    "ItemLevel": "245",
+    "DisplayId": "61961",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_06",
+    "Stats": {
+      "Armor": "951",
+      "Stamina": "77",
+      "Intellect": "77",
+      "SpellPower": "109",
+      "CritRating": "59",
+      "HasteRating": "67"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Boots of Tremoring Earth",
+    "Id": "47090",
+    "Slot": "Feet"
+  },
+  "47092": {
+    "ItemLevel": "245",
+    "DisplayId": "61235",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_23",
+    "Stats": {
+      "Armor": "228",
+      "Stamina": "77",
+      "Intellect": "77",
+      "Spirit": "67",
+      "SpellPower": "109",
+      "HasteRating": "59"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Boots of the Mourning Widow",
+    "Id": "47092",
+    "Slot": "Feet"
+  },
+  "47097": {
+    "ItemLevel": "258",
+    "DisplayId": "61235",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_23",
+    "Stats": {
+      "Armor": "238",
+      "Stamina": "86",
+      "Intellect": "86",
+      "Spirit": "76",
+      "SpellPower": "124",
+      "HasteRating": "68"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Boots of the Mourning Widow",
+    "Id": "47097",
+    "Slot": "Feet"
+  },
+  "47099": {
+    "ItemLevel": "258",
+    "DisplayId": "61961",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_06",
+    "Stats": {
+      "Armor": "995",
+      "Stamina": "86",
+      "Intellect": "86",
+      "SpellPower": "114",
+      "CritRating": "60",
+      "HasteRating": "76"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Boots of Tremoring Earth",
+    "Id": "47099",
+    "Slot": "Feet"
+  },
+  "47106": {
+    "ItemLevel": "245",
+    "DisplayId": "61941",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_07",
+    "Stats": {
+      "Armor": "951",
+      "Agility": "93",
+      "Stamina": "80",
+      "AttackPower": "119",
+      "ArmorPenetrationRating": "67",
+      "Intellect": "53",
+      "HitRating": "53"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Sabatons of Ruthless Judgment",
+    "Id": "47106",
+    "Slot": "Feet"
+  },
+  "47109": {
+    "ItemLevel": "258",
+    "DisplayId": "61941",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_07",
+    "Stats": {
+      "Armor": "995",
+      "Agility": "98",
+      "Stamina": "90",
+      "AttackPower": "135",
+      "ArmorPenetrationRating": "68",
+      "Intellect": "60",
+      "HitRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Sabatons of Ruthless Judgment",
+    "Id": "47109",
+    "Slot": "Feet"
+  },
+  "47150": {
+    "ItemLevel": "245",
+    "DisplayId": "62290",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_01",
+    "Stats": {
+      "Armor": "1700",
+      "Stamina": "115",
+      "Strength": "107",
+      "CritRating": "67",
+      "ExpertiseRating": "59"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Greaves of the 7th Legion",
+    "Id": "47150",
+    "Slot": "Feet"
+  },
+  "47154": {
+    "ItemLevel": "258",
+    "DisplayId": "62290",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_01",
+    "Stats": {
+      "Armor": "1779",
+      "Stamina": "130",
+      "Strength": "114",
+      "CritRating": "76",
+      "ExpertiseRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Strength": "6"
+    },
+    "Name": "Greaves of the 7th Legion",
+    "Id": "47154",
+    "Slot": "Feet"
+  },
+  "47175": {
+    "ItemLevel": "200",
+    "DisplayId": "60524",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_leather01",
+    "Stats": {
+      "Armor": "862",
+      "Agility": "50",
+      "Stamina": "60",
+      "AttackPower": "67",
+      "ArmorPenetrationRating": "39",
+      "Intellect": "47",
+      "CritRating": "33"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "CritRating": "4"
+    },
+    "Name": "Scale Boots of the Outlander",
+    "Id": "47175",
+    "Slot": "Feet"
+  },
+  "47194": {
+    "ItemLevel": "245",
+    "DisplayId": "61237",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_23",
+    "Stats": {
+      "Armor": "228",
+      "Stamina": "77",
+      "Intellect": "77",
+      "SpellPower": "109",
+      "HitRating": "59",
+      "HasteRating": "67"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Footpads of the Icy Floe",
+    "Id": "47194",
+    "Slot": "Feet"
+  },
+  "47199": {
+    "ItemLevel": "200",
+    "DisplayId": "60638",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_11",
+    "Stats": {
+      "Armor": "1541",
+      "Stamina": "38",
+      "Intellect": "50",
+      "SpellPower": "73",
+      "HasteRating": "30",
+      "Mp5": "20"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Greaves of the Grand Paladin",
+    "Id": "47199",
+    "Slot": "Feet"
+  },
+  "47201": {
+    "ItemLevel": "200",
+    "DisplayId": "60639",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_11",
+    "Stats": {
+      "Armor": "1541",
+      "Stamina": "99",
+      "Strength": "41",
+      "DodgeRating": "39",
+      "DefenseRating": "47",
+      "ExpertiseRating": "29"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Boots of Heartfelt Repentance",
+    "Id": "47201",
+    "Slot": "Feet"
+  },
+  "47205": {
+    "ItemLevel": "258",
+    "DisplayId": "61237",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_23",
+    "Stats": {
+      "Armor": "238",
+      "Stamina": "86",
+      "Intellect": "86",
+      "SpellPower": "114",
+      "HitRating": "60",
+      "HasteRating": "76"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Footpads of the Icy Floe",
+    "Id": "47205",
+    "Slot": "Feet"
+  },
+  "47248": {
+    "ItemLevel": "219",
+    "DisplayId": "60642",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_mail_01",
+    "Stats": {
+      "Armor": "402",
+      "Agility": "73",
+      "Stamina": "54",
+      "AttackPower": "113",
+      "CritRating": "59",
+      "ExpertiseRating": "42"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Treads of Dismal Fortune",
+    "Id": "47248",
+    "Slot": "Feet"
+  },
+  "47262": {
+    "ItemLevel": "245",
+    "DisplayId": "61249",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_leather_04b",
+    "Stats": {
+      "Armor": "428",
+      "Stamina": "77",
+      "Intellect": "77",
+      "Spirit": "59",
+      "SpellPower": "109",
+      "CritRating": "67"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Boots of the Harsh Winter",
+    "Id": "47262",
+    "Slot": "Feet"
+  },
+  "47263": {
+    "ItemLevel": "245",
+    "DisplayId": "61540",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_09",
+    "Stats": {
+      "Armor": "1700",
+      "Stamina": "77",
+      "Intellect": "77",
+      "SpellPower": "109",
+      "CritRating": "59",
+      "HasteRating": "67"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Sabatons of the Courageous",
+    "Id": "47263",
+    "Slot": "Feet"
+  },
+  "47269": {
+    "ItemLevel": "245",
+    "DisplayId": "61545",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_09",
+    "Stats": {
+      "Armor": "1700",
+      "Stamina": "139",
+      "Strength": "101",
+      "DodgeRating": "45",
+      "ParryRating": "53",
+      "DefenseRating": "53"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Dawnbreaker Sabatons",
+    "Id": "47269",
+    "Slot": "Feet"
+  },
+  "47284": {
+    "ItemLevel": "245",
+    "DisplayId": "61173",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_leather_04a",
+    "Stats": {
+      "Armor": "428",
+      "Agility": "93",
+      "Stamina": "101",
+      "AttackPower": "135",
+      "ArmorPenetrationRating": "59",
+      "HitRating": "67"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Icewalker Treads",
+    "Id": "47284",
+    "Slot": "Feet"
+  },
+  "47293": {
+    "ItemLevel": "245",
+    "DisplayId": "62109",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_23",
+    "Stats": {
+      "Armor": "228",
+      "Stamina": "77",
+      "Intellect": "77",
+      "Spirit": "67",
+      "SpellPower": "109",
+      "HasteRating": "59"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Sandals of the Mourning Widow",
+    "Id": "47293",
+    "Slot": "Feet"
+  },
+  "47295": {
+    "ItemLevel": "245",
+    "DisplayId": "61114",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_06",
+    "Stats": {
+      "Armor": "951",
+      "Stamina": "77",
+      "Intellect": "77",
+      "SpellPower": "109",
+      "CritRating": "59",
+      "HasteRating": "67"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Sabatons of Tremoring Earth",
+    "Id": "47295",
+    "Slot": "Feet"
+  },
+  "47296": {
+    "ItemLevel": "245",
+    "DisplayId": "61104",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_07",
+    "Stats": {
+      "Armor": "951",
+      "Agility": "93",
+      "Stamina": "80",
+      "AttackPower": "119",
+      "ArmorPenetrationRating": "67",
+      "Intellect": "53",
+      "HitRating": "53"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Greaves of Ruthless Judgment",
+    "Id": "47296",
+    "Slot": "Feet"
+  },
+  "47312": {
+    "ItemLevel": "245",
+    "DisplayId": "62140",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_08",
+    "Stats": {
+      "Armor": "1700",
+      "Stamina": "115",
+      "Strength": "107",
+      "CritRating": "67",
+      "ExpertiseRating": "59"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Greaves of the Saronite Citadel",
+    "Id": "47312",
+    "Slot": "Feet"
+  },
+  "47321": {
+    "ItemLevel": "245",
+    "DisplayId": "62110",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_17",
+    "Stats": {
+      "Armor": "228",
+      "Stamina": "77",
+      "Intellect": "77",
+      "SpellPower": "109",
+      "HitRating": "59",
+      "HasteRating": "67"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Boots of the Icy Floe",
+    "Id": "47321",
+    "Slot": "Feet"
+  },
+  "47423": {
+    "ItemLevel": "258",
+    "DisplayId": "61249",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_leather_04b",
+    "Stats": {
+      "Armor": "448",
+      "Stamina": "86",
+      "Intellect": "86",
+      "Spirit": "60",
+      "SpellPower": "114",
+      "CritRating": "76"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Boots of the Harsh Winter",
+    "Id": "47423",
+    "Slot": "Feet"
+  },
+  "47424": {
+    "ItemLevel": "258",
+    "DisplayId": "61551",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_09",
+    "Stats": {
+      "Armor": "1779",
+      "Stamina": "86",
+      "Intellect": "86",
+      "SpellPower": "114",
+      "CritRating": "60",
+      "HasteRating": "76"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Sabatons of the Courageous",
+    "Id": "47424",
+    "Slot": "Feet"
+  },
+  "47430": {
+    "ItemLevel": "258",
+    "DisplayId": "61545",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_09",
+    "Stats": {
+      "Armor": "1779",
+      "Stamina": "146",
+      "Strength": "114",
+      "DodgeRating": "52",
+      "ParryRating": "52",
+      "DefenseRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "Stamina": "9"
+    },
+    "Name": "Dawnbreaker Sabatons",
+    "Id": "47430",
+    "Slot": "Feet"
+  },
+  "47445": {
+    "ItemLevel": "258",
+    "DisplayId": "61173",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_leather_04a",
+    "Stats": {
+      "Armor": "448",
+      "Agility": "98",
+      "Stamina": "114",
+      "AttackPower": "135",
+      "ArmorPenetrationRating": "68",
+      "HitRating": "76"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Icewalker Treads",
+    "Id": "47445",
+    "Slot": "Feet"
+  },
+  "47454": {
+    "ItemLevel": "258",
+    "DisplayId": "62109",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_23",
+    "Stats": {
+      "Armor": "238",
+      "Stamina": "86",
+      "Intellect": "86",
+      "Spirit": "76",
+      "SpellPower": "124",
+      "HasteRating": "68"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Sandals of the Mourning Widow",
+    "Id": "47454",
+    "Slot": "Feet"
+  },
+  "47456": {
+    "ItemLevel": "258",
+    "DisplayId": "61114",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_06",
+    "Stats": {
+      "Armor": "995",
+      "Stamina": "86",
+      "Intellect": "86",
+      "SpellPower": "114",
+      "CritRating": "60",
+      "HasteRating": "76"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Sabatons of Tremoring Earth",
+    "Id": "47456",
+    "Slot": "Feet"
+  },
+  "47457": {
+    "ItemLevel": "258",
+    "DisplayId": "61104",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_07",
+    "Stats": {
+      "Armor": "995",
+      "Agility": "98",
+      "Stamina": "90",
+      "AttackPower": "135",
+      "ArmorPenetrationRating": "68",
+      "Intellect": "60",
+      "HitRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Greaves of Ruthless Judgment",
+    "Id": "47457",
+    "Slot": "Feet"
+  },
+  "47473": {
+    "ItemLevel": "258",
+    "DisplayId": "62140",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_08",
+    "Stats": {
+      "Armor": "1779",
+      "Stamina": "130",
+      "Strength": "114",
+      "CritRating": "76",
+      "ExpertiseRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Strength": "6"
+    },
+    "Name": "Greaves of the Saronite Citadel",
+    "Id": "47473",
+    "Slot": "Feet"
+  },
+  "47482": {
+    "ItemLevel": "258",
+    "DisplayId": "62110",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_17",
+    "Stats": {
+      "Armor": "238",
+      "Stamina": "86",
+      "Intellect": "86",
+      "SpellPower": "114",
+      "HitRating": "60",
+      "HasteRating": "76"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Boots of the Icy Floe",
+    "Id": "47482",
+    "Slot": "Feet"
+  },
+  "47504": {
+    "ItemLevel": "219",
+    "DisplayId": "60643",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_leather01",
+    "Stats": {
+      "Armor": "402",
+      "Stamina": "58",
+      "Intellect": "61",
+      "SpellPower": "92",
+      "CritRating": "63",
+      "HitRating": "34"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Barkhide Treads",
+    "Id": "47504",
+    "Slot": "Feet"
+  },
+  "47511": {
+    "ItemLevel": "219",
+    "DisplayId": "63410",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_11",
+    "Stats": {
+      "Armor": "1596",
+      "Stamina": "78",
+      "Strength": "86",
+      "ArmorPenetrationRating": "59",
+      "CritRating": "38"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Plated Greaves of Providence",
+    "Id": "47511",
+    "Slot": "Feet"
+  },
+  "47560": {
+    "ItemLevel": "219",
+    "DisplayId": "60568",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_22",
+    "Stats": {
+      "Armor": "214",
+      "Stamina": "58",
+      "Intellect": "61",
+      "SpellPower": "92",
+      "CritRating": "51",
+      "HitRating": "35"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "HitRating": "4"
+    },
+    "Name": "Boots of the Crackling Flame",
+    "Id": "47560",
+    "Slot": "Feet"
+  },
+  "47608": {
+    "ItemLevel": "232",
+    "DisplayId": "61706",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_leather_02",
+    "Stats": {
+      "Armor": "410",
+      "Agility": "85",
+      "Stamina": "78",
+      "AttackPower": "118",
+      "HitRating": "63",
+      "ExpertiseRating": "48"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "CritRating": "4"
+    },
+    "Name": "Acidmaw Boots",
+    "Id": "47608",
+    "Slot": "Feet"
+  },
+  "47683": {
+    "ItemLevel": "232",
+    "DisplayId": "61941",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_07",
+    "Stats": {
+      "Armor": "911",
+      "Agility": "89",
+      "Stamina": "71",
+      "AttackPower": "119",
+      "Intellect": "47",
+      "CritRating": "52",
+      "HasteRating": "39"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "AttackPower": "8"
+    },
+    "Name": "Sentinel Scouting Greaves",
+    "Id": "47683",
+    "Slot": "Feet"
+  },
+  "47721": {
+    "ItemLevel": "232",
+    "DisplayId": "61561",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_17",
+    "Stats": {
+      "Armor": "218",
+      "Stamina": "64",
+      "Intellect": "69",
+      "SpellPower": "100",
+      "CritRating": "64",
+      "HitRating": "40"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "CritRating": "4"
+    },
+    "Name": "Sandals of the Silver Magus",
+    "Id": "47721",
+    "Slot": "Feet"
+  },
+  "47738": {
+    "ItemLevel": "232",
+    "DisplayId": "61372",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_06",
+    "Stats": {
+      "Armor": "1629",
+      "Stamina": "134",
+      "Strength": "60",
+      "HitRating": "40",
+      "DodgeRating": "68",
+      "DefenseRating": "45"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "DodgeRating": "4"
+    },
+    "Name": "Sabatons of the Lingering Vortex",
+    "Id": "47738",
+    "Slot": "Feet"
+  },
+  "47853": {
+    "ItemLevel": "232",
+    "DisplayId": "62079",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_leather_03a",
+    "Stats": {
+      "Armor": "410",
+      "Agility": "85",
+      "Stamina": "78",
+      "AttackPower": "118",
+      "HitRating": "63",
+      "ExpertiseRating": "48"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "CritRating": "4"
+    },
+    "Name": "Acidmaw Treads",
+    "Id": "47853",
+    "Slot": "Feet"
+  },
+  "47867": {
+    "ItemLevel": "232",
+    "DisplayId": "61104",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_07",
+    "Stats": {
+      "Armor": "911",
+      "Agility": "89",
+      "Stamina": "71",
+      "AttackPower": "119",
+      "Intellect": "47",
+      "CritRating": "52",
+      "HasteRating": "39"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "AttackPower": "8"
+    },
+    "Name": "Warsong Poacher's Greaves",
+    "Id": "47867",
+    "Slot": "Feet"
+  },
+  "47873": {
+    "ItemLevel": "232",
+    "DisplayId": "62108",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_17",
+    "Stats": {
+      "Armor": "218",
+      "Stamina": "64",
+      "Intellect": "69",
+      "SpellPower": "100",
+      "CritRating": "64",
+      "HitRating": "40"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "CritRating": "4"
+    },
+    "Name": "Sunreaver Magus' Sandals",
+    "Id": "47873",
+    "Slot": "Feet"
+  },
+  "47885": {
+    "ItemLevel": "232",
+    "DisplayId": "61551",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_09",
+    "Stats": {
+      "Armor": "1629",
+      "Stamina": "134",
+      "Strength": "60",
+      "HitRating": "40",
+      "DodgeRating": "68",
+      "DefenseRating": "45"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "DodgeRating": "4"
+    },
+    "Name": "Greaves of the Lingering Vortex",
+    "Id": "47885",
+    "Slot": "Feet"
+  },
+  "47919": {
+    "ItemLevel": "245",
+    "DisplayId": "61706",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_leather_02",
+    "Stats": {
+      "Armor": "428",
+      "Agility": "93",
+      "Stamina": "85",
+      "AttackPower": "127",
+      "HitRating": "69",
+      "ExpertiseRating": "51"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "CritRating": "6"
+    },
+    "Name": "Acidmaw Boots",
+    "Id": "47919",
+    "Slot": "Feet"
+  },
+  "47933": {
+    "ItemLevel": "245",
+    "DisplayId": "61941",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_07",
+    "Stats": {
+      "Armor": "951",
+      "Agility": "101",
+      "Stamina": "80",
+      "AttackPower": "135",
+      "Intellect": "49",
+      "CritRating": "53",
+      "HasteRating": "39"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "AttackPower": "12"
+    },
+    "Name": "Sentinel Scouting Greaves",
+    "Id": "47933",
+    "Slot": "Feet"
+  },
+  "47940": {
+    "ItemLevel": "245",
+    "DisplayId": "61561",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_17",
+    "Stats": {
+      "Armor": "228",
+      "Stamina": "72",
+      "Intellect": "70",
+      "SpellPower": "104",
+      "CritRating": "72",
+      "HitRating": "47"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "CritRating": "6"
+    },
+    "Name": "Sandals of the Silver Magus",
+    "Id": "47940",
+    "Slot": "Feet"
+  },
+  "47952": {
+    "ItemLevel": "245",
+    "DisplayId": "61372",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_06",
+    "Stats": {
+      "Armor": "1700",
+      "Stamina": "151",
+      "Strength": "64",
+      "HitRating": "47",
+      "DodgeRating": "77",
+      "DefenseRating": "39"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "DodgeRating": "6"
+    },
+    "Name": "Sabatons of the Lingering Vortex",
+    "Id": "47952",
+    "Slot": "Feet"
+  },
+  "47992": {
+    "ItemLevel": "245",
+    "DisplayId": "62079",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_leather_03a",
+    "Stats": {
+      "Armor": "428",
+      "Agility": "93",
+      "Stamina": "85",
+      "AttackPower": "127",
+      "HitRating": "69",
+      "ExpertiseRating": "51"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "CritRating": "6"
+    },
+    "Name": "Acidmaw Treads",
+    "Id": "47992",
+    "Slot": "Feet"
+  },
+  "48006": {
+    "ItemLevel": "245",
+    "DisplayId": "61104",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_07",
+    "Stats": {
+      "Armor": "951",
+      "Agility": "101",
+      "Stamina": "80",
+      "AttackPower": "135",
+      "Intellect": "49",
+      "CritRating": "53",
+      "HasteRating": "39"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "AttackPower": "12"
+    },
+    "Name": "Warsong Poacher's Greaves",
+    "Id": "48006",
+    "Slot": "Feet"
+  },
+  "48012": {
+    "ItemLevel": "245",
+    "DisplayId": "62108",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_17",
+    "Stats": {
+      "Armor": "228",
+      "Stamina": "72",
+      "Intellect": "70",
+      "SpellPower": "104",
+      "CritRating": "72",
+      "HitRating": "47"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "CritRating": "6"
+    },
+    "Name": "Sunreaver Magus' Sandals",
+    "Id": "48012",
+    "Slot": "Feet"
+  },
+  "48024": {
+    "ItemLevel": "245",
+    "DisplayId": "61551",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_09",
+    "Stats": {
+      "Armor": "1700",
+      "Stamina": "151",
+      "Strength": "64",
+      "HitRating": "47",
+      "DodgeRating": "77",
+      "DefenseRating": "39"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "DodgeRating": "6"
+    },
+    "Name": "Greaves of the Lingering Vortex",
+    "Id": "48024",
+    "Slot": "Feet"
+  },
+  "49183": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_cloth_23",
+    "Stats": {
+      "Armor": "228",
+      "Stamina": "115",
+      "Intellect": "51",
+      "SpellPower": "109",
+      "Resilience": "67",
+      "HasteRating": "59"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "RequiredClasses": "Priest|Mage|Warlock",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Relentless Gladiator's Treads of Alacrity",
+    "Id": "49183",
+    "Slot": "Feet"
+  },
+  "49231": {
+    "ItemLevel": "232",
+    "DisplayId": "61235",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_23",
+    "Stats": {
+      "Armor": "218",
+      "Stamina": "68",
+      "Intellect": "68",
+      "Spirit": "52",
+      "SpellPower": "105",
+      "CritRating": "64"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Boots of the Grieving Soul",
+    "Id": "49231",
+    "Slot": "Feet"
+  },
+  "49232": {
+    "ItemLevel": "232",
+    "DisplayId": "62109",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_23",
+    "Stats": {
+      "Armor": "218",
+      "Stamina": "68",
+      "Intellect": "68",
+      "Spirit": "52",
+      "SpellPower": "105",
+      "CritRating": "64"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sandals of the Grieving Soul",
+    "Id": "49232",
+    "Slot": "Feet"
+  },
+  "49233": {
+    "ItemLevel": "245",
+    "DisplayId": "62109",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_23",
+    "Stats": {
+      "Armor": "228",
+      "Stamina": "77",
+      "Intellect": "77",
+      "Spirit": "51",
+      "SpellPower": "109",
+      "CritRating": "72"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Intellect": "4"
+    },
+    "Name": "Sandals of the Grieving Soul",
+    "Id": "49233",
+    "Slot": "Feet"
+  },
+  "49234": {
+    "ItemLevel": "245",
+    "DisplayId": "61235",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_23",
+    "Stats": {
+      "Armor": "228",
+      "Stamina": "77",
+      "Intellect": "77",
+      "Spirit": "51",
+      "SpellPower": "109",
+      "CritRating": "72"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Intellect": "4"
+    },
+    "Name": "Boots of the Grieving Soul",
+    "Id": "49234",
+    "Slot": "Feet"
+  },
+  "49235": {
+    "ItemLevel": "232",
+    "DisplayId": "61961",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_06",
+    "Stats": {
+      "Armor": "911",
+      "Stamina": "68",
+      "Intellect": "68",
+      "SpellPower": "96",
+      "CritRating": "60",
+      "Mp5": "26"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "CritRating": "4"
+    },
+    "Name": "Boots of Tortured Space",
+    "Id": "49235",
+    "Slot": "Feet"
+  },
+  "49236": {
+    "ItemLevel": "232",
+    "DisplayId": "61114",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_06",
+    "Stats": {
+      "Armor": "911",
+      "Stamina": "68",
+      "Intellect": "68",
+      "SpellPower": "96",
+      "CritRating": "60",
+      "Mp5": "26"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "CritRating": "4"
+    },
+    "Name": "Sabatons of Tortured Space",
+    "Id": "49236",
+    "Slot": "Feet"
+  },
+  "49237": {
+    "ItemLevel": "245",
+    "DisplayId": "61114",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_06",
+    "Stats": {
+      "Armor": "951",
+      "Stamina": "77",
+      "Intellect": "77",
+      "SpellPower": "99",
+      "CritRating": "67",
+      "Mp5": "26"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "CritRating": "6"
+    },
+    "Name": "Sabatons of Tortured Space",
+    "Id": "49237",
+    "Slot": "Feet"
+  },
+  "49238": {
+    "ItemLevel": "245",
+    "DisplayId": "61961",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_06",
+    "Stats": {
+      "Armor": "951",
+      "Stamina": "77",
+      "Intellect": "77",
+      "SpellPower": "99",
+      "CritRating": "67",
+      "Mp5": "26"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "CritRating": "6"
+    },
+    "Name": "Boots of Tortured Space",
+    "Id": "49238",
+    "Slot": "Feet"
+  },
+  "49795": {
+    "ItemLevel": "219",
+    "DisplayId": "64721",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_15",
+    "Stats": {
+      "Armor": "1596",
+      "Stamina": "118",
+      "Strength": "79",
+      "ParryRating": "32",
+      "BlockValue": "140",
+      "DefenseRating": "41"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sollerets of Suffering",
+    "Id": "49795",
+    "Slot": "Feet"
+  },
+  "49798": {
+    "ItemLevel": "219",
+    "DisplayId": "64665",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_11",
+    "Stats": {
+      "Armor": "893",
+      "Stamina": "79",
+      "Intellect": "53",
+      "SpellPower": "92",
+      "HasteRating": "45",
+      "Mp5": "29"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Soul Screaming Boots",
+    "Id": "49798",
+    "Slot": "Feet"
+  },
+  "49805": {
+    "ItemLevel": "219",
+    "DisplayId": "64579",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_26",
+    "Stats": {
+      "Armor": "214",
+      "Stamina": "62",
+      "Intellect": "59",
+      "Spirit": "45",
+      "SpellPower": "92",
+      "HasteRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Ice-Steeped Sandals",
+    "Id": "49805",
+    "Slot": "Feet"
+  },
+  "49831": {
+    "ItemLevel": "219",
+    "DisplayId": "64710",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_11",
+    "Stats": {
+      "Armor": "893",
+      "Agility": "79",
+      "Stamina": "60",
+      "AttackPower": "120",
+      "Intellect": "41",
+      "CritRating": "42",
+      "HasteRating": "41"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Muddied Boots of Brill",
+    "Id": "49831",
+    "Slot": "Feet"
+  },
+  "49890": {
+    "ItemLevel": "264",
+    "DisplayId": "64343",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_25",
+    "Stats": {
+      "Armor": "243",
+      "Stamina": "92",
+      "Intellect": "92",
+      "SpellPower": "122",
+      "CritRating": "80",
+      "HitRating": "64"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Red",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Deathfrost Boots",
+    "Id": "49890",
+    "Slot": "Feet"
+  },
+  "49893": {
+    "ItemLevel": "264",
+    "DisplayId": "65408",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_26",
+    "Stats": {
+      "Armor": "243",
+      "Stamina": "92",
+      "Intellect": "92",
+      "Spirit": "80",
+      "SpellPower": "122",
+      "CritRating": "64"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Sandals of Consecration",
+    "Id": "49893",
+    "Slot": "Feet"
+  },
+  "49894": {
+    "ItemLevel": "264",
+    "DisplayId": "64489",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_leather_8",
+    "Stats": {
+      "Armor": "457",
+      "Stamina": "92",
+      "Intellect": "92",
+      "Spirit": "72",
+      "SpellPower": "122",
+      "HasteRating": "72"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Blessed Cenarion Boots",
+    "Id": "49894",
+    "Slot": "Feet"
+  },
+  "49895": {
+    "ItemLevel": "264",
+    "DisplayId": "64414",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_leather_07",
+    "Stats": {
+      "Armor": "457",
+      "Agility": "120",
+      "Stamina": "120",
+      "AttackPower": "129",
+      "CritRating": "80",
+      "ExpertiseRating": "64"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Red",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Footpads of Impending Death",
+    "Id": "49895",
+    "Slot": "Feet"
+  },
+  "49896": {
+    "ItemLevel": "264",
+    "DisplayId": "65409",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_mail_10",
+    "Stats": {
+      "Armor": "1016",
+      "Stamina": "92",
+      "Intellect": "92",
+      "SpellPower": "122",
+      "CritRating": "64",
+      "HasteRating": "80"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Earthsoul Boots",
+    "Id": "49896",
+    "Slot": "Feet"
+  },
+  "49897": {
+    "ItemLevel": "264",
+    "DisplayId": "65410",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_mail_06",
+    "Stats": {
+      "Armor": "1016",
+      "Agility": "120",
+      "Stamina": "95",
+      "AttackPower": "129",
+      "ArmorPenetrationRating": "47",
+      "Intellect": "63",
+      "CritRating": "80"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Red",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Rock-Steady Treads",
+    "Id": "49897",
+    "Slot": "Feet"
+  },
+  "49905": {
+    "ItemLevel": "264",
+    "DisplayId": "64846",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_14",
+    "Stats": {
+      "Armor": "1815",
+      "Stamina": "92",
+      "Intellect": "92",
+      "SpellPower": "122",
+      "CritRating": "80",
+      "HasteRating": "64"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Red",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Protectors of Life",
+    "Id": "49905",
+    "Slot": "Feet"
+  },
+  "49906": {
+    "ItemLevel": "264",
+    "DisplayId": "64789",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_12",
+    "Stats": {
+      "Armor": "1815",
+      "Stamina": "137",
+      "Strength": "121",
+      "ArmorPenetrationRating": "80",
+      "CritRating": "64"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Red",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "Strength": "6"
+    },
+    "Name": "Hellfrozen Bonegrinders",
+    "Id": "49906",
+    "Slot": "Feet"
+  },
+  "49907": {
+    "ItemLevel": "264",
+    "DisplayId": "64789",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_12",
+    "Stats": {
+      "Armor": "1815",
+      "Stamina": "157",
+      "Strength": "92",
+      "HitRating": "53",
+      "DodgeRating": "72",
+      "ParryRating": "72"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "Stamina": "9"
+    },
+    "Name": "Boots of Kingly Upheaval",
+    "Id": "49907",
+    "Slot": "Feet"
+  },
+  "49950": {
+    "ItemLevel": "264",
+    "DisplayId": "64414",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_leather_07",
+    "Stats": {
+      "Armor": "457",
+      "Agility": "104",
+      "Stamina": "120",
+      "AttackPower": "161",
+      "ArmorPenetrationRating": "64",
+      "CritRating": "80"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Frostbitten Fur Boots",
+    "Id": "49950",
+    "Slot": "Feet"
+  },
+  "49983": {
+    "ItemLevel": "264",
+    "DisplayId": "64789",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_12",
+    "Stats": {
+      "Armor": "1815",
+      "Stamina": "137",
+      "Strength": "129",
+      "ArmorPenetrationRating": "72",
+      "CritRating": "80"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Strength": "6"
+    },
+    "Name": "Blood-Soaked Saronite Stompers",
+    "Id": "49983",
+    "Slot": "Feet"
+  },
+  "49993": {
+    "ItemLevel": "264",
+    "DisplayId": "65036",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_mail_10",
+    "Stats": {
+      "Armor": "1016",
+      "Stamina": "92",
+      "Intellect": "92",
+      "SpellPower": "122",
+      "CritRating": "72",
+      "Mp5": "36"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Necrophotic Greaves",
+    "Id": "49993",
+    "Slot": "Feet"
+  },
+  "50009": {
+    "ItemLevel": "264",
+    "DisplayId": "64489",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_leather_8",
+    "Stats": {
+      "Armor": "457",
+      "Stamina": "92",
+      "Intellect": "92",
+      "Spirit": "64",
+      "SpellPower": "122",
+      "CritRating": "80"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "UniqueId": "50665",
+    "Name": "Boots of Unnatural Growth",
+    "Id": "50009",
+    "Slot": "Feet"
+  },
+  "50062": {
+    "ItemLevel": "264",
+    "DisplayId": "64343",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_25",
+    "Stats": {
+      "Armor": "243",
+      "Stamina": "92",
+      "Intellect": "92",
+      "SpellPower": "122",
+      "CritRating": "64",
+      "HasteRating": "80"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Plague Scientist's Boots",
+    "Id": "50062",
+    "Slot": "Feet"
+  },
+  "50071": {
+    "ItemLevel": "264",
+    "DisplayId": "64822",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_mail_06",
+    "Stats": {
+      "Armor": "1016",
+      "Agility": "112",
+      "Stamina": "95",
+      "AttackPower": "145",
+      "Intellect": "63",
+      "CritRating": "80",
+      "HitRating": "47"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Treads of the Wasteland",
+    "Id": "50071",
+    "Slot": "Feet"
+  },
+  "50190": {
+    "ItemLevel": "264",
+    "DisplayId": "64789",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_12",
+    "Stats": {
+      "Armor": "1815",
+      "Stamina": "157",
+      "Strength": "92",
+      "DodgeRating": "72",
+      "DefenseRating": "80",
+      "ExpertiseRating": "53"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "Stamina": "9"
+    },
+    "Name": "Grinning Skull Greatboots",
+    "Id": "50190",
+    "Slot": "Feet"
+  },
+  "50207": {
+    "ItemLevel": "232",
+    "DisplayId": "64721",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_15",
+    "Stats": {
+      "Armor": "1629",
+      "Stamina": "134",
+      "Strength": "89",
+      "DodgeRating": "47",
+      "ParryRating": "47",
+      "DefenseRating": "47"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Black Spire Sabatons",
+    "Id": "50207",
+    "Slot": "Feet"
+  },
+  "50215": {
+    "ItemLevel": "232",
+    "DisplayId": "64721",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_15",
+    "Stats": {
+      "Armor": "1629",
+      "Stamina": "72",
+      "Intellect": "66",
+      "SpellPower": "105",
+      "CritRating": "60",
+      "Mp5": "30"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Recovered Reliquary Boots",
+    "Id": "50215",
+    "Slot": "Feet"
+  },
+  "50283": {
+    "ItemLevel": "232",
+    "DisplayId": "64665",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_11",
+    "Stats": {
+      "Armor": "911",
+      "Stamina": "78",
+      "Intellect": "64",
+      "SpellPower": "105",
+      "CritRating": "61",
+      "HasteRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Mudslide Boots",
+    "Id": "50283",
+    "Slot": "Feet"
+  },
+  "50286": {
+    "ItemLevel": "232",
+    "DisplayId": "64579",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_26",
+    "Stats": {
+      "Armor": "218",
+      "Stamina": "68",
+      "Intellect": "68",
+      "Spirit": "61",
+      "SpellPower": "105",
+      "HasteRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Prelate's Snowshoes",
+    "Id": "50286",
+    "Slot": "Feet"
+  },
+  "50295": {
+    "ItemLevel": "232",
+    "DisplayId": "64701",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_chain_13",
+    "Stats": {
+      "Armor": "911",
+      "Agility": "89",
+      "Stamina": "68",
+      "AttackPower": "136",
+      "ArmorPenetrationRating": "47",
+      "Intellect": "41",
+      "CritRating": "50"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Spiked Toestompers",
+    "Id": "50295",
+    "Slot": "Feet"
+  },
+  "50305": {
+    "ItemLevel": "232",
+    "DisplayId": "64857",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_11",
+    "Stats": {
+      "Armor": "1629",
+      "Stamina": "102",
+      "Strength": "102",
+      "ArmorPenetrationRating": "52",
+      "CritRating": "64"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Grinning Skull Boots",
+    "Id": "50305",
+    "Slot": "Feet"
+  },
+  "50308": {
+    "ItemLevel": "232",
+    "DisplayId": "64560",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_leather_8",
+    "Stats": {
+      "Armor": "410",
+      "Agility": "89",
+      "Stamina": "68",
+      "AttackPower": "136",
+      "ArmorPenetrationRating": "63",
+      "CritRating": "54"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Blighted Leather Footpads",
+    "Id": "50308",
+    "Slot": "Feet"
+  },
+  "50416": {
+    "ItemLevel": "264",
+    "DisplayId": "64664",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_14",
+    "Stats": {
+      "Armor": "1815",
+      "Stamina": "92",
+      "Intellect": "92",
+      "SpellPower": "122",
+      "CritRating": "72",
+      "Mp5": "36"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Boots of the Funeral March",
+    "Id": "50416",
+    "Slot": "Feet"
+  },
+  "50607": {
+    "ItemLevel": "277",
+    "DisplayId": "64437",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_leather_07",
+    "Stats": {
+      "Armor": "477",
+      "Agility": "120",
+      "Stamina": "136",
+      "AttackPower": "181",
+      "ArmorPenetrationRating": "74",
+      "CritRating": "90"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Frostbitten Fur Boots",
+    "Id": "50607",
+    "Slot": "Feet"
+  },
+  "50625": {
+    "ItemLevel": "277",
+    "DisplayId": "64797",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_13",
+    "Stats": {
+      "Armor": "1895",
+      "Stamina": "180",
+      "Strength": "103",
+      "DodgeRating": "82",
+      "DefenseRating": "90",
+      "ExpertiseRating": "61"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "Stamina": "9"
+    },
+    "Name": "Grinning Skull Greatboots",
+    "Id": "50625",
+    "Slot": "Feet"
+  },
+  "50632": {
+    "ItemLevel": "277",
+    "DisplayId": "64672",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_14",
+    "Stats": {
+      "Armor": "1895",
+      "Stamina": "103",
+      "Intellect": "103",
+      "SpellPower": "140",
+      "CritRating": "82",
+      "Mp5": "41"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Boots of the Funeral March",
+    "Id": "50632",
+    "Slot": "Feet"
+  },
+  "50639": {
+    "ItemLevel": "277",
+    "DisplayId": "64797",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_13",
+    "Stats": {
+      "Armor": "1895",
+      "Stamina": "155",
+      "Strength": "139",
+      "ArmorPenetrationRating": "74",
+      "CritRating": "90"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Strength": "6"
+    },
+    "Name": "Blood-Soaked Saronite Stompers",
+    "Id": "50639",
+    "Slot": "Feet"
+  },
+  "50652": {
+    "ItemLevel": "277",
+    "DisplayId": "65187",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_mail_10",
+    "Stats": {
+      "Armor": "1060",
+      "Stamina": "103",
+      "Intellect": "103",
+      "SpellPower": "140",
+      "CritRating": "82",
+      "Mp5": "41"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Necrophotic Greaves",
+    "Id": "50652",
+    "Slot": "Feet"
+  },
+  "50665": {
+    "ItemLevel": "277",
+    "DisplayId": "64489",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_leather_8",
+    "Stats": {
+      "Armor": "477",
+      "Stamina": "103",
+      "Intellect": "103",
+      "Spirit": "74",
+      "SpellPower": "140",
+      "CritRating": "90"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Boots of Unnatural Growth",
+    "Id": "50665",
+    "Slot": "Feet"
+  },
+  "50699": {
+    "ItemLevel": "277",
+    "DisplayId": "64351",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_24",
+    "Stats": {
+      "Armor": "254",
+      "Stamina": "103",
+      "Intellect": "103",
+      "SpellPower": "140",
+      "CritRating": "74",
+      "HasteRating": "90"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Plague Scientist's Boots",
+    "Id": "50699",
+    "Slot": "Feet"
+  },
+  "50711": {
+    "ItemLevel": "277",
+    "DisplayId": "64835",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_mail_06",
+    "Stats": {
+      "Armor": "1060",
+      "Agility": "128",
+      "Stamina": "107",
+      "AttackPower": "165",
+      "Intellect": "71",
+      "CritRating": "90",
+      "HitRating": "55"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Treads of the Wasteland",
+    "Id": "50711",
+    "Slot": "Feet"
+  },
+  "50772": {
+    "ItemLevel": "251",
+    "DisplayId": "64655",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_14",
+    "Stats": {
+      "Armor": "1736",
+      "Stamina": "81",
+      "Intellect": "81",
+      "SpellPower": "106",
+      "CritRating": "71",
+      "Mp5": "27"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "CritRating": "6"
+    },
+    "Name": "Ancient Skeletal Boots",
+    "Id": "50772",
+    "Slot": "Feet"
+  },
+  "50783": {
+    "ItemLevel": "251",
+    "DisplayId": "64469",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_leather_8",
+    "Stats": {
+      "Armor": "437",
+      "Stamina": "81",
+      "Intellect": "81",
+      "SpellPower": "106",
+      "CritRating": "46",
+      "HasteRating": "76"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "UniqueId": "51920",
+    "Name": "Boots of the Frozen Seed",
+    "Id": "50783",
+    "Slot": "Feet"
+  },
+  "50788": {
+    "ItemLevel": "251",
+    "DisplayId": "64771",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_12",
+    "Stats": {
+      "Armor": "1736",
+      "Stamina": "122",
+      "Strength": "106",
+      "ArmorPenetrationRating": "73",
+      "ExpertiseRating": "52"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Strength": "6"
+    },
+    "Name": "Bone Drake's Enameled Boots",
+    "Id": "50788",
+    "Slot": "Feet"
+  },
+  "50804": {
+    "ItemLevel": "251",
+    "DisplayId": "64296",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_25purple",
+    "Stats": {
+      "Armor": "233",
+      "Stamina": "81",
+      "Intellect": "81",
+      "SpellPower": "106",
+      "CritRating": "76",
+      "HitRating": "46"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Icecrown Spire Sandals",
+    "Id": "50804",
+    "Slot": "Feet"
+  },
+  "50812": {
+    "ItemLevel": "251",
+    "DisplayId": "64816",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_mail_06",
+    "Stats": {
+      "Armor": "972",
+      "Agility": "91",
+      "Stamina": "84",
+      "AttackPower": "153",
+      "ArmorPenetrationRating": "62",
+      "Intellect": "60",
+      "CritRating": "33"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Yellow",
+    "SocketBonus": "none",
+    "Name": "Taldron's Long Neglected Boots",
+    "Id": "50812",
+    "Slot": "Feet"
+  },
+  "51006": {
+    "ItemLevel": "251",
+    "DisplayId": "65259",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_mail_10",
+    "Stats": {
+      "Armor": "972",
+      "Stamina": "81",
+      "Intellect": "81",
+      "SpellPower": "106",
+      "HasteRating": "55",
+      "Mp5": "35"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "Mp5": "4"
+    },
+    "Name": "Shuffling Shoes",
+    "Id": "51006",
+    "Slot": "Feet"
+  },
+  "51023": {
+    "ItemLevel": "251",
+    "DisplayId": "64399",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_leather_07",
+    "Stats": {
+      "Armor": "437",
+      "Agility": "91",
+      "Stamina": "94",
+      "AttackPower": "153",
+      "ArmorPenetrationRating": "71",
+      "CritRating": "55"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Taldaram's Soft Slippers",
+    "Id": "51023",
+    "Slot": "Feet"
+  },
+  "51328": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_cloth_28",
+    "Stats": {
+      "Armor": "243",
+      "Stamina": "137",
+      "Intellect": "61",
+      "SpellPower": "132",
+      "CritRating": "72",
+      "Resilience": "80"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "RequiredClasses": "Priest|Mage|Warlock",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Wrathful Gladiator's Treads of Dominance",
+    "Id": "51328",
+    "Slot": "Feet"
+  },
+  "51338": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_cloth_32",
+    "Stats": {
+      "Armor": "243",
+      "Stamina": "137",
+      "Intellect": "61",
+      "SpellPower": "132",
+      "Resilience": "80",
+      "HasteRating": "72"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "RequiredClasses": "Priest|Mage|Warlock",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Wrathful Gladiator's Treads of Alacrity",
+    "Id": "51338",
+    "Slot": "Feet"
+  },
+  "51341": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_cloth_05",
+    "Stats": {
+      "Armor": "457",
+      "Stamina": "137",
+      "Intellect": "61",
+      "Spirit": "72",
+      "SpellPower": "132",
+      "Resilience": "80"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "RequiredClasses": "Rogue|Druid",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Wrathful Gladiator's Boots of Salvation",
+    "Id": "51341",
+    "Slot": "Feet"
+  },
+  "51344": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_cloth_05",
+    "Stats": {
+      "Armor": "457",
+      "Stamina": "137",
+      "Intellect": "61",
+      "SpellPower": "132",
+      "CritRating": "72",
+      "Resilience": "80"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "RequiredClasses": "Rogue|Druid",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Wrathful Gladiator's Boots of Dominance",
+    "Id": "51344",
+    "Slot": "Feet"
+  },
+  "51351": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_mail_08",
+    "Stats": {
+      "Armor": "1016",
+      "Agility": "80",
+      "Stamina": "137",
+      "AttackPower": "145",
+      "Intellect": "61",
+      "CritRating": "72",
+      "Resilience": "80"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "RequiredClasses": "Hunter|Shaman",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Wrathful Gladiator's Sabatons of Triumph",
+    "Id": "51351",
+    "Slot": "Feet"
+  },
+  "51360": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_plate_11",
+    "Stats": {
+      "Armor": "1815",
+      "Stamina": "137",
+      "Intellect": "61",
+      "SpellPower": "132",
+      "Resilience": "80",
+      "Mp5": "36"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "RequiredClasses": "Warrior|Paladin",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Wrathful Gladiator's Greaves of Salvation",
+    "Id": "51360",
+    "Slot": "Feet"
+  },
+  "51363": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_plate_12",
+    "Stats": {
+      "Armor": "1815",
+      "Stamina": "181",
+      "Strength": "112",
+      "CritRating": "72",
+      "Resilience": "80"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "RequiredClasses": "Warrior|Paladin|Death Knight",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Wrathful Gladiator's Greaves of Triumph",
+    "Id": "51363",
+    "Slot": "Feet"
+  },
+  "51366": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_cloth_26",
+    "Stats": {
+      "Armor": "243",
+      "Stamina": "137",
+      "Intellect": "61",
+      "Spirit": "72",
+      "SpellPower": "132",
+      "Resilience": "80"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "RequiredClasses": "Priest|Mage|Warlock",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Wrathful Gladiator's Treads of Salvation",
+    "Id": "51366",
+    "Slot": "Feet"
+  },
+  "51369": {
+    "ItemLevel": "264",
+    "DisplayId": "65201",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_29",
+    "Stats": {
+      "Armor": "457",
+      "Agility": "112",
+      "Stamina": "137",
+      "AttackPower": "122",
+      "CritRating": "72",
+      "Resilience": "80"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "RequiredClasses": "Rogue|Druid",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Wrathful Gladiator's Boots of Triumph",
+    "Id": "51369",
+    "Slot": "Feet"
+  },
+  "51372": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_chain_07",
+    "Stats": {
+      "Armor": "1016",
+      "Stamina": "137",
+      "Intellect": "61",
+      "SpellPower": "132",
+      "Resilience": "80",
+      "Mp5": "36"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "RequiredClasses": "Hunter|Shaman",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Wrathful Gladiator's Sabatons of Salvation",
+    "Id": "51372",
+    "Slot": "Feet"
+  },
+  "51375": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_chain_07",
+    "Stats": {
+      "Armor": "1016",
+      "Stamina": "137",
+      "Intellect": "61",
+      "SpellPower": "132",
+      "CritRating": "72",
+      "Resilience": "80"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "RequiredClasses": "Hunter|Shaman",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Resilience": "4"
+    },
+    "Name": "Wrathful Gladiator's Sabatons of Dominance",
+    "Id": "51375",
+    "Slot": "Feet"
+  },
+  "51380": {
+    "ItemLevel": "251",
+    "DisplayId": "64372",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_27",
+    "Stats": {
+      "Armor": "233",
+      "Stamina": "81",
+      "Intellect": "81",
+      "Spirit": "55",
+      "SpellPower": "106",
+      "CritRating": "71"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "Spirit": "6"
+    },
+    "Name": "Pale Corpse Boots",
+    "Id": "51380",
+    "Slot": "Feet"
+  },
+  "51785": {
+    "ItemLevel": "251",
+    "DisplayId": "64816",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_mail_06",
+    "Stats": {
+      "Armor": "972",
+      "Agility": "91",
+      "Stamina": "84",
+      "AttackPower": "162",
+      "Intellect": "50",
+      "CritRating": "54",
+      "HitRating": "44"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Wyrmwing Treads",
+    "Id": "51785",
+    "Slot": "Feet"
+  },
+  "51787": {
+    "ItemLevel": "251",
+    "DisplayId": "64771",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_12",
+    "Stats": {
+      "Armor": "1736",
+      "Stamina": "136",
+      "Strength": "81",
+      "HitRating": "38",
+      "DodgeRating": "76",
+      "DefenseRating": "62"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "Stamina": "9"
+    },
+    "Name": "Scourge Fanged Stompers",
+    "Id": "51787",
+    "Slot": "Feet"
+  },
+  "51816": {
+    "ItemLevel": "264",
+    "DisplayId": "64781",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_13",
+    "Stats": {
+      "Armor": "1815",
+      "Stamina": "157",
+      "Strength": "92",
+      "HitRating": "45",
+      "DodgeRating": "86",
+      "DefenseRating": "70"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "Stamina": "9"
+    },
+    "Name": "Scourge Fanged Stompers",
+    "Id": "51816",
+    "Slot": "Feet"
+  },
+  "51818": {
+    "ItemLevel": "264",
+    "DisplayId": "64822",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_mail_06",
+    "Stats": {
+      "Armor": "1016",
+      "Agility": "104",
+      "Stamina": "95",
+      "AttackPower": "183",
+      "Intellect": "56",
+      "CritRating": "61",
+      "HitRating": "52"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Wyrmwing Treads",
+    "Id": "51818",
+    "Slot": "Feet"
+  },
+  "51850": {
+    "ItemLevel": "264",
+    "DisplayId": "64198",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_27",
+    "Stats": {
+      "Armor": "243",
+      "Stamina": "92",
+      "Intellect": "92",
+      "Spirit": "64",
+      "SpellPower": "122",
+      "CritRating": "80"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Yellow",
+    "SocketBonus": "none",
+    "Name": "Pale Corpse Boots",
+    "Id": "51850",
+    "Slot": "Feet"
+  },
+  "51856": {
+    "ItemLevel": "264",
+    "DisplayId": "64414",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_leather_07",
+    "Stats": {
+      "Armor": "457",
+      "Agility": "104",
+      "Stamina": "106",
+      "AttackPower": "172",
+      "ArmorPenetrationRating": "80",
+      "CritRating": "64"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Taldaram's Soft Slippers",
+    "Id": "51856",
+    "Slot": "Feet"
+  },
+  "51873": {
+    "ItemLevel": "264",
+    "DisplayId": "65036",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_mail_10",
+    "Stats": {
+      "Armor": "1016",
+      "Stamina": "92",
+      "Intellect": "92",
+      "SpellPower": "122",
+      "HasteRating": "64",
+      "Mp5": "40"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Yellow",
+    "SocketBonus": "none",
+    "Name": "Shuffling Shoes",
+    "Id": "51873",
+    "Slot": "Feet"
+  },
+  "51891": {
+    "ItemLevel": "264",
+    "DisplayId": "64822",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_mail_06",
+    "Stats": {
+      "Armor": "1016",
+      "Agility": "104",
+      "Stamina": "95",
+      "AttackPower": "172",
+      "ArmorPenetrationRating": "70",
+      "Intellect": "68",
+      "CritRating": "40"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Taldron's Long Neglected Boots",
+    "Id": "51891",
+    "Slot": "Feet"
+  },
+  "51899": {
+    "ItemLevel": "264",
+    "DisplayId": "64310",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_cloth_24",
+    "Stats": {
+      "Armor": "243",
+      "Stamina": "92",
+      "Intellect": "92",
+      "SpellPower": "122",
+      "CritRating": "86",
+      "HitRating": "54"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Icecrown Spire Sandals",
+    "Id": "51899",
+    "Slot": "Feet"
+  },
+  "51915": {
+    "ItemLevel": "264",
+    "DisplayId": "64781",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_13",
+    "Stats": {
+      "Armor": "1815",
+      "Stamina": "137",
+      "Strength": "121",
+      "ArmorPenetrationRating": "83",
+      "ExpertiseRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Strength": "6"
+    },
+    "Name": "Bone Drake's Enameled Boots",
+    "Id": "51915",
+    "Slot": "Feet"
+  },
+  "51920": {
+    "ItemLevel": "264",
+    "DisplayId": "64475",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_leather_8",
+    "Stats": {
+      "Armor": "457",
+      "Stamina": "92",
+      "Intellect": "92",
+      "SpellPower": "122",
+      "CritRating": "54",
+      "HasteRating": "86"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "UniqueId": "51920",
+    "Name": "Boots of the Frozen Seed",
+    "Id": "51920",
+    "Slot": "Feet"
+  },
+  "51931": {
+    "ItemLevel": "264",
+    "DisplayId": "64664",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_14",
+    "Stats": {
+      "Armor": "1815",
+      "Stamina": "92",
+      "Intellect": "92",
+      "SpellPower": "122",
+      "CritRating": "80",
+      "Mp5": "32"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "CritRating": "6"
+    },
+    "Name": "Ancient Skeletal Boots",
+    "Id": "51931",
+    "Slot": "Feet"
+  },
+  "53111": {
+    "ItemLevel": "258",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_plate_12",
+    "Stats": {
+      "Armor": "1779",
+      "Stamina": "158",
+      "Strength": "114",
+      "DodgeRating": "60",
+      "ParryRating": "52",
+      "DefenseRating": "44"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Stamina": "9"
+    },
+    "Name": "Scion's Treads",
+    "Id": "53111",
+    "Slot": "Feet"
+  },
+  "53119": {
+    "ItemLevel": "258",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_mail_10",
+    "Stats": {
+      "Armor": "995",
+      "Stamina": "86",
+      "Intellect": "86",
+      "SpellPower": "114",
+      "CritRating": "76",
+      "HasteRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Boots of Divided Being",
+    "Id": "53119",
+    "Slot": "Feet"
+  },
+  "53125": {
+    "ItemLevel": "271",
+    "DisplayId": "64789",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_12",
+    "Stats": {
+      "Armor": "1858",
+      "Stamina": "146",
+      "Strength": "146",
+      "CritRating": "86",
+      "HitRating": "70"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Strength": "6"
+    },
+    "Name": "Apocalypse's Advance",
+    "Id": "53125",
+    "Slot": "Feet"
+  },
+  "53127": {
+    "ItemLevel": "271",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_mail_06",
+    "Stats": {
+      "Agility": "128",
+      "Stamina": "101",
+      "AttackPower": "139",
+      "ArmorPenetrationRating": "51",
+      "Intellect": "67",
+      "CritRating": "86"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "SocketColor1": "Red",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Returning Footfalls",
+    "Id": "53127",
+    "Slot": "Feet"
+  },
+  "53129": {
+    "ItemLevel": "271",
+    "DisplayId": "64789",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_12",
+    "Stats": {
+      "Armor": "1858",
+      "Stamina": "180",
+      "Strength": "128",
+      "DodgeRating": "59",
+      "ParryRating": "59",
+      "DefenseRating": "59"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "Stamina": "9"
+    },
+    "Name": "Treads of Impending Resurrection",
+    "Id": "53129",
+    "Slot": "Feet"
+  },
+  "53487": {
+    "ItemLevel": "271",
+    "DisplayId": "64664",
+    "DisplaySlot": "8",
+    "IconPath": "inv_boots_plate_14",
+    "Stats": {
+      "Armor": "1858",
+      "Stamina": "98",
+      "Intellect": "98",
+      "SpellPower": "131",
+      "CritRating": "70",
+      "HasteRating": "86"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Foreshadow Steps",
+    "Id": "53487",
+    "Slot": "Feet"
+  },
+  "54558": {
+    "ItemLevel": "271",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_mail_10",
+    "Stats": {
+      "Armor": "1040",
+      "Stamina": "98",
+      "Intellect": "98",
+      "SpellPower": "131",
+      "CritRating": "86",
+      "HasteRating": "70"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Boots of Divided Being",
+    "Id": "54558",
+    "Slot": "Feet"
+  },
+  "54564": {
+    "ItemLevel": "271",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_plate_12",
+    "Stats": {
+      "Armor": "1858",
+      "Stamina": "180",
+      "Strength": "128",
+      "DodgeRating": "67",
+      "ParryRating": "59",
+      "DefenseRating": "51"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Scion's Treads",
+    "Id": "54564",
+    "Slot": "Feet"
+  },
+  "54577": {
+    "ItemLevel": "284",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_mail_06",
+    "Stats": {
+      "Armor": "1085",
+      "Agility": "145",
+      "Stamina": "115",
+      "AttackPower": "162",
+      "ArmorPenetrationRating": "60",
+      "Intellect": "76",
+      "CritRating": "97"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Returning Footfalls",
+    "Id": "54577",
+    "Slot": "Feet"
+  },
+  "54578": {
+    "ItemLevel": "284",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_plate_12",
+    "Stats": {
+      "Armor": "1939",
+      "Stamina": "165",
+      "Strength": "165",
+      "CritRating": "97",
+      "HitRating": "81"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Strength": "6"
+    },
+    "Name": "Apocalypse's Advance",
+    "Id": "54578",
+    "Slot": "Feet"
+  },
+  "54579": {
+    "ItemLevel": "284",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_plate_12",
+    "Stats": {
+      "Armor": "1939",
+      "Stamina": "206",
+      "Strength": "145",
+      "DodgeRating": "68",
+      "ParryRating": "68",
+      "DefenseRating": "68"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "Stamina": "9"
+    },
+    "Name": "Treads of Impending Resurrection",
+    "Id": "54579",
+    "Slot": "Feet"
+  },
+  "54586": {
+    "ItemLevel": "284",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_boots_plate_14",
+    "Stats": {
+      "Armor": "1939",
+      "Stamina": "110",
+      "Intellect": "110",
+      "SpellPower": "151",
+      "CritRating": "81",
+      "HasteRating": "97"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Foreshadow Steps",
+    "Id": "54586",
+    "Slot": "Feet"
+  }
+}

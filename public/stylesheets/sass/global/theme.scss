@@ -1,0 +1,27 @@
+// fonts
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+// colours
+$wm-primary: #bc5d00;
+$wm-primary-light: #f48b39;
+$wm-primary-dark: #863100;
+$wm-secondary: #443f37;
+$wm-secondary-light: #6f6a61;
+$wm-secondary-dark: #1d1911;
+
+// variables
+$wm-boxshadow-1: 1px 1px 6px 1px rgba($wm-secondary, .5);
+$wm-boxshadow-2: 2px 2px 6px 2px rgba($wm-secondary, .5);
+
+html {
+  width: 100%;
+  height: 100%;
+  font-size: 14px;
+}
+
+body {
+  font-family: 'Roboto Condensed', 'Roboto', sans-serif;
+  //background: linear-gradient(to right, $wm-primary-light, $wm-primary-dark);
+  background-repeat: no-repeat;
+}

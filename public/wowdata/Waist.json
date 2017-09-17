@@ -1,0 +1,7663 @@
+{
+  "37152": {
+    "ItemLevel": "200",
+    "DisplayId": "50910",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_22",
+    "Stats": {
+      "Armor": "1218",
+      "Stamina": "43",
+      "Intellect": "44",
+      "SpellPower": "68",
+      "CritRating": "41"
+    },
+    "Quality": "Rare",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Mp5": "2"
+    },
+    "Name": "Girdle of Ice",
+    "Id": "37152",
+    "Slot": "Waist"
+  },
+  "37171": {
+    "ItemLevel": "200",
+    "DisplayId": "53806",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_34",
+    "Stats": {
+      "Armor": "1261",
+      "Stamina": "85",
+      "Strength": "66",
+      "CritRating": "59"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Flame-Bathed Steel Girdle",
+    "Id": "37171",
+    "Slot": "Waist"
+  },
+  "37178": {
+    "ItemLevel": "200",
+    "DisplayId": "51686",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_34",
+    "Stats": {
+      "Armor": "1218",
+      "Stamina": "73",
+      "Strength": "52",
+      "HasteRating": "56"
+    },
+    "Quality": "Rare",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "HasteRating": "4"
+    },
+    "Name": "Strategist's Belt",
+    "Id": "37178",
+    "Slot": "Waist"
+  },
+  "37194": {
+    "ItemLevel": "200",
+    "DisplayId": "53821",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_24",
+    "Stats": {
+      "Armor": "317",
+      "Agility": "45",
+      "Stamina": "75",
+      "AttackPower": "132",
+      "ExpertiseRating": "43"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "ExpertiseRating": "4"
+    },
+    "Name": "Sharp-Barbed Leather Belt",
+    "Id": "37194",
+    "Slot": "Waist"
+  },
+  "37241": {
+    "ItemLevel": "200",
+    "DisplayId": "51808",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_33",
+    "Stats": {
+      "Armor": "1261",
+      "Stamina": "99",
+      "Strength": "38",
+      "DodgeRating": "66",
+      "DefenseRating": "48"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Ancient Aligned Girdle",
+    "Id": "37241",
+    "Slot": "Waist"
+  },
+  "37242": {
+    "ItemLevel": "200",
+    "DisplayId": "51809",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_10",
+    "Stats": {
+      "Armor": "169",
+      "Stamina": "58",
+      "Intellect": "52",
+      "SpellPower": "76",
+      "CritRating": "64"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sash of the Servant",
+    "Id": "37242",
+    "Slot": "Waist"
+  },
+  "37243": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_16",
+    "Stats": {
+      "Armor": "307",
+      "Agility": "29",
+      "Stamina": "66",
+      "AttackPower": "116",
+      "HitRating": "41"
+    },
+    "Quality": "Rare",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Treasure Seeker's Belt",
+    "Id": "37243",
+    "Slot": "Waist"
+  },
+  "37289": {
+    "ItemLevel": "200",
+    "DisplayId": "52324",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_07",
+    "Stats": {
+      "Armor": "163",
+      "Stamina": "43",
+      "Intellect": "44",
+      "Spirit": "57",
+      "SpellPower": "68"
+    },
+    "Quality": "Rare",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sash of Phantasmal Images",
+    "Id": "37289",
+    "Slot": "Waist"
+  },
+  "37379": {
+    "ItemLevel": "200",
+    "DisplayId": "51704",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_29",
+    "Stats": {
+      "Armor": "1218",
+      "Stamina": "87",
+      "Strength": "49",
+      "BlockValue": "90",
+      "DefenseRating": "39"
+    },
+    "Quality": "Rare",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "BlockValue": "6"
+    },
+    "Name": "Skadi's Iron Belt",
+    "Id": "37379",
+    "Slot": "Waist"
+  },
+  "37407": {
+    "ItemLevel": "200",
+    "DisplayId": "51697",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_19",
+    "Stats": {
+      "Armor": "705",
+      "Agility": "51",
+      "Stamina": "67",
+      "AttackPower": "132",
+      "Intellect": "33",
+      "HitRating": "43"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sovereign's Belt",
+    "Id": "37407",
+    "Slot": "Waist"
+  },
+  "37408": {
+    "ItemLevel": "200",
+    "DisplayId": "53823",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_10",
+    "Stats": {
+      "Armor": "169",
+      "Stamina": "49",
+      "Intellect": "51",
+      "Spirit": "38",
+      "SpellPower": "77",
+      "HitRating": "48"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Girdle of Bane",
+    "Id": "37408",
+    "Slot": "Waist"
+  },
+  "37628": {
+    "ItemLevel": "200",
+    "DisplayId": "53118",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_13",
+    "Stats": {
+      "Armor": "682",
+      "Stamina": "45",
+      "Intellect": "43",
+      "SpellPower": "68",
+      "Mp5": "29"
+    },
+    "Quality": "Rare",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Slad'ran's Coiled Cord",
+    "Id": "37628",
+    "Slot": "Waist"
+  },
+  "37637": {
+    "ItemLevel": "200",
+    "DisplayId": "53121",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_14",
+    "Stats": {
+      "Armor": "163",
+      "Stamina": "45",
+      "Intellect": "54",
+      "SpellPower": "59",
+      "CritRating": "42"
+    },
+    "Quality": "Rare",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "CritRating": "4"
+    },
+    "Name": "Living Mojo Belt",
+    "Id": "37637",
+    "Slot": "Waist"
+  },
+  "37643": {
+    "ItemLevel": "200",
+    "DisplayId": "53815",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_11",
+    "Stats": {
+      "Armor": "317",
+      "Stamina": "49",
+      "Intellect": "51",
+      "SpellPower": "77",
+      "HasteRating": "66"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sash of Blood Removal",
+    "Id": "37643",
+    "Slot": "Waist"
+  },
+  "37648": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_08",
+    "Stats": {
+      "Armor": "682",
+      "Agility": "38",
+      "Stamina": "45",
+      "AttackPower": "100",
+      "Intellect": "31",
+      "CritRating": "38"
+    },
+    "Quality": "Rare",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "AttackPower": "8"
+    },
+    "Name": "Belt of Tasseled Lanterns",
+    "Id": "37648",
+    "Slot": "Waist"
+  },
+  "37670": {
+    "ItemLevel": "200",
+    "DisplayId": "53809",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_15",
+    "Stats": {
+      "Armor": "1261",
+      "Stamina": "49",
+      "Intellect": "51",
+      "SpellPower": "77",
+      "Mp5": "33"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sjonnir's Girdle",
+    "Id": "37670",
+    "Slot": "Waist"
+  },
+  "37680": {
+    "ItemLevel": "200",
+    "DisplayId": "52347",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_30",
+    "Stats": {
+      "Armor": "163",
+      "Stamina": "49",
+      "Intellect": "51",
+      "SpellPower": "68",
+      "HitRating": "42"
+    },
+    "Quality": "Rare",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Belt of Unified Souls",
+    "Id": "37680",
+    "Slot": "Waist"
+  },
+  "37714": {
+    "ItemLevel": "200",
+    "DisplayId": "52565",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_14",
+    "Stats": {
+      "Armor": "307",
+      "Agility": "57",
+      "Stamina": "49",
+      "AttackPower": "116",
+      "HasteRating": "42"
+    },
+    "Quality": "Rare",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Batrider's Cord",
+    "Id": "37714",
+    "Slot": "Waist"
+  },
+  "37801": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_34",
+    "Stats": {
+      "Armor": "1218",
+      "Stamina": "87",
+      "Strength": "58",
+      "DodgeRating": "33",
+      "DefenseRating": "42"
+    },
+    "Quality": "Rare",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Waistguard of the Risen Knight",
+    "Id": "37801",
+    "Slot": "Waist"
+  },
+  "37826": {
+    "ItemLevel": "200",
+    "DisplayId": "51934",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_35",
+    "Stats": {
+      "Armor": "1218",
+      "Agility": "36",
+      "Stamina": "85",
+      "Strength": "58",
+      "HitRating": "41"
+    },
+    "Quality": "Rare",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "The General's Steel Girdle",
+    "Id": "37826",
+    "Slot": "Waist"
+  },
+  "37842": {
+    "ItemLevel": "200",
+    "DisplayId": "49378",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_26",
+    "Stats": {
+      "Armor": "307",
+      "Stamina": "49",
+      "Intellect": "43",
+      "Spirit": "58",
+      "SpellPower": "68"
+    },
+    "Quality": "Rare",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Belt of Vivacity",
+    "Id": "37842",
+    "Slot": "Waist"
+  },
+  "37845": {
+    "ItemLevel": "200",
+    "DisplayId": "52615",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_36",
+    "Stats": {
+      "Armor": "682",
+      "Agility": "39",
+      "Stamina": "54",
+      "AttackPower": "116",
+      "Intellect": "33",
+      "HasteRating": "42"
+    },
+    "Quality": "Rare",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Cord of Swirling Winds",
+    "Id": "37845",
+    "Slot": "Waist"
+  },
+  "37850": {
+    "ItemLevel": "200",
+    "DisplayId": "52347",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_30",
+    "Stats": {
+      "Armor": "163",
+      "Stamina": "42",
+      "Intellect": "44",
+      "Spirit": "38",
+      "SpellPower": "59",
+      "HitRating": "31"
+    },
+    "Quality": "Rare",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Flowing Sash of Order",
+    "Id": "37850",
+    "Slot": "Waist"
+  },
+  "37855": {
+    "ItemLevel": "200",
+    "DisplayId": "53818",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_24",
+    "Stats": {
+      "Armor": "705",
+      "Stamina": "57",
+      "Intellect": "48",
+      "SpellPower": "77",
+      "Mp5": "33"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Mail Girdle of the Audient Earth",
+    "Id": "37855",
+    "Slot": "Waist"
+  },
+  "37868": {
+    "ItemLevel": "200",
+    "DisplayId": "55009",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_17",
+    "Stats": {
+      "Armor": "682",
+      "Stamina": "49",
+      "Intellect": "41",
+      "SpellPower": "59",
+      "HasteRating": "50"
+    },
+    "Quality": "Rare",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "HasteRating": "4"
+    },
+    "Name": "Girdle of the Ethereal",
+    "Id": "37868",
+    "Slot": "Waist"
+  },
+  "38616": {
+    "ItemLevel": "200",
+    "DisplayId": "51514",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_24",
+    "Stats": {
+      "Armor": "307",
+      "Stamina": "58",
+      "Intellect": "40",
+      "SpellPower": "68",
+      "CritRating": "58"
+    },
+    "Quality": "Rare",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Maiden's Girdle",
+    "Id": "38616",
+    "Slot": "Waist"
+  },
+  "39190": {
+    "ItemLevel": "200",
+    "DisplayId": "54214",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_07",
+    "Stats": {
+      "Armor": "169",
+      "Stamina": "49",
+      "Intellect": "52",
+      "Spirit": "48",
+      "SpellPower": "76",
+      "HasteRating": "38"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Agonal Sash",
+    "Id": "39190",
+    "Slot": "Waist"
+  },
+  "39216": {
+    "ItemLevel": "200",
+    "DisplayId": "56607",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_03",
+    "Stats": {
+      "Armor": "169",
+      "Stamina": "49",
+      "Intellect": "51",
+      "Spirit": "38",
+      "SpellPower": "76",
+      "CritRating": "48"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sash of Mortal Desire",
+    "Id": "39216",
+    "Slot": "Waist"
+  },
+  "39251": {
+    "ItemLevel": "200",
+    "DisplayId": "57073",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_15",
+    "Stats": {
+      "Armor": "705",
+      "Stamina": "57",
+      "Intellect": "48",
+      "SpellPower": "77",
+      "CritRating": "44",
+      "Mp5": "23"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Necrogenic Belt",
+    "Id": "39251",
+    "Slot": "Waist"
+  },
+  "39261": {
+    "ItemLevel": "200",
+    "DisplayId": "54220",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_12",
+    "Stats": {
+      "Armor": "1261",
+      "Stamina": "57",
+      "Intellect": "48",
+      "SpellPower": "77",
+      "CritRating": "44",
+      "Mp5": "23"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Tainted Girdle of Mending",
+    "Id": "39261",
+    "Slot": "Waist"
+  },
+  "39279": {
+    "ItemLevel": "200",
+    "DisplayId": "54215",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_21",
+    "Stats": {
+      "Armor": "317",
+      "Agility": "66",
+      "Stamina": "57",
+      "AttackPower": "102",
+      "ArmorPenetrationRating": "33",
+      "HasteRating": "48"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Blistered Belt of Decay",
+    "Id": "39279",
+    "Slot": "Waist"
+  },
+  "39298": {
+    "ItemLevel": "200",
+    "DisplayId": "55382",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_12",
+    "Stats": {
+      "Armor": "1261",
+      "Stamina": "97",
+      "Strength": "67",
+      "BlockRating": "36",
+      "BlockValue": "102",
+      "DefenseRating": "34"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Waistguard of the Tutor",
+    "Id": "39298",
+    "Slot": "Waist"
+  },
+  "39308": {
+    "ItemLevel": "200",
+    "DisplayId": "54217",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_25",
+    "Stats": {
+      "Armor": "317",
+      "Stamina": "52",
+      "Intellect": "49",
+      "Spirit": "48",
+      "SpellPower": "77",
+      "HasteRating": "38"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Girdle of Lenience",
+    "Id": "39308",
+    "Slot": "Waist"
+  },
+  "39345": {
+    "ItemLevel": "200",
+    "DisplayId": "55379",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_15",
+    "Stats": {
+      "Armor": "1261",
+      "Stamina": "97",
+      "Strength": "67",
+      "CritRating": "33",
+      "HitRating": "51"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Girdle of the Ascended Phantom",
+    "Id": "39345",
+    "Slot": "Waist"
+  },
+  "39379": {
+    "ItemLevel": "200",
+    "DisplayId": "54219",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_19",
+    "Stats": {
+      "Armor": "705",
+      "Agility": "36",
+      "Stamina": "51",
+      "AttackPower": "132",
+      "Intellect": "34",
+      "CritRating": "51",
+      "HasteRating": "33"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Spectral Rider's Girdle",
+    "Id": "39379",
+    "Slot": "Waist"
+  },
+  "39721": {
+    "ItemLevel": "213",
+    "DisplayId": "54713",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_07",
+    "Stats": {
+      "Armor": "173",
+      "Stamina": "64",
+      "Intellect": "57",
+      "SpellPower": "88",
+      "CritRating": "37",
+      "Mp5": "28"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sash of the Parlor",
+    "Id": "39721",
+    "Slot": "Waist"
+  },
+  "39735": {
+    "ItemLevel": "213",
+    "DisplayId": "56604",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_11",
+    "Stats": {
+      "Armor": "173",
+      "Stamina": "55",
+      "Intellect": "57",
+      "Spirit": "55",
+      "SpellPower": "88",
+      "CritRating": "43"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Belt of False Dignity",
+    "Id": "39735",
+    "Slot": "Waist"
+  },
+  "39759": {
+    "ItemLevel": "213",
+    "DisplayId": "55383",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_33",
+    "Stats": {
+      "Armor": "1293",
+      "Stamina": "100",
+      "Strength": "74",
+      "HitRating": "37",
+      "ParryRating": "47",
+      "DefenseRating": "43"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "DefenseRating": "4"
+    },
+    "Name": "Ablative Chitin Girdle",
+    "Id": "39759",
+    "Slot": "Waist"
+  },
+  "39762": {
+    "ItemLevel": "213",
+    "DisplayId": "54716",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_22",
+    "Stats": {
+      "Armor": "723",
+      "Agility": "50",
+      "Stamina": "75",
+      "AttackPower": "150",
+      "Intellect": "36",
+      "CritRating": "49",
+      "HitRating": "29"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Torn Web Wrapping",
+    "Id": "39762",
+    "Slot": "Waist"
+  },
+  "40200": {
+    "ItemLevel": "213",
+    "DisplayId": "54762",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_25",
+    "Stats": {
+      "Armor": "325",
+      "Stamina": "57",
+      "Intellect": "57",
+      "Spirit": "55",
+      "SpellPower": "88",
+      "CritRating": "43"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Belt of Potent Chanting",
+    "Id": "40200",
+    "Slot": "Waist"
+  },
+  "40205": {
+    "ItemLevel": "213",
+    "DisplayId": "54792",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_15",
+    "Stats": {
+      "Armor": "325",
+      "Agility": "64",
+      "Stamina": "69",
+      "AttackPower": "126",
+      "CritRating": "62",
+      "HasteRating": "36"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Stalk-Skin Belt",
+    "Id": "40205",
+    "Slot": "Waist"
+  },
+  "40241": {
+    "ItemLevel": "213",
+    "DisplayId": "54784",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_28",
+    "Stats": {
+      "Armor": "1293",
+      "Stamina": "55",
+      "Intellect": "57",
+      "SpellPower": "88",
+      "CritRating": "43",
+      "Mp5": "28"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Girdle of Unity",
+    "Id": "40241",
+    "Slot": "Waist"
+  },
+  "40259": {
+    "ItemLevel": "213",
+    "DisplayId": "54784",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_28",
+    "Stats": {
+      "Armor": "1293",
+      "Stamina": "64",
+      "Intellect": "57",
+      "SpellPower": "88",
+      "CritRating": "37",
+      "HasteRating": "55"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Waistguard of Divine Grace",
+    "Id": "40259",
+    "Slot": "Waist"
+  },
+  "40260": {
+    "ItemLevel": "213",
+    "DisplayId": "54792",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_15",
+    "Stats": {
+      "Armor": "325",
+      "Agility": "53",
+      "Stamina": "75",
+      "AttackPower": "150",
+      "CritRating": "43",
+      "HitRating": "50"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Belt of the Tortured",
+    "Id": "40260",
+    "Slot": "Waist"
+  },
+  "40263": {
+    "ItemLevel": "213",
+    "DisplayId": "55389",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_34",
+    "Stats": {
+      "Armor": "1293",
+      "Stamina": "112",
+      "Strength": "75",
+      "DodgeRating": "28",
+      "BlockRating": "50",
+      "DefenseRating": "36"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Fleshless Girdle",
+    "Id": "40263",
+    "Slot": "Waist"
+  },
+  "40271": {
+    "ItemLevel": "213",
+    "DisplayId": "54713",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_07",
+    "Stats": {
+      "Armor": "173",
+      "Stamina": "57",
+      "Intellect": "58",
+      "Spirit": "37",
+      "SpellPower": "78",
+      "Mp5": "23"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Sash of Solitude",
+    "Id": "40271",
+    "Slot": "Waist"
+  },
+  "40272": {
+    "ItemLevel": "213",
+    "DisplayId": "57077",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_28",
+    "Stats": {
+      "Armor": "723",
+      "Stamina": "73",
+      "Intellect": "57",
+      "SpellPower": "88",
+      "HasteRating": "38",
+      "Mp5": "25"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Girdle of the Gambit",
+    "Id": "40272",
+    "Slot": "Waist"
+  },
+  "40275": {
+    "ItemLevel": "213",
+    "DisplayId": "54845",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_18",
+    "Stats": {
+      "Armor": "723",
+      "Agility": "74",
+      "Stamina": "64",
+      "AttackPower": "110",
+      "Intellect": "34",
+      "CritRating": "33",
+      "HasteRating": "50"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Depraved Linked Belt",
+    "Id": "40275",
+    "Slot": "Waist"
+  },
+  "40278": {
+    "ItemLevel": "213",
+    "DisplayId": "55389",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_34",
+    "Stats": {
+      "Armor": "1293",
+      "Stamina": "88",
+      "Strength": "70",
+      "HitRating": "46",
+      "HasteRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "HasteRating": "4"
+    },
+    "Name": "Girdle of Chivalry",
+    "Id": "40278",
+    "Slot": "Waist"
+  },
+  "40301": {
+    "ItemLevel": "213",
+    "DisplayId": "54840",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_10",
+    "Stats": {
+      "Armor": "173",
+      "Stamina": "57",
+      "Intellect": "57",
+      "SpellPower": "88",
+      "HitRating": "43",
+      "HasteRating": "53"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Cincture of Polarity",
+    "Id": "40301",
+    "Slot": "Waist"
+  },
+  "40317": {
+    "ItemLevel": "213",
+    "DisplayId": "55389",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_34",
+    "Stats": {
+      "Armor": "1293",
+      "Stamina": "85",
+      "Strength": "75",
+      "CritRating": "74",
+      "ExpertiseRating": "38"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Girdle of Razuvious",
+    "Id": "40317",
+    "Slot": "Waist"
+  },
+  "40327": {
+    "ItemLevel": "213",
+    "DisplayId": "57076",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_19",
+    "Stats": {
+      "Armor": "723",
+      "Stamina": "75",
+      "Intellect": "50",
+      "SpellPower": "88",
+      "CritRating": "57",
+      "HasteRating": "37"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Girdle of Recuperation",
+    "Id": "40327",
+    "Slot": "Waist"
+  },
+  "40341": {
+    "ItemLevel": "213",
+    "DisplayId": "54762",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_25",
+    "Stats": {
+      "Armor": "325",
+      "Stamina": "64",
+      "Intellect": "53",
+      "Spirit": "38",
+      "SpellPower": "88",
+      "HasteRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Shackled Cinch",
+    "Id": "40341",
+    "Slot": "Waist"
+  },
+  "40561": {
+    "ItemLevel": "226",
+    "DisplayId": "53663",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_10",
+    "Stats": {
+      "Armor": "177",
+      "Stamina": "66",
+      "Intellect": "60",
+      "Spirit": "48",
+      "SpellPower": "103",
+      "HasteRating": "62"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Leash of Heedless Magic",
+    "Id": "40561",
+    "Slot": "Waist"
+  },
+  "40566": {
+    "ItemLevel": "226",
+    "DisplayId": "53667",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_25",
+    "Stats": {
+      "Armor": "333",
+      "Stamina": "97",
+      "Intellect": "43",
+      "Spirit": "62",
+      "SpellPower": "98",
+      "Mp5": "24"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Unravelling Strands of Sanity",
+    "Id": "40566",
+    "Slot": "Waist"
+  },
+  "40688": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_13",
+    "Stats": {
+      "Armor": "1261",
+      "Stamina": "99",
+      "Strength": "58",
+      "CritRating": "48",
+      "HasteRating": "30"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Verdungo's Barbarian Cord",
+    "Id": "40688",
+    "Slot": "Waist"
+  },
+  "40689": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_29",
+    "Stats": {
+      "Armor": "1261",
+      "Stamina": "88",
+      "Strength": "57",
+      "DodgeRating": "25",
+      "ParryRating": "32",
+      "DefenseRating": "44"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Waistguard of Living Iron",
+    "Id": "40689",
+    "Slot": "Waist"
+  },
+  "40691": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_15",
+    "Stats": {
+      "Armor": "1261",
+      "Stamina": "49",
+      "Intellect": "51",
+      "SpellPower": "68",
+      "CritRating": "38",
+      "HasteRating": "40"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Magroth's Meditative Cincture",
+    "Id": "40691",
+    "Slot": "Waist"
+  },
+  "40692": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_18",
+    "Stats": {
+      "Armor": "705",
+      "Agility": "57",
+      "Stamina": "69",
+      "AttackPower": "88",
+      "ArmorPenetrationRating": "35",
+      "Intellect": "34",
+      "HitRating": "28"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "AttackPower": "8"
+    },
+    "Name": "Vereesa's Silver Chain Belt",
+    "Id": "40692",
+    "Slot": "Waist"
+  },
+  "40693": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_23",
+    "Stats": {
+      "Armor": "705",
+      "Stamina": "49",
+      "Intellect": "50",
+      "SpellPower": "68",
+      "HasteRating": "44",
+      "Mp5": "19"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "HasteRating": "4"
+    },
+    "Name": "Beadwork Belt of Shamanic Vision",
+    "Id": "40693",
+    "Slot": "Waist"
+  },
+  "40694": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_26",
+    "Stats": {
+      "Armor": "317",
+      "Agility": "40",
+      "Stamina": "61",
+      "AttackPower": "116",
+      "CritRating": "46",
+      "ExpertiseRating": "38"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Jorach's Crocolisk Skin Belt",
+    "Id": "40694",
+    "Slot": "Waist"
+  },
+  "40695": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_05",
+    "Stats": {
+      "Armor": "317",
+      "Stamina": "49",
+      "Intellect": "51",
+      "Spirit": "38",
+      "SpellPower": "68",
+      "CritRating": "40"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Spirit": "4"
+    },
+    "Name": "Vine Belt of the Woodland Dryad",
+    "Id": "40695",
+    "Slot": "Waist"
+  },
+  "40696": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_07",
+    "Stats": {
+      "Armor": "169",
+      "Stamina": "49",
+      "Intellect": "52",
+      "SpellPower": "68",
+      "HitRating": "33",
+      "HasteRating": "42"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "HitRating": "4"
+    },
+    "Name": "Plush Sash of Guzbah",
+    "Id": "40696",
+    "Slot": "Waist"
+  },
+  "40697": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_08",
+    "Stats": {
+      "Armor": "169",
+      "Stamina": "57",
+      "Intellect": "48",
+      "Spirit": "43",
+      "SpellPower": "68",
+      "Mp5": "16"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Spirit": "4"
+    },
+    "Name": "Elegant Temple Gardens' Girdle",
+    "Id": "40697",
+    "Slot": "Waist"
+  },
+  "40879": {
+    "ItemLevel": "213",
+    "DisplayId": "55754",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_14",
+    "Stats": {
+      "Armor": "1293",
+      "Stamina": "111",
+      "Strength": "67",
+      "CritRating": "42",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "RequiredClasses": "Warrior|Paladin|Death Knight",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Deadly Gladiator's Girdle of Triumph",
+    "Id": "40879",
+    "Slot": "Waist"
+  },
+  "40881": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_14",
+    "Stats": {
+      "Armor": "1321",
+      "Stamina": "126",
+      "Strength": "77",
+      "CritRating": "49",
+      "Resilience": "56"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "RequiredClasses": "Warrior|Paladin|Death Knight",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Furious Gladiator's Girdle of Triumph",
+    "Id": "40881",
+    "Slot": "Waist"
+  },
+  "40883": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_48c",
+    "Stats": {
+      "Armor": "1391",
+      "Stamina": "151",
+      "Strength": "93",
+      "CritRating": "59",
+      "Resilience": "67"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "RequiredClasses": "Warrior|Paladin|Death Knight",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Relentless Gladiator's Girdle of Triumph",
+    "Id": "40883",
+    "Slot": "Waist"
+  },
+  "40974": {
+    "ItemLevel": "213",
+    "DisplayId": "55727",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_12",
+    "Stats": {
+      "Armor": "1293",
+      "Stamina": "85",
+      "Intellect": "37",
+      "SpellPower": "78",
+      "Resilience": "50",
+      "Mp5": "21"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "RequiredClasses": "Paladin",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Deadly Gladiator's Girdle of Salvation",
+    "Id": "40974",
+    "Slot": "Waist"
+  },
+  "40976": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_12",
+    "Stats": {
+      "Armor": "1321",
+      "Stamina": "96",
+      "Intellect": "42",
+      "SpellPower": "90",
+      "Resilience": "56",
+      "Mp5": "25"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "RequiredClasses": "Warrior|Paladin",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Furious Gladiator's Girdle of Salvation",
+    "Id": "40976",
+    "Slot": "Waist"
+  },
+  "40978": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_48c",
+    "Stats": {
+      "Armor": "1391",
+      "Stamina": "115",
+      "Intellect": "51",
+      "SpellPower": "109",
+      "Resilience": "67",
+      "Mp5": "30"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "RequiredClasses": "Warrior|Paladin",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Relentless Gladiator's Girdle of Salvation",
+    "Id": "40978",
+    "Slot": "Waist"
+  },
+  "41048": {
+    "ItemLevel": "213",
+    "DisplayId": "56948",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_13",
+    "Stats": {
+      "Armor": "723",
+      "Stamina": "85",
+      "Intellect": "37",
+      "SpellPower": "78",
+      "Resilience": "50",
+      "Mp5": "21"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "RequiredClasses": "Hunter|Shaman",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Deadly Gladiator's Waistguard of Salvation",
+    "Id": "41048",
+    "Slot": "Waist"
+  },
+  "41051": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_13",
+    "Stats": {
+      "Armor": "739",
+      "Stamina": "96",
+      "Intellect": "42",
+      "SpellPower": "90",
+      "Resilience": "56",
+      "Mp5": "25"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "RequiredClasses": "Hunter|Shaman",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Furious Gladiator's Waistguard of Salvation",
+    "Id": "41051",
+    "Slot": "Waist"
+  },
+  "41052": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_46",
+    "Stats": {
+      "Armor": "778",
+      "Stamina": "115",
+      "Intellect": "51",
+      "SpellPower": "109",
+      "Resilience": "67",
+      "Mp5": "30"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "RequiredClasses": "Hunter|Shaman",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Relentless Gladiator's Waistguard of Salvation",
+    "Id": "41052",
+    "Slot": "Waist"
+  },
+  "41069": {
+    "ItemLevel": "213",
+    "DisplayId": "56948",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_13",
+    "Stats": {
+      "Armor": "723",
+      "Stamina": "85",
+      "Intellect": "37",
+      "SpellPower": "78",
+      "CritRating": "42",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "RequiredClasses": "Hunter|Shaman",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Deadly Gladiator's Waistguard of Dominance",
+    "Id": "41069",
+    "Slot": "Waist"
+  },
+  "41070": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_13",
+    "Stats": {
+      "Armor": "739",
+      "Stamina": "96",
+      "Intellect": "42",
+      "SpellPower": "90",
+      "CritRating": "48",
+      "Resilience": "56"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "RequiredClasses": "Hunter|Shaman",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Furious Gladiator's Waistguard of Dominance",
+    "Id": "41070",
+    "Slot": "Waist"
+  },
+  "41071": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_46",
+    "Stats": {
+      "Armor": "778",
+      "Stamina": "115",
+      "Intellect": "51",
+      "SpellPower": "109",
+      "CritRating": "59",
+      "Resilience": "67"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "RequiredClasses": "Hunter|Shaman",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Relentless Gladiator's Waistguard of Dominance",
+    "Id": "41071",
+    "Slot": "Waist"
+  },
+  "41234": {
+    "ItemLevel": "213",
+    "DisplayId": "56971",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_13",
+    "Stats": {
+      "Armor": "723",
+      "Agility": "41",
+      "Stamina": "85",
+      "AttackPower": "84",
+      "Intellect": "37",
+      "CritRating": "50",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "RequiredClasses": "Hunter|Shaman",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Deadly Gladiator's Waistguard of Triumph",
+    "Id": "41234",
+    "Slot": "Waist"
+  },
+  "41235": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_13",
+    "Stats": {
+      "Armor": "739",
+      "Agility": "57",
+      "Stamina": "97",
+      "AttackPower": "96",
+      "Intellect": "35",
+      "CritRating": "56",
+      "Resilience": "56"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "RequiredClasses": "Hunter|Shaman",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Furious Gladiator's Waistguard of Triumph",
+    "Id": "41235",
+    "Slot": "Waist"
+  },
+  "41236": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_49",
+    "Stats": {
+      "Armor": "778",
+      "Agility": "67",
+      "Stamina": "115",
+      "AttackPower": "119",
+      "Intellect": "51",
+      "CritRating": "59",
+      "Resilience": "67"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "RequiredClasses": "Hunter|Shaman",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Relentless Gladiator's Waistguard of Triumph",
+    "Id": "41236",
+    "Slot": "Waist"
+  },
+  "41616": {
+    "ItemLevel": "213",
+    "DisplayId": "56423",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_12",
+    "Stats": {
+      "Armor": "325",
+      "Stamina": "85",
+      "Intellect": "37",
+      "Spirit": "42",
+      "SpellPower": "78",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "RequiredClasses": "Rogue|Druid",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Deadly Gladiator's Belt of Salvation",
+    "Id": "41616",
+    "Slot": "Waist"
+  },
+  "41617": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_12",
+    "Stats": {
+      "Armor": "333",
+      "Stamina": "96",
+      "Intellect": "42",
+      "Spirit": "48",
+      "SpellPower": "90",
+      "Resilience": "56"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "RequiredClasses": "Rogue|Druid",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Furious Gladiator's Belt of Salvation",
+    "Id": "41617",
+    "Slot": "Waist"
+  },
+  "41618": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_46b",
+    "Stats": {
+      "Armor": "350",
+      "Stamina": "115",
+      "Intellect": "51",
+      "Spirit": "59",
+      "SpellPower": "109",
+      "Resilience": "67"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "RequiredClasses": "Rogue|Druid",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Relentless Gladiator's Belt of Salvation",
+    "Id": "41618",
+    "Slot": "Waist"
+  },
+  "41629": {
+    "ItemLevel": "213",
+    "DisplayId": "56423",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_12",
+    "Stats": {
+      "Armor": "325",
+      "Stamina": "85",
+      "Intellect": "37",
+      "SpellPower": "78",
+      "CritRating": "42",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "RequiredClasses": "Rogue|Druid",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Deadly Gladiator's Belt of Dominance",
+    "Id": "41629",
+    "Slot": "Waist"
+  },
+  "41630": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_12",
+    "Stats": {
+      "Armor": "333",
+      "Stamina": "96",
+      "Intellect": "42",
+      "SpellPower": "90",
+      "CritRating": "48",
+      "Resilience": "56"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "RequiredClasses": "Rogue|Druid",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Furious Gladiator's Belt of Dominance",
+    "Id": "41630",
+    "Slot": "Waist"
+  },
+  "41631": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_46b",
+    "Stats": {
+      "Armor": "350",
+      "Stamina": "115",
+      "Intellect": "51",
+      "SpellPower": "109",
+      "CritRating": "59",
+      "Resilience": "67"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "RequiredClasses": "Rogue|Druid",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Relentless Gladiator's Belt of Dominance",
+    "Id": "41631",
+    "Slot": "Waist"
+  },
+  "41831": {
+    "ItemLevel": "213",
+    "DisplayId": "55642",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_12",
+    "Stats": {
+      "Armor": "325",
+      "Agility": "67",
+      "Stamina": "85",
+      "AttackPower": "74",
+      "CritRating": "42",
+      "Resilience": "49"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "RequiredClasses": "Rogue|Druid",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Deadly Gladiator's Belt of Triumph",
+    "Id": "41831",
+    "Slot": "Waist"
+  },
+  "41832": {
+    "ItemLevel": "226",
+    "DisplayId": "59304",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_12",
+    "Stats": {
+      "Armor": "333",
+      "Agility": "77",
+      "Stamina": "96",
+      "AttackPower": "84",
+      "CritRating": "48",
+      "Resilience": "56"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "RequiredClasses": "Rogue|Druid",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Furious Gladiator's Belt of Triumph",
+    "Id": "41832",
+    "Slot": "Waist"
+  },
+  "41833": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_43c",
+    "Stats": {
+      "Armor": "350",
+      "Agility": "93",
+      "Stamina": "115",
+      "AttackPower": "102",
+      "CritRating": "59",
+      "Resilience": "67"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "RequiredClasses": "Rogue|Druid",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Relentless Gladiator's Belt of Triumph",
+    "Id": "41833",
+    "Slot": "Waist"
+  },
+  "41880": {
+    "ItemLevel": "213",
+    "DisplayId": "55673",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_13",
+    "Stats": {
+      "Armor": "173",
+      "Stamina": "85",
+      "Intellect": "37",
+      "Spirit": "42",
+      "SpellPower": "78",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "RequiredClasses": "Priest|Mage|Warlock",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Deadly Gladiator's Cord of Salvation",
+    "Id": "41880",
+    "Slot": "Waist"
+  },
+  "41881": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_13",
+    "Stats": {
+      "Armor": "177",
+      "Stamina": "96",
+      "Intellect": "42",
+      "Spirit": "48",
+      "SpellPower": "90",
+      "Resilience": "56"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "RequiredClasses": "Priest|Mage|Warlock",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Furious Gladiator's Cord of Salvation",
+    "Id": "41881",
+    "Slot": "Waist"
+  },
+  "41882": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_39c",
+    "Stats": {
+      "Armor": "186",
+      "Stamina": "115",
+      "Intellect": "51",
+      "Spirit": "59",
+      "SpellPower": "109",
+      "Resilience": "67"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "RequiredClasses": "Priest|Mage|Warlock",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Relentless Gladiator's Cord of Salvation",
+    "Id": "41882",
+    "Slot": "Waist"
+  },
+  "41897": {
+    "ItemLevel": "213",
+    "DisplayId": "55750",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_13",
+    "Stats": {
+      "Armor": "173",
+      "Stamina": "85",
+      "Intellect": "37",
+      "SpellPower": "78",
+      "CritRating": "42",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "RequiredClasses": "Priest|Mage|Warlock",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Deadly Gladiator's Cord of Dominance",
+    "Id": "41897",
+    "Slot": "Waist"
+  },
+  "41898": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_13",
+    "Stats": {
+      "Armor": "177",
+      "Stamina": "96",
+      "Intellect": "42",
+      "SpellPower": "90",
+      "CritRating": "48",
+      "Resilience": "56"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "RequiredClasses": "Priest|Mage|Warlock",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Furious Gladiator's Cord of Dominance",
+    "Id": "41898",
+    "Slot": "Waist"
+  },
+  "41899": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_39c",
+    "Stats": {
+      "Armor": "186",
+      "Stamina": "115",
+      "Intellect": "51",
+      "SpellPower": "109",
+      "CritRating": "59",
+      "Resilience": "67"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "RequiredClasses": "Priest|Mage|Warlock",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Relentless Gladiator's Cord of Dominance",
+    "Id": "41899",
+    "Slot": "Waist"
+  },
+  "43484": {
+    "ItemLevel": "200",
+    "DisplayId": "55207",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_23",
+    "Stats": {
+      "Armor": "317",
+      "Agility": "66",
+      "Stamina": "72",
+      "AttackPower": "132",
+      "ExpertiseRating": "38"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Trollwoven Girdle",
+    "Id": "43484",
+    "Slot": "Waist"
+  },
+  "43584": {
+    "ItemLevel": "213",
+    "DisplayId": "55048",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_31",
+    "Stats": {
+      "Armor": "173",
+      "Stamina": "130",
+      "FrostResistance": "85"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Red",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "Stamina": "9"
+    },
+    "Name": "Glacial Waistband",
+    "Id": "43584",
+    "Slot": "Waist"
+  },
+  "43587": {
+    "ItemLevel": "213",
+    "DisplayId": "55047",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_33",
+    "Stats": {
+      "Armor": "1293",
+      "Stamina": "129",
+      "FrostResistance": "86"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Red",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "Stamina": "9"
+    },
+    "Name": "Icebane Girdle",
+    "Id": "43587",
+    "Slot": "Waist"
+  },
+  "43591": {
+    "ItemLevel": "213",
+    "DisplayId": "55046",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_22",
+    "Stats": {
+      "Armor": "325",
+      "Stamina": "129",
+      "FrostResistance": "86"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Red",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "Stamina": "9"
+    },
+    "Name": "Polar Cord",
+    "Id": "43591",
+    "Slot": "Waist"
+  },
+  "43594": {
+    "ItemLevel": "213",
+    "DisplayId": "55050",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_13",
+    "Stats": {
+      "Armor": "723",
+      "Stamina": "129",
+      "FrostResistance": "86"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Red",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "Stamina": "9"
+    },
+    "Name": "Icy Scale Belt",
+    "Id": "43594",
+    "Slot": "Waist"
+  },
+  "43989": {
+    "ItemLevel": "200",
+    "DisplayId": "56216",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_12",
+    "Stats": {
+      "Armor": "1261",
+      "Stamina": "57",
+      "Intellect": "48",
+      "SpellPower": "68",
+      "HasteRating": "44",
+      "Mp5": "18"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Mp5": "2"
+    },
+    "Name": "Remembrance Girdle",
+    "Id": "43989",
+    "Slot": "Waist"
+  },
+  "44176": {
+    "ItemLevel": "200",
+    "DisplayId": "51686",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_34",
+    "Stats": {
+      "Armor": "1218",
+      "Stamina": "49",
+      "Intellect": "42",
+      "SpellPower": "68",
+      "CritRating": "42"
+    },
+    "Quality": "Rare",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Green",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Girdle of the Warrior Magi",
+    "Id": "44176",
+    "Slot": "Waist"
+  },
+  "44181": {
+    "ItemLevel": "200",
+    "DisplayId": "55884",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_39",
+    "Stats": {
+      "Armor": "317",
+      "Stamina": "57",
+      "Intellect": "50",
+      "SpellPower": "77",
+      "CritRating": "48"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Intellect": "4"
+    },
+    "Name": "Ghostflicker Waistband",
+    "Id": "44181",
+    "Slot": "Waist"
+  },
+  "44302": {
+    "ItemLevel": "200",
+    "DisplayId": "56293",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_13",
+    "Stats": {
+      "Armor": "169",
+      "Stamina": "64",
+      "Intellect": "50",
+      "SpellPower": "77",
+      "HasteRating": "55"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Belt of Dark Mending",
+    "Id": "44302",
+    "Slot": "Waist"
+  },
+  "44309": {
+    "ItemLevel": "200",
+    "DisplayId": "56301",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_40",
+    "Stats": {
+      "Armor": "169",
+      "Stamina": "44",
+      "Intellect": "55",
+      "Spirit": "55",
+      "SpellPower": "66"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Sash of Jordan",
+    "Id": "44309",
+    "Slot": "Waist"
+  },
+  "45119": {
+    "ItemLevel": "226",
+    "DisplayId": "61867",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_49",
+    "Stats": {
+      "Armor": "177",
+      "Stamina": "63",
+      "Intellect": "64",
+      "Spirit": "62",
+      "SpellPower": "99",
+      "HasteRating": "49"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Embrace of the Leviathan",
+    "Id": "45119",
+    "Slot": "Waist"
+  },
+  "45139": {
+    "ItemLevel": "226",
+    "DisplayId": "59708",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_34",
+    "Stats": {
+      "Armor": "1321",
+      "Stamina": "127",
+      "Strength": "84",
+      "BlockRating": "45",
+      "BlockValue": "135",
+      "DefenseRating": "44"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Dragonslayer's Brace",
+    "Id": "45139",
+    "Slot": "Waist"
+  },
+  "45151": {
+    "ItemLevel": "226",
+    "DisplayId": "59153",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_47a",
+    "Stats": {
+      "Armor": "739",
+      "Stamina": "73",
+      "Intellect": "60",
+      "SpellPower": "99",
+      "CritRating": "49",
+      "HasteRating": "62"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Belt of the Fallen Wyrm",
+    "Id": "45151",
+    "Slot": "Waist"
+  },
+  "45156": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_42b",
+    "Stats": {
+      "Armor": "163",
+      "Stamina": "38",
+      "Intellect": "42",
+      "SpellPower": "67",
+      "HasteRating": "50"
+    },
+    "Quality": "Rare",
+    "Type": "Cloth",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "HasteRating": "4"
+    },
+    "Name": "Sash of Shattering Hearts",
+    "Id": "45156",
+    "Slot": "Waist"
+  },
+  "45160": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_36",
+    "Stats": {
+      "Armor": "1218",
+      "Stamina": "75",
+      "Strength": "50",
+      "ExpertiseRating": "57"
+    },
+    "Quality": "Rare",
+    "Type": "Plate",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "ExpertiseRating": "4"
+    },
+    "Name": "Girdle of Valorous Defeat",
+    "Id": "45160",
+    "Slot": "Waist"
+  },
+  "45161": {
+    "ItemLevel": "226",
+    "DisplayId": "59700",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_48c",
+    "Stats": {
+      "Armor": "1321",
+      "Stamina": "96",
+      "Strength": "98",
+      "ArmorPenetrationRating": "49",
+      "CritRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Girdle of Embers",
+    "Id": "45161",
+    "Slot": "Waist"
+  },
+  "45181": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_37a",
+    "Stats": {
+      "Armor": "307",
+      "Stamina": "75",
+      "Intellect": "42",
+      "SpellPower": "73",
+      "HasteRating": "33"
+    },
+    "Quality": "Rare",
+    "Type": "Leather",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrap of the Everliving Tree",
+    "Id": "45181",
+    "Slot": "Waist"
+  },
+  "45184": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_44c",
+    "Stats": {
+      "Armor": "682",
+      "Agility": "38",
+      "Stamina": "62",
+      "AttackPower": "116",
+      "ArmorPenetrationRating": "33",
+      "Intellect": "39"
+    },
+    "Quality": "Rare",
+    "Type": "Mail",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Cinch of Bonded Servitude",
+    "Id": "45184",
+    "Slot": "Waist"
+  },
+  "45185": {
+    "ItemLevel": "226",
+    "DisplayId": "59112",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_38a",
+    "Stats": {
+      "Armor": "333",
+      "Stamina": "73",
+      "Intellect": "57",
+      "Spirit": "62",
+      "SpellPower": "99",
+      "CritRating": "55"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Flamewrought Cinch",
+    "Id": "45185",
+    "Slot": "Waist"
+  },
+  "45209": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_38c",
+    "Stats": {
+      "Armor": "163",
+      "Stamina": "38",
+      "Intellect": "42",
+      "SpellPower": "67",
+      "HasteRating": "50"
+    },
+    "Quality": "Rare",
+    "Type": "Cloth",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "HasteRating": "4"
+    },
+    "Name": "Sash of Trumpted Pride",
+    "Id": "45209",
+    "Slot": "Waist"
+  },
+  "45211": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_26",
+    "Stats": {
+      "Armor": "307",
+      "Stamina": "75",
+      "Intellect": "42",
+      "SpellPower": "73",
+      "HasteRating": "33"
+    },
+    "Quality": "Rare",
+    "Type": "Leather",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Waistguard of Equine Fury",
+    "Id": "45211",
+    "Slot": "Waist"
+  },
+  "45215": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_47c",
+    "Stats": {
+      "Armor": "682",
+      "Agility": "38",
+      "Stamina": "62",
+      "AttackPower": "116",
+      "ArmorPenetrationRating": "33",
+      "Intellect": "39"
+    },
+    "Quality": "Rare",
+    "Type": "Mail",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Links of Unquenched Savagery",
+    "Id": "45215",
+    "Slot": "Waist"
+  },
+  "45217": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_46",
+    "Stats": {
+      "Armor": "1218",
+      "Stamina": "75",
+      "Strength": "50",
+      "ExpertiseRating": "57"
+    },
+    "Quality": "Rare",
+    "Type": "Plate",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "ExpertiseRating": "4"
+    },
+    "Name": "Clinch of Savage Fury",
+    "Id": "45217",
+    "Slot": "Waist"
+  },
+  "45241": {
+    "ItemLevel": "239",
+    "DisplayId": "59695",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_49c",
+    "Stats": {
+      "Armor": "1361",
+      "Stamina": "108",
+      "Strength": "93",
+      "CritRating": "64",
+      "HitRating": "47"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "Strength": "6"
+    },
+    "Name": "Belt of Colossal Rage",
+    "Id": "45241",
+    "Slot": "Waist"
+  },
+  "45304": {
+    "ItemLevel": "219",
+    "DisplayId": "59232",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_49b",
+    "Stats": {
+      "Armor": "1306",
+      "Stamina": "119",
+      "Strength": "56",
+      "HitRating": "45",
+      "DodgeRating": "46",
+      "DefenseRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Stormtempered Girdle",
+    "Id": "45304",
+    "Slot": "Waist"
+  },
+  "45306": {
+    "ItemLevel": "219",
+    "DisplayId": "58979",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_49a",
+    "Stats": {
+      "Armor": "175",
+      "Stamina": "69",
+      "Intellect": "46",
+      "Spirit": "58",
+      "SpellPower": "91",
+      "CritRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Binding of the Dragon Matriarch",
+    "Id": "45306",
+    "Slot": "Waist"
+  },
+  "45333": {
+    "ItemLevel": "219",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_46a",
+    "Stats": {
+      "Armor": "731",
+      "Stamina": "69",
+      "Intellect": "60",
+      "SpellPower": "93",
+      "HasteRating": "39",
+      "Mp5": "29"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Belt of the Iron Servant",
+    "Id": "45333",
+    "Slot": "Waist"
+  },
+  "45455": {
+    "ItemLevel": "226",
+    "DisplayId": "59755",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_37a",
+    "Stats": {
+      "Armor": "333",
+      "Stamina": "90",
+      "Intellect": "47",
+      "Spirit": "51",
+      "SpellPower": "98",
+      "HasteRating": "40"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "HasteRating": "4"
+    },
+    "Name": "Belt of the Crystal Tree",
+    "Id": "45455",
+    "Slot": "Waist"
+  },
+  "45467": {
+    "ItemLevel": "226",
+    "DisplayId": "59148",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_45a",
+    "Stats": {
+      "Armor": "739",
+      "Agility": "57",
+      "Stamina": "67",
+      "AttackPower": "170",
+      "ArmorPenetrationRating": "56",
+      "Intellect": "43",
+      "CritRating": "44"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Belt of the Betrayed",
+    "Id": "45467",
+    "Slot": "Waist"
+  },
+  "45491": {
+    "ItemLevel": "226",
+    "DisplayId": "58747",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_15",
+    "Stats": {
+      "Armor": "333",
+      "Agility": "77",
+      "Stamina": "84",
+      "AttackPower": "114",
+      "CritRating": "43",
+      "HasteRating": "56"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Waistguard of the Creator",
+    "Id": "45491",
+    "Slot": "Waist"
+  },
+  "45505": {
+    "ItemLevel": "226",
+    "DisplayId": "59194",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_44b",
+    "Stats": {
+      "Armor": "1321",
+      "Stamina": "64",
+      "Intellect": "65",
+      "SpellPower": "99",
+      "HasteRating": "56",
+      "Mp5": "28"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Belt of Clinging Hope",
+    "Id": "45505",
+    "Slot": "Waist"
+  },
+  "45508": {
+    "ItemLevel": "226",
+    "DisplayId": "59726",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_10",
+    "Stats": {
+      "Armor": "177",
+      "Stamina": "64",
+      "Intellect": "63",
+      "Spirit": "49",
+      "SpellPower": "90",
+      "HitRating": "56"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Belt of the Darkspeaker",
+    "Id": "45508",
+    "Slot": "Waist"
+  },
+  "45547": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_46b",
+    "Stats": {
+      "Armor": "333",
+      "Agility": "85",
+      "Stamina": "84",
+      "AttackPower": "120",
+      "ArmorPenetrationRating": "49",
+      "HitRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Relic Hunter's Cord",
+    "Id": "45547",
+    "Slot": "Waist"
+  },
+  "45548": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_49c",
+    "Stats": {
+      "Armor": "333",
+      "Stamina": "64",
+      "Intellect": "65",
+      "Spirit": "60",
+      "SpellPower": "99",
+      "HasteRating": "49"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Belt of the Sleeper",
+    "Id": "45548",
+    "Slot": "Waist"
+  },
+  "45550": {
+    "ItemLevel": "226",
+    "DisplayId": "55389",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_34",
+    "Stats": {
+      "Armor": "1321",
+      "Stamina": "126",
+      "Strength": "69",
+      "CritRating": "57",
+      "ExpertiseRating": "40"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Red",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "Strength": "6"
+    },
+    "Name": "Belt of the Titans",
+    "Id": "45550",
+    "Slot": "Waist"
+  },
+  "45551": {
+    "ItemLevel": "226",
+    "DisplayId": "59224",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_45a",
+    "Stats": {
+      "Armor": "1321",
+      "Stamina": "103",
+      "Strength": "84",
+      "DodgeRating": "45",
+      "ParryRating": "37",
+      "DefenseRating": "36"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Stamina": "9"
+    },
+    "Name": "Indestructible Plate Girdle",
+    "Id": "45551",
+    "Slot": "Waist"
+  },
+  "45552": {
+    "ItemLevel": "226",
+    "DisplayId": "59209",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_28",
+    "Stats": {
+      "Armor": "1321",
+      "Stamina": "49",
+      "Intellect": "62",
+      "SpellPower": "81",
+      "HasteRating": "40",
+      "Mp5": "28"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Red",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Plate Girdle of Righteousness",
+    "Id": "45552",
+    "Slot": "Waist"
+  },
+  "45553": {
+    "ItemLevel": "226",
+    "DisplayId": "59145",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_13",
+    "Stats": {
+      "Armor": "739",
+      "Agility": "48",
+      "Stamina": "66",
+      "AttackPower": "138",
+      "Intellect": "44",
+      "CritRating": "49",
+      "HasteRating": "44"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Red",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "AttackPower": "12"
+    },
+    "Name": "Belt of Dragons",
+    "Id": "45553",
+    "Slot": "Waist"
+  },
+  "45554": {
+    "ItemLevel": "226",
+    "DisplayId": "59157",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_45b",
+    "Stats": {
+      "Armor": "739",
+      "Stamina": "64",
+      "Intellect": "65",
+      "SpellPower": "81",
+      "CritRating": "56",
+      "Mp5": "20"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Red",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Blue Belt of Chaos",
+    "Id": "45554",
+    "Slot": "Waist"
+  },
+  "45555": {
+    "ItemLevel": "226",
+    "DisplayId": "59111",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_37b",
+    "Stats": {
+      "Armor": "333",
+      "Agility": "69",
+      "Stamina": "73",
+      "AttackPower": "112",
+      "CritRating": "56",
+      "HitRating": "40"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Death-warmed Belt",
+    "Id": "45555",
+    "Slot": "Waist"
+  },
+  "45556": {
+    "ItemLevel": "226",
+    "DisplayId": "59084",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_37c",
+    "Stats": {
+      "Armor": "333",
+      "Stamina": "73",
+      "Intellect": "60",
+      "Spirit": "57",
+      "SpellPower": "81",
+      "HasteRating": "40"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Red",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Belt of Arctic Life",
+    "Id": "45556",
+    "Slot": "Waist"
+  },
+  "45557": {
+    "ItemLevel": "226",
+    "DisplayId": "58978",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_10",
+    "Stats": {
+      "Armor": "177",
+      "Stamina": "63",
+      "Intellect": "64",
+      "SpellPower": "81",
+      "HitRating": "43",
+      "HasteRating": "49"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Sash of Ancient Power",
+    "Id": "45557",
+    "Slot": "Waist"
+  },
+  "45558": {
+    "ItemLevel": "226",
+    "DisplayId": "58990",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_40b",
+    "Stats": {
+      "Armor": "177",
+      "Stamina": "73",
+      "Intellect": "62",
+      "Spirit": "48",
+      "SpellPower": "81",
+      "CritRating": "48"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Red",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Cord of the White Dawn",
+    "Id": "45558",
+    "Slot": "Waist"
+  },
+  "45616": {
+    "ItemLevel": "239",
+    "DisplayId": "59135",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_40b",
+    "Stats": {
+      "Armor": "343",
+      "Stamina": "82",
+      "Intellect": "69",
+      "Spirit": "48",
+      "SpellPower": "92",
+      "HasteRating": "63"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Star-beaded Clutch",
+    "Id": "45616",
+    "Slot": "Waist"
+  },
+  "45619": {
+    "ItemLevel": "239",
+    "DisplayId": "59032",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_46",
+    "Stats": {
+      "Armor": "182",
+      "Stamina": "82",
+      "Intellect": "69",
+      "Spirit": "64",
+      "SpellPower": "92",
+      "CritRating": "47"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Starwatcher's Binding",
+    "Id": "45619",
+    "Slot": "Waist"
+  },
+  "45694": {
+    "ItemLevel": "219",
+    "DisplayId": "59718",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_44",
+    "Stats": {
+      "Armor": "175",
+      "Stamina": "75",
+      "Intellect": "54",
+      "Spirit": "60",
+      "SpellPower": "93",
+      "CritRating": "41"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Conductive Cord",
+    "Id": "45694",
+    "Slot": "Waist"
+  },
+  "45709": {
+    "ItemLevel": "219",
+    "DisplayId": "59105",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_40a",
+    "Stats": {
+      "Armor": "329",
+      "Agility": "79",
+      "Stamina": "68",
+      "AttackPower": "114",
+      "HitRating": "56",
+      "HasteRating": "43"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Nimble Climber's Belt",
+    "Id": "45709",
+    "Slot": "Waist"
+  },
+  "45824": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_34",
+    "Stats": {
+      "Armor": "1321",
+      "Stamina": "124",
+      "Strength": "87",
+      "CritRating": "60",
+      "HitRating": "49"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Belt of the Singing Blade",
+    "Id": "45824",
+    "Slot": "Waist"
+  },
+  "45825": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_48a",
+    "Stats": {
+      "Armor": "1321",
+      "Stamina": "127",
+      "Strength": "57",
+      "HitRating": "56",
+      "DodgeRating": "60",
+      "DefenseRating": "49"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Shieldwarder Girdle",
+    "Id": "45825",
+    "Slot": "Waist"
+  },
+  "45826": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_48c",
+    "Stats": {
+      "Armor": "1321",
+      "Stamina": "84",
+      "Intellect": "57",
+      "SpellPower": "100",
+      "CritRating": "49",
+      "Mp5": "30"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Girdle of Unyielding Trust",
+    "Id": "45826",
+    "Slot": "Waist"
+  },
+  "45827": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_18",
+    "Stats": {
+      "Armor": "739",
+      "Agility": "85",
+      "Stamina": "67",
+      "AttackPower": "120",
+      "Intellect": "44",
+      "HitRating": "44",
+      "HasteRating": "49"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Belt of the Ardent Marksman",
+    "Id": "45827",
+    "Slot": "Waist"
+  },
+  "45828": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_28",
+    "Stats": {
+      "Armor": "739",
+      "Stamina": "84",
+      "Intellect": "56",
+      "SpellPower": "100",
+      "HasteRating": "60",
+      "Mp5": "25"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Windchill Binding",
+    "Id": "45828",
+    "Slot": "Waist"
+  },
+  "45829": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_15",
+    "Stats": {
+      "Armor": "333",
+      "Agility": "84",
+      "Stamina": "84",
+      "AttackPower": "124",
+      "HitRating": "49",
+      "ExpertiseRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Belt of the Twilight Assassin",
+    "Id": "45829",
+    "Slot": "Waist"
+  },
+  "45830": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_25",
+    "Stats": {
+      "Armor": "333",
+      "Stamina": "73",
+      "Intellect": "60",
+      "Spirit": "56",
+      "SpellPower": "100",
+      "HasteRating": "56"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Belt of the Living Thicket",
+    "Id": "45830",
+    "Slot": "Waist"
+  },
+  "45831": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_10",
+    "Stats": {
+      "Armor": "177",
+      "Stamina": "73",
+      "Intellect": "60",
+      "Spirit": "60",
+      "SpellPower": "100",
+      "CritRating": "40"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sash of Potent Incantations",
+    "Id": "45831",
+    "Slot": "Waist"
+  },
+  "45895": {
+    "ItemLevel": "219",
+    "DisplayId": "59772",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_14",
+    "Stats": {
+      "Armor": "731",
+      "Agility": "53",
+      "Stamina": "67",
+      "AttackPower": "158",
+      "ArmorPenetrationRating": "36",
+      "Intellect": "45",
+      "HasteRating": "41"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Belt of the Blood Pit",
+    "Id": "45895",
+    "Slot": "Waist"
+  },
+  "45975": {
+    "ItemLevel": "219",
+    "DisplayId": "59749",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_49",
+    "Stats": {
+      "Armor": "1306",
+      "Stamina": "69",
+      "Intellect": "57",
+      "SpellPower": "92",
+      "HasteRating": "49",
+      "Mp5": "28"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Cable of the Metrognome",
+    "Id": "45975",
+    "Slot": "Waist"
+  },
+  "46041": {
+    "ItemLevel": "226",
+    "DisplayId": "59140",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_48a",
+    "Stats": {
+      "Armor": "1321",
+      "Stamina": "96",
+      "Strength": "82",
+      "CritRating": "40",
+      "ExpertiseRating": "56"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "Strength": "6"
+    },
+    "Name": "Starfall Girdle",
+    "Id": "46041",
+    "Slot": "Waist"
+  },
+  "46071": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_12",
+    "Stats": {
+      "Armor": "1293",
+      "Stamina": "85",
+      "Intellect": "37",
+      "SpellPower": "78",
+      "CritRating": "42",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "RequiredClasses": "Paladin",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Titan-Forged Girdle of Salvation",
+    "Id": "46071",
+    "Slot": "Waist"
+  },
+  "46072": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_14",
+    "Stats": {
+      "Armor": "1293",
+      "Stamina": "111",
+      "Strength": "67",
+      "HitRating": "42",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "RequiredClasses": "Warrior|Paladin|Death Knight",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Titan-Forged Girdle of Triumph",
+    "Id": "46072",
+    "Slot": "Waist"
+  },
+  "46073": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_13",
+    "Stats": {
+      "Armor": "723",
+      "Stamina": "85",
+      "Intellect": "37",
+      "SpellPower": "78",
+      "HitRating": "42",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "RequiredClasses": "Shaman",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Titan-Forged Waistguard of Dominance",
+    "Id": "46073",
+    "Slot": "Waist"
+  },
+  "46074": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_13",
+    "Stats": {
+      "Armor": "723",
+      "Stamina": "85",
+      "Intellect": "37",
+      "SpellPower": "78",
+      "Resilience": "50",
+      "HasteRating": "40"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "RequiredClasses": "Shaman",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Titan-Forged Waistguard of Salvation",
+    "Id": "46074",
+    "Slot": "Waist"
+  },
+  "46075": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_13",
+    "Stats": {
+      "Armor": "723",
+      "Agility": "41",
+      "Stamina": "85",
+      "AttackPower": "84",
+      "Intellect": "37",
+      "HitRating": "50",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "RequiredClasses": "Hunter|Shaman",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Titan-Forged Waistguard of Triumph",
+    "Id": "46075",
+    "Slot": "Waist"
+  },
+  "46076": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_12",
+    "Stats": {
+      "Armor": "325",
+      "Stamina": "85",
+      "Intellect": "37",
+      "SpellPower": "78",
+      "HitRating": "42",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "RequiredClasses": "Druid",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Titan-Forged Belt of Dominance",
+    "Id": "46076",
+    "Slot": "Waist"
+  },
+  "46077": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_12",
+    "Stats": {
+      "Armor": "325",
+      "Stamina": "85",
+      "Intellect": "37",
+      "SpellPower": "78",
+      "Resilience": "50",
+      "HasteRating": "42"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "RequiredClasses": "Druid",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Titan-Forged Belt of Salvation",
+    "Id": "46077",
+    "Slot": "Waist"
+  },
+  "46078": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_12",
+    "Stats": {
+      "Armor": "325",
+      "Agility": "67",
+      "Stamina": "85",
+      "AttackPower": "74",
+      "ArmorPenetrationRating": "42",
+      "Resilience": "49"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "RequiredClasses": "Rogue|Druid",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Titan-Forged Belt of Triumph",
+    "Id": "46078",
+    "Slot": "Waist"
+  },
+  "46079": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_13",
+    "Stats": {
+      "Armor": "173",
+      "Stamina": "85",
+      "Intellect": "37",
+      "SpellPower": "78",
+      "HitRating": "42",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "RequiredClasses": "Priest|Mage|Warlock",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Titan-Forged Cord of Dominance",
+    "Id": "46079",
+    "Slot": "Waist"
+  },
+  "46080": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_13",
+    "Stats": {
+      "Armor": "173",
+      "Stamina": "85",
+      "Intellect": "37",
+      "SpellPower": "78",
+      "Resilience": "50",
+      "HasteRating": "42"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "RequiredClasses": "Priest|Mage|Warlock",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Titan-Forged Cord of Salvation",
+    "Id": "46080",
+    "Slot": "Waist"
+  },
+  "46095": {
+    "ItemLevel": "226",
+    "DisplayId": "59114",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_37c",
+    "Stats": {
+      "Armor": "333",
+      "Agility": "85",
+      "Stamina": "65",
+      "AttackPower": "114",
+      "CritRating": "53",
+      "ExpertiseRating": "56"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "AttackPower": "12"
+    },
+    "Name": "Soul-Devouring Cinch",
+    "Id": "46095",
+    "Slot": "Waist"
+  },
+  "46972": {
+    "ItemLevel": "245",
+    "DisplayId": "61233",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_52",
+    "Stats": {
+      "Armor": "186",
+      "Stamina": "77",
+      "Intellect": "77",
+      "Spirit": "67",
+      "SpellPower": "109",
+      "HasteRating": "59"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Cord of the Tenebrous Mist",
+    "Id": "46972",
+    "Slot": "Waist"
+  },
+  "46973": {
+    "ItemLevel": "258",
+    "DisplayId": "61233",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_52",
+    "Stats": {
+      "Armor": "195",
+      "Stamina": "86",
+      "Intellect": "86",
+      "Spirit": "76",
+      "SpellPower": "114",
+      "HasteRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Cord of the Tenebrous Mist",
+    "Id": "46973",
+    "Slot": "Waist"
+  },
+  "46990": {
+    "ItemLevel": "245",
+    "DisplayId": "61939",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_47a",
+    "Stats": {
+      "Armor": "778",
+      "Stamina": "77",
+      "Intellect": "77",
+      "SpellPower": "109",
+      "CritRating": "59",
+      "Mp5": "34"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Belt of the Ice Burrower",
+    "Id": "46990",
+    "Slot": "Waist"
+  },
+  "46991": {
+    "ItemLevel": "258",
+    "DisplayId": "61939",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_47a",
+    "Stats": {
+      "Armor": "814",
+      "Stamina": "86",
+      "Intellect": "86",
+      "SpellPower": "124",
+      "CritRating": "68",
+      "Mp5": "38"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Belt of the Ice Burrower",
+    "Id": "46991",
+    "Slot": "Waist"
+  },
+  "46999": {
+    "ItemLevel": "245",
+    "DisplayId": "61342",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_49c",
+    "Stats": {
+      "Armor": "1391",
+      "Stamina": "115",
+      "Strength": "107",
+      "CritRating": "59",
+      "ExpertiseRating": "67"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Bloodbath Belt",
+    "Id": "46999",
+    "Slot": "Waist"
+  },
+  "47002": {
+    "ItemLevel": "258",
+    "DisplayId": "61342",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_49c",
+    "Stats": {
+      "Armor": "1455",
+      "Stamina": "129",
+      "Strength": "114",
+      "CritRating": "68",
+      "ExpertiseRating": "68"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "Strength": "6"
+    },
+    "Name": "Bloodbath Belt",
+    "Id": "47002",
+    "Slot": "Waist"
+  },
+  "47072": {
+    "ItemLevel": "245",
+    "DisplayId": "61368",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_48c",
+    "Stats": {
+      "Armor": "1391",
+      "Stamina": "139",
+      "Strength": "101",
+      "DodgeRating": "45",
+      "ParryRating": "53",
+      "DefenseRating": "53"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Girdle of Bloodied Scars",
+    "Id": "47072",
+    "Slot": "Waist"
+  },
+  "47076": {
+    "ItemLevel": "258",
+    "DisplayId": "61368",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_48c",
+    "Stats": {
+      "Armor": "1455",
+      "Stamina": "146",
+      "Strength": "114",
+      "DodgeRating": "44",
+      "ParryRating": "60",
+      "DefenseRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "Stamina": "9"
+    },
+    "Name": "Girdle of Bloodied Scars",
+    "Id": "47076",
+    "Slot": "Waist"
+  },
+  "47081": {
+    "ItemLevel": "245",
+    "DisplayId": "61234",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_52",
+    "Stats": {
+      "Armor": "186",
+      "Stamina": "77",
+      "Intellect": "77",
+      "SpellPower": "109",
+      "CritRating": "72",
+      "HitRating": "51"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Cord of Biting Cold",
+    "Id": "47081",
+    "Slot": "Waist"
+  },
+  "47084": {
+    "ItemLevel": "258",
+    "DisplayId": "61234",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_52",
+    "Stats": {
+      "Armor": "195",
+      "Stamina": "86",
+      "Intellect": "86",
+      "SpellPower": "114",
+      "CritRating": "73",
+      "HitRating": "58"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Cord of Biting Cold",
+    "Id": "47084",
+    "Slot": "Waist"
+  },
+  "47107": {
+    "ItemLevel": "245",
+    "DisplayId": "61652",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_37c",
+    "Stats": {
+      "Armor": "350",
+      "Agility": "93",
+      "Stamina": "101",
+      "AttackPower": "135",
+      "HitRating": "59",
+      "HasteRating": "67"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Belt of the Merciless Killer",
+    "Id": "47107",
+    "Slot": "Waist"
+  },
+  "47112": {
+    "ItemLevel": "258",
+    "DisplayId": "61652",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_37c",
+    "Stats": {
+      "Armor": "367",
+      "Agility": "98",
+      "Stamina": "114",
+      "AttackPower": "135",
+      "HitRating": "68",
+      "HasteRating": "76"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Belt of the Merciless Killer",
+    "Id": "47112",
+    "Slot": "Waist"
+  },
+  "47140": {
+    "ItemLevel": "245",
+    "DisplayId": "61639",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_38a",
+    "Stats": {
+      "Armor": "350",
+      "Stamina": "77",
+      "Intellect": "77",
+      "Spirit": "67",
+      "SpellPower": "109",
+      "HasteRating": "59"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Cord of Pale Thorns",
+    "Id": "47140",
+    "Slot": "Waist"
+  },
+  "47145": {
+    "ItemLevel": "258",
+    "DisplayId": "61639",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_38a",
+    "Stats": {
+      "Armor": "367",
+      "Stamina": "86",
+      "Intellect": "86",
+      "Spirit": "76",
+      "SpellPower": "114",
+      "HasteRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Cord of Pale Thorns",
+    "Id": "47145",
+    "Slot": "Waist"
+  },
+  "47152": {
+    "ItemLevel": "245",
+    "DisplayId": "61962",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_45a",
+    "Stats": {
+      "Armor": "778",
+      "Agility": "93",
+      "Stamina": "80",
+      "AttackPower": "119",
+      "ArmorPenetrationRating": "67",
+      "Intellect": "53",
+      "HitRating": "53"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Belt of Deathly Dominion",
+    "Id": "47152",
+    "Slot": "Waist"
+  },
+  "47153": {
+    "ItemLevel": "258",
+    "DisplayId": "61962",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_45a",
+    "Stats": {
+      "Armor": "814",
+      "Agility": "98",
+      "Stamina": "90",
+      "AttackPower": "135",
+      "ArmorPenetrationRating": "68",
+      "Intellect": "60",
+      "HitRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Belt of Deathly Dominion",
+    "Id": "47153",
+    "Slot": "Waist"
+  },
+  "47170": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_26",
+    "Stats": {
+      "Armor": "317",
+      "Agility": "66",
+      "Stamina": "38",
+      "AttackPower": "101",
+      "ArmorPenetrationRating": "47",
+      "CritRating": "31"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Belt of Fierce Competition",
+    "Id": "47170",
+    "Slot": "Waist"
+  },
+  "47174": {
+    "ItemLevel": "200",
+    "DisplayId": "60457",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_11",
+    "Stats": {
+      "Armor": "317",
+      "Stamina": "61",
+      "Intellect": "46",
+      "Spirit": "49",
+      "SpellPower": "69",
+      "HasteRating": "28"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Spirit": "4"
+    },
+    "Name": "Binding of the Tranquil Glade",
+    "Id": "47174",
+    "Slot": "Waist"
+  },
+  "47181": {
+    "ItemLevel": "200",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_08",
+    "Stats": {
+      "Armor": "169",
+      "Stamina": "53",
+      "Intellect": "49",
+      "SpellPower": "78",
+      "CritRating": "35",
+      "HitRating": "50"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Belt of the Churning Blaze",
+    "Id": "47181",
+    "Slot": "Waist"
+  },
+  "47195": {
+    "ItemLevel": "245",
+    "DisplayId": "61341",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_49c",
+    "Stats": {
+      "Armor": "1391",
+      "Stamina": "77",
+      "Intellect": "77",
+      "SpellPower": "109",
+      "CritRating": "59",
+      "Mp5": "34"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Belt of the Forgotten Martyr",
+    "Id": "47195",
+    "Slot": "Waist"
+  },
+  "47207": {
+    "ItemLevel": "258",
+    "DisplayId": "61341",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_49c",
+    "Stats": {
+      "Armor": "1455",
+      "Stamina": "86",
+      "Intellect": "86",
+      "SpellPower": "114",
+      "CritRating": "60",
+      "Mp5": "38"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Belt of the Forgotten Martyr",
+    "Id": "47207",
+    "Slot": "Waist"
+  },
+  "47218": {
+    "ItemLevel": "200",
+    "DisplayId": "60540",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_48",
+    "Stats": {
+      "Armor": "169",
+      "Stamina": "43",
+      "Intellect": "53",
+      "Spirit": "45",
+      "SpellPower": "69",
+      "CritRating": "34"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Spirit": "4"
+    },
+    "Name": "The Confessor's Binding",
+    "Id": "47218",
+    "Slot": "Waist"
+  },
+  "47227": {
+    "ItemLevel": "200",
+    "DisplayId": "60544",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_28",
+    "Stats": {
+      "Armor": "1261",
+      "Stamina": "99",
+      "Strength": "48",
+      "HitRating": "24",
+      "ParryRating": "44",
+      "DefenseRating": "36"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Girdle of the Pallid Knight",
+    "Id": "47227",
+    "Slot": "Waist"
+  },
+  "47229": {
+    "ItemLevel": "200",
+    "DisplayId": "60641",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_50",
+    "Stats": {
+      "Armor": "1261",
+      "Stamina": "76",
+      "Strength": "68",
+      "ArmorPenetrationRating": "41",
+      "HasteRating": "37"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Girdle of Arrogant Downfall",
+    "Id": "47229",
+    "Slot": "Waist"
+  },
+  "47231": {
+    "ItemLevel": "200",
+    "DisplayId": "60640",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_23",
+    "Stats": {
+      "Armor": "705",
+      "Agility": "48",
+      "Stamina": "60",
+      "AttackPower": "59",
+      "Intellect": "43",
+      "CritRating": "43",
+      "HasteRating": "40"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Belt of Merciless Cruelty",
+    "Id": "47231",
+    "Slot": "Waist"
+  },
+  "47258": {
+    "ItemLevel": "245",
+    "DisplayId": "59003",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_52",
+    "Stats": {
+      "Armor": "186",
+      "Stamina": "77",
+      "Intellect": "77",
+      "Spirit": "67",
+      "SpellPower": "109",
+      "HasteRating": "59"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Belt of the Tenebrous Mist",
+    "Id": "47258",
+    "Slot": "Waist"
+  },
+  "47265": {
+    "ItemLevel": "245",
+    "DisplayId": "61254",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_47a",
+    "Stats": {
+      "Armor": "778",
+      "Stamina": "77",
+      "Intellect": "77",
+      "SpellPower": "109",
+      "CritRating": "59",
+      "Mp5": "34"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Binding of the Ice Burrower",
+    "Id": "47265",
+    "Slot": "Waist"
+  },
+  "47268": {
+    "ItemLevel": "245",
+    "DisplayId": "62138",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_50",
+    "Stats": {
+      "Armor": "1391",
+      "Stamina": "115",
+      "Strength": "107",
+      "CritRating": "59",
+      "ExpertiseRating": "67"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Bloodbath Girdle",
+    "Id": "47268",
+    "Slot": "Waist"
+  },
+  "47283": {
+    "ItemLevel": "245",
+    "DisplayId": "62137",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_46b",
+    "Stats": {
+      "Armor": "1391",
+      "Stamina": "139",
+      "Strength": "101",
+      "DodgeRating": "45",
+      "ParryRating": "53",
+      "DefenseRating": "53"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Belt of Bloodied Scars",
+    "Id": "47283",
+    "Slot": "Waist"
+  },
+  "47286": {
+    "ItemLevel": "245",
+    "DisplayId": "61872",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_52",
+    "Stats": {
+      "Armor": "186",
+      "Stamina": "77",
+      "Intellect": "77",
+      "SpellPower": "109",
+      "CritRating": "72",
+      "HitRating": "51"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Belt of Biting Cold",
+    "Id": "47286",
+    "Slot": "Waist"
+  },
+  "47299": {
+    "ItemLevel": "245",
+    "DisplayId": "61181",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_38b",
+    "Stats": {
+      "Armor": "350",
+      "Agility": "93",
+      "Stamina": "101",
+      "AttackPower": "135",
+      "HitRating": "59",
+      "HasteRating": "67"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Belt of the Pitiless Killer",
+    "Id": "47299",
+    "Slot": "Waist"
+  },
+  "47308": {
+    "ItemLevel": "245",
+    "DisplayId": "62081",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_46c",
+    "Stats": {
+      "Armor": "350",
+      "Stamina": "77",
+      "Intellect": "77",
+      "Spirit": "67",
+      "SpellPower": "109",
+      "HasteRating": "59"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Belt of Pale Thorns",
+    "Id": "47308",
+    "Slot": "Waist"
+  },
+  "47311": {
+    "ItemLevel": "245",
+    "DisplayId": "61103",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_45a",
+    "Stats": {
+      "Armor": "778",
+      "Agility": "93",
+      "Stamina": "80",
+      "AttackPower": "119",
+      "ArmorPenetrationRating": "67",
+      "Intellect": "53",
+      "HitRating": "53"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Waistguard of Deathly Dominion",
+    "Id": "47311",
+    "Slot": "Waist"
+  },
+  "47323": {
+    "ItemLevel": "245",
+    "DisplayId": "62136",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_51",
+    "Stats": {
+      "Armor": "1391",
+      "Stamina": "77",
+      "Intellect": "77",
+      "SpellPower": "109",
+      "CritRating": "59",
+      "Mp5": "34"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Girdle of the Forgotten Martyr",
+    "Id": "47323",
+    "Slot": "Waist"
+  },
+  "47419": {
+    "ItemLevel": "258",
+    "DisplayId": "59003",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_52",
+    "Stats": {
+      "Armor": "195",
+      "Stamina": "86",
+      "Intellect": "86",
+      "Spirit": "76",
+      "SpellPower": "114",
+      "HasteRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Belt of the Tenebrous Mist",
+    "Id": "47419",
+    "Slot": "Waist"
+  },
+  "47426": {
+    "ItemLevel": "258",
+    "DisplayId": "61112",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_47a",
+    "Stats": {
+      "Armor": "814",
+      "Stamina": "86",
+      "Intellect": "86",
+      "SpellPower": "114",
+      "CritRating": "60",
+      "Mp5": "38"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Binding of the Ice Burrower",
+    "Id": "47426",
+    "Slot": "Waist"
+  },
+  "47429": {
+    "ItemLevel": "258",
+    "DisplayId": "62138",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_50",
+    "Stats": {
+      "Armor": "1455",
+      "Stamina": "129",
+      "Strength": "114",
+      "CritRating": "68",
+      "ExpertiseRating": "68"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "Strength": "6"
+    },
+    "Name": "Bloodbath Girdle",
+    "Id": "47429",
+    "Slot": "Waist"
+  },
+  "47444": {
+    "ItemLevel": "258",
+    "DisplayId": "62137",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_46b",
+    "Stats": {
+      "Armor": "1455",
+      "Stamina": "146",
+      "Strength": "114",
+      "DodgeRating": "44",
+      "ParryRating": "60",
+      "DefenseRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "Stamina": "9"
+    },
+    "Name": "Belt of Bloodied Scars",
+    "Id": "47444",
+    "Slot": "Waist"
+  },
+  "47447": {
+    "ItemLevel": "258",
+    "DisplayId": "61872",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_52",
+    "Stats": {
+      "Armor": "195",
+      "Stamina": "86",
+      "Intellect": "86",
+      "SpellPower": "114",
+      "CritRating": "73",
+      "HitRating": "58"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Belt of Biting Cold",
+    "Id": "47447",
+    "Slot": "Waist"
+  },
+  "47460": {
+    "ItemLevel": "258",
+    "DisplayId": "61181",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_38b",
+    "Stats": {
+      "Armor": "367",
+      "Agility": "98",
+      "Stamina": "114",
+      "AttackPower": "135",
+      "HitRating": "68",
+      "HasteRating": "76"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Belt of the Pitiless Killer",
+    "Id": "47460",
+    "Slot": "Waist"
+  },
+  "47469": {
+    "ItemLevel": "258",
+    "DisplayId": "62081",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_46c",
+    "Stats": {
+      "Armor": "367",
+      "Stamina": "86",
+      "Intellect": "86",
+      "Spirit": "76",
+      "SpellPower": "114",
+      "HasteRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Belt of Pale Thorns",
+    "Id": "47469",
+    "Slot": "Waist"
+  },
+  "47472": {
+    "ItemLevel": "258",
+    "DisplayId": "61103",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_45a",
+    "Stats": {
+      "Armor": "814",
+      "Agility": "98",
+      "Stamina": "90",
+      "AttackPower": "135",
+      "ArmorPenetrationRating": "68",
+      "Intellect": "60",
+      "HitRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Waistguard of Deathly Dominion",
+    "Id": "47472",
+    "Slot": "Waist"
+  },
+  "47484": {
+    "ItemLevel": "258",
+    "DisplayId": "62136",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_51",
+    "Stats": {
+      "Armor": "1455",
+      "Stamina": "86",
+      "Intellect": "86",
+      "SpellPower": "114",
+      "CritRating": "60",
+      "Mp5": "38"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Girdle of the Forgotten Martyr",
+    "Id": "47484",
+    "Slot": "Waist"
+  },
+  "47510": {
+    "ItemLevel": "219",
+    "DisplayId": "60644",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_51",
+    "Stats": {
+      "Armor": "1306",
+      "Stamina": "60",
+      "Intellect": "56",
+      "SpellPower": "92",
+      "CritRating": "56",
+      "HasteRating": "34"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "HasteRating": "4"
+    },
+    "Name": "Trueheart Girdle",
+    "Id": "47510",
+    "Slot": "Waist"
+  },
+  "47563": {
+    "ItemLevel": "219",
+    "DisplayId": "60646",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_49",
+    "Stats": {
+      "Armor": "731",
+      "Stamina": "64",
+      "Intellect": "56",
+      "SpellPower": "88",
+      "CritRating": "37",
+      "Mp5": "28"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Girdle of the Dauntless Conqueror",
+    "Id": "47563",
+    "Slot": "Waist"
+  },
+  "47614": {
+    "ItemLevel": "232",
+    "DisplayId": "62006",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_50",
+    "Stats": {
+      "Armor": "1332",
+      "Stamina": "102",
+      "Strength": "94",
+      "ArmorPenetrationRating": "58",
+      "HasteRating": "52"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "ArmorPenetrationRating": "4"
+    },
+    "Name": "Girdle of the Impaler",
+    "Id": "47614",
+    "Slot": "Waist"
+  },
+  "47615": {
+    "ItemLevel": "232",
+    "DisplayId": "62008",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_49b",
+    "Stats": {
+      "Armor": "1332",
+      "Stamina": "72",
+      "Intellect": "66",
+      "SpellPower": "105",
+      "CritRating": "45",
+      "HasteRating": "68"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Belt of the Frozen Reach",
+    "Id": "47615",
+    "Slot": "Waist"
+  },
+  "47617": {
+    "ItemLevel": "232",
+    "DisplayId": "61682",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_52",
+    "Stats": {
+      "Armor": "178",
+      "Stamina": "68",
+      "Intellect": "63",
+      "SpellPower": "96",
+      "HitRating": "57",
+      "HasteRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "HasteRating": "4"
+    },
+    "Name": "Icehowl Cinch",
+    "Id": "47617",
+    "Slot": "Waist"
+  },
+  "47621": {
+    "ItemLevel": "232",
+    "DisplayId": "61939",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_47a",
+    "Stats": {
+      "Armor": "746",
+      "Stamina": "72",
+      "Intellect": "66",
+      "SpellPower": "105",
+      "CritRating": "45",
+      "Mp5": "34"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Girdle of the Farseer",
+    "Id": "47621",
+    "Slot": "Waist"
+  },
+  "47669": {
+    "ItemLevel": "232",
+    "DisplayId": "61639",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_38a",
+    "Stats": {
+      "Armor": "335",
+      "Stamina": "68",
+      "Intellect": "68",
+      "Spirit": "60",
+      "SpellPower": "96",
+      "CritRating": "48"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Spirit": "4"
+    },
+    "Name": "Belt of the Winter Solstice",
+    "Id": "47669",
+    "Slot": "Waist"
+  },
+  "47711": {
+    "ItemLevel": "232",
+    "DisplayId": "61297",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_48a",
+    "Stats": {
+      "Armor": "1332",
+      "Stamina": "134",
+      "Strength": "89",
+      "DodgeRating": "57",
+      "ParryRating": "30",
+      "DefenseRating": "47"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Girdle of the Nether Champion",
+    "Id": "47711",
+    "Slot": "Waist"
+  },
+  "47837": {
+    "ItemLevel": "232",
+    "DisplayId": "61233",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_52",
+    "Stats": {
+      "Armor": "178",
+      "Stamina": "68",
+      "Intellect": "64",
+      "Spirit": "64",
+      "SpellPower": "105",
+      "CritRating": "40"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Intellect": "4"
+    },
+    "Name": "Cinch of the Undying",
+    "Id": "47837",
+    "Slot": "Waist"
+  },
+  "47855": {
+    "ItemLevel": "232",
+    "DisplayId": "61861",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_52",
+    "Stats": {
+      "Armor": "178",
+      "Stamina": "68",
+      "Intellect": "63",
+      "SpellPower": "96",
+      "HitRating": "57",
+      "HasteRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "HasteRating": "4"
+    },
+    "Name": "Icehowl Binding",
+    "Id": "47855",
+    "Slot": "Waist"
+  },
+  "47858": {
+    "ItemLevel": "232",
+    "DisplayId": "62136",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_51",
+    "Stats": {
+      "Armor": "1332",
+      "Stamina": "72",
+      "Intellect": "66",
+      "SpellPower": "105",
+      "CritRating": "45",
+      "HasteRating": "68"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Girdle of the Frozen Reach",
+    "Id": "47858",
+    "Slot": "Waist"
+  },
+  "47859": {
+    "ItemLevel": "232",
+    "DisplayId": "62137",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_46b",
+    "Stats": {
+      "Armor": "1332",
+      "Stamina": "102",
+      "Strength": "94",
+      "ArmorPenetrationRating": "58",
+      "HasteRating": "52"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "ArmorPenetrationRating": "4"
+    },
+    "Name": "Belt of the Impaler",
+    "Id": "47859",
+    "Slot": "Waist"
+  },
+  "47863": {
+    "ItemLevel": "232",
+    "DisplayId": "61179",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_40b",
+    "Stats": {
+      "Armor": "335",
+      "Stamina": "68",
+      "Intellect": "68",
+      "Spirit": "60",
+      "SpellPower": "96",
+      "CritRating": "48"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Spirit": "4"
+    },
+    "Name": "Belt of the Bloodhoof Emissary",
+    "Id": "47863",
+    "Slot": "Waist"
+  },
+  "47866": {
+    "ItemLevel": "232",
+    "DisplayId": "61254",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_47a",
+    "Stats": {
+      "Armor": "746",
+      "Stamina": "72",
+      "Intellect": "66",
+      "SpellPower": "105",
+      "CritRating": "45",
+      "Mp5": "34"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Darkspear Ritual Binding",
+    "Id": "47866",
+    "Slot": "Waist"
+  },
+  "47870": {
+    "ItemLevel": "232",
+    "DisplayId": "62138",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_50",
+    "Stats": {
+      "Armor": "1332",
+      "Stamina": "134",
+      "Strength": "89",
+      "DodgeRating": "57",
+      "ParryRating": "30",
+      "DefenseRating": "47"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Belt of the Nether Champion",
+    "Id": "47870",
+    "Slot": "Waist"
+  },
+  "47909": {
+    "ItemLevel": "232",
+    "DisplayId": "61806",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_52",
+    "Stats": {
+      "Armor": "178",
+      "Stamina": "68",
+      "Intellect": "64",
+      "Spirit": "64",
+      "SpellPower": "105",
+      "CritRating": "40"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Intellect": "4"
+    },
+    "Name": "Belt of the Eternal",
+    "Id": "47909",
+    "Slot": "Waist"
+  },
+  "47921": {
+    "ItemLevel": "245",
+    "DisplayId": "61682",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_52",
+    "Stats": {
+      "Armor": "186",
+      "Stamina": "77",
+      "Intellect": "67",
+      "SpellPower": "99",
+      "HitRating": "61",
+      "HasteRating": "67"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "HasteRating": "6"
+    },
+    "Name": "Icehowl Cinch",
+    "Id": "47921",
+    "Slot": "Waist"
+  },
+  "47924": {
+    "ItemLevel": "245",
+    "DisplayId": "62008",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_49b",
+    "Stats": {
+      "Armor": "1391",
+      "Stamina": "81",
+      "Intellect": "73",
+      "SpellPower": "109",
+      "CritRating": "45",
+      "HasteRating": "77"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Intellect": "4"
+    },
+    "Name": "Belt of the Frozen Reach",
+    "Id": "47924",
+    "Slot": "Waist"
+  },
+  "47925": {
+    "ItemLevel": "245",
+    "DisplayId": "62007",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_50",
+    "Stats": {
+      "Armor": "1391",
+      "Stamina": "115",
+      "Strength": "99",
+      "ArmorPenetrationRating": "63",
+      "HasteRating": "54"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "ArmorPenetrationRating": "4"
+    },
+    "Name": "Girdle of the Impaler",
+    "Id": "47925",
+    "Slot": "Waist"
+  },
+  "47929": {
+    "ItemLevel": "245",
+    "DisplayId": "61639",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_38a",
+    "Stats": {
+      "Armor": "350",
+      "Stamina": "77",
+      "Intellect": "77",
+      "Spirit": "64",
+      "SpellPower": "99",
+      "CritRating": "51"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "Spirit": "6"
+    },
+    "Name": "Belt of the Winter Solstice",
+    "Id": "47929",
+    "Slot": "Waist"
+  },
+  "47932": {
+    "ItemLevel": "245",
+    "DisplayId": "61939",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_47a",
+    "Stats": {
+      "Armor": "778",
+      "Stamina": "75",
+      "Intellect": "71",
+      "SpellPower": "109",
+      "CritRating": "51",
+      "Mp5": "38"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Girdle of the Farseer",
+    "Id": "47932",
+    "Slot": "Waist"
+  },
+  "47937": {
+    "ItemLevel": "245",
+    "DisplayId": "61354",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_49c",
+    "Stats": {
+      "Armor": "1391",
+      "Stamina": "139",
+      "Strength": "97",
+      "DodgeRating": "64",
+      "ParryRating": "34",
+      "DefenseRating": "49"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Girdle of the Nether Champion",
+    "Id": "47937",
+    "Slot": "Waist"
+  },
+  "47977": {
+    "ItemLevel": "245",
+    "DisplayId": "61233",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_52",
+    "Stats": {
+      "Armor": "186",
+      "Stamina": "77",
+      "Intellect": "73",
+      "Spirit": "72",
+      "SpellPower": "118",
+      "CritRating": "47"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Alliance",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Intellect": "4"
+    },
+    "Name": "Cinch of the Undying",
+    "Id": "47977",
+    "Slot": "Waist"
+  },
+  "47994": {
+    "ItemLevel": "245",
+    "DisplayId": "61861",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_52",
+    "Stats": {
+      "Armor": "186",
+      "Stamina": "77",
+      "Intellect": "67",
+      "SpellPower": "99",
+      "HitRating": "61",
+      "HasteRating": "67"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "HasteRating": "6"
+    },
+    "Name": "Icehowl Binding",
+    "Id": "47994",
+    "Slot": "Waist"
+  },
+  "47997": {
+    "ItemLevel": "245",
+    "DisplayId": "62136",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_51",
+    "Stats": {
+      "Armor": "1391",
+      "Stamina": "81",
+      "Intellect": "73",
+      "SpellPower": "109",
+      "CritRating": "45",
+      "HasteRating": "77"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Intellect": "4"
+    },
+    "Name": "Girdle of the Frozen Reach",
+    "Id": "47997",
+    "Slot": "Waist"
+  },
+  "47998": {
+    "ItemLevel": "245",
+    "DisplayId": "62137",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_46b",
+    "Stats": {
+      "Armor": "1391",
+      "Stamina": "115",
+      "Strength": "99",
+      "ArmorPenetrationRating": "63",
+      "HasteRating": "54"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "ArmorPenetrationRating": "4"
+    },
+    "Name": "Belt of the Impaler",
+    "Id": "47998",
+    "Slot": "Waist"
+  },
+  "48002": {
+    "ItemLevel": "245",
+    "DisplayId": "61179",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_40b",
+    "Stats": {
+      "Armor": "350",
+      "Stamina": "77",
+      "Intellect": "77",
+      "Spirit": "64",
+      "SpellPower": "99",
+      "CritRating": "51"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "Spirit": "6"
+    },
+    "Name": "Belt of the Bloodhoof Emissary",
+    "Id": "48002",
+    "Slot": "Waist"
+  },
+  "48005": {
+    "ItemLevel": "245",
+    "DisplayId": "61254",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_47a",
+    "Stats": {
+      "Armor": "778",
+      "Stamina": "75",
+      "Intellect": "71",
+      "SpellPower": "109",
+      "CritRating": "51",
+      "Mp5": "38"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Darkspear Ritual Binding",
+    "Id": "48005",
+    "Slot": "Waist"
+  },
+  "48009": {
+    "ItemLevel": "245",
+    "DisplayId": "62138",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_50",
+    "Stats": {
+      "Armor": "1391",
+      "Stamina": "139",
+      "Strength": "97",
+      "DodgeRating": "64",
+      "ParryRating": "34",
+      "DefenseRating": "49"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Belt of the Nether Champion",
+    "Id": "48009",
+    "Slot": "Waist"
+  },
+  "48054": {
+    "ItemLevel": "245",
+    "DisplayId": "61806",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_52",
+    "Stats": {
+      "Armor": "186",
+      "Stamina": "77",
+      "Intellect": "73",
+      "Spirit": "72",
+      "SpellPower": "118",
+      "CritRating": "47"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Horde",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Intellect": "4"
+    },
+    "Name": "Belt of the Eternal",
+    "Id": "48054",
+    "Slot": "Waist"
+  },
+  "49179": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_39c",
+    "Stats": {
+      "Armor": "186",
+      "Stamina": "115",
+      "Intellect": "51",
+      "SpellPower": "109",
+      "Resilience": "67",
+      "HasteRating": "59"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "RequiredClasses": "Priest|Mage|Warlock",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Relentless Gladiator's Cord of Alacrity",
+    "Id": "49179",
+    "Slot": "Waist"
+  },
+  "49796": {
+    "ItemLevel": "219",
+    "DisplayId": "64614",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_67",
+    "Stats": {
+      "Armor": "175",
+      "Stamina": "60",
+      "Intellect": "60",
+      "SpellPower": "92",
+      "HitRating": "45",
+      "HasteRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Essence of Anger",
+    "Id": "49796",
+    "Slot": "Waist"
+  },
+  "49806": {
+    "ItemLevel": "219",
+    "DisplayId": "64562",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_65",
+    "Stats": {
+      "Armor": "329",
+      "Agility": "71",
+      "Stamina": "60",
+      "AttackPower": "120",
+      "CritRating": "56",
+      "ExpertiseRating": "39"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "ExpertiseRating": "4"
+    },
+    "Name": "Flayer's Black Belt",
+    "Id": "49806",
+    "Slot": "Waist"
+  },
+  "49808": {
+    "ItemLevel": "219",
+    "DisplayId": "64847",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_70",
+    "Stats": {
+      "Armor": "1306",
+      "Stamina": "90",
+      "Strength": "90",
+      "CritRating": "47",
+      "HasteRating": "56"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Bent Gold Belt",
+    "Id": "49808",
+    "Slot": "Waist"
+  },
+  "49810": {
+    "ItemLevel": "219",
+    "DisplayId": "64699",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_69",
+    "Stats": {
+      "Armor": "731",
+      "Agility": "60",
+      "Stamina": "55",
+      "AttackPower": "158",
+      "Intellect": "37",
+      "CritRating": "41",
+      "HitRating": "44"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Scabrous Zombie Leather Belt",
+    "Id": "49810",
+    "Slot": "Waist"
+  },
+  "49853": {
+    "ItemLevel": "219",
+    "DisplayId": "64856",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_70",
+    "Stats": {
+      "Armor": "1306",
+      "Stamina": "118",
+      "Strength": "79",
+      "DodgeRating": "32",
+      "BlockValue": "124",
+      "DefenseRating": "47"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Titanium Links of Lore",
+    "Id": "49853",
+    "Slot": "Waist"
+  },
+  "49978": {
+    "ItemLevel": "264",
+    "DisplayId": "64347",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_66",
+    "Stats": {
+      "Armor": "199",
+      "Stamina": "92",
+      "Intellect": "92",
+      "SpellPower": "122",
+      "CritRating": "64",
+      "HasteRating": "80"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Crushing Coldwraith Belt",
+    "Id": "49978",
+    "Slot": "Waist"
+  },
+  "50010": {
+    "ItemLevel": "264",
+    "DisplayId": "64660",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_70",
+    "Stats": {
+      "Armor": "1485",
+      "Stamina": "92",
+      "Intellect": "92",
+      "SpellPower": "122",
+      "CritRating": "80",
+      "Mp5": "32"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Waistband of Righteous Fury",
+    "Id": "50010",
+    "Slot": "Waist"
+  },
+  "50015": {
+    "ItemLevel": "264",
+    "DisplayId": "65035",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_83",
+    "Stats": {
+      "Armor": "831",
+      "Stamina": "92",
+      "Intellect": "92",
+      "SpellPower": "122",
+      "HasteRating": "72",
+      "Mp5": "36"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoE",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "UniqueId": "50671",
+    "Name": "Belt of the Blood Nova",
+    "Id": "50015",
+    "Slot": "Waist"
+  },
+  "50036": {
+    "ItemLevel": "264",
+    "DisplayId": "64784",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_62",
+    "Stats": {
+      "Armor": "1485",
+      "Stamina": "157",
+      "Strength": "120",
+      "DodgeRating": "55",
+      "ParryRating": "63",
+      "DefenseRating": "55"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "Stamina": "9"
+    },
+    "Name": "Belt of Broken Bones",
+    "Id": "50036",
+    "Slot": "Waist"
+  },
+  "50063": {
+    "ItemLevel": "264",
+    "DisplayId": "64208",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_68",
+    "Stats": {
+      "Armor": "199",
+      "Stamina": "92",
+      "Intellect": "92",
+      "Spirit": "80",
+      "SpellPower": "122",
+      "CritRating": "64"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Lingering Illness",
+    "Id": "50063",
+    "Slot": "Waist"
+  },
+  "50067": {
+    "ItemLevel": "264",
+    "DisplayId": "64422",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_61",
+    "Stats": {
+      "Armor": "374",
+      "Agility": "104",
+      "Stamina": "120",
+      "AttackPower": "161",
+      "ArmorPenetrationRating": "64",
+      "CritRating": "80"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Astrylian's Sutured Cinch",
+    "Id": "50067",
+    "Slot": "Waist"
+  },
+  "50069": {
+    "ItemLevel": "264",
+    "DisplayId": "64492",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_59",
+    "Stats": {
+      "Armor": "374",
+      "Stamina": "92",
+      "Intellect": "92",
+      "Spirit": "64",
+      "SpellPower": "122",
+      "HasteRating": "80"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Professor's Bloodied Smock",
+    "Id": "50069",
+    "Slot": "Waist"
+  },
+  "50187": {
+    "ItemLevel": "264",
+    "DisplayId": "64784",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_62",
+    "Stats": {
+      "Armor": "1485",
+      "Stamina": "137",
+      "Strength": "121",
+      "ArmorPenetrationRating": "68",
+      "CritRating": "75"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Strength": "6"
+    },
+    "Name": "Coldwraith Links",
+    "Id": "50187",
+    "Slot": "Waist"
+  },
+  "50263": {
+    "ItemLevel": "232",
+    "DisplayId": "64952",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_67",
+    "Stats": {
+      "Armor": "178",
+      "Stamina": "78",
+      "Intellect": "64",
+      "Spirit": "60",
+      "SpellPower": "105",
+      "HasteRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Braid of Salt and Fire",
+    "Id": "50263",
+    "Slot": "Waist"
+  },
+  "50270": {
+    "ItemLevel": "232",
+    "DisplayId": "64699",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_69",
+    "Stats": {
+      "Armor": "746",
+      "Agility": "89",
+      "Stamina": "76",
+      "AttackPower": "130",
+      "Intellect": "37",
+      "HitRating": "47",
+      "HasteRating": "54"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Belt of Rotted Fingernails",
+    "Id": "50270",
+    "Slot": "Waist"
+  },
+  "50314": {
+    "ItemLevel": "232",
+    "DisplayId": "64953",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_67",
+    "Stats": {
+      "Armor": "178",
+      "Stamina": "68",
+      "Intellect": "68",
+      "SpellPower": "105",
+      "CritRating": "55",
+      "HasteRating": "62"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Strip of Remorse",
+    "Id": "50314",
+    "Slot": "Waist"
+  },
+  "50413": {
+    "ItemLevel": "264",
+    "DisplayId": "64820",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_60",
+    "Stats": {
+      "Armor": "831",
+      "Agility": "104",
+      "Stamina": "95",
+      "AttackPower": "161",
+      "ArmorPenetrationRating": "63",
+      "Intellect": "63",
+      "CritRating": "64"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Nerub'ar Stalker's Cord",
+    "Id": "50413",
+    "Slot": "Waist"
+  },
+  "50451": {
+    "ItemLevel": "264",
+    "DisplayId": "64660",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_70",
+    "Stats": {
+      "Armor": "1485",
+      "Stamina": "92",
+      "Intellect": "92",
+      "SpellPower": "122",
+      "CritRating": "80",
+      "HasteRating": "64"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Belt of the Lonely Noble",
+    "Id": "50451",
+    "Slot": "Waist"
+  },
+  "50613": {
+    "ItemLevel": "277",
+    "DisplayId": "64349",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_64",
+    "Stats": {
+      "Armor": "208",
+      "Stamina": "103",
+      "Intellect": "103",
+      "SpellPower": "140",
+      "CritRating": "74",
+      "HasteRating": "90"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Crushing Coldwraith Belt",
+    "Id": "50613",
+    "Slot": "Waist"
+  },
+  "50620": {
+    "ItemLevel": "277",
+    "DisplayId": "64798",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_63",
+    "Stats": {
+      "Armor": "1550",
+      "Stamina": "155",
+      "Strength": "139",
+      "ArmorPenetrationRating": "78",
+      "CritRating": "85"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Strength": "6"
+    },
+    "Name": "Coldwraith Links",
+    "Id": "50620",
+    "Slot": "Waist"
+  },
+  "50667": {
+    "ItemLevel": "277",
+    "DisplayId": "64702",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_70",
+    "Stats": {
+      "Armor": "1550",
+      "Stamina": "103",
+      "Intellect": "103",
+      "SpellPower": "140",
+      "CritRating": "90",
+      "Mp5": "37"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Waistband of Righteous Fury",
+    "Id": "50667",
+    "Slot": "Waist"
+  },
+  "50671": {
+    "ItemLevel": "277",
+    "DisplayId": "65186",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_83",
+    "Stats": {
+      "Armor": "867",
+      "Stamina": "103",
+      "Intellect": "103",
+      "SpellPower": "140",
+      "HasteRating": "82",
+      "Mp5": "41"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "UniqueId": "50671",
+    "Name": "Belt of the Blood Nova",
+    "Id": "50671",
+    "Slot": "Waist"
+  },
+  "50688": {
+    "ItemLevel": "277",
+    "DisplayId": "64837",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_60",
+    "Stats": {
+      "Armor": "867",
+      "Agility": "120",
+      "Stamina": "107",
+      "AttackPower": "181",
+      "ArmorPenetrationRating": "71",
+      "Intellect": "71",
+      "CritRating": "74"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Nerub'ar Stalker's Cord",
+    "Id": "50688",
+    "Slot": "Waist"
+  },
+  "50691": {
+    "ItemLevel": "277",
+    "DisplayId": "64798",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_63",
+    "Stats": {
+      "Armor": "1550",
+      "Stamina": "180",
+      "Strength": "136",
+      "DodgeRating": "63",
+      "ParryRating": "71",
+      "DefenseRating": "63"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "Stamina": "9"
+    },
+    "Name": "Belt of Broken Bones",
+    "Id": "50691",
+    "Slot": "Waist"
+  },
+  "50702": {
+    "ItemLevel": "277",
+    "DisplayId": "64389",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_68",
+    "Stats": {
+      "Armor": "208",
+      "Stamina": "103",
+      "Intellect": "103",
+      "Spirit": "90",
+      "SpellPower": "140",
+      "CritRating": "74"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Lingering Illness",
+    "Id": "50702",
+    "Slot": "Waist"
+  },
+  "50705": {
+    "ItemLevel": "277",
+    "DisplayId": "64501",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_59",
+    "Stats": {
+      "Armor": "391",
+      "Stamina": "103",
+      "Intellect": "103",
+      "Spirit": "74",
+      "SpellPower": "140",
+      "HasteRating": "90"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Professor's Bloodied Smock",
+    "Id": "50705",
+    "Slot": "Waist"
+  },
+  "50707": {
+    "ItemLevel": "277",
+    "DisplayId": "64430",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_61",
+    "Stats": {
+      "Armor": "391",
+      "Agility": "120",
+      "Stamina": "136",
+      "AttackPower": "181",
+      "ArmorPenetrationRating": "74",
+      "CritRating": "90"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Astrylian's Sutured Cinch",
+    "Id": "50707",
+    "Slot": "Waist"
+  },
+  "50762": {
+    "ItemLevel": "251",
+    "DisplayId": "64809",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_60",
+    "Stats": {
+      "Armor": "795",
+      "Agility": "91",
+      "Stamina": "84",
+      "AttackPower": "142",
+      "Intellect": "56",
+      "CritRating": "71",
+      "HitRating": "40"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "AttackPower": "12"
+    },
+    "Name": "Linked Scourge Vertebrae",
+    "Id": "50762",
+    "Slot": "Waist"
+  },
+  "50773": {
+    "ItemLevel": "251",
+    "DisplayId": "64374",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_68",
+    "Stats": {
+      "Armor": "190",
+      "Stamina": "81",
+      "Intellect": "81",
+      "Spirit": "54",
+      "SpellPower": "106",
+      "HasteRating": "68"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Cord of the Patronizing Practitioner",
+    "Id": "50773",
+    "Slot": "Waist"
+  },
+  "50778": {
+    "ItemLevel": "251",
+    "DisplayId": "63688",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_61",
+    "Stats": {
+      "Armor": "358",
+      "Agility": "91",
+      "Stamina": "81",
+      "AttackPower": "162",
+      "CritRating": "76",
+      "HitRating": "46"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Soulthief's Braided Belt",
+    "Id": "50778",
+    "Slot": "Waist"
+  },
+  "50784": {
+    "ItemLevel": "251",
+    "DisplayId": "65226",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_83",
+    "Stats": {
+      "Armor": "795",
+      "Stamina": "81",
+      "Intellect": "81",
+      "SpellPower": "106",
+      "HasteRating": "74",
+      "Mp5": "25"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Yellow",
+    "SocketBonus": "none",
+    "UniqueId": "51919",
+    "Name": "Deathspeaker Disciple's Belt",
+    "Id": "50784",
+    "Slot": "Waist"
+  },
+  "50795": {
+    "ItemLevel": "251",
+    "DisplayId": "64470",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_59",
+    "Stats": {
+      "Armor": "358",
+      "Stamina": "81",
+      "Intellect": "81",
+      "Spirit": "71",
+      "SpellPower": "106",
+      "CritRating": "55"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Cord of Dark Suffering",
+    "Id": "50795",
+    "Slot": "Waist"
+  },
+  "50987": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_62",
+    "Stats": {
+      "Armor": "1485",
+      "Stamina": "137",
+      "Strength": "121",
+      "CritRating": "83",
+      "HitRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Strength": "6"
+    },
+    "Name": "Malevolent Girdle",
+    "Id": "50987",
+    "Slot": "Waist"
+  },
+  "50989": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_70",
+    "Stats": {
+      "Armor": "1485",
+      "Stamina": "92",
+      "Intellect": "92",
+      "SpellPower": "122",
+      "CritRating": "80",
+      "HasteRating": "64"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Lich Killer's Lanyard",
+    "Id": "50989",
+    "Slot": "Waist"
+  },
+  "50991": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_62",
+    "Stats": {
+      "Armor": "1485",
+      "BonusArmor": "658",
+      "Stamina": "157",
+      "Strength": "120",
+      "ParryRating": "63",
+      "DefenseRating": "63"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "Stamina": "9"
+    },
+    "Name": "Verdigris Chain Belt",
+    "Id": "50991",
+    "Slot": "Waist"
+  },
+  "50992": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_83",
+    "Stats": {
+      "Armor": "831",
+      "Stamina": "92",
+      "Intellect": "92",
+      "SpellPower": "122",
+      "CritRating": "80",
+      "HasteRating": "64"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Waistband of Despair",
+    "Id": "50992",
+    "Slot": "Waist"
+  },
+  "50993": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_60",
+    "Stats": {
+      "Armor": "831",
+      "Agility": "104",
+      "Stamina": "95",
+      "AttackPower": "161",
+      "Intellect": "63",
+      "CritRating": "80",
+      "HitRating": "47"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Band of the Night Raven",
+    "Id": "50993",
+    "Slot": "Waist"
+  },
+  "50994": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_59",
+    "Stats": {
+      "Armor": "374",
+      "Stamina": "92",
+      "Intellect": "92",
+      "SpellPower": "122",
+      "CritRating": "80",
+      "HasteRating": "64"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Belt of Petrified Ivy",
+    "Id": "50994",
+    "Slot": "Waist"
+  },
+  "50995": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_misc_noose_01",
+    "Stats": {
+      "Armor": "374",
+      "Agility": "120",
+      "Stamina": "120",
+      "AttackPower": "129",
+      "ArmorPenetrationRating": "80",
+      "HasteRating": "64"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Vengeful Noose",
+    "Id": "50995",
+    "Slot": "Waist"
+  },
+  "50996": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_66",
+    "Stats": {
+      "Armor": "199",
+      "Stamina": "92",
+      "Intellect": "92",
+      "SpellPower": "122",
+      "CritRating": "80",
+      "HitRating": "64"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Belt of Omission",
+    "Id": "50996",
+    "Slot": "Waist"
+  },
+  "50997": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_68",
+    "Stats": {
+      "Armor": "199",
+      "Stamina": "92",
+      "Intellect": "92",
+      "Spirit": "64",
+      "SpellPower": "122",
+      "HasteRating": "80"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Circle of Ossus",
+    "Id": "50997",
+    "Slot": "Waist"
+  },
+  "51000": {
+    "ItemLevel": "251",
+    "DisplayId": "64774",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_62",
+    "Stats": {
+      "Armor": "1421",
+      "Stamina": "122",
+      "Strength": "106",
+      "ArmorPenetrationRating": "71",
+      "HitRating": "55"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "Strength": "6"
+    },
+    "Name": "Flesh-Shaper's Gurney Strap",
+    "Id": "51000",
+    "Slot": "Waist"
+  },
+  "51017": {
+    "ItemLevel": "251",
+    "DisplayId": "64348",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_66green",
+    "Stats": {
+      "Armor": "190",
+      "Stamina": "81",
+      "Intellect": "81",
+      "SpellPower": "106",
+      "CritRating": "76",
+      "HasteRating": "46"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Cauterized Cord",
+    "Id": "51017",
+    "Slot": "Waist"
+  },
+  "51325": {
+    "ItemLevel": "251",
+    "DisplayId": "64809",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_60",
+    "Stats": {
+      "Armor": "795",
+      "Agility": "91",
+      "Stamina": "84",
+      "AttackPower": "142",
+      "ArmorPenetrationRating": "71",
+      "Intellect": "49",
+      "HasteRating": "44"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Blood-Drinker's Girdle",
+    "Id": "51325",
+    "Slot": "Waist"
+  },
+  "51327": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_70",
+    "Stats": {
+      "Armor": "199",
+      "Stamina": "137",
+      "Intellect": "61",
+      "SpellPower": "132",
+      "CritRating": "72",
+      "Resilience": "80"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "RequiredClasses": "Priest|Mage|Warlock",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Wrathful Gladiator's Cord of Dominance",
+    "Id": "51327",
+    "Slot": "Waist"
+  },
+  "51337": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_78",
+    "Stats": {
+      "Armor": "199",
+      "Stamina": "137",
+      "Intellect": "61",
+      "SpellPower": "132",
+      "Resilience": "80",
+      "HasteRating": "72"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "RequiredClasses": "Priest|Mage|Warlock",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Wrathful Gladiator's Cord of Alacrity",
+    "Id": "51337",
+    "Slot": "Waist"
+  },
+  "51340": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_46",
+    "Stats": {
+      "Armor": "374",
+      "Stamina": "137",
+      "Intellect": "61",
+      "Spirit": "72",
+      "SpellPower": "132",
+      "Resilience": "80"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "RequiredClasses": "Rogue|Druid",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Wrathful Gladiator's Belt of Salvation",
+    "Id": "51340",
+    "Slot": "Waist"
+  },
+  "51343": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_46",
+    "Stats": {
+      "Armor": "374",
+      "Stamina": "137",
+      "Intellect": "61",
+      "SpellPower": "132",
+      "CritRating": "72",
+      "Resilience": "80"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "RequiredClasses": "Rogue|Druid",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Wrathful Gladiator's Belt of Dominance",
+    "Id": "51343",
+    "Slot": "Waist"
+  },
+  "51350": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_72",
+    "Stats": {
+      "Armor": "831",
+      "Agility": "80",
+      "Stamina": "137",
+      "AttackPower": "145",
+      "Intellect": "61",
+      "CritRating": "72",
+      "Resilience": "80"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "RequiredClasses": "Hunter|Shaman",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Wrathful Gladiator's Waistguard of Triumph",
+    "Id": "51350",
+    "Slot": "Waist"
+  },
+  "51359": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_48b",
+    "Stats": {
+      "Armor": "1485",
+      "Stamina": "137",
+      "Intellect": "61",
+      "SpellPower": "132",
+      "Resilience": "80",
+      "Mp5": "36"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "RequiredClasses": "Warrior|Paladin",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Wrathful Gladiator's Girdle of Salvation",
+    "Id": "51359",
+    "Slot": "Waist"
+  },
+  "51362": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_48c",
+    "Stats": {
+      "Armor": "1485",
+      "Stamina": "181",
+      "Strength": "112",
+      "CritRating": "72",
+      "Resilience": "80"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "RequiredClasses": "Warrior|Paladin|Death Knight",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Wrathful Gladiator's Girdle of Triumph",
+    "Id": "51362",
+    "Slot": "Waist"
+  },
+  "51365": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_78",
+    "Stats": {
+      "Armor": "199",
+      "Stamina": "137",
+      "Intellect": "61",
+      "Spirit": "72",
+      "SpellPower": "132",
+      "Resilience": "80"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "RequiredClasses": "Priest|Mage|Warlock",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Wrathful Gladiator's Cord of Salvation",
+    "Id": "51365",
+    "Slot": "Waist"
+  },
+  "51368": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_74",
+    "Stats": {
+      "Armor": "374",
+      "Agility": "112",
+      "Stamina": "137",
+      "AttackPower": "122",
+      "CritRating": "72",
+      "Resilience": "80"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "RequiredClasses": "Rogue|Druid",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Wrathful Gladiator's Belt of Triumph",
+    "Id": "51368",
+    "Slot": "Waist"
+  },
+  "51371": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_46",
+    "Stats": {
+      "Armor": "831",
+      "Stamina": "137",
+      "Intellect": "61",
+      "SpellPower": "132",
+      "Resilience": "80",
+      "Mp5": "36"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "RequiredClasses": "Hunter|Shaman",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Wrathful Gladiator's Waistguard of Salvation",
+    "Id": "51371",
+    "Slot": "Waist"
+  },
+  "51374": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_46",
+    "Stats": {
+      "Armor": "831",
+      "Stamina": "137",
+      "Intellect": "61",
+      "SpellPower": "132",
+      "CritRating": "72",
+      "Resilience": "80"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "RequiredClasses": "Hunter|Shaman",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Wrathful Gladiator's Waistguard of Dominance",
+    "Id": "51374",
+    "Slot": "Waist"
+  },
+  "51555": {
+    "ItemLevel": "251",
+    "DisplayId": "64661",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_70",
+    "Stats": {
+      "Armor": "1421",
+      "Stamina": "81",
+      "Intellect": "81",
+      "SpellPower": "106",
+      "HasteRating": "71",
+      "Mp5": "28"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Intellect": "6"
+    },
+    "Name": "Tightening Waistband",
+    "Id": "51555",
+    "Slot": "Waist"
+  },
+  "51564": {
+    "ItemLevel": "251",
+    "DisplayId": "64774",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_62",
+    "Stats": {
+      "Armor": "1421",
+      "Stamina": "136",
+      "Strength": "81",
+      "HitRating": "54",
+      "ParryRating": "46",
+      "DefenseRating": "76"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "Stamina": "9"
+    },
+    "Name": "Ironrope Belt of Ymirjar",
+    "Id": "51564",
+    "Slot": "Waist"
+  },
+  "51782": {
+    "ItemLevel": "251",
+    "DisplayId": "64774",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_62",
+    "Stats": {
+      "Armor": "1421",
+      "Stamina": "122",
+      "Strength": "106",
+      "CritRating": "76",
+      "ExpertiseRating": "46"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Strength": "6"
+    },
+    "Name": "Etched Dragonbone Girdle",
+    "Id": "51782",
+    "Slot": "Waist"
+  },
+  "51821": {
+    "ItemLevel": "264",
+    "DisplayId": "64786",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_63",
+    "Stats": {
+      "Armor": "1485",
+      "Stamina": "137",
+      "Strength": "121",
+      "CritRating": "86",
+      "ExpertiseRating": "54"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Strength": "6"
+    },
+    "Name": "Etched Dragonbone Girdle",
+    "Id": "51821",
+    "Slot": "Waist"
+  },
+  "51831": {
+    "ItemLevel": "264",
+    "DisplayId": "64786",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_63",
+    "Stats": {
+      "Armor": "1485",
+      "Stamina": "157",
+      "Strength": "92",
+      "HitRating": "61",
+      "ParryRating": "54",
+      "DefenseRating": "86"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Blue",
+    "SocketBonus": {
+      "Stamina": "9"
+    },
+    "Name": "Ironrope Belt of Ymirjar",
+    "Id": "51831",
+    "Slot": "Waist"
+  },
+  "51836": {
+    "ItemLevel": "264",
+    "DisplayId": "64660",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_70",
+    "Stats": {
+      "Armor": "1485",
+      "Stamina": "92",
+      "Intellect": "92",
+      "SpellPower": "122",
+      "HasteRating": "80",
+      "Mp5": "32"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Intellect": "6"
+    },
+    "Name": "Tightening Waistband",
+    "Id": "51836",
+    "Slot": "Waist"
+  },
+  "51853": {
+    "ItemLevel": "264",
+    "DisplayId": "64820",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_60",
+    "Stats": {
+      "Armor": "831",
+      "Agility": "104",
+      "Stamina": "95",
+      "AttackPower": "161",
+      "ArmorPenetrationRating": "80",
+      "Intellect": "56",
+      "HasteRating": "52"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Blood-Drinker's Girdle",
+    "Id": "51853",
+    "Slot": "Waist"
+  },
+  "51862": {
+    "ItemLevel": "264",
+    "DisplayId": "64181",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_64",
+    "Stats": {
+      "Armor": "199",
+      "Stamina": "92",
+      "Intellect": "92",
+      "SpellPower": "122",
+      "CritRating": "86",
+      "HasteRating": "54"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Cauterized Cord",
+    "Id": "51862",
+    "Slot": "Waist"
+  },
+  "51879": {
+    "ItemLevel": "264",
+    "DisplayId": "64786",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_63",
+    "Stats": {
+      "Armor": "1485",
+      "Stamina": "137",
+      "Strength": "121",
+      "ArmorPenetrationRating": "80",
+      "HitRating": "64"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "Strength": "6"
+    },
+    "Name": "Flesh-Shaper's Gurney Strap",
+    "Id": "51879",
+    "Slot": "Waist"
+  },
+  "51908": {
+    "ItemLevel": "264",
+    "DisplayId": "64477",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_59",
+    "Stats": {
+      "Armor": "374",
+      "Stamina": "92",
+      "Intellect": "92",
+      "Spirit": "80",
+      "SpellPower": "122",
+      "CritRating": "64"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Cord of Dark Suffering",
+    "Id": "51908",
+    "Slot": "Waist"
+  },
+  "51919": {
+    "ItemLevel": "264",
+    "DisplayId": "65035",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_83",
+    "Stats": {
+      "Armor": "831",
+      "Stamina": "92",
+      "Intellect": "92",
+      "SpellPower": "122",
+      "HasteRating": "84",
+      "Mp5": "29"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Yellow",
+    "SocketBonus": "none",
+    "UniqueId": "51919",
+    "Name": "Deathspeaker Disciple's Belt",
+    "Id": "51919",
+    "Slot": "Waist"
+  },
+  "51925": {
+    "ItemLevel": "264",
+    "DisplayId": "64422",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_61",
+    "Stats": {
+      "Armor": "374",
+      "Agility": "104",
+      "Stamina": "92",
+      "AttackPower": "183",
+      "CritRating": "86",
+      "HitRating": "54"
+    },
+    "Quality": "Epic",
+    "Type": "Leather",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "Agility": "6"
+    },
+    "Name": "Soulthief's Braided Belt",
+    "Id": "51925",
+    "Slot": "Waist"
+  },
+  "51930": {
+    "ItemLevel": "264",
+    "DisplayId": "64378",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_68",
+    "Stats": {
+      "Armor": "199",
+      "Stamina": "92",
+      "Intellect": "92",
+      "Spirit": "62",
+      "SpellPower": "122",
+      "HasteRating": "78"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Cord of the Patronizing Practitioner",
+    "Id": "51930",
+    "Slot": "Waist"
+  },
+  "51935": {
+    "ItemLevel": "264",
+    "DisplayId": "64820",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_60",
+    "Stats": {
+      "Armor": "831",
+      "Agility": "104",
+      "Stamina": "95",
+      "AttackPower": "161",
+      "Intellect": "63",
+      "CritRating": "80",
+      "HitRating": "47"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "AttackPower": "12"
+    },
+    "Name": "Linked Scourge Vertebrae",
+    "Id": "51935",
+    "Slot": "Waist"
+  },
+  "53118": {
+    "ItemLevel": "258",
+    "DisplayId": "64348",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_66green",
+    "Stats": {
+      "Armor": "195",
+      "Stamina": "86",
+      "Intellect": "86",
+      "SpellPower": "114",
+      "CritRating": "81",
+      "HitRating": "50"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Misbegotten Belt",
+    "Id": "53118",
+    "Slot": "Waist"
+  },
+  "53121": {
+    "ItemLevel": "258",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_70",
+    "Stats": {
+      "Armor": "1455",
+      "Stamina": "86",
+      "Intellect": "86",
+      "SpellPower": "114",
+      "CritRating": "76",
+      "HasteRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Surrogate Belt",
+    "Id": "53121",
+    "Slot": "Waist"
+  },
+  "53488": {
+    "ItemLevel": "271",
+    "DisplayId": "65035",
+    "DisplaySlot": "6",
+    "IconPath": "inv_belt_83",
+    "Stats": {
+      "Armor": "851",
+      "Stamina": "98",
+      "Intellect": "98",
+      "SpellPower": "131",
+      "CritRating": "70",
+      "HasteRating": "86"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Split Shape Belt",
+    "Id": "53488",
+    "Slot": "Waist"
+  },
+  "54562": {
+    "ItemLevel": "271",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_66green",
+    "Stats": {
+      "Armor": "204",
+      "Stamina": "98",
+      "Intellect": "98",
+      "SpellPower": "131",
+      "CritRating": "92",
+      "HitRating": "59"
+    },
+    "Quality": "Epic",
+    "Type": "Cloth",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Misbegotten Belt",
+    "Id": "54562",
+    "Slot": "Waist"
+  },
+  "54565": {
+    "ItemLevel": "271",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_70",
+    "Stats": {
+      "Armor": "1520",
+      "Stamina": "98",
+      "Intellect": "98",
+      "SpellPower": "131",
+      "CritRating": "86",
+      "HasteRating": "70"
+    },
+    "Quality": "Epic",
+    "Type": "Plate",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Surrogate Belt",
+    "Id": "54565",
+    "Slot": "Waist"
+  },
+  "54587": {
+    "ItemLevel": "284",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_belt_83",
+    "Stats": {
+      "Armor": "888",
+      "Stamina": "110",
+      "Intellect": "110",
+      "SpellPower": "151",
+      "CritRating": "81",
+      "HasteRating": "97"
+    },
+    "Quality": "Epic",
+    "Type": "Mail",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketColor2": "Red",
+    "SocketBonus": {
+      "SpellPower": "7"
+    },
+    "Name": "Split Shape Belt",
+    "Id": "54587",
+    "Slot": "Waist"
+  }
+}

@@ -1,0 +1,5731 @@
+{
+  "37151": {
+    "ItemLevel": "200",
+    "DisplayId": "33728",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_47",
+    "Stats": {
+      "Stamina": "63",
+      "Strength": "45",
+      "CritRating": "42"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Band of Frosted Thorns",
+    "Id": "37151",
+    "Slot": "Finger"
+  },
+  "37186": {
+    "ItemLevel": "200",
+    "DisplayId": "33808",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_ahnqiraj_01",
+    "Stats": {
+      "Stamina": "64",
+      "Strength": "43",
+      "BlockValue": "81",
+      "DefenseRating": "30"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Unsmashable Heavy Band",
+    "Id": "37186",
+    "Slot": "Finger"
+  },
+  "37192": {
+    "ItemLevel": "200",
+    "DisplayId": "49005",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_79",
+    "Stats": {
+      "Stamina": "50",
+      "Intellect": "33",
+      "SpellPower": "59",
+      "HasteRating": "49"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Annhylde's Ring",
+    "Id": "37192",
+    "Slot": "Finger"
+  },
+  "37195": {
+    "ItemLevel": "200",
+    "DisplayId": "39122",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_56",
+    "Stats": {
+      "Stamina": "37",
+      "Intellect": "31",
+      "SpellPower": "50",
+      "Mp5": "21"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Band of Enchanted Growth",
+    "Id": "37195",
+    "Slot": "Finger"
+  },
+  "37232": {
+    "ItemLevel": "200",
+    "DisplayId": "31657",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_39",
+    "Stats": {
+      "Stamina": "27",
+      "Intellect": "34",
+      "SpellPower": "51",
+      "CritRating": "43"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Ring of the Traitor King",
+    "Id": "37232",
+    "Slot": "Finger"
+  },
+  "37257": {
+    "ItemLevel": "200",
+    "DisplayId": "32323",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_39",
+    "Stats": {
+      "BonusArmor": "406",
+      "Stamina": "66",
+      "Strength": "42",
+      "DefenseRating": "28"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Band of Torture",
+    "Id": "37257",
+    "Slot": "Finger"
+  },
+  "37371": {
+    "ItemLevel": "200",
+    "DisplayId": "26001",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_19",
+    "Stats": {
+      "Stamina": "42",
+      "Intellect": "28",
+      "SpellPower": "51",
+      "HasteRating": "43"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Ring of the Frenzied Wolvar",
+    "Id": "37371",
+    "Slot": "Finger"
+  },
+  "37591": {
+    "ItemLevel": "200",
+    "DisplayId": "54513",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_ahnqiraj_01",
+    "Stats": {
+      "BonusArmor": "462",
+      "Stamina": "64",
+      "Strength": "43",
+      "DefenseRating": "21"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Nerubian Shield Ring",
+    "Id": "37591",
+    "Slot": "Finger"
+  },
+  "37624": {
+    "ItemLevel": "200",
+    "DisplayId": "35472",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_51naxxramas",
+    "Stats": {
+      "Agility": "30",
+      "Stamina": "39",
+      "AttackPower": "86",
+      "HasteRating": "43"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Stained-Glass Shard Ring",
+    "Id": "37624",
+    "Slot": "Finger"
+  },
+  "37642": {
+    "ItemLevel": "200",
+    "DisplayId": "31657",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_39",
+    "Stats": {
+      "Agility": "49",
+      "Stamina": "51",
+      "AttackPower": "100",
+      "ExpertiseRating": "33"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Hemorrhaging Circle",
+    "Id": "37642",
+    "Slot": "Finger"
+  },
+  "37651": {
+    "ItemLevel": "200",
+    "DisplayId": "31906",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_42",
+    "Stats": {
+      "Stamina": "27",
+      "Intellect": "29",
+      "HitRating": "51",
+      "HasteRating": "43"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "The Prospector's Prize",
+    "Id": "37651",
+    "Slot": "Finger"
+  },
+  "37685": {
+    "ItemLevel": "200",
+    "DisplayId": "44841",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_71",
+    "Stats": {
+      "Agility": "43",
+      "Stamina": "46",
+      "AttackPower": "86",
+      "HitRating": "25"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Mobius Band",
+    "Id": "37685",
+    "Slot": "Finger"
+  },
+  "37694": {
+    "ItemLevel": "200",
+    "DisplayId": "34189",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_ahnqiraj_06",
+    "Stats": {
+      "Stamina": "49",
+      "Intellect": "34",
+      "SpellPower": "59",
+      "HasteRating": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Band of Guile",
+    "Id": "37694",
+    "Slot": "Finger"
+  },
+  "37732": {
+    "ItemLevel": "200",
+    "DisplayId": "31664",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_38",
+    "Stats": {
+      "Stamina": "24",
+      "Intellect": "30",
+      "Spirit": "52",
+      "SpellPower": "51"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Spectral Seal of the Prophet",
+    "Id": "37732",
+    "Slot": "Finger"
+  },
+  "37784": {
+    "ItemLevel": "200",
+    "DisplayId": "33728",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_47",
+    "Stats": {
+      "BonusArmor": "490",
+      "Stamina": "75",
+      "Strength": "32",
+      "DodgeRating": "49"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Keystone Great-Ring",
+    "Id": "37784",
+    "Slot": "Finger"
+  },
+  "37869": {
+    "ItemLevel": "200",
+    "DisplayId": "28831",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_29",
+    "Stats": {
+      "Stamina": "31",
+      "Intellect": "33",
+      "SpellPower": "51",
+      "CritRating": "42"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Globule Signet",
+    "Id": "37869",
+    "Slot": "Finger"
+  },
+  "38617": {
+    "ItemLevel": "200",
+    "DisplayId": "51515",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_66",
+    "Stats": {
+      "Stamina": "63",
+      "Strength": "44",
+      "ParryRating": "31",
+      "DefenseRating": "25"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Woeful Band",
+    "Id": "38617",
+    "Slot": "Finger"
+  },
+  "39141": {
+    "ItemLevel": "200",
+    "DisplayId": "35431",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_53naxxramas",
+    "Stats": {
+      "Stamina": "75",
+      "Strength": "38",
+      "HitRating": "25",
+      "DodgeRating": "36",
+      "DefenseRating": "28"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Deflection Band",
+    "Id": "39141",
+    "Slot": "Finger"
+  },
+  "39193": {
+    "ItemLevel": "200",
+    "DisplayId": "35472",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_51naxxramas",
+    "Stats": {
+      "Stamina": "37",
+      "Intellect": "38",
+      "SpellPower": "59",
+      "CritRating": "33",
+      "Mp5": "16"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Band of Neglected Pleas",
+    "Id": "39193",
+    "Slot": "Finger"
+  },
+  "39231": {
+    "ItemLevel": "200",
+    "DisplayId": "35423",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_48naxxramas",
+    "Stats": {
+      "Stamina": "37",
+      "Intellect": "38",
+      "Spirit": "28",
+      "SpellPower": "59",
+      "CritRating": "36"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Timeworn Silken Band",
+    "Id": "39231",
+    "Slot": "Finger"
+  },
+  "39244": {
+    "ItemLevel": "200",
+    "DisplayId": "35313",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_50naxxramas",
+    "Stats": {
+      "Stamina": "39",
+      "Intellect": "37",
+      "SpellPower": "42",
+      "CritRating": "50",
+      "HasteRating": "28"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Ring of the Fated",
+    "Id": "39244",
+    "Slot": "Finger"
+  },
+  "39250": {
+    "ItemLevel": "200",
+    "DisplayId": "35313",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_50naxxramas",
+    "Stats": {
+      "Stamina": "36",
+      "Intellect": "38",
+      "Spirit": "29",
+      "SpellPower": "59",
+      "HasteRating": "36"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Ring of Holy Cleansing",
+    "Id": "39250",
+    "Slot": "Finger"
+  },
+  "39277": {
+    "ItemLevel": "200",
+    "DisplayId": "35431",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_53naxxramas",
+    "Stats": {
+      "Agility": "36",
+      "Stamina": "43",
+      "AttackPower": "100",
+      "CritRating": "38",
+      "HasteRating": "24"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sealing Ring of Grobbulus",
+    "Id": "39277",
+    "Slot": "Finger"
+  },
+  "39389": {
+    "ItemLevel": "200",
+    "DisplayId": "35438",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_52naxxramas",
+    "Stats": {
+      "Stamina": "49",
+      "Intellect": "34",
+      "SpellPower": "46",
+      "HitRating": "49",
+      "HasteRating": "33"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Signet of the Malevolent",
+    "Id": "39389",
+    "Slot": "Finger"
+  },
+  "39401": {
+    "ItemLevel": "200",
+    "DisplayId": "35472",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_51naxxramas",
+    "Stats": {
+      "Stamina": "51",
+      "Strength": "50",
+      "CritRating": "49",
+      "ExpertiseRating": "33"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Circle of Death",
+    "Id": "39401",
+    "Slot": "Finger"
+  },
+  "39407": {
+    "ItemLevel": "200",
+    "DisplayId": "35367",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_49naxxramas",
+    "Stats": {
+      "Stamina": "42",
+      "Intellect": "36",
+      "SpellPower": "59",
+      "HasteRating": "34",
+      "Mp5": "16"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Circle of Life",
+    "Id": "39407",
+    "Slot": "Finger"
+  },
+  "40074": {
+    "ItemLevel": "213",
+    "DisplayId": "35431",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_53naxxramas",
+    "Stats": {
+      "Agility": "56",
+      "Stamina": "48",
+      "AttackPower": "82",
+      "HitRating": "28",
+      "HasteRating": "41"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Strong-Handed Ring",
+    "Id": "40074",
+    "Slot": "Finger"
+  },
+  "40075": {
+    "ItemLevel": "213",
+    "DisplayId": "35423",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_48naxxramas",
+    "Stats": {
+      "Stamina": "61",
+      "Strength": "57",
+      "CritRating": "54",
+      "ExpertiseRating": "32"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Ruthlessness",
+    "Id": "40075",
+    "Slot": "Finger"
+  },
+  "40080": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_51naxxramas",
+    "Stats": {
+      "Stamina": "45",
+      "Intellect": "38",
+      "Spirit": "37",
+      "SpellPower": "65",
+      "CritRating": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Lost Jewel",
+    "Id": "40080",
+    "Slot": "Finger"
+  },
+  "40107": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_50naxxramas",
+    "Stats": {
+      "Stamina": "84",
+      "Strength": "56",
+      "DodgeRating": "26",
+      "ParryRating": "37",
+      "DefenseRating": "25"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sand-Worn Band",
+    "Id": "40107",
+    "Slot": "Finger"
+  },
+  "40108": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_49naxxramas",
+    "Stats": {
+      "Stamina": "42",
+      "Intellect": "43",
+      "SpellPower": "66",
+      "CritRating": "38",
+      "Mp5": "19"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Seized Beauty",
+    "Id": "40108",
+    "Slot": "Finger"
+  },
+  "40370": {
+    "ItemLevel": "213",
+    "DisplayId": "35431",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_53naxxramas",
+    "Stats": {
+      "BonusArmor": "448",
+      "Stamina": "84",
+      "Strength": "43",
+      "HitRating": "28",
+      "DodgeRating": "41"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Gatekeeper",
+    "Id": "40370",
+    "Slot": "Finger"
+  },
+  "40375": {
+    "ItemLevel": "213",
+    "DisplayId": "35313",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_50naxxramas",
+    "Stats": {
+      "Stamina": "48",
+      "Intellect": "40",
+      "SpellPower": "66",
+      "HasteRating": "35",
+      "Mp5": "20"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Ring of Decaying Beauty",
+    "Id": "40375",
+    "Slot": "Finger"
+  },
+  "40399": {
+    "ItemLevel": "226",
+    "DisplayId": "35472",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_51naxxramas",
+    "Stats": {
+      "Stamina": "46",
+      "Intellect": "49",
+      "SpellPower": "74",
+      "CritRating": "46",
+      "HasteRating": "36"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Signet of Manifested Pain",
+    "Id": "40399",
+    "Slot": "Finger"
+  },
+  "40426": {
+    "ItemLevel": "200",
+    "DisplayId": "44357",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_70",
+    "Stats": {
+      "Stamina": "73",
+      "Strength": "36",
+      "ParryRating": "35",
+      "DefenseRating": "31",
+      "ExpertiseRating": "29"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Signet of the Accord",
+    "Id": "40426",
+    "Slot": "Finger"
+  },
+  "40433": {
+    "ItemLevel": "213",
+    "DisplayId": "45362",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_67",
+    "Stats": {
+      "Stamina": "41",
+      "Intellect": "40",
+      "SpellPower": "67",
+      "HasteRating": "32",
+      "Mp5": "20"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wyrmrest Band",
+    "Id": "40433",
+    "Slot": "Finger"
+  },
+  "40474": {
+    "ItemLevel": "213",
+    "DisplayId": "53560",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_78",
+    "Stats": {
+      "Agility": "41",
+      "Stamina": "42",
+      "AttackPower": "112",
+      "CritRating": "43",
+      "HitRating": "32"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Surge Needle Ring",
+    "Id": "40474",
+    "Slot": "Finger"
+  },
+  "40585": {
+    "ItemLevel": "200",
+    "DisplayId": "52459",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_73",
+    "Stats": {
+      "Stamina": "49",
+      "Intellect": "34",
+      "SpellPower": "59",
+      "CritRating": "36",
+      "HasteRating": "28"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Signet of the Kirin Tor",
+    "Id": "40585",
+    "Slot": "Finger"
+  },
+  "40586": {
+    "ItemLevel": "200",
+    "DisplayId": "52632",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_74",
+    "Stats": {
+      "Agility": "33",
+      "Stamina": "51",
+      "AttackPower": "100",
+      "CritRating": "34",
+      "HasteRating": "31"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Band of the Kirin Tor",
+    "Id": "40586",
+    "Slot": "Finger"
+  },
+  "40717": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_47",
+    "Stats": {
+      "Agility": "28",
+      "Stamina": "55",
+      "AttackPower": "112",
+      "CritRating": "43",
+      "HasteRating": "38"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Ring of Invincibility",
+    "Id": "40717",
+    "Slot": "Finger"
+  },
+  "40718": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_46",
+    "Stats": {
+      "Stamina": "84",
+      "Strength": "38",
+      "HitRating": "27",
+      "DefenseRating": "56",
+      "ExpertiseRating": "21"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Signet of the Impregnable Fortress",
+    "Id": "40718",
+    "Slot": "Finger"
+  },
+  "40719": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_68",
+    "Stats": {
+      "Stamina": "42",
+      "Intellect": "41",
+      "Spirit": "32",
+      "SpellPower": "65",
+      "HasteRating": "43"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Band of Channeled Magic",
+    "Id": "40719",
+    "Slot": "Finger"
+  },
+  "40720": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_69",
+    "Stats": {
+      "Stamina": "48",
+      "Intellect": "41",
+      "SpellPower": "66",
+      "CritRating": "28",
+      "Mp5": "21"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Renewal of Life",
+    "Id": "40720",
+    "Slot": "Finger"
+  },
+  "42114": {
+    "ItemLevel": "213",
+    "DisplayId": "39129",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_60",
+    "Stats": {
+      "Stamina": "66",
+      "Intellect": "29",
+      "SpellPower": "66",
+      "HitRating": "38",
+      "Resilience": "37"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Deadly Gladiator's Band of Ascendancy",
+    "Id": "42114",
+    "Slot": "Finger"
+  },
+  "42115": {
+    "ItemLevel": "213",
+    "DisplayId": "39129",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_60",
+    "Stats": {
+      "Stamina": "84",
+      "AttackPower": "112",
+      "HitRating": "38",
+      "Resilience": "37"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Deadly Gladiator's Band of Victory",
+    "Id": "42115",
+    "Slot": "Finger"
+  },
+  "42116": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_60",
+    "Stats": {
+      "Stamina": "73",
+      "Intellect": "31",
+      "SpellPower": "73",
+      "CritRating": "42",
+      "Resilience": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Furious Gladiator's Band of Dominance",
+    "Id": "42116",
+    "Slot": "Finger"
+  },
+  "42117": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_60",
+    "Stats": {
+      "Stamina": "94",
+      "AttackPower": "126",
+      "CritRating": "42",
+      "Resilience": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Furious Gladiator's Band of Triumph",
+    "Id": "42117",
+    "Slot": "Finger"
+  },
+  "42118": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_60",
+    "Stats": {
+      "Stamina": "86",
+      "Intellect": "38",
+      "SpellPower": "89",
+      "HitRating": "50",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Relentless Gladiator's Band of Ascendancy",
+    "Id": "42118",
+    "Slot": "Finger"
+  },
+  "42119": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_60",
+    "Stats": {
+      "Stamina": "114",
+      "AttackPower": "151",
+      "HitRating": "50",
+      "Resilience": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Relentless Gladiator's Band of Victory",
+    "Id": "42119",
+    "Slot": "Finger"
+  },
+  "42642": {
+    "ItemLevel": "200",
+    "DisplayId": "39126",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_55",
+    "Stats": {
+      "Agility": "33",
+      "Stamina": "51",
+      "AttackPower": "84",
+      "ArmorPenetrationRating": "41"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoE",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "ArmorPenetrationRating": "4"
+    },
+    "Name": "Titanium Impact Band",
+    "Id": "42642",
+    "Slot": "Finger"
+  },
+  "42643": {
+    "ItemLevel": "200",
+    "DisplayId": "39128",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_59",
+    "Stats": {
+      "Stamina": "63",
+      "Strength": "50",
+      "DodgeRating": "34",
+      "DefenseRating": "25"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoE",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "DefenseRating": "4"
+    },
+    "Name": "Titanium Earthguard Ring",
+    "Id": "42643",
+    "Slot": "Finger"
+  },
+  "42644": {
+    "ItemLevel": "200",
+    "DisplayId": "39124",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_63",
+    "Stats": {
+      "Stamina": "48",
+      "Intellect": "33",
+      "SpellPower": "49",
+      "CritRating": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoE",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Titanium Spellshock Ring",
+    "Id": "42644",
+    "Slot": "Finger"
+  },
+  "43408": {
+    "ItemLevel": "200",
+    "DisplayId": "39126",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_55",
+    "Stats": {
+      "Stamina": "37",
+      "Intellect": "31",
+      "SpellPower": "50",
+      "HasteRating": "43"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Solitaire of Reflecting Beams",
+    "Id": "43408",
+    "Slot": "Finger"
+  },
+  "43582": {
+    "ItemLevel": "213",
+    "DisplayId": "39123",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_57",
+    "Stats": {
+      "Stamina": "100",
+      "FrostResistance": "68"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoE",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Titanium Frostguard Ring",
+    "Id": "43582",
+    "Slot": "Finger"
+  },
+  "43993": {
+    "ItemLevel": "213",
+    "DisplayId": "43407",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_66",
+    "Stats": {
+      "Agility": "20",
+      "Stamina": "64",
+      "AttackPower": "96",
+      "ArmorPenetrationRating": "32",
+      "CritRating": "41"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "AttackPower": "8"
+    },
+    "Name": "Greatring of Collision",
+    "Id": "43993",
+    "Slot": "Finger"
+  },
+  "44283": {
+    "ItemLevel": "200",
+    "DisplayId": "44357",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_70",
+    "Stats": {
+      "Stamina": "42",
+      "Intellect": "50",
+      "SpellPower": "58",
+      "HasteRating": "36"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Signet of Hopeful Light",
+    "Id": "44283",
+    "Slot": "Finger"
+  },
+  "44308": {
+    "ItemLevel": "200",
+    "DisplayId": "53042",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_76",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "PhysicalHit",
+          "Stats": {
+            "HasteRating": "125"
+          },
+          "Duration": "13",
+          "Cooldown": "45",
+          "Chance": "0.15",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Agility": "49",
+      "Stamina": "54",
+      "AttackPower": "58",
+      "HasteRating": "29"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Signet of Edward the Odd",
+    "Id": "44308",
+    "Slot": "Finger"
+  },
+  "44934": {
+    "ItemLevel": "200",
+    "DisplayId": "52459",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_73",
+    "Stats": {
+      "Stamina": "49",
+      "Intellect": "34",
+      "Spirit": "36",
+      "SpellPower": "59",
+      "Mp5": "14"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Loop of the Kirin Tor",
+    "Id": "44934",
+    "Slot": "Finger"
+  },
+  "44935": {
+    "ItemLevel": "200",
+    "DisplayId": "52632",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_74",
+    "Stats": {
+      "Stamina": "75",
+      "Strength": "50",
+      "CritRating": "34",
+      "ExpertiseRating": "31"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Ring of the Kirin Tor",
+    "Id": "44935",
+    "Slot": "Finger"
+  },
+  "45106": {
+    "ItemLevel": "226",
+    "DisplayId": "43837",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_58",
+    "Stats": {
+      "Stamina": "72",
+      "Strength": "72",
+      "ArmorPenetrationRating": "36",
+      "CritRating": "46"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Strength of the Automaton",
+    "Id": "45106",
+    "Slot": "Finger"
+  },
+  "45112": {
+    "ItemLevel": "226",
+    "DisplayId": "44841",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_71",
+    "Stats": {
+      "BonusArmor": "448",
+      "Stamina": "94",
+      "Strength": "63",
+      "DodgeRating": "34",
+      "DefenseRating": "32"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "The Leviathan's Coil",
+    "Id": "45112",
+    "Slot": "Finger"
+  },
+  "45113": {
+    "ItemLevel": "226",
+    "DisplayId": "35367",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_49naxxramas",
+    "Stats": {
+      "Stamina": "46",
+      "Intellect": "49",
+      "Spirit": "44",
+      "SpellPower": "74",
+      "CritRating": "39"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Glowing Ring of Reclamation",
+    "Id": "45113",
+    "Slot": "Finger"
+  },
+  "45157": {
+    "ItemLevel": "226",
+    "DisplayId": "33808",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_ahnqiraj_01",
+    "Stats": {
+      "Agility": "63",
+      "Stamina": "54",
+      "AttackPower": "84",
+      "ArmorPenetrationRating": "46",
+      "HitRating": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Cindershard Ring",
+    "Id": "45157",
+    "Slot": "Finger"
+  },
+  "45168": {
+    "ItemLevel": "226",
+    "DisplayId": "44841",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_71",
+    "Stats": {
+      "Stamina": "63",
+      "Intellect": "42",
+      "SpellPower": "74",
+      "CritRating": "46",
+      "HasteRating": "36"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Pyrelight Circle",
+    "Id": "45168",
+    "Slot": "Finger"
+  },
+  "45235": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_64",
+    "Stats": {
+      "Stamina": "63",
+      "Intellect": "42",
+      "SpellPower": "74",
+      "HasteRating": "46",
+      "Mp5": "18"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Radiant Seal",
+    "Id": "45235",
+    "Slot": "Finger"
+  },
+  "45247": {
+    "ItemLevel": "226",
+    "DisplayId": "52632",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_74",
+    "Stats": {
+      "Stamina": "94",
+      "Strength": "63",
+      "BlockRating": "32",
+      "BlockValue": "102",
+      "DefenseRating": "33"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Signet of the Earthshaker",
+    "Id": "45247",
+    "Slot": "Finger"
+  },
+  "45250": {
+    "ItemLevel": "226",
+    "DisplayId": "43407",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_66",
+    "Stats": {
+      "Stamina": "72",
+      "Strength": "72",
+      "HitRating": "41",
+      "HasteRating": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Crazed Construct Ring",
+    "Id": "45250",
+    "Slot": "Finger"
+  },
+  "45297": {
+    "ItemLevel": "226",
+    "DisplayId": "39124",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_63",
+    "Stats": {
+      "Stamina": "63",
+      "Intellect": "42",
+      "Spirit": "22",
+      "SpellPower": "74",
+      "HitRating": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Shimmering Seal",
+    "Id": "45297",
+    "Slot": "Finger"
+  },
+  "45303": {
+    "ItemLevel": "219",
+    "DisplayId": "11990",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_04",
+    "Stats": {
+      "Agility": "59",
+      "Stamina": "63",
+      "AttackPower": "70",
+      "ArmorPenetrationRating": "43",
+      "HasteRating": "35"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Band of Draconic Guile",
+    "Id": "45303",
+    "Slot": "Finger"
+  },
+  "45326": {
+    "ItemLevel": "226",
+    "DisplayId": "35313",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_50naxxramas",
+    "Stats": {
+      "Stamina": "94",
+      "Strength": "42",
+      "DodgeRating": "36",
+      "DefenseRating": "46",
+      "ExpertiseRating": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Platinum Band of the Aesir",
+    "Id": "45326",
+    "Slot": "Finger"
+  },
+  "45418": {
+    "ItemLevel": "219",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_63",
+    "Stats": {
+      "Stamina": "51",
+      "Intellect": "43",
+      "Spirit": "44",
+      "SpellPower": "71",
+      "HasteRating": "32"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Lady Maye's Sapphire Ring",
+    "Id": "45418",
+    "Slot": "Finger"
+  },
+  "45438": {
+    "ItemLevel": "226",
+    "DisplayId": "31905",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_43",
+    "Stats": {
+      "Stamina": "63",
+      "Intellect": "42",
+      "SpellPower": "74",
+      "CritRating": "36",
+      "Mp5": "23"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Ring of the Faithful Servant",
+    "Id": "45438",
+    "Slot": "Finger"
+  },
+  "45451": {
+    "ItemLevel": "226",
+    "DisplayId": "39123",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_57",
+    "Stats": {
+      "Stamina": "49",
+      "Intellect": "46",
+      "SpellPower": "74",
+      "HitRating": "46",
+      "HasteRating": "36"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Frozen Loop",
+    "Id": "45451",
+    "Slot": "Finger"
+  },
+  "45456": {
+    "ItemLevel": "226",
+    "DisplayId": "44841",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_71",
+    "Stats": {
+      "Agility": "63",
+      "Stamina": "52",
+      "AttackPower": "76",
+      "CritRating": "45",
+      "HasteRating": "32"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "AttackPower": "8"
+    },
+    "Name": "Loop of the Agile",
+    "Id": "45456",
+    "Slot": "Finger"
+  },
+  "45469": {
+    "ItemLevel": "226",
+    "DisplayId": "43095",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_54",
+    "Stats": {
+      "Stamina": "72",
+      "Strength": "72",
+      "CritRating": "42",
+      "ExpertiseRating": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sif's Promise",
+    "Id": "45469",
+    "Slot": "Finger"
+  },
+  "45471": {
+    "ItemLevel": "239",
+    "DisplayId": "44086",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_69",
+    "Stats": {
+      "Stamina": "96",
+      "Strength": "51",
+      "DodgeRating": "39",
+      "DefenseRating": "48",
+      "ExpertiseRating": "41"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Fate's Clutch",
+    "Id": "45471",
+    "Slot": "Finger"
+  },
+  "45495": {
+    "ItemLevel": "239",
+    "DisplayId": "43407",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_66",
+    "Stats": {
+      "Stamina": "52",
+      "Intellect": "48",
+      "Spirit": "39",
+      "SpellPower": "75",
+      "HasteRating": "55"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Conductive Seal",
+    "Id": "45495",
+    "Slot": "Finger"
+  },
+  "45503": {
+    "ItemLevel": "226",
+    "DisplayId": "31616",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_35",
+    "Stats": {
+      "Agility": "62",
+      "Stamina": "63",
+      "AttackPower": "92",
+      "CritRating": "43",
+      "HasteRating": "36"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Metallic Loop of the Sufferer",
+    "Id": "45503",
+    "Slot": "Finger"
+  },
+  "45515": {
+    "ItemLevel": "226",
+    "DisplayId": "34336",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_ahnqiraj_02",
+    "Stats": {
+      "Stamina": "54",
+      "Intellect": "46",
+      "Spirit": "42",
+      "SpellPower": "74",
+      "HitRating": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Ring of the Vacant Eye",
+    "Id": "45515",
+    "Slot": "Finger"
+  },
+  "45525": {
+    "ItemLevel": "226",
+    "DisplayId": "43095",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_54",
+    "Stats": {
+      "Agility": "46",
+      "Stamina": "63",
+      "AttackPower": "126",
+      "CritRating": "42",
+      "ExpertiseRating": "36"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Godbane Signet",
+    "Id": "45525",
+    "Slot": "Finger"
+  },
+  "45530": {
+    "ItemLevel": "226",
+    "DisplayId": "50376",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_80",
+    "Stats": {
+      "Stamina": "63",
+      "Intellect": "42",
+      "SpellPower": "74",
+      "HasteRating": "31",
+      "Mp5": "25"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sanity's Bond",
+    "Id": "45530",
+    "Slot": "Finger"
+  },
+  "45534": {
+    "ItemLevel": "239",
+    "DisplayId": "53042",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_76",
+    "Stats": {
+      "Stamina": "81",
+      "Strength": "74",
+      "CritRating": "48",
+      "HitRating": "40"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Seal of the Betrayed King",
+    "Id": "45534",
+    "Slot": "Finger"
+  },
+  "45540": {
+    "ItemLevel": "226",
+    "DisplayId": "45948",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_72",
+    "Stats": {
+      "Stamina": "72",
+      "Strength": "72",
+      "HitRating": "46",
+      "ExpertiseRating": "36"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Bladebearer's Signet",
+    "Id": "45540",
+    "Slot": "Finger"
+  },
+  "45608": {
+    "ItemLevel": "239",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_67",
+    "Stats": {
+      "Agility": "64",
+      "Stamina": "61",
+      "AttackPower": "96",
+      "ArmorPenetrationRating": "33",
+      "CritRating": "43"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Brann's Signet Ring",
+    "Id": "45608",
+    "Slot": "Finger"
+  },
+  "45614": {
+    "ItemLevel": "239",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_31",
+    "Stats": {
+      "Stamina": "61",
+      "Intellect": "51",
+      "SpellPower": "75",
+      "HasteRating": "39",
+      "Mp5": "24"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Starshine Circle",
+    "Id": "45614",
+    "Slot": "Finger"
+  },
+  "45675": {
+    "ItemLevel": "219",
+    "DisplayId": "53560",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_78",
+    "Stats": {
+      "Stamina": "67",
+      "Strength": "68",
+      "ArmorPenetrationRating": "43",
+      "HitRating": "35"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Power Enhancing Loop",
+    "Id": "45675",
+    "Slot": "Finger"
+  },
+  "45688": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_74",
+    "Stats": {
+      "Agility": "37",
+      "Stamina": "57",
+      "AttackPower": "112",
+      "CritRating": "38",
+      "HasteRating": "37"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Inscribed Band of the Kirin Tor",
+    "Id": "45688",
+    "Slot": "Finger"
+  },
+  "45689": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_73",
+    "Stats": {
+      "Stamina": "55",
+      "Intellect": "38",
+      "Spirit": "38",
+      "SpellPower": "66",
+      "Mp5": "19"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Inscribed Loop of the Kirin Tor",
+    "Id": "45689",
+    "Slot": "Finger"
+  },
+  "45690": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_74",
+    "Stats": {
+      "Stamina": "84",
+      "Strength": "56",
+      "CritRating": "38",
+      "ExpertiseRating": "37"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Inscribed Ring of the Kirin Tor",
+    "Id": "45690",
+    "Slot": "Finger"
+  },
+  "45691": {
+    "ItemLevel": "213",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_73",
+    "Stats": {
+      "Stamina": "55",
+      "Intellect": "38",
+      "SpellPower": "66",
+      "CritRating": "37",
+      "HasteRating": "38"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Inscribed Signet of the Kirin Tor",
+    "Id": "45691",
+    "Slot": "Finger"
+  },
+  "45702": {
+    "ItemLevel": "219",
+    "DisplayId": "52632",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_74",
+    "Stats": {
+      "Stamina": "38",
+      "Intellect": "48",
+      "Spirit": "43",
+      "SpellPower": "70",
+      "HitRating": "34"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Emerald Signet Ring",
+    "Id": "45702",
+    "Slot": "Finger"
+  },
+  "45808": {
+    "ItemLevel": "200",
+    "DisplayId": "31800",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_34",
+    "Stats": {
+      "Stamina": "43",
+      "Intellect": "28",
+      "SpellPower": "50",
+      "CritRating": "28",
+      "Resilience": "29"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Runed Mana Band",
+    "Id": "45808",
+    "Slot": "Finger"
+  },
+  "45809": {
+    "ItemLevel": "200",
+    "DisplayId": "45948",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_72",
+    "Stats": {
+      "Stamina": "65",
+      "AttackPower": "86",
+      "CritRating": "28",
+      "Resilience": "29"
+    },
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Scarlet Signet",
+    "Id": "45809",
+    "Slot": "Finger"
+  },
+  "45871": {
+    "ItemLevel": "226",
+    "DisplayId": "59327",
+    "DisplaySlot": "11",
+    "IconPath": "achievement_dungeon_ulduarraid_misc_02",
+    "Stats": {
+      "BonusArmor": "448",
+      "Stamina": "72",
+      "Strength": "40",
+      "ParryRating": "35",
+      "ExpertiseRating": "22"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "ParryRating": "4"
+    },
+    "Name": "Seal of Ulduar",
+    "Id": "45871",
+    "Slot": "Finger"
+  },
+  "45874": {
+    "ItemLevel": "219",
+    "DisplayId": "31616",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_35",
+    "Stats": {
+      "BonusArmor": "448",
+      "Stamina": "89",
+      "Strength": "60",
+      "DodgeRating": "43",
+      "ParryRating": "34"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Signet of Winter",
+    "Id": "45874",
+    "Slot": "Finger"
+  },
+  "45946": {
+    "ItemLevel": "226",
+    "DisplayId": "39127",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_65",
+    "Stats": {
+      "Stamina": "47",
+      "Intellect": "49",
+      "SpellPower": "74",
+      "HasteRating": "30",
+      "Mp5": "19"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Mp5": "2"
+    },
+    "Name": "Fire Orchid Signet",
+    "Id": "45946",
+    "Slot": "Finger"
+  },
+  "45994": {
+    "ItemLevel": "200",
+    "DisplayId": "31664",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_38",
+    "Stats": "none",
+    "Quality": "Rare",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Lost Ring",
+    "Id": "45994",
+    "Slot": "Finger"
+  },
+  "46010": {
+    "ItemLevel": "219",
+    "DisplayId": "34336",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_ahnqiraj_02",
+    "Stats": {
+      "Stamina": "67",
+      "Strength": "68",
+      "CritRating": "40",
+      "HitRating": "40"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Darkstone Ring",
+    "Id": "46010",
+    "Slot": "Finger"
+  },
+  "46046": {
+    "ItemLevel": "226",
+    "DisplayId": "44357",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_70",
+    "Stats": {
+      "Stamina": "48",
+      "Intellect": "36",
+      "SpellPower": "74",
+      "CritRating": "46",
+      "HasteRating": "36"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "CritRating": "4"
+    },
+    "Name": "Nebula Band",
+    "Id": "46046",
+    "Slot": "Finger"
+  },
+  "46048": {
+    "ItemLevel": "226",
+    "DisplayId": "44358",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_68",
+    "Stats": {
+      "Agility": "57",
+      "Stamina": "39",
+      "AttackPower": "98",
+      "ArmorPenetrationRating": "31",
+      "HitRating": "46"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Band of Lights",
+    "Id": "46048",
+    "Slot": "Finger"
+  },
+  "46096": {
+    "ItemLevel": "226",
+    "DisplayId": "28831",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_29",
+    "Stats": {
+      "Stamina": "54",
+      "Intellect": "46",
+      "Spirit": "36",
+      "SpellPower": "74",
+      "CritRating": "32"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Spirit": "4"
+    },
+    "Name": "Signet of Soft Lament",
+    "Id": "46096",
+    "Slot": "Finger"
+  },
+  "46322": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_67",
+    "Stats": {
+      "Agility": "55",
+      "Stamina": "57",
+      "AttackPower": "96",
+      "ArmorPenetrationRating": "33",
+      "CritRating": "36"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Brann's Sealing Ring",
+    "Id": "46322",
+    "Slot": "Finger"
+  },
+  "46323": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_31",
+    "Stats": {
+      "Stamina": "54",
+      "Intellect": "46",
+      "SpellPower": "64",
+      "HasteRating": "32",
+      "Mp5": "21"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Starshine Signet",
+    "Id": "46323",
+    "Slot": "Finger"
+  },
+  "46959": {
+    "ItemLevel": "245",
+    "DisplayId": "53042",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_76",
+    "Stats": {
+      "Stamina": "86",
+      "Strength": "86",
+      "CritRating": "50",
+      "HasteRating": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Band of the Violent Temperment",
+    "Id": "46959",
+    "Slot": "Finger"
+  },
+  "46966": {
+    "ItemLevel": "258",
+    "DisplayId": "53042",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_76",
+    "Stats": {
+      "Stamina": "97",
+      "Strength": "89",
+      "CritRating": "57",
+      "HasteRating": "49"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Band of the Violent Temperment",
+    "Id": "46966",
+    "Slot": "Finger"
+  },
+  "47054": {
+    "ItemLevel": "245",
+    "DisplayId": "39126",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_55",
+    "Stats": {
+      "Stamina": "58",
+      "Intellect": "58",
+      "Spirit": "44",
+      "SpellPower": "89",
+      "CritRating": "54"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Band of Deplorable Violence",
+    "Id": "47054",
+    "Slot": "Finger"
+  },
+  "47070": {
+    "ItemLevel": "245",
+    "DisplayId": "39127",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_65",
+    "Stats": {
+      "Agility": "76",
+      "Stamina": "76",
+      "AttackPower": "101",
+      "CritRating": "54",
+      "HasteRating": "44"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Ring of Callous Aggression",
+    "Id": "47070",
+    "Slot": "Finger"
+  },
+  "47075": {
+    "ItemLevel": "258",
+    "DisplayId": "39127",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_65",
+    "Stats": {
+      "Agility": "77",
+      "Stamina": "85",
+      "AttackPower": "98",
+      "CritRating": "61",
+      "HasteRating": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Ring of Callous Aggression",
+    "Id": "47075",
+    "Slot": "Finger"
+  },
+  "47149": {
+    "ItemLevel": "245",
+    "DisplayId": "39123",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_57",
+    "Stats": {
+      "Stamina": "114",
+      "Strength": "76",
+      "DodgeRating": "40",
+      "ParryRating": "40",
+      "DefenseRating": "40"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Signet of the Traitor King",
+    "Id": "47149",
+    "Slot": "Finger"
+  },
+  "47157": {
+    "ItemLevel": "258",
+    "DisplayId": "39123",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_57",
+    "Stats": {
+      "Stamina": "116",
+      "Strength": "85",
+      "DodgeRating": "37",
+      "ParryRating": "45",
+      "DefenseRating": "45"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Signet of the Traitor King",
+    "Id": "47157",
+    "Slot": "Finger"
+  },
+  "47200": {
+    "ItemLevel": "200",
+    "DisplayId": "39125",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_64",
+    "Stats": {
+      "Stamina": "43",
+      "Intellect": "36",
+      "Spirit": "30",
+      "SpellPower": "58",
+      "CritRating": "35"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Signet of Purity",
+    "Id": "47200",
+    "Slot": "Finger"
+  },
+  "47222": {
+    "ItemLevel": "200",
+    "DisplayId": "49005",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_79",
+    "Stats": {
+      "Agility": "36",
+      "Stamina": "44",
+      "AttackPower": "100",
+      "CritRating": "34",
+      "ExpertiseRating": "32"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Uruka's Band of Zeal",
+    "Id": "47222",
+    "Slot": "Finger"
+  },
+  "47223": {
+    "ItemLevel": "245",
+    "DisplayId": "50376",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_80",
+    "Stats": {
+      "Stamina": "58",
+      "Intellect": "58",
+      "SpellPower": "89",
+      "HasteRating": "50",
+      "Mp5": "25"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Ring of the Darkmender",
+    "Id": "47223",
+    "Slot": "Finger"
+  },
+  "47224": {
+    "ItemLevel": "258",
+    "DisplayId": "50376",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_80",
+    "Stats": {
+      "Stamina": "65",
+      "Intellect": "65",
+      "SpellPower": "91",
+      "HasteRating": "49",
+      "Mp5": "28"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Ring of the Darkmender",
+    "Id": "47224",
+    "Slot": "Finger"
+  },
+  "47237": {
+    "ItemLevel": "258",
+    "DisplayId": "39126",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_55",
+    "Stats": {
+      "Stamina": "65",
+      "Intellect": "65",
+      "Spirit": "50",
+      "SpellPower": "91",
+      "CritRating": "53"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Band of Deplorable Violence",
+    "Id": "47237",
+    "Slot": "Finger"
+  },
+  "47243": {
+    "ItemLevel": "219",
+    "DisplayId": "39129",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_60",
+    "Stats": {
+      "Stamina": "89",
+      "Strength": "48",
+      "DodgeRating": "30",
+      "ParryRating": "34",
+      "ExpertiseRating": "26"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Mark of the Relentless",
+    "Id": "47243",
+    "Slot": "Finger"
+  },
+  "47252": {
+    "ItemLevel": "245",
+    "DisplayId": "53042",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_76",
+    "Stats": {
+      "Stamina": "86",
+      "Strength": "86",
+      "CritRating": "50",
+      "HasteRating": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Ring of the Violent Temperament",
+    "Id": "47252",
+    "Slot": "Finger"
+  },
+  "47278": {
+    "ItemLevel": "245",
+    "DisplayId": "50376",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_80",
+    "Stats": {
+      "Stamina": "58",
+      "Intellect": "58",
+      "SpellPower": "89",
+      "HasteRating": "50",
+      "Mp5": "25"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Circle of the Darkmender",
+    "Id": "47278",
+    "Slot": "Finger"
+  },
+  "47282": {
+    "ItemLevel": "245",
+    "DisplayId": "39127",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_65",
+    "Stats": {
+      "Agility": "76",
+      "Stamina": "76",
+      "AttackPower": "101",
+      "CritRating": "54",
+      "HasteRating": "44"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Band of Callous Aggression",
+    "Id": "47282",
+    "Slot": "Finger"
+  },
+  "47315": {
+    "ItemLevel": "245",
+    "DisplayId": "39123",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_57",
+    "Stats": {
+      "Stamina": "114",
+      "Strength": "76",
+      "DodgeRating": "40",
+      "ParryRating": "40",
+      "DefenseRating": "40"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoE",
+    "SocketBonus": "none",
+    "Name": "Band of the Traitor King",
+    "Id": "47315",
+    "Slot": "Finger"
+  },
+  "47327": {
+    "ItemLevel": "245",
+    "DisplayId": "39126",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_55",
+    "Stats": {
+      "Stamina": "58",
+      "Intellect": "58",
+      "Spirit": "44",
+      "SpellPower": "89",
+      "CritRating": "54"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Lurid Manifestation",
+    "Id": "47327",
+    "Slot": "Finger"
+  },
+  "47413": {
+    "ItemLevel": "258",
+    "DisplayId": "53042",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_76",
+    "Stats": {
+      "Stamina": "97",
+      "Strength": "89",
+      "CritRating": "57",
+      "HasteRating": "49"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Ring of the Violent Temperament",
+    "Id": "47413",
+    "Slot": "Finger"
+  },
+  "47439": {
+    "ItemLevel": "258",
+    "DisplayId": "50376",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_80",
+    "Stats": {
+      "Stamina": "65",
+      "Intellect": "65",
+      "SpellPower": "91",
+      "HasteRating": "49",
+      "Mp5": "28"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Circle of the Darkmender",
+    "Id": "47439",
+    "Slot": "Finger"
+  },
+  "47443": {
+    "ItemLevel": "258",
+    "DisplayId": "39127",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_65",
+    "Stats": {
+      "Agility": "77",
+      "Stamina": "85",
+      "AttackPower": "98",
+      "CritRating": "61",
+      "HasteRating": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Band of Callous Aggression",
+    "Id": "47443",
+    "Slot": "Finger"
+  },
+  "47476": {
+    "ItemLevel": "258",
+    "DisplayId": "39123",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_57",
+    "Stats": {
+      "Stamina": "116",
+      "Strength": "85",
+      "DodgeRating": "37",
+      "ParryRating": "45",
+      "DefenseRating": "45"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Band of the Traitor King",
+    "Id": "47476",
+    "Slot": "Finger"
+  },
+  "47489": {
+    "ItemLevel": "258",
+    "DisplayId": "39126",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_55",
+    "Stats": {
+      "Stamina": "65",
+      "Intellect": "65",
+      "Spirit": "50",
+      "SpellPower": "91",
+      "CritRating": "53"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Lurid Manifestation",
+    "Id": "47489",
+    "Slot": "Finger"
+  },
+  "47512": {
+    "ItemLevel": "219",
+    "DisplayId": "33534",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_44",
+    "Stats": {
+      "Stamina": "47",
+      "Intellect": "45",
+      "SpellPower": "70",
+      "CritRating": "33",
+      "HitRating": "44"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Sinner's Confession",
+    "Id": "47512",
+    "Slot": "Finger"
+  },
+  "47578": {
+    "ItemLevel": "232",
+    "DisplayId": "35431",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_53naxxramas",
+    "Stats": {
+      "Stamina": "76",
+      "Strength": "68",
+      "ArmorPenetrationRating": "45",
+      "HasteRating": "34"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "HasteRating": "4"
+    },
+    "Name": "Carnivorous Band",
+    "Id": "47578",
+    "Slot": "Finger"
+  },
+  "47618": {
+    "ItemLevel": "232",
+    "DisplayId": "39123",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_57",
+    "Stats": {
+      "Stamina": "48",
+      "Intellect": "52",
+      "SpellPower": "78",
+      "CritRating": "36",
+      "HitRating": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Firestorm Ring",
+    "Id": "47618",
+    "Slot": "Finger"
+  },
+  "47700": {
+    "ItemLevel": "232",
+    "DisplayId": "39128",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_59",
+    "Stats": {
+      "BonusArmor": "490",
+      "Stamina": "100",
+      "Strength": "67",
+      "DodgeRating": "38",
+      "DefenseRating": "31"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Loop of the Twin Val'kyr",
+    "Id": "47700",
+    "Slot": "Finger"
+  },
+  "47703": {
+    "ItemLevel": "232",
+    "DisplayId": "39120",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_61",
+    "Stats": {
+      "Agility": "61",
+      "Stamina": "68",
+      "AttackPower": "102",
+      "ArmorPenetrationRating": "39",
+      "HitRating": "38"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Planestalker Signet",
+    "Id": "47703",
+    "Slot": "Finger"
+  },
+  "47729": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_71",
+    "Stats": {
+      "Stamina": "86",
+      "Strength": "86",
+      "CritRating": "54",
+      "HitRating": "44"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Bloodshed Band",
+    "Id": "47729",
+    "Slot": "Finger"
+  },
+  "47730": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_ahnqiraj_01",
+    "Stats": {
+      "Agility": "76",
+      "Stamina": "76",
+      "AttackPower": "101",
+      "ArmorPenetrationRating": "50",
+      "HasteRating": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Dexterous Brightstone Ring",
+    "Id": "47730",
+    "Slot": "Finger"
+  },
+  "47731": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_50naxxramas",
+    "Stats": {
+      "BonusArmor": "560",
+      "Stamina": "114",
+      "Strength": "76",
+      "DodgeRating": "40",
+      "DefenseRating": "40"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Clutch of Fortification",
+    "Id": "47731",
+    "Slot": "Finger"
+  },
+  "47732": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_54",
+    "Stats": {
+      "Stamina": "58",
+      "Intellect": "58",
+      "Spirit": "50",
+      "SpellPower": "89",
+      "HasteRating": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Band of the Invoker",
+    "Id": "47732",
+    "Slot": "Finger"
+  },
+  "47733": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_57",
+    "Stats": {
+      "Stamina": "58",
+      "Intellect": "58",
+      "SpellPower": "89",
+      "CritRating": "50",
+      "Mp5": "25"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Heartmender Circle",
+    "Id": "47733",
+    "Slot": "Finger"
+  },
+  "47854": {
+    "ItemLevel": "232",
+    "DisplayId": "35431",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_53naxxramas",
+    "Stats": {
+      "Stamina": "76",
+      "Strength": "68",
+      "ArmorPenetrationRating": "45",
+      "HasteRating": "34"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "HasteRating": "4"
+    },
+    "Name": "Gormok's Band",
+    "Id": "47854",
+    "Slot": "Finger"
+  },
+  "47862": {
+    "ItemLevel": "232",
+    "DisplayId": "39123",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_57",
+    "Stats": {
+      "Stamina": "48",
+      "Intellect": "52",
+      "SpellPower": "78",
+      "CritRating": "36",
+      "HitRating": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Firestorm Band",
+    "Id": "47862",
+    "Slot": "Finger"
+  },
+  "47868": {
+    "ItemLevel": "232",
+    "DisplayId": "39120",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_61",
+    "Stats": {
+      "Agility": "61",
+      "Stamina": "68",
+      "AttackPower": "102",
+      "ArmorPenetrationRating": "39",
+      "HitRating": "38"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Planestalker Band",
+    "Id": "47868",
+    "Slot": "Finger"
+  },
+  "47888": {
+    "ItemLevel": "232",
+    "DisplayId": "39128",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_59",
+    "Stats": {
+      "BonusArmor": "490",
+      "Stamina": "100",
+      "Strength": "67",
+      "DodgeRating": "38",
+      "DefenseRating": "31"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Band of the Twin Val'kyr",
+    "Id": "47888",
+    "Slot": "Finger"
+  },
+  "47920": {
+    "ItemLevel": "245",
+    "DisplayId": "35431",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_53naxxramas",
+    "Stats": {
+      "Stamina": "86",
+      "Strength": "70",
+      "ArmorPenetrationRating": "41",
+      "HasteRating": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "HasteRating": "6"
+    },
+    "Name": "Carnivorous Band",
+    "Id": "47920",
+    "Slot": "Finger"
+  },
+  "47928": {
+    "ItemLevel": "245",
+    "DisplayId": "39123",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_57",
+    "Stats": {
+      "Stamina": "54",
+      "Intellect": "59",
+      "SpellPower": "80",
+      "CritRating": "33",
+      "HitRating": "56"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Firestorm Ring",
+    "Id": "47928",
+    "Slot": "Finger"
+  },
+  "47934": {
+    "ItemLevel": "245",
+    "DisplayId": "39120",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_61",
+    "Stats": {
+      "Agility": "70",
+      "Stamina": "77",
+      "AttackPower": "115",
+      "ArmorPenetrationRating": "44",
+      "HitRating": "44"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Planestalker Signet",
+    "Id": "47934",
+    "Slot": "Finger"
+  },
+  "47955": {
+    "ItemLevel": "245",
+    "DisplayId": "39128",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_59",
+    "Stats": {
+      "BonusArmor": "532",
+      "Stamina": "114",
+      "Strength": "64",
+      "DodgeRating": "39",
+      "DefenseRating": "35"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Alliance",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Loop of the Twin Val'kyr",
+    "Id": "47955",
+    "Slot": "Finger"
+  },
+  "47993": {
+    "ItemLevel": "245",
+    "DisplayId": "35431",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_53naxxramas",
+    "Stats": {
+      "Stamina": "86",
+      "Strength": "70",
+      "ArmorPenetrationRating": "41",
+      "HasteRating": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketColor2": "Yellow",
+    "SocketBonus": {
+      "HasteRating": "6"
+    },
+    "Name": "Gormok's Band",
+    "Id": "47993",
+    "Slot": "Finger"
+  },
+  "48001": {
+    "ItemLevel": "245",
+    "DisplayId": "39123",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_57",
+    "Stats": {
+      "Stamina": "54",
+      "Intellect": "59",
+      "SpellPower": "80",
+      "CritRating": "33",
+      "HitRating": "56"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Firestorm Band",
+    "Id": "48001",
+    "Slot": "Finger"
+  },
+  "48007": {
+    "ItemLevel": "245",
+    "DisplayId": "39120",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_61",
+    "Stats": {
+      "Agility": "70",
+      "Stamina": "77",
+      "AttackPower": "115",
+      "ArmorPenetrationRating": "44",
+      "HitRating": "44"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Planestalker Band",
+    "Id": "48007",
+    "Slot": "Finger"
+  },
+  "48027": {
+    "ItemLevel": "245",
+    "DisplayId": "39128",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_59",
+    "Stats": {
+      "BonusArmor": "532",
+      "Stamina": "114",
+      "Strength": "64",
+      "DodgeRating": "39",
+      "DefenseRating": "35"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Horde",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Band of the Twin Val'kyr",
+    "Id": "48027",
+    "Slot": "Finger"
+  },
+  "48954": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_74",
+    "Stats": {
+      "Agility": "41",
+      "Stamina": "64",
+      "AttackPower": "126",
+      "CritRating": "43",
+      "HasteRating": "41"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Etched Band of the Kirin Tor",
+    "Id": "48954",
+    "Slot": "Finger"
+  },
+  "48955": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_73",
+    "Stats": {
+      "Stamina": "62",
+      "Intellect": "43",
+      "Spirit": "43",
+      "SpellPower": "74",
+      "Mp5": "21"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Etched Loop of the Kirin Tor",
+    "Id": "48955",
+    "Slot": "Finger"
+  },
+  "48956": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_74",
+    "Stats": {
+      "Stamina": "94",
+      "Strength": "63",
+      "CritRating": "43",
+      "ExpertiseRating": "41"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Etched Ring of the Kirin Tor",
+    "Id": "48956",
+    "Slot": "Finger"
+  },
+  "48957": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_73",
+    "Stats": {
+      "Stamina": "62",
+      "Intellect": "43",
+      "SpellPower": "74",
+      "CritRating": "41",
+      "HasteRating": "43"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Etched Signet of the Kirin Tor",
+    "Id": "48957",
+    "Slot": "Finger"
+  },
+  "48999": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_60",
+    "Stats": {
+      "Stamina": "72",
+      "Intellect": "32",
+      "SpellPower": "74",
+      "Resilience": "42",
+      "HasteRating": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Titan-Forged Band of Ascendancy",
+    "Id": "48999",
+    "Slot": "Finger"
+  },
+  "49000": {
+    "ItemLevel": "226",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_60",
+    "Stats": {
+      "Stamina": "95",
+      "AttackPower": "126",
+      "ArmorPenetrationRating": "42",
+      "Resilience": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Titan-Forged Band of Victory",
+    "Id": "49000",
+    "Slot": "Finger"
+  },
+  "49309": {
+    "ItemLevel": "232",
+    "DisplayId": "9823",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_13",
+    "Stats": {
+      "BonusArmor": "700",
+      "Stamina": "100",
+      "DefenseRating": "50",
+      "FrostResistance": "25",
+      "NatureResistance": "25",
+      "FireResistance": "25",
+      "ShadowResistance": "25",
+      "ArcaneResistance": "25"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Runed Ring of Binding",
+    "Id": "49309",
+    "Slot": "Finger"
+  },
+  "49486": {
+    "ItemLevel": "245",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_27",
+    "Stats": {
+      "Stamina": "61",
+      "Intellect": "56",
+      "Spirit": "36",
+      "SpellPower": "89",
+      "CritRating": "53",
+      "FireResistance": "10"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Polished Dragonslayer's Signet",
+    "Id": "49486",
+    "Slot": "Finger"
+  },
+  "49489": {
+    "ItemLevel": "245",
+    "DisplayId": "9823",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_13",
+    "Stats": {
+      "BonusArmor": "800",
+      "Stamina": "115",
+      "DefenseRating": "55",
+      "FrostResistance": "30",
+      "NatureResistance": "30",
+      "FireResistance": "30",
+      "ShadowResistance": "30",
+      "ArcaneResistance": "30"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Signified Ring of Binding",
+    "Id": "49489",
+    "Slot": "Finger"
+  },
+  "49800": {
+    "ItemLevel": "219",
+    "DisplayId": "33534",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_44",
+    "Stats": {
+      "Stamina": "45",
+      "Intellect": "45",
+      "SpellPower": "70",
+      "CritRating": "36",
+      "Mp5": "21"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Spiteful Signet",
+    "Id": "49800",
+    "Slot": "Finger"
+  },
+  "49803": {
+    "ItemLevel": "219",
+    "DisplayId": "31657",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_39",
+    "Stats": {
+      "Agility": "59",
+      "Stamina": "49",
+      "AttackPower": "87",
+      "CritRating": "38",
+      "HasteRating": "41"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Ring of Carnelian and Bone",
+    "Id": "49803",
+    "Slot": "Finger"
+  },
+  "49812": {
+    "ItemLevel": "219",
+    "DisplayId": "31906",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_42",
+    "Stats": {
+      "Stamina": "68",
+      "Strength": "68",
+      "CritRating": "42",
+      "HasteRating": "35"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Purloined Wedding Ring",
+    "Id": "49812",
+    "Slot": "Finger"
+  },
+  "49949": {
+    "ItemLevel": "264",
+    "DisplayId": "64169",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_83",
+    "Stats": {
+      "Agility": "90",
+      "Stamina": "90",
+      "AttackPower": "105",
+      "HitRating": "54",
+      "HasteRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "UniqueId": "50604",
+    "Name": "Band of the Bone Colossus",
+    "Id": "49949",
+    "Slot": "Finger"
+  },
+  "49967": {
+    "ItemLevel": "264",
+    "DisplayId": "64230",
+    "DisplaySlot": "11",
+    "IconPath": "item_icecrownringb",
+    "Stats": {
+      "Stamina": "69",
+      "Intellect": "69",
+      "SpellPower": "97",
+      "HasteRating": "60",
+      "Mp5": "26"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoE",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "UniqueId": "50610",
+    "Name": "Marrowgar's Frigid Eye",
+    "Id": "49967",
+    "Slot": "Finger"
+  },
+  "49977": {
+    "ItemLevel": "264",
+    "DisplayId": "64176",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_82",
+    "Stats": {
+      "Stamina": "69",
+      "Intellect": "69",
+      "SpellPower": "97",
+      "CritRating": "65",
+      "HitRating": "45"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "UniqueId": "50614",
+    "Name": "Loop of the Endless Labyrinth",
+    "Id": "49977",
+    "Slot": "Finger"
+  },
+  "49985": {
+    "ItemLevel": "264",
+    "DisplayId": "64229",
+    "DisplaySlot": "11",
+    "IconPath": "item_icecrownringd",
+    "Stats": {
+      "Stamina": "124",
+      "Strength": "90",
+      "DodgeRating": "43",
+      "ParryRating": "48",
+      "DefenseRating": "42"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "UniqueId": "50642",
+    "Name": "Juggernaut Band",
+    "Id": "49985",
+    "Slot": "Finger"
+  },
+  "49990": {
+    "ItemLevel": "264",
+    "DisplayId": "33864",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_ahnqiraj_05",
+    "Stats": {
+      "Stamina": "69",
+      "Intellect": "69",
+      "Spirit": "60",
+      "SpellPower": "97",
+      "CritRating": "52"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "UniqueId": "50644",
+    "Name": "Ring of Maddening Whispers",
+    "Id": "49990",
+    "Slot": "Finger"
+  },
+  "49999": {
+    "ItemLevel": "264",
+    "DisplayId": "64169",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_83",
+    "Stats": {
+      "Stamina": "103",
+      "Strength": "95",
+      "CritRating": "60",
+      "ExpertiseRating": "52"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "UniqueId": "50657",
+    "Name": "Skeleton Lord's Circle",
+    "Id": "49999",
+    "Slot": "Finger"
+  },
+  "50008": {
+    "ItemLevel": "264",
+    "DisplayId": "64170",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_86",
+    "Stats": {
+      "Stamina": "69",
+      "Intellect": "69",
+      "SpellPower": "97",
+      "CritRating": "60",
+      "HasteRating": "52"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "UniqueId": "50664",
+    "Name": "Ring of Rapid Ascent",
+    "Id": "50008",
+    "Slot": "Finger"
+  },
+  "50025": {
+    "ItemLevel": "264",
+    "DisplayId": "64225",
+    "DisplaySlot": "11",
+    "IconPath": "item_icecrownringc",
+    "Stats": {
+      "Agility": "90",
+      "Stamina": "90",
+      "AttackPower": "105",
+      "CritRating": "60",
+      "ExpertiseRating": "52"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "UniqueId": "50678",
+    "Name": "Seal of Many Mouths",
+    "Id": "50025",
+    "Slot": "Finger"
+  },
+  "50170": {
+    "ItemLevel": "264",
+    "DisplayId": "64174",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_81",
+    "Stats": {
+      "Stamina": "69",
+      "Intellect": "69",
+      "SpellPower": "97",
+      "HitRating": "38",
+      "HasteRating": "69"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "UniqueId": "50714",
+    "Name": "Valanar's Other Signet Ring",
+    "Id": "50170",
+    "Slot": "Finger"
+  },
+  "50174": {
+    "ItemLevel": "264",
+    "DisplayId": "64173",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_84",
+    "Stats": {
+      "Stamina": "69",
+      "Intellect": "69",
+      "SpellPower": "97",
+      "CritRating": "52",
+      "Mp5": "30"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "UniqueId": "50720",
+    "Name": "Incarnadine Band of Mending",
+    "Id": "50174",
+    "Slot": "Finger"
+  },
+  "50185": {
+    "ItemLevel": "264",
+    "DisplayId": "64170",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_86",
+    "Stats": {
+      "BonusArmor": "672",
+      "Stamina": "124",
+      "Strength": "90",
+      "DodgeRating": "40",
+      "DefenseRating": "48"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "UniqueId": "50622",
+    "Name": "Devium's Eternally Cold Ring",
+    "Id": "50185",
+    "Slot": "Finger"
+  },
+  "50186": {
+    "ItemLevel": "264",
+    "DisplayId": "64227",
+    "DisplaySlot": "11",
+    "IconPath": "item_icecrownringa",
+    "Stats": {
+      "Agility": "90",
+      "Stamina": "90",
+      "AttackPower": "105",
+      "ArmorPenetrationRating": "60",
+      "CritRating": "52"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "UniqueId": "50618",
+    "Name": "Frostbrood Sapphire Ring",
+    "Id": "50186",
+    "Slot": "Finger"
+  },
+  "50271": {
+    "ItemLevel": "232",
+    "DisplayId": "9833",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_12",
+    "Stats": {
+      "Agility": "67",
+      "Stamina": "67",
+      "AttackPower": "89",
+      "ArmorPenetrationRating": "36",
+      "CritRating": "50"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Band of Stained Souls",
+    "Id": "50271",
+    "Slot": "Finger"
+  },
+  "50306": {
+    "ItemLevel": "232",
+    "DisplayId": "26537",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_26",
+    "Stats": {
+      "Stamina": "76",
+      "Strength": "76",
+      "CritRating": "47",
+      "ExpertiseRating": "40"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "The Lady's Promise",
+    "Id": "50306",
+    "Slot": "Finger"
+  },
+  "50313": {
+    "ItemLevel": "232",
+    "DisplayId": "44358",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_68",
+    "Stats": {
+      "Stamina": "48",
+      "Intellect": "52",
+      "SpellPower": "78",
+      "CritRating": "36",
+      "Mp5": "25"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Oath of Empress Zoe",
+    "Id": "50313",
+    "Slot": "Finger"
+  },
+  "50375": {
+    "ItemLevel": "251",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_84",
+    "Stats": {
+      "Stamina": "120",
+      "Strength": "57",
+      "HitRating": "47",
+      "DodgeRating": "53",
+      "DefenseRating": "53"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50403",
+    "Name": "Ashen Band of Courage",
+    "Id": "50375",
+    "Slot": "Finger"
+  },
+  "50376": {
+    "ItemLevel": "251",
+    "DisplayId": "63958",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_81",
+    "Stats": {
+      "Agility": "80",
+      "Stamina": "70",
+      "AttackPower": "114",
+      "CritRating": "53",
+      "HitRating": "53"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50376",
+    "Name": "Ashen Band of Vengeance",
+    "Id": "50376",
+    "Slot": "Finger"
+  },
+  "50377": {
+    "ItemLevel": "251",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_83",
+    "Stats": {
+      "Stamina": "61",
+      "Intellect": "61",
+      "SpellPower": "94",
+      "HitRating": "47",
+      "HasteRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50397",
+    "Name": "Ashen Band of Destruction",
+    "Id": "50377",
+    "Slot": "Finger"
+  },
+  "50378": {
+    "ItemLevel": "251",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_85",
+    "Stats": {
+      "Stamina": "61",
+      "Intellect": "61",
+      "SpellPower": "94",
+      "HasteRating": "53",
+      "Mp5": "27"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50378",
+    "Name": "Ashen Band of Wisdom",
+    "Id": "50378",
+    "Slot": "Finger"
+  },
+  "50384": {
+    "ItemLevel": "259",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_83",
+    "Stats": {
+      "Stamina": "66",
+      "Intellect": "66",
+      "SpellPower": "101",
+      "HitRating": "50",
+      "HasteRating": "62"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50397",
+    "Name": "Ashen Band of Greater Destruction",
+    "Id": "50384",
+    "Slot": "Finger"
+  },
+  "50386": {
+    "ItemLevel": "259",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_85",
+    "Stats": {
+      "Stamina": "66",
+      "Intellect": "66",
+      "SpellPower": "101",
+      "HasteRating": "57",
+      "Mp5": "29"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50378",
+    "Name": "Ashen Band of Greater Wisdom",
+    "Id": "50386",
+    "Slot": "Finger"
+  },
+  "50387": {
+    "ItemLevel": "259",
+    "DisplayId": "63958",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_81",
+    "Stats": {
+      "Agility": "86",
+      "Stamina": "76",
+      "AttackPower": "123",
+      "CritRating": "57",
+      "HitRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50376",
+    "Name": "Ashen Band of Greater Vengeance",
+    "Id": "50387",
+    "Slot": "Finger"
+  },
+  "50388": {
+    "ItemLevel": "259",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_84",
+    "Stats": {
+      "Stamina": "129",
+      "Strength": "62",
+      "HitRating": "50",
+      "DodgeRating": "57",
+      "DefenseRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50403",
+    "Name": "Ashen Band of Greater Courage",
+    "Id": "50388",
+    "Slot": "Finger"
+  },
+  "50397": {
+    "ItemLevel": "268",
+    "DisplayId": "63960",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_83",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageSpellHit",
+          "Stats": {
+            "SpellPower": "285"
+          },
+          "Duration": "10",
+          "Cooldown": "60",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Stamina": "66",
+      "Intellect": "66",
+      "SpellPower": "101",
+      "HitRating": "50",
+      "HasteRating": "62"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50397",
+    "Name": "Ashen Band of Unmatched Destruction",
+    "Id": "50397",
+    "Slot": "Finger"
+  },
+  "50398": {
+    "ItemLevel": "277",
+    "DisplayId": "63960",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_83",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageSpellHit",
+          "Stats": {
+            "SpellPower": "285"
+          },
+          "Duration": "10",
+          "Cooldown": "60",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Stamina": "73",
+      "Intellect": "73",
+      "SpellPower": "101",
+      "HitRating": "51",
+      "HasteRating": "64"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "UniqueId": "50397",
+    "Name": "Ashen Band of Endless Destruction",
+    "Id": "50398",
+    "Slot": "Finger"
+  },
+  "50399": {
+    "ItemLevel": "268",
+    "DisplayId": "63949",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_85",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "HealingSpellCast",
+          "Stats": {
+            "SpellPower": "285"
+          },
+          "Duration": "10",
+          "Cooldown": "60",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Stamina": "66",
+      "Intellect": "66",
+      "SpellPower": "101",
+      "HasteRating": "57",
+      "Mp5": "29"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50378",
+    "Name": "Ashen Band of Unmatched Wisdom",
+    "Id": "50399",
+    "Slot": "Finger"
+  },
+  "50400": {
+    "ItemLevel": "277",
+    "DisplayId": "63949",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_85",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "HealingSpellCast",
+          "Stats": {
+            "SpellPower": "285"
+          },
+          "Duration": "10",
+          "Cooldown": "60",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Stamina": "73",
+      "Intellect": "73",
+      "SpellPower": "101",
+      "HasteRating": "59",
+      "Mp5": "30"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Mp5": "2"
+    },
+    "UniqueId": "50378",
+    "Name": "Ashen Band of Endless Wisdom",
+    "Id": "50400",
+    "Slot": "Finger"
+  },
+  "50401": {
+    "ItemLevel": "268",
+    "DisplayId": "63958",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_81",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "PhysicalHit",
+          "Stats": {
+            "AttackPower": "480"
+          },
+          "Duration": "10",
+          "Cooldown": "60",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Agility": "88",
+      "Stamina": "76",
+      "AttackPower": "123",
+      "CritRating": "57",
+      "HitRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50376",
+    "Name": "Ashen Band of Unmatched Vengeance",
+    "Id": "50401",
+    "Slot": "Finger"
+  },
+  "50402": {
+    "ItemLevel": "277",
+    "DisplayId": "63958",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_81",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "PhysicalHit",
+          "Stats": {
+            "AttackPower": "480"
+          },
+          "Duration": "10",
+          "Cooldown": "60",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Agility": "88",
+      "Stamina": "84",
+      "AttackPower": "135",
+      "CritRating": "59",
+      "HitRating": "59"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "UniqueId": "50376",
+    "Name": "Ashen Band of Endless Vengeance",
+    "Id": "50402",
+    "Slot": "Finger"
+  },
+  "50403": {
+    "ItemLevel": "268",
+    "DisplayId": "63959",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_84",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageTaken",
+          "Stats": {
+            "BonusArmor": "2400"
+          },
+          "Duration": "10",
+          "Cooldown": "60",
+          "Chance": "0.03",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Stamina": "129",
+      "Strength": "62",
+      "HitRating": "50",
+      "DodgeRating": "57",
+      "DefenseRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "50403",
+    "Name": "Ashen Band of Unmatched Courage",
+    "Id": "50403",
+    "Slot": "Finger"
+  },
+  "50404": {
+    "ItemLevel": "277",
+    "DisplayId": "63959",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_84",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "DamageTaken",
+          "Stats": {
+            "BonusArmor": "2400"
+          },
+          "Duration": "10",
+          "Cooldown": "60",
+          "Chance": "0.03",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Stamina": "130",
+      "Strength": "68",
+      "HitRating": "55",
+      "DodgeRating": "59",
+      "DefenseRating": "59"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "UniqueId": "50403",
+    "Name": "Ashen Band of Endless Courage",
+    "Id": "50404",
+    "Slot": "Finger"
+  },
+  "50414": {
+    "ItemLevel": "264",
+    "DisplayId": "64173",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_84",
+    "Stats": {
+      "Stamina": "103",
+      "Strength": "95",
+      "ArmorPenetrationRating": "52",
+      "CritRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "UniqueId": "50693",
+    "Name": "Might of Blight",
+    "Id": "50414",
+    "Slot": "Finger"
+  },
+  "50424": {
+    "ItemLevel": "264",
+    "DisplayId": "31498",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_40",
+    "Stats": {
+      "Stamina": "69",
+      "Intellect": "69",
+      "Spirit": "60",
+      "SpellPower": "97",
+      "HasteRating": "52"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "UniqueId": "50636",
+    "Name": "Memory of Malygos",
+    "Id": "50424",
+    "Slot": "Finger"
+  },
+  "50447": {
+    "ItemLevel": "264",
+    "DisplayId": "64173",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_84",
+    "Stats": {
+      "Stamina": "124",
+      "Strength": "69",
+      "HitRating": "38",
+      "DodgeRating": "60",
+      "DefenseRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoE",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "Name": "Harbinger's Bone Band",
+    "Id": "50447",
+    "Slot": "Finger"
+  },
+  "50453": {
+    "ItemLevel": "264",
+    "DisplayId": "64174",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_81",
+    "Stats": {
+      "Stamina": "103",
+      "Strength": "95",
+      "CritRating": "69",
+      "HitRating": "38"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoE",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Ring of Rotting Sinew",
+    "Id": "50453",
+    "Slot": "Finger"
+  },
+  "50604": {
+    "ItemLevel": "277",
+    "DisplayId": "64169",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_83",
+    "Stats": {
+      "Agility": "102",
+      "Stamina": "102",
+      "AttackPower": "120",
+      "HitRating": "62",
+      "HasteRating": "65"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "UniqueId": "50604",
+    "Name": "Band of the Bone Colossus",
+    "Id": "50604",
+    "Slot": "Finger"
+  },
+  "50610": {
+    "ItemLevel": "277",
+    "DisplayId": "64230",
+    "DisplaySlot": "11",
+    "IconPath": "item_icecrownringb",
+    "Stats": {
+      "Stamina": "78",
+      "Intellect": "78",
+      "SpellPower": "110",
+      "HasteRating": "68",
+      "Mp5": "30"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "UniqueId": "50610",
+    "Name": "Marrowgar's Frigid Eye",
+    "Id": "50610",
+    "Slot": "Finger"
+  },
+  "50614": {
+    "ItemLevel": "277",
+    "DisplayId": "64176",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_82",
+    "Stats": {
+      "Stamina": "78",
+      "Intellect": "78",
+      "SpellPower": "110",
+      "CritRating": "73",
+      "HitRating": "52"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "UniqueId": "50614",
+    "Name": "Loop of the Endless Labyrinth",
+    "Id": "50614",
+    "Slot": "Finger"
+  },
+  "50618": {
+    "ItemLevel": "277",
+    "DisplayId": "64227",
+    "DisplaySlot": "11",
+    "IconPath": "item_icecrownringa",
+    "Stats": {
+      "Agility": "102",
+      "Stamina": "102",
+      "AttackPower": "120",
+      "ArmorPenetrationRating": "68",
+      "CritRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "CritRating": "4"
+    },
+    "UniqueId": "50618",
+    "Name": "Frostbrood Sapphire Ring",
+    "Id": "50618",
+    "Slot": "Finger"
+  },
+  "50622": {
+    "ItemLevel": "277",
+    "DisplayId": "64170",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_86",
+    "Stats": {
+      "BonusArmor": "756",
+      "Stamina": "141",
+      "Strength": "102",
+      "DodgeRating": "46",
+      "DefenseRating": "54"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "UniqueId": "50622",
+    "Name": "Devium's Eternally Cold Ring",
+    "Id": "50622",
+    "Slot": "Finger"
+  },
+  "50636": {
+    "ItemLevel": "277",
+    "DisplayId": "31498",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_40",
+    "Stats": {
+      "Stamina": "78",
+      "Intellect": "78",
+      "Spirit": "68",
+      "SpellPower": "110",
+      "HasteRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "UniqueId": "50636",
+    "Name": "Memory of Malygos",
+    "Id": "50636",
+    "Slot": "Finger"
+  },
+  "50642": {
+    "ItemLevel": "277",
+    "DisplayId": "64229",
+    "DisplaySlot": "11",
+    "IconPath": "item_icecrownringd",
+    "Stats": {
+      "Stamina": "141",
+      "Strength": "102",
+      "DodgeRating": "50",
+      "ParryRating": "54",
+      "DefenseRating": "47"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "UniqueId": "50642",
+    "Name": "Juggernaut Band",
+    "Id": "50642",
+    "Slot": "Finger"
+  },
+  "50644": {
+    "ItemLevel": "277",
+    "DisplayId": "33864",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_ahnqiraj_05",
+    "Stats": {
+      "Stamina": "78",
+      "Intellect": "78",
+      "Spirit": "68",
+      "SpellPower": "110",
+      "CritRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "UniqueId": "50644",
+    "Name": "Ring of Maddening Whispers",
+    "Id": "50644",
+    "Slot": "Finger"
+  },
+  "50657": {
+    "ItemLevel": "277",
+    "DisplayId": "64169",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_83",
+    "Stats": {
+      "Stamina": "116",
+      "Strength": "108",
+      "CritRating": "68",
+      "ExpertiseRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "UniqueId": "50657",
+    "Name": "Skeleton Lord's Circle",
+    "Id": "50657",
+    "Slot": "Finger"
+  },
+  "50664": {
+    "ItemLevel": "277",
+    "DisplayId": "64170",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_86",
+    "Stats": {
+      "Stamina": "78",
+      "Intellect": "78",
+      "SpellPower": "110",
+      "CritRating": "68",
+      "HasteRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "UniqueId": "50664",
+    "Name": "Ring of Rapid Ascent",
+    "Id": "50664",
+    "Slot": "Finger"
+  },
+  "50678": {
+    "ItemLevel": "277",
+    "DisplayId": "64225",
+    "DisplaySlot": "11",
+    "IconPath": "item_icecrownringc",
+    "Stats": {
+      "Agility": "102",
+      "Stamina": "102",
+      "AttackPower": "120",
+      "CritRating": "68",
+      "ExpertiseRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "UniqueId": "50678",
+    "Name": "Seal of Many Mouths",
+    "Id": "50678",
+    "Slot": "Finger"
+  },
+  "50693": {
+    "ItemLevel": "277",
+    "DisplayId": "64173",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_84",
+    "Stats": {
+      "Stamina": "116",
+      "Strength": "108",
+      "ArmorPenetrationRating": "60",
+      "CritRating": "68"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "UniqueId": "50693",
+    "Name": "Might of Blight",
+    "Id": "50693",
+    "Slot": "Finger"
+  },
+  "50714": {
+    "ItemLevel": "277",
+    "DisplayId": "64174",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_81",
+    "Stats": {
+      "Stamina": "78",
+      "Intellect": "78",
+      "SpellPower": "110",
+      "HitRating": "44",
+      "HasteRating": "78"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "UniqueId": "50714",
+    "Name": "Valanar's Other Signet Ring",
+    "Id": "50714",
+    "Slot": "Finger"
+  },
+  "50720": {
+    "ItemLevel": "277",
+    "DisplayId": "64173",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_84",
+    "Stats": {
+      "Stamina": "78",
+      "Intellect": "78",
+      "SpellPower": "110",
+      "CritRating": "60",
+      "Mp5": "34"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "UniqueId": "50720",
+    "Name": "Incarnadine Band of Mending",
+    "Id": "50720",
+    "Slot": "Finger"
+  },
+  "50790": {
+    "ItemLevel": "251",
+    "DisplayId": "64171",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_85",
+    "Stats": {
+      "Stamina": "108",
+      "Strength": "49",
+      "HitRating": "47",
+      "DodgeRating": "56",
+      "DefenseRating": "49"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "UniqueId": "51913",
+    "Name": "Abomination's Bloody Ring",
+    "Id": "50790",
+    "Slot": "Finger"
+  },
+  "50803": {
+    "ItemLevel": "251",
+    "DisplayId": "64174",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_81",
+    "Stats": {
+      "Agility": "72",
+      "Stamina": "70",
+      "AttackPower": "114",
+      "ArmorPenetrationRating": "53",
+      "HasteRating": "45"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "AttackPower": "8"
+    },
+    "UniqueId": "51900",
+    "Name": "Saurfang's Cold-Forged Band",
+    "Id": "50803",
+    "Slot": "Finger"
+  },
+  "50986": {
+    "ItemLevel": "251",
+    "DisplayId": "64176",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_82",
+    "Stats": {
+      "Stamina": "61",
+      "Intellect": "61",
+      "SpellPower": "85",
+      "HasteRating": "45",
+      "Mp5": "27"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "UniqueId": "51884",
+    "Name": "Signet of Putrefaction",
+    "Id": "50986",
+    "Slot": "Finger"
+  },
+  "51001": {
+    "ItemLevel": "251",
+    "DisplayId": "64229",
+    "DisplaySlot": "11",
+    "IconPath": "item_icecrownringd",
+    "Stats": {
+      "Stamina": "91",
+      "Strength": "82",
+      "ArmorPenetrationRating": "47",
+      "ExpertiseRating": "51"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "ArmorPenetrationRating": "4"
+    },
+    "UniqueId": "51878",
+    "Name": "Rotface's Rupturing Ring",
+    "Id": "51001",
+    "Slot": "Finger"
+  },
+  "51024": {
+    "ItemLevel": "251",
+    "DisplayId": "64230",
+    "DisplaySlot": "11",
+    "IconPath": "item_icecrownringb",
+    "Stats": {
+      "Stamina": "91",
+      "Strength": "83",
+      "CritRating": "45",
+      "HasteRating": "53"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "ArmorPenetrationRating": "4"
+    },
+    "UniqueId": "51855",
+    "Name": "Thrice Fanged Signet",
+    "Id": "51024",
+    "Slot": "Finger"
+  },
+  "51336": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_60",
+    "Stats": {
+      "Stamina": "103",
+      "Intellect": "46",
+      "SpellPower": "106",
+      "CritRating": "60",
+      "Resilience": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Band of Dominance",
+    "Id": "51336",
+    "Slot": "Finger"
+  },
+  "51358": {
+    "ItemLevel": "264",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_60",
+    "Stats": {
+      "Stamina": "136",
+      "AttackPower": "181",
+      "CritRating": "60",
+      "Resilience": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Wrathful Gladiator's Band of Triumph",
+    "Id": "51358",
+    "Slot": "Finger"
+  },
+  "51381": {
+    "ItemLevel": "251",
+    "DisplayId": "64225",
+    "DisplaySlot": "11",
+    "IconPath": "item_icecrownringc",
+    "Stats": {
+      "Stamina": "57",
+      "Intellect": "62",
+      "SpellPower": "85",
+      "CritRating": "59",
+      "HasteRating": "35"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "UniqueId": "51849",
+    "Name": "Cerise Coiled Ring",
+    "Id": "51381",
+    "Slot": "Finger"
+  },
+  "51387": {
+    "ItemLevel": "251",
+    "DisplayId": "44357",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_70",
+    "Stats": {
+      "Agility": "72",
+      "Stamina": "70",
+      "AttackPower": "114",
+      "CritRating": "45",
+      "HasteRating": "53"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "AttackPower": "8"
+    },
+    "UniqueId": "51843",
+    "Name": "Seal of the Twilight Queen",
+    "Id": "51387",
+    "Slot": "Finger"
+  },
+  "51557": {
+    "ItemLevel": "251",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_73",
+    "Stats": {
+      "Stamina": "78",
+      "Intellect": "54",
+      "SpellPower": "94",
+      "CritRating": "53",
+      "HasteRating": "54"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Runed Signet of the Kirin Tor",
+    "Id": "51557",
+    "Slot": "Finger"
+  },
+  "51558": {
+    "ItemLevel": "251",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_73",
+    "Stats": {
+      "Stamina": "78",
+      "Intellect": "54",
+      "Spirit": "54",
+      "SpellPower": "94",
+      "Mp5": "27"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Runed Loop of the Kirin Tor",
+    "Id": "51558",
+    "Slot": "Finger"
+  },
+  "51559": {
+    "ItemLevel": "251",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_74",
+    "Stats": {
+      "Stamina": "119",
+      "Strength": "80",
+      "CritRating": "54",
+      "ExpertiseRating": "53"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Runed Ring of the Kirin Tor",
+    "Id": "51559",
+    "Slot": "Finger"
+  },
+  "51560": {
+    "ItemLevel": "251",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "inv_jewelry_ring_74",
+    "Stats": {
+      "Agility": "80",
+      "Stamina": "80",
+      "AttackPower": "107",
+      "CritRating": "55",
+      "HasteRating": "51"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "Name": "Runed Band of the Kirin Tor",
+    "Id": "51560",
+    "Slot": "Finger"
+  },
+  "51843": {
+    "ItemLevel": "264",
+    "DisplayId": "44357",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_70",
+    "Stats": {
+      "Agility": "82",
+      "Stamina": "79",
+      "AttackPower": "129",
+      "CritRating": "52",
+      "HasteRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": "none",
+    "UniqueId": "51843",
+    "Name": "Seal of the Twilight Queen",
+    "Id": "51843",
+    "Slot": "Finger"
+  },
+  "51849": {
+    "ItemLevel": "264",
+    "DisplayId": "64225",
+    "DisplaySlot": "11",
+    "IconPath": "item_icecrownringc",
+    "Stats": {
+      "Stamina": "65",
+      "Intellect": "70",
+      "SpellPower": "97",
+      "CritRating": "67",
+      "HasteRating": "41"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "UniqueId": "51849",
+    "Name": "Cerise Coiled Ring",
+    "Id": "51849",
+    "Slot": "Finger"
+  },
+  "51855": {
+    "ItemLevel": "264",
+    "DisplayId": "64230",
+    "DisplaySlot": "11",
+    "IconPath": "item_icecrownringb",
+    "Stats": {
+      "Stamina": "103",
+      "Strength": "95",
+      "CritRating": "52",
+      "HasteRating": "60"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "ArmorPenetrationRating": "4"
+    },
+    "UniqueId": "51855",
+    "Name": "Thrice Fanged Signet",
+    "Id": "51855",
+    "Slot": "Finger"
+  },
+  "51878": {
+    "ItemLevel": "264",
+    "DisplayId": "64229",
+    "DisplaySlot": "11",
+    "IconPath": "item_icecrownringd",
+    "Stats": {
+      "Stamina": "103",
+      "Strength": "95",
+      "ArmorPenetrationRating": "54",
+      "ExpertiseRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "ArmorPenetrationRating": "4"
+    },
+    "UniqueId": "51878",
+    "Name": "Rotface's Rupturing Ring",
+    "Id": "51878",
+    "Slot": "Finger"
+  },
+  "51884": {
+    "ItemLevel": "264",
+    "DisplayId": "64176",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_82",
+    "Stats": {
+      "Stamina": "69",
+      "Intellect": "69",
+      "SpellPower": "97",
+      "HasteRating": "52",
+      "Mp5": "30"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "UniqueId": "51884",
+    "Name": "Signet of Putrefaction",
+    "Id": "51884",
+    "Slot": "Finger"
+  },
+  "51900": {
+    "ItemLevel": "264",
+    "DisplayId": "64174",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_81",
+    "Stats": {
+      "Agility": "82",
+      "Stamina": "79",
+      "AttackPower": "129",
+      "ArmorPenetrationRating": "60",
+      "HasteRating": "52"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "AttackPower": "8"
+    },
+    "UniqueId": "51900",
+    "Name": "Saurfang's Cold-Forged Band",
+    "Id": "51900",
+    "Slot": "Finger"
+  },
+  "51913": {
+    "ItemLevel": "264",
+    "DisplayId": "64171",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_85",
+    "Stats": {
+      "Stamina": "124",
+      "Strength": "57",
+      "HitRating": "53",
+      "DodgeRating": "63",
+      "DefenseRating": "56"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Blue",
+    "SocketBonus": {
+      "Stamina": "6"
+    },
+    "UniqueId": "51913",
+    "Name": "Abomination's Bloody Ring",
+    "Id": "51913",
+    "Slot": "Finger"
+  },
+  "52569": {
+    "ItemLevel": "251",
+    "DisplayId": "63958",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_81",
+    "Stats": {
+      "Stamina": "91",
+      "Strength": "91",
+      "CritRating": "53",
+      "HitRating": "53"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "52571",
+    "Name": "Ashen Band of Might",
+    "Id": "52569",
+    "Slot": "Finger"
+  },
+  "52570": {
+    "ItemLevel": "259",
+    "DisplayId": "63958",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_81",
+    "Stats": {
+      "Stamina": "98",
+      "Strength": "98",
+      "CritRating": "57",
+      "HitRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "52571",
+    "Name": "Ashen Band of Greater Might",
+    "Id": "52570",
+    "Slot": "Finger"
+  },
+  "52571": {
+    "ItemLevel": "268",
+    "DisplayId": "63958",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_81",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "PhysicalHit",
+          "Stats": {
+            "AttackPower": "480"
+          },
+          "Duration": "10",
+          "Cooldown": "60",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Stamina": "98",
+      "Strength": "98",
+      "CritRating": "57",
+      "HitRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketBonus": "none",
+    "UniqueId": "52571",
+    "Name": "Ashen Band of Unmatched Might",
+    "Id": "52571",
+    "Slot": "Finger"
+  },
+  "52572": {
+    "ItemLevel": "277",
+    "DisplayId": "63958",
+    "DisplaySlot": "11",
+    "IconPath": "inv_jewelry_ring_81",
+    "Stats": {
+      "SpecialEffects": {
+        "SpecialEffect": {
+          "Trigger": "PhysicalHit",
+          "Stats": {
+            "AttackPower": "480"
+          },
+          "Duration": "10",
+          "Cooldown": "60",
+          "Chance": "0.1",
+          "MaxStack": "1"
+        }
+      },
+      "SpecialEffectCount": "1",
+      "Stamina": "107",
+      "Strength": "99",
+      "CritRating": "59",
+      "HitRating": "59"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "UniqueId": "52571",
+    "Name": "Ashen Band of Endless Might",
+    "Id": "52572",
+    "Slot": "Finger"
+  },
+  "53110": {
+    "ItemLevel": "258",
+    "DisplayId": "64230",
+    "DisplaySlot": "11",
+    "IconPath": "item_icecrownringb",
+    "Stats": {
+      "Stamina": "97",
+      "Strength": "89",
+      "ArmorPenetrationRating": "49",
+      "CritRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Zarithrian's Offering",
+    "Id": "53110",
+    "Slot": "Finger"
+  },
+  "53116": {
+    "ItemLevel": "258",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "item_icecrownringc",
+    "Stats": {
+      "Stamina": "65",
+      "Intellect": "65",
+      "SpellPower": "91",
+      "CritRating": "57",
+      "HitRating": "49"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Saviana's Tribute",
+    "Id": "53116",
+    "Slot": "Finger"
+  },
+  "53133": {
+    "ItemLevel": "271",
+    "DisplayId": "64225",
+    "DisplaySlot": "11",
+    "IconPath": "item_icecrownringc",
+    "Stats": {
+      "Agility": "96",
+      "Stamina": "96",
+      "AttackPower": "128",
+      "CritRating": "64",
+      "HitRating": "48"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Signet of Twilight",
+    "Id": "53133",
+    "Slot": "Finger"
+  },
+  "53490": {
+    "ItemLevel": "271",
+    "DisplayId": "64230",
+    "DisplaySlot": "11",
+    "IconPath": "item_icecrownringb",
+    "Stats": {
+      "Stamina": "73",
+      "Intellect": "73",
+      "SpellPower": "104",
+      "CritRating": "56",
+      "Mp5": "32"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Ring of Phased Regeneration",
+    "Id": "53490",
+    "Slot": "Finger"
+  },
+  "54563": {
+    "ItemLevel": "271",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "item_icecrownringc",
+    "Stats": {
+      "Stamina": "73",
+      "Intellect": "73",
+      "SpellPower": "104",
+      "CritRating": "64",
+      "HitRating": "56"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Saviana's Tribute",
+    "Id": "54563",
+    "Slot": "Finger"
+  },
+  "54567": {
+    "ItemLevel": "271",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "item_icecrownringb",
+    "Stats": {
+      "Stamina": "110",
+      "Strength": "102",
+      "ArmorPenetrationRating": "56",
+      "CritRating": "64"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "Strength": "4"
+    },
+    "Name": "Zarithrian's Offering",
+    "Id": "54567",
+    "Slot": "Finger"
+  },
+  "54576": {
+    "ItemLevel": "284",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "item_icecrownringc",
+    "Stats": {
+      "Agility": "109",
+      "Stamina": "109",
+      "AttackPower": "145",
+      "CritRating": "73",
+      "HitRating": "57"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Yellow",
+    "SocketBonus": {
+      "Agility": "4"
+    },
+    "Name": "Signet of Twilight",
+    "Id": "54576",
+    "Slot": "Finger"
+  },
+  "54585": {
+    "ItemLevel": "284",
+    "DisplayId": "0",
+    "DisplaySlot": "0",
+    "IconPath": "item_icecrownringb",
+    "Stats": {
+      "Stamina": "83",
+      "Intellect": "83",
+      "SpellPower": "118",
+      "HasteRating": "65",
+      "Mp5": "36"
+    },
+    "Quality": "Epic",
+    "Type": "None",
+    "Faction": "Neutral",
+    "Unique": "true",
+    "Bind": "BoP",
+    "SocketColor1": "Red",
+    "SocketBonus": {
+      "SpellPower": "5"
+    },
+    "Name": "Ring of Phased Regeneration",
+    "Id": "54585",
+    "Slot": "Finger"
+  }
+}
