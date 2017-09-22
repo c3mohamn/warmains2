@@ -16,7 +16,7 @@ mongoose.connect('mongodb://admin:password@ds045031.mlab.com:45031/warmain');
 var db = mongoose.connection;
 
 var routes = require('./routes/index');
-var users = require('./routes/users');
+var auth = require('./routes/auth');
 var about = require('./routes/about');
 var profile = require('./routes/profile');
 var character = require('./routes/character');
@@ -86,7 +86,7 @@ app.use(function (req, res, next) {
 app.use('/', routes);
 app.use('/about', about);
 app.use('/profile', profile);
-app.use('/users', users);
+app.use('/auth', auth);
 app.use('/character', character);
 app.use('/search', search);
 

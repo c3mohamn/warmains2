@@ -67,5 +67,21 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .form-fields {
+  position: relative;
   margin-bottom: 1rem;
+
+  .server-msg {
+    position: absolute;
+    padding-left: 7px;
+    font-size: 12px;
+    bottom: 0;
+
+    &.error {
+      color: red;
+    }
+
+    &.success {
+      color: green;
+    }
+  }
 }

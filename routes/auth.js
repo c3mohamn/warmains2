@@ -16,85 +16,96 @@ var smtpTransport = nodemailer.createTransport({
   }
 });
 
-/* GET Registration page. */
-router.get('/register', function(req, res) {
-  res.render('register', {title: 'Warmains'});
-});
-
-/* GET Login page. */
-router.get('/login', function(req, res) {
-  res.render('login', {title: 'Warmains'});
-});
+// /* GET Registration page. */
+// router.get('/register', function(req, res) {
+//   res.render('register', {title: 'Warmains'});
+// });
+//
+// /* GET Login page. */
+// router.get('/login', function(req, res) {
+//   res.render('login', {title: 'Warmains'});
+// });
 
 /* --------- REGISTER USER ---------
 * Registers a new user, adding it to the database in user collection.
 */
 router.post('/register', function(req, res){
-    var name = req.body.namefield;
-    var username = req.body.userfield.toLowerCase();
-    var password1 = req.body.pass1field.toLowerCase();
-    var password2 = req.body.pass2field.toLowerCase();
-    var email = req.body.emailfield.toLowerCase();
+    //var name = req.body.namefield;
+    var username = req.body.username.toLowerCase();
+    var password = req.body.password.toLowerCase();
+    //var email = req.body.emailfield.toLowerCase();
 
     // Server side registration validations
-    req.checkBody('namefield', 'Enter a name please.').notEmpty();
-    req.checkBody('namefield',
-    'Invalid characters in name field.').isAlphanumeric();
-    req.checkBody('userfield', 'Enter a user name please.').notEmpty();
-    req.checkBody('userfield',
-    'Username must be 2 to 16 characters long.').isLength({min:2, max: 16});
-    req.checkBody('pass1field',
+    //req.checkBody('namefield', 'Enter a name please.').notEmpty();
+    //req.checkBody('namefield',
+    //'Invalid characters in name field.').isAlphanumeric();
+    req.checkBody('username', 'No username entered.').notEmpty();
+    req.checkBody('username',
+    'Username must be 3 to 16 characters long.').isLength({min:3, max: 16});
+    req.checkBody('password',
     'Password must be 6 to 18 characters long.').isLength({min:6, max: 18});
-    req.checkBody('pass2field', 'Passwords do not match.').equals(password1);
-    req.checkBody('emailfield', 'Invalid Email.').isEmail();
+    //req.checkBody('pass2field', 'Passwords do not match.').equals(password1);
+    //req.checkBody('emailfield', 'Invalid Email.').isEmail();
 
     var errors = req.validationErrors();
 
+    console.log(errors);
+
     if(errors){
-      // Refresh page and post errors if any.
-      res.render('register', {
-          errors:errors
-      });
+      res.statusMessage = 'Invalid input.';
+      res.status(400).end();
     } else {
       // Checking if the username exists already.
       User.getUserByUsername(username, function(err, user) {
           if (err) throw err;
           if (user) {
             console.log(username, ' already exist.');
-            req.flash('error_msg', username + ' already exists.');
-            res.redirect('/users/register');
+            res.statusMessage = username + ' already exists.';
+            res.status(400).end();
           } else {
             // User name is not taken.
             // Now check if email is taken or not.
-            User.getUserByEmail(email, function(err, user) {
-              if (err) throw err;
-              if (user) {
-                console.log(email, ' already in use.');
-                req.flash('error_msg', email + ' already in use.');
-                res.redirect('/users/register');
-              } else {
-                // Email and username not taken, proceed with registration.
-                // Creating a new user with given input.
-                var newUser = new User({
-                    name: name,
-                    username: username,
-                    password: password1,
-                    email: email
-                });
-                newUser.save(function(err) {
-                    console.log(newUser);
-                });
-                req.flash('success_msg', 'You are registered ' + username + '!');
-                res.redirect('/');
-              }
+            // User.getUserByEmail(email, function(err, user) {
+            //   if (err) throw err;
+            //   if (user) {
+            //     console.log(email, ' already in use.');
+            //     req.flash('error_msg', email + ' already in use.');
+            //     res.redirect('/users/register');
+            //   } else {
+            //     // Email and username not taken, proceed with registration.
+            //     // Creating a new user with given input.
+            //     var newUser = new User({
+            //         name: name,
+            //         username: username,
+            //         password: password1,
+            //         email: email
+            //     });
+            //     newUser.save(function(err) {
+            //         console.log(newUser);
+            //     });
+            //     req.flash('success_msg', 'You are registered ' + username + '!');
+            //     res.redirect('/');
+            //   }
+            //
+            // });
 
+            //Creating a new user with given input.
+            var newUser = new User({
+                name: 'asdad',
+                username: username,
+                password: password,
+                email: '',
+                role: 1
             });
+            newUser.save(function(err) {
+              if (err) throw err;
+              console.log(newUser);
+            });
+            res.statusMessage = username + ' has been created!.';
+            res.status(200).end();
           }
       });
     }
-
-
-
 });
 
 /* --------- PASSWORD CHANGE ---------
@@ -177,10 +188,15 @@ passport.deserializeUser(function(id, done) {
 // Displays flash messages if failure
 // redirects to index page.
 router.post('/login',
-passport.authenticate('local', {
-    successRedirect: '/', failureRedirect: '/users/login', failureFlash: true
-}), function(req, res) {
-    res.redirect('/');
+passport.authenticate('local'), function(req, res) {
+  console.log(req.user);
+  res.send({
+    user: req.user.username,
+    name: req.user.name,
+    role: req.user.role,
+    email: req.user.email,
+    message: req.message,
+  });
 });
 
 /* --------- LOGOUT --------- */

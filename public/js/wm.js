@@ -1,8 +1,9 @@
 var wmApp = angular.module("wmApp", ['ui.router', 'ngAnimate', 'mm.foundation']);
 
-wmApp.config(function($stateProvider, $urlRouterProvider) {
+wmApp.config(function($stateProvider, $urlRouterProvider, $locationProvider) {
 
   $urlRouterProvider.otherwise('/home');
+  $locationProvider.hashPrefix('');
 
   $stateProvider
     .state('home', {

@@ -2,7 +2,8 @@
 
 .auth-container {
   position: relative;
-  width: 400px;
+  min-width: 300px;
+  max-width: 400px;
   height: 500px;
   margin: 50px auto;
   box-shadow: $wm-boxshadow-0;

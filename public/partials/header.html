@@ -5,12 +5,15 @@
   </div>
   <div class="flex-child-grow"></div>
 
+  {{currentUser.name}}
+
   <div class="navigation">
     <ul class="menu">
       <li class="menu-item" ui-sref="styles">Styles</li>
       <li class="menu-item">Planner</li>
-      <li ng-if="!user" class="menu-item" ui-sref="login">Login</li>
-      <li ng-if="!user" class="menu-item" ui-sref="register">Register</li>
+      <li ng-if="!currentUser" class="menu-item" ui-sref="login">Login</li>
+      <li ng-if="!currentUser" class="menu-item" ui-sref="register">Register</li>
+      <li ng-if="currentUser" class="menu-item" ng-click="logout()">Logout</li>
     </ul>
   </div>
 

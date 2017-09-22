@@ -1,7 +1,7 @@
 'use strict';
 
 // Authentication controller
-wmApp.controller('authCtrl', ['$scope', function($scope) {
+wmApp.controller('authCtrl', ['$rootScope', '$scope', '$http', '$state', function($rootScope, $scope, $http, $state) {
   $scope.registerUser = registerUser;
   $scope.loginUser = loginUser;
   $scope.auth = {
@@ -12,21 +12,49 @@ wmApp.controller('authCtrl', ['$scope', function($scope) {
 
   // Register
   function registerUser() {
+
     $scope.registeringUser = true;
-    validateRegisterForm();
+
+    if (!validateRegisterForm()) {
+      $scope.registeringUser = false;
+      return false;
+    }
     console.log('Attempting to register user...');
 
-    $scope.registeringUser = false;
+    $http.post('/auth/register', {
+      username: $scope.auth.username,
+      password: $scope.auth.pass
+    }).then(function successCallback(response) {
+        console.log(response);
+        $scope.serverSuccess = response.statusText;
+        $scope.registeringUser = false;
+        //$state.go('login');
+      }, function errorCallback(response) {
+        console.log(response);
+        $scope.serverError = response.statusText;
+        $scope.registeringUser = false;
+      });
   }
 
-  // Login
+  // TODO: Login
   function loginUser() {
     $scope.loggingUser = true;
     validateLoginForm();
 
     console.log('Attempting to log user in...');
 
+    $http.post('/auth/login', {
+      username: $scope.auth.username,
+      password: $scope.auth.pass
+    }).then(function successCallback(response) {
+        console.log(response);
+        $rootScope.currentUser = response.data;
+      }, function errorCallback(response) {
+        console.log(response);
+      });
+
     $scope.loggingUser = false;
+    $state.go('home');
   }
 
   // Check if user filled registration form out properly.
@@ -53,6 +81,8 @@ wmApp.controller('authCtrl', ['$scope', function($scope) {
       $scope.confirmPassError = 'Passwords must match.';
       return false;
     }
+
+    return true;
   }
 
   // Check if user filled login form out properly.
@@ -74,5 +104,7 @@ wmApp.controller('authCtrl', ['$scope', function($scope) {
     $scope.usernameError = null;
     $scope.passError = null;
     $scope.confirmPassError = null;
+    $scope.serverError = null;
+    $scope.serverSuccess = null;
   }
 }]);
