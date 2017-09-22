@@ -14,4 +14,4 @@ Create new states:
   1. Create the state in wm.js config.
   2. Create the html state partial in /public/states.
   3. Create the controller (if needed) in /public/js/controllers.
-  4. BEFORE GULP: will need to include the controller in index / footer
+  4. Add the ui-sref="{state}" so that you can actually get there.

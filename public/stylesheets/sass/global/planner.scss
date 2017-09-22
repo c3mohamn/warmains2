@@ -1,0 +1,24 @@
+@import "theme";
+
+.planner-container {
+  margin: 50px auto;
+  padding: 1rem;
+  width: 80%;
+  background-color: red;
+
+  // @include breakpoint(medium down) {
+  //   background-color: blue;
+  // }
+
+  .planner-routes {
+    box-shadow: $wm-boxshadow-1;
+    min-width: 100px;
+    width: 200px;
+    padding: 1rem;
+    margin: 1rem;
+
+    &:hover {
+      box-shadow: $wm-boxshadow-2;
+    }
+  }
+}

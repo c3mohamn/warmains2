@@ -7,7 +7,7 @@ wmApp.config(function($stateProvider, $urlRouterProvider, $locationProvider) {
 
   $stateProvider
     .state('home', {
-      url: '/home',
+      url: '/',
       templateUrl: '/states/home.html',
       controller: 'indexCtrl'
     })
@@ -25,5 +25,10 @@ wmApp.config(function($stateProvider, $urlRouterProvider, $locationProvider) {
       url: '/styles',
       templateUrl: 'states/styles.html',
       controller: 'stylesCtrl'
+    })
+    .state('planner', {
+      url: '/planner',
+      templateUrl: 'states/planner.html',
+      controller: 'plannerCtrl'
     });
 });

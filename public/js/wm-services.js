@@ -1,0 +1,1 @@
+!function(t,n,e){"use strict";wmApp.service("userAPI",["$http",function(t){return{}}])}(window,document);
