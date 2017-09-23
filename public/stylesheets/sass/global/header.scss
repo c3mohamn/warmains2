@@ -5,7 +5,7 @@
   color: $wm-primary-light;
   position: fixed;
   width: 100%;
-  min-width: 300px;
+  min-width: 350px;
   height: 4rem;
   padding: 1rem;
   box-shadow: $wm-boxshadow-1;
@@ -19,6 +19,12 @@
     &:hover {
       color: $wm-primary;
     }
+  }
+
+  .current-state {
+    margin-left: 1rem;
+    text-transform: uppercase;
+    color: $wm-secondary-verylight;
   }
 
   .navigation {

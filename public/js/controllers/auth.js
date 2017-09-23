@@ -54,7 +54,6 @@ wmApp.controller('authCtrl', ['$scope', '$http', '$state', 'authAPI', '$localSto
     );
 
     $scope.loggingUser = false;
-    //$state.go('home');
   }
 
   // Check if user filled registration form out properly.

@@ -1,3 +1,4 @@
+// User Authentication Services
 wmApp.service('authAPI', ['$http', '$localStorage', '$window', function($http, $localStorage, $window) {
 
   function registerUser(username, password) {

@@ -1,12 +1,19 @@
 <div class="planner-container flex-container align-middle align-center">
 
-  <div class="planner-routes raids">
-    <h2>Raids</h2>
+  <div class="planner-routes raids dark-container" tabindex="0">
+    <h4>Raids</h4>
+    <hr>
+    <p>At least you can make your raid comp with 25 Druids here.</p>
   </div>
-  <div class="planner-routes talents">
-    <h2>Talents</h2>
+  <div class="planner-routes talents dark-container" tabindex="0">
+    <h4>Talents</h4>
+    <hr>
+    <p>Preview your talents in this online talent calculator.</p>
   </div>
-  <div class="planner-routes characters">
-    <h2>Characters</h2>
+  <div class="planner-routes characters dark-container" tabindex="0" ng-class="{'disabled': !currentUser}">
+    <h4>Characters</h4>
+    <hr>
+    <p>Customize and create a character from scratch.</p>
+    <p style="color: red;" ng-show="!currentUser">Requires you to be logged in.</p>
   </div>
 </div>

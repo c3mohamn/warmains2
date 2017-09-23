@@ -38,3 +38,8 @@ body {
 .mainBody {
   padding: 5rem 1rem;
 }
+
+.dark-container {
+  background-color: $wm-secondary-dark;
+  color: $wm-primary-light;
+}

@@ -4,11 +4,8 @@
   margin: 50px auto;
   padding: 1rem;
   width: 80%;
-  background-color: red;
-
-  // @include breakpoint(medium down) {
-  //   background-color: blue;
-  // }
+  min-width: 360px;
+  align-items: flex-start;
 
   .planner-routes {
     box-shadow: $wm-boxshadow-1;
@@ -16,9 +13,35 @@
     width: 200px;
     padding: 1rem;
     margin: 1rem;
+    cursor: pointer;
+    animation: $wm-transition-slow slide-down;
+
+    p {
+      font-size: 12px;
+    }
 
     &:hover {
       box-shadow: $wm-boxshadow-2;
+    }
+
+    &:active {
+      box-shadow: $wm-boxshadow-1;
+    }
+
+    &:focus {
+      outline: 0;
+    }
+
+    &.disabled {
+      opacity: .7;
+
+      &:hover {
+        box-shadow: $wm-boxshadow-1;
+      }
+
+      &:focus {
+        outline: 0;
+      }
     }
   }
 }
