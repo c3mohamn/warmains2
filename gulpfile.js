@@ -12,6 +12,14 @@ gulp.task('sass', function() {
       .pipe(gulp.dest('public/stylesheets/css'));
 });
 
+// compile and minify services
+gulp.task('services', function() {
+  gulp.src('public/js/services/*.js')
+      .pipe(concat.scripts('wm-services.js'))
+      .pipe(uglify())
+      .pipe(gulp.dest('public/js'));
+});
+
 // compile and minify controllers
 gulp.task('controllers', function() {
   gulp.src('public/js/controllers/*.js')
@@ -28,14 +36,6 @@ gulp.task('directives', function() {
       .pipe(gulp.dest('public/js'));
 });
 
-// compile and minify services
-gulp.task('services', function() {
-  gulp.src('public/js/services/*.js')
-      .pipe(concat.scripts('wm-services.js'))
-      .pipe(uglify())
-      .pipe(gulp.dest('public/js'));
-});
-
 // minify size of images
 // gulp.task('imageMin', function() {
 //   gulp.src('src')
@@ -44,13 +44,13 @@ gulp.task('services', function() {
 // });
 
 // default tasks to be run when typing gulp
-gulp.task('default', ['sass', 'controllers', 'directives', 'services']);
+gulp.task('default', ['sass', 'services', 'directives', 'controllers']);
 
 // watch all these tasks
 gulp.task('watch', function() {
+  gulp.watch('public/js/services/*.js', ['services']);
   gulp.watch('public/js/controllers/*.js', ['controllers']);
   gulp.watch('public/js/directives/*.js', ['directives']);
-  gulp.watch('public/js/services/*.js', ['services']);
   gulp.watch('public/stylesheets/sass/global/*.scss', ['sass']);
   //gulp.watch('/src', ['imageMin']);
 });

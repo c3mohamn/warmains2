@@ -1,7 +1,7 @@
 'use strict';
 
 // Authentication controller
-wmApp.controller('authCtrl', ['$rootScope', '$scope', '$http', '$state', function($rootScope, $scope, $http, $state) {
+wmApp.controller('authCtrl', ['$scope', '$http', '$state', 'userAPI', function($scope, $http, $state, userAPI) {
   $scope.registerUser = registerUser;
   $scope.loginUser = loginUser;
   $scope.auth = {
@@ -21,40 +21,41 @@ wmApp.controller('authCtrl', ['$rootScope', '$scope', '$http', '$state', functio
     }
     console.log('Attempting to register user...');
 
-    $http.post('/auth/register', {
-      username: $scope.auth.username,
-      password: $scope.auth.pass
-    }).then(function successCallback(response) {
+    // registers the user
+    userAPI.registerUser($scope.auth.username, $scope.auth.pass).then(
+      function successCallback(response) {
         console.log(response);
-        $scope.serverSuccess = response.statusText;
+        $scope.serverSuccess = response.data;
         $scope.registeringUser = false;
-        //$state.go('login');
       }, function errorCallback(response) {
         console.log(response);
-        $scope.serverError = response.statusText;
+        $scope.serverError = response.data;
         $scope.registeringUser = false;
-      });
+      }
+    );
+
+    $scope.registeringUser = false;
   }
 
-  // TODO: Login
   function loginUser() {
     $scope.loggingUser = true;
     validateLoginForm();
 
     console.log('Attempting to log user in...');
 
-    $http.post('/auth/login', {
-      username: $scope.auth.username,
-      password: $scope.auth.pass
-    }).then(function successCallback(response) {
+    userAPI.loginUser($scope.auth.username, $scope.auth.pass).then(
+      function successCallback(response) {
         console.log(response);
-        $rootScope.currentUser = response.data;
+        $scope.loggingUser = false;
       }, function errorCallback(response) {
         console.log(response);
-      });
+        $scope.serverError = response.data;
+        $scope.loggingUser = false;
+      }
+    );
 
     $scope.loggingUser = false;
-    $state.go('home');
+    //$state.go('home');
   }
 
   // Check if user filled registration form out properly.

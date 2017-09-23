@@ -1,4 +1,4 @@
 // Index page controller
-wmApp.controller('indexCtrl', ['$scope', '$rootScope', '$state', function($scope, $rootScope, $state) {
+wmApp.controller('indexCtrl', ['$scope', '$state', function($scope, $rootScope, $state) {
 
 }]);

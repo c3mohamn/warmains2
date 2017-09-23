@@ -4,6 +4,9 @@ var User = require('../models/user');
 var async = require('async');
 var crypto = require('crypto');
 var nodemailer = require('nodemailer');
+// token authx
+var jwt = require('jsonwebtoken');
+var jwtSecret = 'butts';
 
 //email used for sending password reset info.
 var smtpTransport = nodemailer.createTransport({
@@ -41,15 +44,14 @@ router.post('/register', function(req, res){
 
     if(errors){
       res.statusMessage = 'Invalid input.';
-      res.status(400).end();
+      res.status(400).send(errors);
     } else {
       // Checking if the username exists already.
       User.getUserByUsername(username, function(err, user) {
           if (err) throw err;
           if (user) {
             console.log(username, ' already exist.');
-            res.statusMessage = username + ' already exists.';
-            res.status(400).end();
+            res.status(400).end(username + ' already exists.');
           } else {
             // User name is not taken.
             // Now check if email is taken or not.
@@ -89,8 +91,7 @@ router.post('/register', function(req, res){
               if (err) throw err;
               console.log(newUser);
             });
-            res.statusMessage = username + ' has been created!.';
-            res.status(200).end();
+            res.status(200).end(username + ' has been created!.');
           }
       });
     }
@@ -140,9 +141,34 @@ router.post('/changeinfo', function(req, res) {
 });
 
 /* --------- USER LOGIN ---------
-* Logs user in after verifying that the user does indeed exist.
-* Using passport primarily for this.
+* Verify the users info and assign access token
 */
+router.post('/login', function(req, res, next) {
+  console.log('In /login', req.body.username, req.body.password);
+  var username = req.body.username;
+  var password = req.body.password;
+
+  User.getUserByUsername(username, function(err, user) {
+    if(err) throw err;
+    if(!user) {
+        res.status(400).end('This username does not exist.');
+    }
+    else {
+      User.comparePassword(password, user.password, function(err, isMatch) {
+          if(err) throw err;
+          if(isMatch) {
+              console.log("Logged in as " + user.username + ".");
+              // Get a access token for user & send to front-end
+              var token = jwt.sign({username: username}, jwtSecret);
+              res.status(200).send({token: token, username: username});
+          } else {
+              console.log("Invalid Password");
+              res.status(400).end('Invalid email or password.');
+          }
+      });
+    }
+  })
+});
 
 /* Directed here after clicking Reset Password on forgot page.
 *  Sends an email to the user with a link and a 'token' that can be used to

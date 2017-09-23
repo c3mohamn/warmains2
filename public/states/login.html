@@ -15,6 +15,9 @@
       </div>
       <button ng-disabled="loggingUser" class="button float-right" type="submit">Login</button>
     </form>
+
+    <span class="server-msg error">{{serverError}}</span>
+    <span class="server-msg success">{{serverSuccess}}</span>
   </div>
 
   <div class="auth-bottom-info">

@@ -10,16 +10,11 @@ var mongoose = require('mongoose');
 mongoose.connect('mongodb://admin:password@ds045031.mlab.com:45031/warmain');
 var db = mongoose.connection;
 
-// token auth
-var jwt = require('jsonwebtoken');
-var jwtSecret = 'butts';
-
 var routes = require('./routes/index');
 var auth = require('./routes/auth');
 
 // init app
 var app = express();
-
 
 // allows use of images from public file
 app.use(express.static(path.join(__dirname + '/public')));
