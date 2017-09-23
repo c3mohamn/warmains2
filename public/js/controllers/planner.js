@@ -1,4 +1,4 @@
 // Planner page controller
-wmApp.controller('plannerCtrl', ['$scope', '$rootScope', '$state', function($scope, $rootScope, $state) {
+wmApp.controller('plannerCtrl', ['$scope', '$state', function($scope, $state) {
 
 }]);

@@ -97,6 +97,71 @@ router.post('/register', function(req, res){
     }
 });
 
+/* --------- USER LOGIN ---------
+* Verify the users info and assign access token
+*/
+router.post('/login', function(req, res, next) {
+  var username = req.body.username;
+  var password = req.body.password;
+
+  User.getUserByUsername(username, function(err, user) {
+    if(err) throw err;
+    if(!user) {
+        res.status(400).end('This username does not exist.');
+    }
+    else {
+      User.comparePassword(password, user.password, function(err, isMatch) {
+          if(err) throw err;
+          if(isMatch) {
+              console.log("Logged in as " + user.username + ".");
+              // Get a access token for user & send to front-end
+              var token = jwt.sign({username: username, role: user.role}, jwtSecret, {
+                expiresIn: 60*60*24*7
+              });
+              res.status(200).send({token: token});
+          } else {
+              console.log("Invalid Password");
+              res.status(400).end('Incorrect password.');
+          }
+      });
+    }
+  })
+});
+
+// Refresh Token
+router.post('/refreshToken', function(req, res, next) {
+  var token = req.body.token;
+
+  if (token) {
+    jwt.verify(token, jwtSecret, function (err, decoded) {
+      if (err) {
+        res.status(401).end('Token expired.');
+      } else {
+        console.log(decoded);
+        // Check if token username exists.
+        User.findOne({ username: decoded.username}, function (err, user) {
+          if (err) throw err;
+          if (!user) {
+            res.status(400).end('This username does not exist.');
+          }
+          console.log('matching user: ', user);
+          //Lets give the user a new token.
+          var newToken = jwt.sign({
+            username: user.username,
+            role: user.role
+          }, jwtSecret, {
+            expiresIn: 60*60*24*7
+          });
+          res.status(200).send({token: newToken});
+        });
+      }
+    });
+  }
+  else {
+    console.log('No user logged in.');
+  }
+});
+
 /* --------- PASSWORD CHANGE ---------
 * Changes the logged in users password in the database.
 */
@@ -138,36 +203,6 @@ router.post('/changeinfo', function(req, res) {
           }
       });
     }
-});
-
-/* --------- USER LOGIN ---------
-* Verify the users info and assign access token
-*/
-router.post('/login', function(req, res, next) {
-  console.log('In /login', req.body.username, req.body.password);
-  var username = req.body.username;
-  var password = req.body.password;
-
-  User.getUserByUsername(username, function(err, user) {
-    if(err) throw err;
-    if(!user) {
-        res.status(400).end('This username does not exist.');
-    }
-    else {
-      User.comparePassword(password, user.password, function(err, isMatch) {
-          if(err) throw err;
-          if(isMatch) {
-              console.log("Logged in as " + user.username + ".");
-              // Get a access token for user & send to front-end
-              var token = jwt.sign({username: username}, jwtSecret);
-              res.status(200).send({token: token, username: username});
-          } else {
-              console.log("Invalid Password");
-              res.status(400).end('Invalid email or password.');
-          }
-      });
-    }
-  })
 });
 
 /* Directed here after clicking Reset Password on forgot page.

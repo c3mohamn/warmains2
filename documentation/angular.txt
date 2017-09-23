@@ -15,3 +15,20 @@ Create new states:
   2. Create the html state partial in /public/states.
   3. Create the controller (if needed) in /public/js/controllers.
   4. Add the ui-sref="{state}" so that you can actually get there.
+
+Authentication:
+
+- We use JWT to genereate tokens.
+  - In those tokens we place: username, id, role, expiry date of token.
+- User logs in, we give them token if successful login.
+  - This means sending token to front-end, saving it in $localStorage.
+
+- On stateChanges we get token from $localStorage, decrpyt and check if:
+  - token is expired: log them out.
+  - if user has permission to enter certain pages.
+
+- On page refreshes we validate the users token from $localStorage.
+  - If it is not valid (expired, creds don't match), then we remove the token
+    from $localStorage and log user out.
+  - If it is valid, then we still remove the token from $localStorage and
+    give the user a new token.

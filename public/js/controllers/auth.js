@@ -1,7 +1,6 @@
 'use strict';
-
 // Authentication controller
-wmApp.controller('authCtrl', ['$scope', '$http', '$state', 'userAPI', function($scope, $http, $state, userAPI) {
+wmApp.controller('authCtrl', ['$scope', '$http', '$state', 'authAPI', '$localStorage', function($scope, $http, $state, authAPI, $localStorage) {
   $scope.registerUser = registerUser;
   $scope.loginUser = loginUser;
   $scope.auth = {
@@ -22,7 +21,7 @@ wmApp.controller('authCtrl', ['$scope', '$http', '$state', 'userAPI', function($
     console.log('Attempting to register user...');
 
     // registers the user
-    userAPI.registerUser($scope.auth.username, $scope.auth.pass).then(
+    authAPI.registerUser($scope.auth.username, $scope.auth.pass).then(
       function successCallback(response) {
         console.log(response);
         $scope.serverSuccess = response.data;
@@ -41,12 +40,12 @@ wmApp.controller('authCtrl', ['$scope', '$http', '$state', 'userAPI', function($
     $scope.loggingUser = true;
     validateLoginForm();
 
-    console.log('Attempting to log user in...');
-
-    userAPI.loginUser($scope.auth.username, $scope.auth.pass).then(
+    authAPI.loginUser($scope.auth.username, $scope.auth.pass).then(
       function successCallback(response) {
         console.log(response);
+        $localStorage.currentUser = response.data;
         $scope.loggingUser = false;
+        $state.go('home');
       }, function errorCallback(response) {
         console.log(response);
         $scope.serverError = response.data;
