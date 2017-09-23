@@ -1,8 +1,6 @@
 var express = require('express');
 var router = express.Router();
 var User = require('../models/user');
-var passport = require('passport');
-var LocalStrategy = require('passport-local').Strategy;
 var async = require('async');
 var crypto = require('crypto');
 var nodemailer = require('nodemailer');
@@ -15,16 +13,6 @@ var smtpTransport = nodemailer.createTransport({
       pass: 'warmains'
   }
 });
-
-// /* GET Registration page. */
-// router.get('/register', function(req, res) {
-//   res.render('register', {title: 'Warmains'});
-// });
-//
-// /* GET Login page. */
-// router.get('/login', function(req, res) {
-//   res.render('login', {title: 'Warmains'});
-// });
 
 /* --------- REGISTER USER ---------
 * Registers a new user, adding it to the database in user collection.
@@ -155,61 +143,6 @@ router.post('/changeinfo', function(req, res) {
 * Logs user in after verifying that the user does indeed exist.
 * Using passport primarily for this.
 */
-passport.use(new LocalStrategy(function(username, password, done) {
-    User.getUserByUsername(username, function(err, user) {
-        if(err) throw err;
-        if(!user) {
-            return done(null, false, {message: 'Unknown User'});
-        }
-        User.comparePassword(password, user.password, function(err, isMatch) {
-            if(err) throw err;
-            if(isMatch) {
-                console.log("Logged in as " + user.username + ".");
-                return done(null, user);
-            } else {
-                console.log("Invalid Password");
-                return done(null, false, {message: 'Invalid password.'});
-            }
-        });
-    });
-}));
-
-passport.serializeUser(function(user, done) {
-  done(null, user.id);
-});
-
-passport.deserializeUser(function(id, done) {
-  User.getUserById(id, function(err, user) {
-    done(err, user);
-  });
-});
-
-// Logs user in
-// Displays flash messages if failure
-// redirects to index page.
-router.post('/login',
-passport.authenticate('local'), function(req, res) {
-  console.log(req.user);
-  res.send({
-    user: req.user.username,
-    name: req.user.name,
-    role: req.user.role,
-    email: req.user.email,
-    message: req.message,
-  });
-});
-
-/* --------- LOGOUT --------- */
-router.get('/logout', function(req, res, user) {
-    req.logout();
-    req.flash('success_msg', 'You have logged out.');
-    res.redirect('/');
-});
-
-/* --------- GET Forgot Password page. --------- */
-router.get('/forgot', function(req, res) {
-  res.render('forgot');
-});
 
 /* Directed here after clicking Reset Password on forgot page.
 *  Sends an email to the user with a link and a 'token' that can be used to
