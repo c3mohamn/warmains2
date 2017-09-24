@@ -8,7 +8,6 @@
   align-items: flex-start;
 
   .planner-routes {
-    box-shadow: $wm-boxshadow-1;
     min-width: 100px;
     width: 200px;
     padding: 1rem;
@@ -18,30 +17,6 @@
 
     p {
       font-size: 12px;
-    }
-
-    &:hover {
-      box-shadow: $wm-boxshadow-2;
-    }
-
-    &:active {
-      box-shadow: $wm-boxshadow-1;
-    }
-
-    &:focus {
-      outline: 0;
-    }
-
-    &.disabled {
-      opacity: .7;
-
-      &:hover {
-        box-shadow: $wm-boxshadow-1;
-      }
-
-      &:focus {
-        outline: 0;
-      }
     }
   }
 }

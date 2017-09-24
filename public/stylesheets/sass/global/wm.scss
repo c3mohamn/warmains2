@@ -23,6 +23,10 @@
   padding-right: 0;
 }
 
+.no-margin {
+  margin: 0;
+}
+
 html {
   width: 100%;
   height: 100%;
@@ -39,7 +43,61 @@ body {
   padding: 5rem 1rem;
 }
 
+// Container style
 .dark-container {
   background-color: $wm-secondary-dark;
   color: $wm-primary-light;
+  box-shadow: $wm-boxshadow-1;
+
+  &.hoverable {
+    &:hover {
+      box-shadow: $wm-boxshadow-2;
+      background-color: lighten($wm-secondary-dark, 10%);
+    }
+
+    &:active {
+      box-shadow: $wm-boxshadow-1;
+    }
+
+    &:focus {
+      outline: 0;
+    }
+
+    &.disabled {
+      opacity: .7;
+
+      &:hover {
+        box-shadow: $wm-boxshadow-1;
+        background-color: $wm-secondary-dark;
+      }
+
+      &:focus {
+        outline: 0;
+      }
+    }
+  }
+}
+
+// Class Icons
+.class-icons {
+  width: 48px;
+  height: 48px;
+
+  &.small {
+    width: 32px;
+    height: 32px;
+  }
+
+  &.large {
+    width: 64px;
+    height: 64px;
+  }
+
+  &.hoverable {
+    cursor: pointer;
+
+    &:hover {
+      opacity: .8;
+    }
+  }
 }

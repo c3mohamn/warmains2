@@ -1,0 +1,48 @@
+<div class="flex-container flex-dir-column talent-container dark-container">
+  <!-- Header -->
+  <div class="talent-header flex-child-shrink" ng-if="validClassId()">
+    <img class="class-icons" ng-src="/images/class-icons/{{classId}}.png" alt="">
+    <div class="change-class float-right">
+      <ul class="menu">
+        <li ng-repeat="(id, name) in classes" ng-click="changeClass(id)">
+          <img class="class-icons small hoverable" ng-src="/images/class-icons/{{id}}.png" alt="{{name}}">
+        </li>
+      </ul>
+    </div>
+    <hr>
+  </div>
+  <!-- Pick a class (when new) -->
+  <div class="pick-class" ng-if="!validClassId()">
+    <h5>Pick a class</h5>
+    <ul class="menu align-center">
+      <li ng-repeat="(id, name) in classes" ng-click="changeClass(id)">
+        <img
+          class="class-icons large hoverable"
+          ng-src="/images/class-icons/{{id}}.png"
+          alt="{{name}}"
+          tooltip="{{name}}"
+          tooltip-placement="bottom">
+      </li>
+    </ul>
+  </div>
+
+  <!-- Calculator -->
+  <div class="calculator" ng-if="validClassId()">
+    <span>{{classes[classId]}}</span>
+
+    <!-- Generate 3 sub trees, talent rows & columns -->
+    <div class="talent-trees flex-container align-middle align-center">
+      <div ng-repeat="tree in [0, 1, 2]" class="tree left" ng-style="{'background-image': 'url(/images/talents/{{classId}}/{{specs[classId][tree]}}/background.jpg)'}">
+        <div class="talent-row flex-container align-middle align-center" ng-repeat="row in [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]">
+          <div class="talent-col" ng-repeat="col in [0, 1, 2, 3]">
+            <wm-talent col="{{col}}" row="{{row}}" tree="{{tree}}" class-id="{{classId}}" points=""/>
+          </div>
+        </div>
+      </div>
+
+      <div class="glyphs">
+
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,47 @@
+@import "theme";
+
+.talent-container {
+  margin: 50px auto;
+  padding: 1rem;
+  min-width: 800px;
+  width: 90%;
+  max-width: 1260px;
+  background-color: red;
+
+  .pick-class {
+    text-align: center;
+  }
+
+  .calculator {
+
+    .tree {
+      width: 200px;
+      height: 500px;
+      margin: 1rem;
+      border: 2px solid $wm-secondary;
+
+      .talent {
+        height: 35px;
+        width: 35px;
+        margin: 5px 6px;
+
+        &.has-talent {
+          background-size: 31px 31px;
+          border: 2px solid $wm-secondary;
+          border-radius: 3px;
+          box-shadow: $wm-boxshadow-black-2;
+
+          &:hover {
+            box-shadow: $wm-boxshadow-black-1;
+          }
+        }
+
+        &.inactive {
+          opacity: .8;
+          // TODO: make grayscale
+        }
+        // TODO: Make counter CSS
+      }
+    }
+  }
+}

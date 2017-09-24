@@ -107,5 +107,10 @@ wmApp.config(function($stateProvider, $urlRouterProvider, $locationProvider) {
       url: '/planner',
       templateUrl: 'states/planner.html',
       controller: 'plannerCtrl'
+    })
+    .state('talent-calculator', {
+      url: '/planner/talent-calculator/:class/:talents',
+      templateUrl: 'states/talent-calc.html',
+      controller: 'talentCalcCtrl'
     });
 });

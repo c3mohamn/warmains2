@@ -30,7 +30,7 @@
   .navigation {
     .menu {
       .menu-item {
-        padding: 1rem;
+        padding-left: 1rem;
         cursor: pointer;
         transition: $wm-transition-fastest;
 
@@ -41,6 +41,22 @@
         &:focus {
           color: $wm-primary;
         }
+      }
+    }
+  }
+
+  .avatar {
+    margin-left: 1rem;
+    margin-top: 5px;
+    cursor: pointer;
+
+    i {
+      &:hover {
+        color: $wm-primary;
+      }
+
+      &:focus {
+        color: $wm-primary;
       }
     }
   }

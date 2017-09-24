@@ -20,7 +20,7 @@ wmApp.service('authAPI', ['$http', '$localStorage', '$window', function($http, $
     var base64Url = token.split('.')[1];
     var base64 = base64Url.replace('-', '+').replace('_', '/');
     var currentUser = JSON.parse($window.atob(base64));
-    console.log('(authAPI) - currentUser: ', currentUser);
+    //console.log('(authAPI) - currentUser: ', currentUser);
 
     return currentUser;
   }
