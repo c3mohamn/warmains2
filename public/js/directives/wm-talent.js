@@ -1,4 +1,4 @@
-// ng-right-click directive
+// talent directive
 wmApp.directive('wmTalent', ['charHelper', function(charHelper) {
   return {
     restrict: 'E',
