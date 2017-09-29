@@ -17,7 +17,7 @@
     "SocketBonus": "none",
     "Name": "Amulet of Dazzling Light",
     "Id": "37141",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "37290": {
     "ItemLevel": "200",
@@ -38,7 +38,7 @@
     "SocketBonus": "none",
     "Name": "Dragon Prow Amulet",
     "Id": "37290",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "37397": {
     "ItemLevel": "200",
@@ -57,7 +57,7 @@
     "SocketBonus": "none",
     "Name": "Gold Amulet of Kings",
     "Id": "37397",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "37595": {
     "ItemLevel": "200",
@@ -77,7 +77,7 @@
     "SocketBonus": "none",
     "Name": "Necklace of Taldaram",
     "Id": "37595",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "37646": {
     "ItemLevel": "200",
@@ -97,7 +97,7 @@
     "SocketBonus": "none",
     "Name": "Burning Skull Pendant",
     "Id": "37646",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "37683": {
     "ItemLevel": "200",
@@ -117,7 +117,7 @@
     "SocketBonus": "none",
     "Name": "Necromancer's Amulet",
     "Id": "37683",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "37689": {
     "ItemLevel": "200",
@@ -137,7 +137,7 @@
     "SocketBonus": "none",
     "Name": "Pendant of the Nathrezim",
     "Id": "37689",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "37861": {
     "ItemLevel": "200",
@@ -157,7 +157,7 @@
     "SocketBonus": "none",
     "Name": "Necklace of Arcane Spheres",
     "Id": "37861",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "39146": {
     "ItemLevel": "200",
@@ -178,7 +178,7 @@
     "SocketBonus": "none",
     "Name": "Collar of Dissolution",
     "Id": "39146",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "39232": {
     "ItemLevel": "200",
@@ -199,7 +199,7 @@
     "SocketBonus": "none",
     "Name": "Pendant of Lost Vocations",
     "Id": "39232",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "39246": {
     "ItemLevel": "200",
@@ -220,7 +220,7 @@
     "SocketBonus": "none",
     "Name": "Amulet of Autopsy",
     "Id": "39246",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "39282": {
     "ItemLevel": "200",
@@ -241,7 +241,7 @@
     "SocketBonus": "none",
     "Name": "Bone-Linked Amulet",
     "Id": "39282",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "39392": {
     "ItemLevel": "200",
@@ -262,7 +262,7 @@
     "SocketBonus": "none",
     "Name": "Veiled Amulet of Life",
     "Id": "39392",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "39421": {
     "ItemLevel": "213",
@@ -283,7 +283,7 @@
     "SocketBonus": "none",
     "Name": "Gem of Imprisoned Vassals",
     "Id": "39421",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "39470": {
     "ItemLevel": "200",
@@ -304,7 +304,7 @@
     "SocketBonus": "none",
     "Name": "Medallion of the Disgraced",
     "Id": "39470",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "39472": {
     "ItemLevel": "200",
@@ -325,7 +325,7 @@
     "SocketBonus": "none",
     "Name": "Chain of Latent Energies",
     "Id": "39472",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "40064": {
     "ItemLevel": "213",
@@ -346,7 +346,7 @@
     "SocketBonus": "none",
     "Name": "Thunderstorm Amulet",
     "Id": "40064",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "40065": {
     "ItemLevel": "213",
@@ -367,7 +367,7 @@
     "SocketBonus": "none",
     "Name": "Fool's Trial",
     "Id": "40065",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "40069": {
     "ItemLevel": "213",
@@ -388,7 +388,7 @@
     "SocketBonus": "none",
     "Name": "Heritage",
     "Id": "40069",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "40071": {
     "ItemLevel": "213",
@@ -409,7 +409,7 @@
     "SocketBonus": "none",
     "Name": "Chains of Adoration",
     "Id": "40071",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "40369": {
     "ItemLevel": "213",
@@ -430,7 +430,7 @@
     "SocketBonus": "none",
     "Name": "Icy Blast Amulet",
     "Id": "40369",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "40374": {
     "ItemLevel": "213",
@@ -451,7 +451,7 @@
     "SocketBonus": "none",
     "Name": "Cosmic Lights",
     "Id": "40374",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "40378": {
     "ItemLevel": "213",
@@ -472,7 +472,7 @@
     "SocketBonus": "none",
     "Name": "Ceaseless Pity",
     "Id": "40378",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "40387": {
     "ItemLevel": "226",
@@ -493,7 +493,7 @@
     "SocketBonus": "none",
     "Name": "Boundless Ambition",
     "Id": "40387",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "40412": {
     "ItemLevel": "213",
@@ -514,7 +514,7 @@
     "SocketBonus": "none",
     "Name": "Ousted Bead Necklace",
     "Id": "40412",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "40427": {
     "ItemLevel": "200",
@@ -535,7 +535,7 @@
     "SocketBonus": "none",
     "Name": "Circle of Arcane Streams",
     "Id": "40427",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "40486": {
     "ItemLevel": "213",
@@ -556,7 +556,7 @@
     "SocketBonus": "none",
     "Name": "Necklace of the Glittering Chamber",
     "Id": "40486",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "40678": {
     "ItemLevel": "200",
@@ -576,7 +576,7 @@
     "SocketBonus": "none",
     "Name": "Pendant of the Outcast Hero",
     "Id": "40678",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "40679": {
     "ItemLevel": "200",
@@ -597,7 +597,7 @@
     "SocketBonus": "none",
     "Name": "Chained Military Gorget",
     "Id": "40679",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "40680": {
     "ItemLevel": "200",
@@ -618,7 +618,7 @@
     "SocketBonus": "none",
     "Name": "Encircling Burnished Gold Chains",
     "Id": "40680",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "40681": {
     "ItemLevel": "200",
@@ -639,7 +639,7 @@
     "SocketBonus": "none",
     "Name": "Lattice Choker of Light",
     "Id": "40681",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "42027": {
     "ItemLevel": "213",
@@ -660,7 +660,7 @@
     "SocketBonus": "none",
     "Name": "Deadly Gladiator's Pendant of Triumph",
     "Id": "42027",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "42028": {
     "ItemLevel": "213",
@@ -681,7 +681,7 @@
     "SocketBonus": "none",
     "Name": "Deadly Gladiator's Pendant of Victory",
     "Id": "42028",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "42029": {
     "ItemLevel": "213",
@@ -703,7 +703,7 @@
     "SocketBonus": "none",
     "Name": "Deadly Gladiator's Pendant of Dominance",
     "Id": "42029",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "42030": {
     "ItemLevel": "213",
@@ -725,7 +725,7 @@
     "SocketBonus": "none",
     "Name": "Deadly Gladiator's Pendant of Ascendancy",
     "Id": "42030",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "42031": {
     "ItemLevel": "213",
@@ -747,7 +747,7 @@
     "SocketBonus": "none",
     "Name": "Deadly Gladiator's Pendant of Subjugation",
     "Id": "42031",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "42032": {
     "ItemLevel": "213",
@@ -769,7 +769,7 @@
     "SocketBonus": "none",
     "Name": "Deadly Gladiator's Pendant of Deliverance",
     "Id": "42032",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "42033": {
     "ItemLevel": "213",
@@ -791,7 +791,7 @@
     "SocketBonus": "none",
     "Name": "Deadly Gladiator's Pendant of Salvation",
     "Id": "42033",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "42034": {
     "ItemLevel": "226",
@@ -812,7 +812,7 @@
     "SocketBonus": "none",
     "Name": "Furious Gladiator's Pendant of Triumph",
     "Id": "42034",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "42035": {
     "ItemLevel": "226",
@@ -833,7 +833,7 @@
     "SocketBonus": "none",
     "Name": "Furious Gladiator's Pendant of Victory",
     "Id": "42035",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "42036": {
     "ItemLevel": "226",
@@ -855,7 +855,7 @@
     "SocketBonus": "none",
     "Name": "Furious Gladiator's Pendant of Dominance",
     "Id": "42036",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "42037": {
     "ItemLevel": "226",
@@ -877,7 +877,7 @@
     "SocketBonus": "none",
     "Name": "Furious Gladiator's Pendant of Ascendancy",
     "Id": "42037",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "42038": {
     "ItemLevel": "226",
@@ -899,7 +899,7 @@
     "SocketBonus": "none",
     "Name": "Furious Gladiator's Pendant of Subjugation",
     "Id": "42038",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "42039": {
     "ItemLevel": "226",
@@ -921,7 +921,7 @@
     "SocketBonus": "none",
     "Name": "Furious Gladiator's Pendant of Deliverance",
     "Id": "42039",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "42040": {
     "ItemLevel": "226",
@@ -943,7 +943,7 @@
     "SocketBonus": "none",
     "Name": "Furious Gladiator's Pendant of Salvation",
     "Id": "42040",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "42041": {
     "ItemLevel": "245",
@@ -964,7 +964,7 @@
     "SocketBonus": "none",
     "Name": "Relentless Gladiator's Pendant of Triumph",
     "Id": "42041",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "42042": {
     "ItemLevel": "245",
@@ -985,7 +985,7 @@
     "SocketBonus": "none",
     "Name": "Relentless Gladiator's Pendant of Victory",
     "Id": "42042",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "42043": {
     "ItemLevel": "245",
@@ -1007,7 +1007,7 @@
     "SocketBonus": "none",
     "Name": "Relentless Gladiator's Pendant of Dominance",
     "Id": "42043",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "42044": {
     "ItemLevel": "245",
@@ -1029,7 +1029,7 @@
     "SocketBonus": "none",
     "Name": "Relentless Gladiator's Pendant of Ascendancy",
     "Id": "42044",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "42045": {
     "ItemLevel": "245",
@@ -1051,7 +1051,7 @@
     "SocketBonus": "none",
     "Name": "Relentless Gladiator's Pendant of Subjugation",
     "Id": "42045",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "42046": {
     "ItemLevel": "245",
@@ -1073,7 +1073,7 @@
     "SocketBonus": "none",
     "Name": "Relentless Gladiator's Pendant of Deliverance",
     "Id": "42046",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "42047": {
     "ItemLevel": "245",
@@ -1095,7 +1095,7 @@
     "SocketBonus": "none",
     "Name": "Relentless Gladiator's Pendant of Salvation",
     "Id": "42047",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "42645": {
     "ItemLevel": "200",
@@ -1118,7 +1118,7 @@
     },
     "Name": "Titanium Impact Choker",
     "Id": "42645",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "42646": {
     "ItemLevel": "200",
@@ -1141,7 +1141,7 @@
     },
     "Name": "Titanium Earthguard Chain",
     "Id": "42646",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "42647": {
     "ItemLevel": "200",
@@ -1164,7 +1164,7 @@
     },
     "Name": "Titanium Spellshock Necklace",
     "Id": "42647",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "43282": {
     "ItemLevel": "200",
@@ -1184,7 +1184,7 @@
     "SocketBonus": "none",
     "Name": "Shadowseeker's Pendant",
     "Id": "43282",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "43285": {
     "ItemLevel": "200",
@@ -1204,7 +1204,7 @@
     "SocketBonus": "none",
     "Name": "Amulet of the Spell Flinger",
     "Id": "43285",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "43404": {
     "ItemLevel": "200",
@@ -1225,7 +1225,7 @@
     "SocketBonus": "none",
     "Name": "Zuramat's Necklace",
     "Id": "43404",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "43992": {
     "ItemLevel": "200",
@@ -1249,7 +1249,7 @@
     },
     "Name": "Volitant Amulet",
     "Id": "43992",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "44657": {
     "ItemLevel": "213",
@@ -1273,7 +1273,7 @@
     },
     "Name": "Torque of the Red Dragonflight",
     "Id": "44657",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "44658": {
     "ItemLevel": "213",
@@ -1297,7 +1297,7 @@
     },
     "Name": "Chain of the Ancient Wyrm",
     "Id": "44658",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "44659": {
     "ItemLevel": "213",
@@ -1321,7 +1321,7 @@
     },
     "Name": "Pendant of the Dragonsworn",
     "Id": "44659",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "44660": {
     "ItemLevel": "213",
@@ -1345,7 +1345,7 @@
     },
     "Name": "Drakescale Collar",
     "Id": "44660",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "44661": {
     "ItemLevel": "226",
@@ -1369,7 +1369,7 @@
     },
     "Name": "Wyrmrest Necklace of Power",
     "Id": "44661",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "44662": {
     "ItemLevel": "226",
@@ -1393,7 +1393,7 @@
     },
     "Name": "Life-Binder's Locket",
     "Id": "44662",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "44664": {
     "ItemLevel": "226",
@@ -1417,7 +1417,7 @@
     },
     "Name": "Favor of the Dragon Queen",
     "Id": "44664",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "44665": {
     "ItemLevel": "226",
@@ -1441,7 +1441,7 @@
     },
     "Name": "Nexus War Champion Beads",
     "Id": "44665",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45116": {
     "ItemLevel": "226",
@@ -1462,7 +1462,7 @@
     "SocketBonus": "none",
     "Name": "Freya's Choker of Warding",
     "Id": "45116",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45133": {
     "ItemLevel": "239",
@@ -1486,7 +1486,7 @@
     },
     "Name": "Pendant of Fiery Havoc",
     "Id": "45133",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45152": {
     "ItemLevel": "200",
@@ -1505,7 +1505,7 @@
     "SocketBonus": "none",
     "Name": "Pendant of Azure Dreams",
     "Id": "45152",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45153": {
     "ItemLevel": "200",
@@ -1525,7 +1525,7 @@
     "SocketBonus": "none",
     "Name": "Susurrating Shell Necklace",
     "Id": "45153",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45154": {
     "ItemLevel": "200",
@@ -1545,7 +1545,7 @@
     "SocketBonus": "none",
     "Name": "Necklace of Valiant Blood",
     "Id": "45154",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45155": {
     "ItemLevel": "200",
@@ -1565,7 +1565,7 @@
     "SocketBonus": "none",
     "Name": "Choker of Spiral Focus",
     "Id": "45155",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45193": {
     "ItemLevel": "226",
@@ -1585,7 +1585,7 @@
     "SocketBonus": "none",
     "Name": "Insurmountable Fervor",
     "Id": "45193",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45206": {
     "ItemLevel": "200",
@@ -1605,7 +1605,7 @@
     "SocketBonus": "none",
     "Name": "Choker of Feral Fury",
     "Id": "45206",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45207": {
     "ItemLevel": "200",
@@ -1625,7 +1625,7 @@
     "SocketBonus": "none",
     "Name": "Necklace of Stolen Skulls",
     "Id": "45207",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45213": {
     "ItemLevel": "200",
@@ -1645,7 +1645,7 @@
     "SocketBonus": "none",
     "Name": "Pendant of Emerald Crusader",
     "Id": "45213",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45223": {
     "ItemLevel": "200",
@@ -1664,7 +1664,7 @@
     "SocketBonus": "none",
     "Name": "Razor's Edge Pendant",
     "Id": "45223",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45236": {
     "ItemLevel": "226",
@@ -1685,7 +1685,7 @@
     "SocketBonus": "none",
     "Name": "Unblinking Eye",
     "Id": "45236",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45243": {
     "ItemLevel": "239",
@@ -1709,7 +1709,7 @@
     },
     "Name": "Sapphire Amulet of Renewal",
     "Id": "45243",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45262": {
     "ItemLevel": "226",
@@ -1730,7 +1730,7 @@
     "SocketBonus": "none",
     "Name": "Necklace of Unerring Mettle",
     "Id": "45262",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45285": {
     "ItemLevel": "219",
@@ -1750,7 +1750,7 @@
     "SocketBonus": "none",
     "Name": "Might of the Leviathan",
     "Id": "45285",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45443": {
     "ItemLevel": "239",
@@ -1774,7 +1774,7 @@
     },
     "Name": "Charm of Meticulous Timing",
     "Id": "45443",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45447": {
     "ItemLevel": "226",
@@ -1798,7 +1798,7 @@
     },
     "Name": "Watchful Eye of Fate",
     "Id": "45447",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45459": {
     "ItemLevel": "239",
@@ -1821,7 +1821,7 @@
     },
     "Name": "Frigid Strength of Hodir",
     "Id": "45459",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45480": {
     "ItemLevel": "226",
@@ -1842,7 +1842,7 @@
     "SocketBonus": "none",
     "Name": "Nymph Heart Charm",
     "Id": "45480",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45485": {
     "ItemLevel": "239",
@@ -1866,7 +1866,7 @@
     },
     "Name": "Bronze Pendant of the Vanir",
     "Id": "45485",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45517": {
     "ItemLevel": "239",
@@ -1890,7 +1890,7 @@
     },
     "Name": "Pendulum of Infinity",
     "Id": "45517",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45538": {
     "ItemLevel": "226",
@@ -1911,7 +1911,7 @@
     "SocketBonus": "none",
     "Name": "Titanstone Pendant",
     "Id": "45538",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45539": {
     "ItemLevel": "226",
@@ -1932,7 +1932,7 @@
     "SocketBonus": "none",
     "Name": "Pendant of Focused Energies",
     "Id": "45539",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45696": {
     "ItemLevel": "219",
@@ -1953,7 +1953,7 @@
     "SocketBonus": "none",
     "Name": "Mark of the Unyielding",
     "Id": "45696",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45699": {
     "ItemLevel": "219",
@@ -1974,7 +1974,7 @@
     "SocketBonus": "none",
     "Name": "Pendant of the Piercing Glare",
     "Id": "45699",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45812": {
     "ItemLevel": "200",
@@ -1994,7 +1994,7 @@
     "SocketBonus": "none",
     "Name": "Emerald Choker",
     "Id": "45812",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45813": {
     "ItemLevel": "200",
@@ -2015,7 +2015,7 @@
     "SocketBonus": "none",
     "Name": "Sky Sapphire Amulet",
     "Id": "45813",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45819": {
     "ItemLevel": "226",
@@ -2035,7 +2035,7 @@
     "SocketBonus": "none",
     "Name": "Spiked Battleguard Choker",
     "Id": "45819",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45820": {
     "ItemLevel": "226",
@@ -2056,7 +2056,7 @@
     "SocketBonus": "none",
     "Name": "Broach of the Wailing Night",
     "Id": "45820",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45821": {
     "ItemLevel": "226",
@@ -2077,7 +2077,7 @@
     "SocketBonus": "none",
     "Name": "Shard of the Crystal Forest",
     "Id": "45821",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45822": {
     "ItemLevel": "226",
@@ -2098,7 +2098,7 @@
     "SocketBonus": "none",
     "Name": "Evoker's Charm",
     "Id": "45822",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45823": {
     "ItemLevel": "226",
@@ -2119,7 +2119,7 @@
     "SocketBonus": "none",
     "Name": "Frozen Tear of Elune",
     "Id": "45823",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45933": {
     "ItemLevel": "226",
@@ -2143,7 +2143,7 @@
     },
     "Name": "Pendant of the Shallow Grave",
     "Id": "45933",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45945": {
     "ItemLevel": "226",
@@ -2167,7 +2167,7 @@
     },
     "Name": "Seed of Budding Carnage",
     "Id": "45945",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "45995": {
     "ItemLevel": "200",
@@ -2183,7 +2183,7 @@
     "SocketBonus": "none",
     "Name": "Forgotten Necklace",
     "Id": "45995",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "46008": {
     "ItemLevel": "219",
@@ -2204,7 +2204,7 @@
     "SocketBonus": "none",
     "Name": "Choker of the Abyss",
     "Id": "46008",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "46015": {
     "ItemLevel": "219",
@@ -2225,7 +2225,7 @@
     "SocketBonus": "none",
     "Name": "Pendant of Endless Despair",
     "Id": "46015",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "46022": {
     "ItemLevel": "219",
@@ -2245,7 +2245,7 @@
     "SocketBonus": "none",
     "Name": "Pendant of a Thousand Maws",
     "Id": "46022",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "46040": {
     "ItemLevel": "226",
@@ -2268,7 +2268,7 @@
     },
     "Name": "Strength of the Heavens",
     "Id": "46040",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "46047": {
     "ItemLevel": "226",
@@ -2292,7 +2292,7 @@
     },
     "Name": "Pendant of the Somber Witness",
     "Id": "46047",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "46343": {
     "ItemLevel": "219",
@@ -2313,7 +2313,7 @@
     "SocketBonus": "none",
     "Name": "Fervor of the Protectorate",
     "Id": "46343",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "46373": {
     "ItemLevel": "226",
@@ -2334,7 +2334,7 @@
     "SocketBonus": "none",
     "Name": "Furious Gladiator's Pendant of Sundering",
     "Id": "46373",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "46374": {
     "ItemLevel": "245",
@@ -2355,7 +2355,7 @@
     "SocketBonus": "none",
     "Name": "Relentless Gladiator's Pendant of Sundering",
     "Id": "46374",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "47043": {
     "ItemLevel": "245",
@@ -2376,7 +2376,7 @@
     "SocketBonus": "none",
     "Name": "Charge of the Demon Lord",
     "Id": "47043",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "47060": {
     "ItemLevel": "258",
@@ -2400,7 +2400,7 @@
     },
     "Name": "Charge of the Demon Lord",
     "Id": "47060",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "47105": {
     "ItemLevel": "245",
@@ -2420,7 +2420,7 @@
     "SocketBonus": "none",
     "Name": "The Executioner's Malice",
     "Id": "47105",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "47110": {
     "ItemLevel": "258",
@@ -2443,7 +2443,7 @@
     },
     "Name": "The Executioner's Malice",
     "Id": "47110",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "47116": {
     "ItemLevel": "245",
@@ -2464,7 +2464,7 @@
     "SocketBonus": "none",
     "Name": "The Arbiter's Muse",
     "Id": "47116",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "47133": {
     "ItemLevel": "258",
@@ -2488,7 +2488,7 @@
     },
     "Name": "The Arbiter's Muse",
     "Id": "47133",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "47139": {
     "ItemLevel": "245",
@@ -2509,7 +2509,7 @@
     "SocketBonus": "none",
     "Name": "Wail of the Val'kyr",
     "Id": "47139",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "47144": {
     "ItemLevel": "258",
@@ -2533,7 +2533,7 @@
     },
     "Name": "Wail of the Val'kyr",
     "Id": "47144",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "47219": {
     "ItemLevel": "200",
@@ -2557,7 +2557,7 @@
     },
     "Name": "Brilliant Hailstone Amulet",
     "Id": "47219",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "47272": {
     "ItemLevel": "245",
@@ -2578,7 +2578,7 @@
     "SocketBonus": "none",
     "Name": "Charge of the Eredar",
     "Id": "47272",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "47297": {
     "ItemLevel": "245",
@@ -2598,7 +2598,7 @@
     "SocketBonus": "none",
     "Name": "The Executioner's Vice",
     "Id": "47297",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "47305": {
     "ItemLevel": "245",
@@ -2619,7 +2619,7 @@
     "SocketBonus": "none",
     "Name": "Legionnaire's Gorget",
     "Id": "47305",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "47307": {
     "ItemLevel": "245",
@@ -2640,7 +2640,7 @@
     "SocketBonus": "none",
     "Name": "Cry of the Val'kyr",
     "Id": "47307",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "47433": {
     "ItemLevel": "258",
@@ -2664,7 +2664,7 @@
     },
     "Name": "Charge of the Eredar",
     "Id": "47433",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "47458": {
     "ItemLevel": "258",
@@ -2687,7 +2687,7 @@
     },
     "Name": "The Executioner's Vice",
     "Id": "47458",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "47466": {
     "ItemLevel": "258",
@@ -2711,7 +2711,7 @@
     },
     "Name": "Legionnaire's Gorget",
     "Id": "47466",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "47468": {
     "ItemLevel": "258",
@@ -2735,7 +2735,7 @@
     },
     "Name": "Cry of the Val'kyr",
     "Id": "47468",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "47494": {
     "ItemLevel": "219",
@@ -2756,7 +2756,7 @@
     "SocketBonus": "none",
     "Name": "Ancient Pendant of Arathor",
     "Id": "47494",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "47562": {
     "ItemLevel": "219",
@@ -2780,7 +2780,7 @@
     },
     "Name": "Symbol of Redemption",
     "Id": "47562",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "47566": {
     "ItemLevel": "219",
@@ -2801,7 +2801,7 @@
     "SocketBonus": "none",
     "Name": "The Warlord's Depravity",
     "Id": "47566",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "47607": {
     "ItemLevel": "232",
@@ -2822,7 +2822,7 @@
     "SocketBonus": "none",
     "Name": "Collar of Ceaseless Torment",
     "Id": "47607",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "47619": {
     "ItemLevel": "232",
@@ -2843,7 +2843,7 @@
     "SocketBonus": "none",
     "Name": "Amulet of Binding Elements",
     "Id": "47619",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "47679": {
     "ItemLevel": "232",
@@ -2864,7 +2864,7 @@
     "SocketBonus": "none",
     "Name": "Endurance of the Infernal",
     "Id": "47679",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "47747": {
     "ItemLevel": "232",
@@ -2888,7 +2888,7 @@
     },
     "Name": "Darkbane Pendant",
     "Id": "47747",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "47849": {
     "ItemLevel": "232",
@@ -2909,7 +2909,7 @@
     "SocketBonus": "none",
     "Name": "Collar of Unending Torment",
     "Id": "47849",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "47864": {
     "ItemLevel": "232",
@@ -2930,7 +2930,7 @@
     "SocketBonus": "none",
     "Name": "Pendant of Binding Elements",
     "Id": "47864",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "47872": {
     "ItemLevel": "232",
@@ -2951,7 +2951,7 @@
     "SocketBonus": "none",
     "Name": "Fortitude of the Infernal",
     "Id": "47872",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "47890": {
     "ItemLevel": "232",
@@ -2975,7 +2975,7 @@
     },
     "Name": "Darkbane Amulet",
     "Id": "47890",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "47915": {
     "ItemLevel": "245",
@@ -2999,7 +2999,7 @@
     },
     "Name": "Collar of Ceaseless Torment",
     "Id": "47915",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "47930": {
     "ItemLevel": "245",
@@ -3023,7 +3023,7 @@
     },
     "Name": "Amulet of Binding Elements",
     "Id": "47930",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "47939": {
     "ItemLevel": "245",
@@ -3047,7 +3047,7 @@
     },
     "Name": "Endurance of the Infernal",
     "Id": "47939",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "47957": {
     "ItemLevel": "245",
@@ -3071,7 +3071,7 @@
     },
     "Name": "Darkbane Pendant",
     "Id": "47957",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "47988": {
     "ItemLevel": "245",
@@ -3095,7 +3095,7 @@
     },
     "Name": "Collar of Unending Torment",
     "Id": "47988",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "48003": {
     "ItemLevel": "245",
@@ -3119,7 +3119,7 @@
     },
     "Name": "Pendant of Binding Elements",
     "Id": "48003",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "48011": {
     "ItemLevel": "245",
@@ -3143,7 +3143,7 @@
     },
     "Name": "Fortitude of the Infernal",
     "Id": "48011",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "48030": {
     "ItemLevel": "245",
@@ -3167,7 +3167,7 @@
     },
     "Name": "Darkbane Amulet",
     "Id": "48030",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "49306": {
     "ItemLevel": "232",
@@ -3189,7 +3189,7 @@
     "SocketBonus": "none",
     "Name": "Eskhandar's Choker",
     "Id": "49306",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "49485": {
     "ItemLevel": "245",
@@ -3211,7 +3211,7 @@
     "SocketBonus": "none",
     "Name": "Sparkling Onyxia Tooth Pendant",
     "Id": "49485",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "49492": {
     "ItemLevel": "245",
@@ -3233,7 +3233,7 @@
     "SocketBonus": "none",
     "Name": "Eskhandar's Links",
     "Id": "49492",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "49799": {
     "ItemLevel": "219",
@@ -3254,7 +3254,7 @@
     "SocketBonus": "none",
     "Name": "Coil of Missing Gems",
     "Id": "49799",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "49818": {
     "ItemLevel": "219",
@@ -3274,7 +3274,7 @@
     "SocketBonus": "none",
     "Name": "Painfully Sharp Choker",
     "Id": "49818",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "49975": {
     "ItemLevel": "264",
@@ -3298,7 +3298,7 @@
     },
     "Name": "Bone Sentinel's Amulet",
     "Id": "49975",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "49989": {
     "ItemLevel": "264",
@@ -3321,7 +3321,7 @@
     },
     "Name": "Ahn'kahar Onyx Neckguard",
     "Id": "49989",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "50005": {
     "ItemLevel": "264",
@@ -3345,7 +3345,7 @@
     },
     "Name": "Amulet of the Silent Eulogy",
     "Id": "50005",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "50023": {
     "ItemLevel": "264",
@@ -3369,7 +3369,7 @@
     },
     "Name": "Bile-Encrusted Medallion",
     "Id": "50023",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "50061": {
     "ItemLevel": "264",
@@ -3393,7 +3393,7 @@
     },
     "Name": "Holiday's Grace",
     "Id": "50061",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "50180": {
     "ItemLevel": "264",
@@ -3416,7 +3416,7 @@
     },
     "Name": "Lana'thel's Chain of Flagellation",
     "Id": "50180",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "50182": {
     "ItemLevel": "264",
@@ -3440,7 +3440,7 @@
     },
     "Name": "Blood Queen's Crimson Choker",
     "Id": "50182",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "50195": {
     "ItemLevel": "264",
@@ -3464,7 +3464,7 @@
     },
     "Name": "Noose of Malachite",
     "Id": "50195",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "50196": {
     "ItemLevel": "232",
@@ -3485,7 +3485,7 @@
     "SocketBonus": "none",
     "Name": "Love's Prisoner",
     "Id": "50196",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "50211": {
     "ItemLevel": "232",
@@ -3506,7 +3506,7 @@
     "SocketBonus": "none",
     "Name": "Arcane Loops of Anger",
     "Id": "50211",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "50228": {
     "ItemLevel": "232",
@@ -3527,7 +3527,7 @@
     "SocketBonus": "none",
     "Name": "Barbed Ymirheim Choker",
     "Id": "50228",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "50310": {
     "ItemLevel": "232",
@@ -3548,7 +3548,7 @@
     "SocketBonus": "none",
     "Name": "Fossilized Ammonite Choker",
     "Id": "50310",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "50421": {
     "ItemLevel": "264",
@@ -3572,7 +3572,7 @@
     },
     "Name": "Sindragosa's Cruel Claw",
     "Id": "50421",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "50452": {
     "ItemLevel": "264",
@@ -3596,7 +3596,7 @@
     },
     "Name": "Wodin's Lucky Necklace",
     "Id": "50452",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "50609": {
     "ItemLevel": "277",
@@ -3620,7 +3620,7 @@
     },
     "Name": "Bone Sentinel's Amulet",
     "Id": "50609",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "50627": {
     "ItemLevel": "277",
@@ -3644,7 +3644,7 @@
     },
     "Name": "Noose of Malachite",
     "Id": "50627",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "50633": {
     "ItemLevel": "277",
@@ -3668,7 +3668,7 @@
     },
     "Name": "Sindragosa's Cruel Claw",
     "Id": "50633",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "50647": {
     "ItemLevel": "277",
@@ -3691,7 +3691,7 @@
     },
     "Name": "Ahn'kahar Onyx Neckguard",
     "Id": "50647",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "50658": {
     "ItemLevel": "277",
@@ -3715,7 +3715,7 @@
     },
     "Name": "Amulet of the Silent Eulogy",
     "Id": "50658",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "50682": {
     "ItemLevel": "277",
@@ -3739,7 +3739,7 @@
     },
     "Name": "Bile-Encrusted Medallion",
     "Id": "50682",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "50700": {
     "ItemLevel": "277",
@@ -3763,7 +3763,7 @@
     },
     "Name": "Holiday's Grace",
     "Id": "50700",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "50724": {
     "ItemLevel": "277",
@@ -3787,7 +3787,7 @@
     },
     "Name": "Blood Queen's Crimson Choker",
     "Id": "50724",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "50728": {
     "ItemLevel": "277",
@@ -3810,7 +3810,7 @@
     },
     "Name": "Lana'thel's Chain of Flagellation",
     "Id": "50728",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "50763": {
     "ItemLevel": "251",
@@ -3834,7 +3834,7 @@
     },
     "Name": "Marrowgar's Scratching Choker",
     "Id": "50763",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "50809": {
     "ItemLevel": "251",
@@ -3858,7 +3858,7 @@
     },
     "Name": "Soulcleave Pendant",
     "Id": "50809",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "50852": {
     "ItemLevel": "251",
@@ -3882,7 +3882,7 @@
     },
     "Name": "Precious's Putrid Collar",
     "Id": "50852",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "51008": {
     "ItemLevel": "251",
@@ -3906,7 +3906,7 @@
     },
     "Name": "Choker of Filthy Diamonds",
     "Id": "51008",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "51012": {
     "ItemLevel": "251",
@@ -3929,7 +3929,7 @@
     },
     "Name": "Infected Choker",
     "Id": "51012",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "51016": {
     "ItemLevel": "251",
@@ -3953,7 +3953,7 @@
     },
     "Name": "Pendant of Split Veins",
     "Id": "51016",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "51331": {
     "ItemLevel": "264",
@@ -3975,7 +3975,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Pendant of Dominance",
     "Id": "51331",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "51333": {
     "ItemLevel": "264",
@@ -3997,7 +3997,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Pendant of Subjugation",
     "Id": "51333",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "51335": {
     "ItemLevel": "264",
@@ -4019,7 +4019,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Pendant of Ascendancy",
     "Id": "51335",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "51347": {
     "ItemLevel": "264",
@@ -4041,7 +4041,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Pendant of Salvation",
     "Id": "51347",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "51349": {
     "ItemLevel": "264",
@@ -4063,7 +4063,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Pendant of Deliverance",
     "Id": "51349",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "51353": {
     "ItemLevel": "264",
@@ -4084,7 +4084,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Pendant of Sundering",
     "Id": "51353",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "51355": {
     "ItemLevel": "264",
@@ -4105,7 +4105,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Pendant of Triumph",
     "Id": "51355",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "51357": {
     "ItemLevel": "264",
@@ -4126,7 +4126,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Pendant of Victory",
     "Id": "51357",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "51548": {
     "ItemLevel": "251",
@@ -4149,7 +4149,7 @@
     },
     "Name": "Collar of Haughty Disdain",
     "Id": "51548",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "51568": {
     "ItemLevel": "245",
@@ -4174,7 +4174,7 @@
     },
     "Name": "Titan-Forged Pendant of Ascendancy",
     "Id": "51568",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "51569": {
     "ItemLevel": "245",
@@ -4198,7 +4198,7 @@
     },
     "Name": "Titan-Forged Pendant of Victory",
     "Id": "51569",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "51779": {
     "ItemLevel": "251",
@@ -4222,7 +4222,7 @@
     },
     "Name": "Rimetooth Pendant",
     "Id": "51779",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "51822": {
     "ItemLevel": "264",
@@ -4246,7 +4246,7 @@
     },
     "Name": "Rimetooth Pendant",
     "Id": "51822",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "51842": {
     "ItemLevel": "264",
@@ -4269,7 +4269,7 @@
     },
     "Name": "Collar of Haughty Disdain",
     "Id": "51842",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "51863": {
     "ItemLevel": "264",
@@ -4293,7 +4293,7 @@
     },
     "Name": "Pendant of Split Veins",
     "Id": "51863",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "51867": {
     "ItemLevel": "264",
@@ -4316,7 +4316,7 @@
     },
     "Name": "Infected Choker",
     "Id": "51867",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "51871": {
     "ItemLevel": "264",
@@ -4340,7 +4340,7 @@
     },
     "Name": "Choker of Filthy Diamonds",
     "Id": "51871",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "51890": {
     "ItemLevel": "264",
@@ -4364,7 +4364,7 @@
     },
     "Name": "Precious's Putrid Collar",
     "Id": "51890",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "51894": {
     "ItemLevel": "264",
@@ -4388,7 +4388,7 @@
     },
     "Name": "Soulcleave Pendant",
     "Id": "51894",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "51934": {
     "ItemLevel": "264",
@@ -4412,7 +4412,7 @@
     },
     "Name": "Marrowgar's Scratching Choker",
     "Id": "51934",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "53103": {
     "ItemLevel": "258",
@@ -4435,7 +4435,7 @@
     },
     "Name": "Baltharus' Gift",
     "Id": "53103",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "53132": {
     "ItemLevel": "271",
@@ -4458,7 +4458,7 @@
     },
     "Name": "Penumbra Pendant",
     "Id": "53132",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "54557": {
     "ItemLevel": "271",
@@ -4482,7 +4482,7 @@
     },
     "Name": "Baltharus' Gift",
     "Id": "54557",
-    "Slot": "Neck"
+    "Slot": 2
   },
   "54581": {
     "ItemLevel": "284",
@@ -4505,6 +4505,6 @@
     },
     "Name": "Penumbra Pendant",
     "Id": "54581",
-    "Slot": "Neck"
+    "Slot": 2
   }
 }

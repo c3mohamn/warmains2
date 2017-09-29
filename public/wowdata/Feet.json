@@ -20,7 +20,7 @@
     },
     "Name": "Rift Striders",
     "Id": "37150",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "37167": {
     "ItemLevel": "200",
@@ -46,7 +46,7 @@
     },
     "Name": "Dragon Slayer's Sabatons",
     "Id": "37167",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "37218": {
     "ItemLevel": "200",
@@ -67,7 +67,7 @@
     "SocketBonus": "none",
     "Name": "Stone-Worn Footwraps",
     "Id": "37218",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "37367": {
     "ItemLevel": "200",
@@ -88,7 +88,7 @@
     "SocketBonus": "none",
     "Name": "Echoing Stompers",
     "Id": "37367",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "37618": {
     "ItemLevel": "200",
@@ -109,7 +109,7 @@
     "SocketBonus": "none",
     "Name": "Greaves of Ancient Evil",
     "Id": "37618",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "37629": {
     "ItemLevel": "200",
@@ -130,7 +130,7 @@
     "SocketBonus": "none",
     "Name": "Slithering Slippers",
     "Id": "37629",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "37632": {
     "ItemLevel": "200",
@@ -154,7 +154,7 @@
     },
     "Name": "Mojo Frenzy Greaves",
     "Id": "37632",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "37640": {
     "ItemLevel": "200",
@@ -178,7 +178,7 @@
     },
     "Name": "Boots of Transformation",
     "Id": "37640",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "37654": {
     "ItemLevel": "200",
@@ -199,7 +199,7 @@
     "SocketBonus": "none",
     "Name": "Sabatons of the Ages",
     "Id": "37654",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "37666": {
     "ItemLevel": "200",
@@ -220,7 +220,7 @@
     "SocketBonus": "none",
     "Name": "Boots of the Whirling Mist",
     "Id": "37666",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "37712": {
     "ItemLevel": "200",
@@ -244,7 +244,7 @@
     },
     "Name": "Terrace Defence Boots",
     "Id": "37712",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "37730": {
     "ItemLevel": "200",
@@ -268,7 +268,7 @@
     },
     "Name": "Cleric's Linen Shoes",
     "Id": "37730",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "37841": {
     "ItemLevel": "200",
@@ -292,7 +292,7 @@
     },
     "Name": "Slag Footguards",
     "Id": "37841",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "37847": {
     "ItemLevel": "200",
@@ -313,7 +313,7 @@
     "SocketBonus": "none",
     "Name": "Skywall Striders",
     "Id": "37847",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "37867": {
     "ItemLevel": "200",
@@ -337,7 +337,7 @@
     },
     "Name": "Footwraps of Teleportation",
     "Id": "37867",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "37870": {
     "ItemLevel": "200",
@@ -359,7 +359,7 @@
     "SocketBonus": "none",
     "Name": "Twin-Headed Boots",
     "Id": "37870",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "39139": {
     "ItemLevel": "200",
@@ -380,7 +380,7 @@
     "SocketBonus": "none",
     "Name": "Ravaging Sabatons",
     "Id": "39139",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "39189": {
     "ItemLevel": "200",
@@ -402,7 +402,7 @@
     "SocketBonus": "none",
     "Name": "Boots of Persistence",
     "Id": "39189",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "39196": {
     "ItemLevel": "200",
@@ -424,7 +424,7 @@
     "SocketBonus": "none",
     "Name": "Boots of the Worshiper",
     "Id": "39196",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "39215": {
     "ItemLevel": "200",
@@ -446,7 +446,7 @@
     "SocketBonus": "none",
     "Name": "Boots of the Follower",
     "Id": "39215",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "39234": {
     "ItemLevel": "200",
@@ -468,7 +468,7 @@
     "SocketBonus": "none",
     "Name": "Plague-Impervious Boots",
     "Id": "39234",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "39236": {
     "ItemLevel": "200",
@@ -491,7 +491,7 @@
     "SocketBonus": "none",
     "Name": "Trespasser's Boots",
     "Id": "39236",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "39254": {
     "ItemLevel": "200",
@@ -513,7 +513,7 @@
     "SocketBonus": "none",
     "Name": "Saltarello Shoes",
     "Id": "39254",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "39273": {
     "ItemLevel": "200",
@@ -535,7 +535,7 @@
     "SocketBonus": "none",
     "Name": "Sullen Cloth Boots",
     "Id": "39273",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "39369": {
     "ItemLevel": "200",
@@ -557,7 +557,7 @@
     "SocketBonus": "none",
     "Name": "Sabatons of Deathlike Gloom",
     "Id": "39369",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "39701": {
     "ItemLevel": "213",
@@ -579,7 +579,7 @@
     "SocketBonus": "none",
     "Name": "Dawnwalkers",
     "Id": "39701",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "39706": {
     "ItemLevel": "213",
@@ -603,7 +603,7 @@
     },
     "Name": "Sabatons of Sudden Reprisal",
     "Id": "39706",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "39717": {
     "ItemLevel": "213",
@@ -628,7 +628,7 @@
     },
     "Name": "Inexorable Sabatons",
     "Id": "39717",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "39734": {
     "ItemLevel": "213",
@@ -650,7 +650,7 @@
     "SocketBonus": "none",
     "Name": "Atonement Greaves",
     "Id": "39734",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40184": {
     "ItemLevel": "213",
@@ -673,7 +673,7 @@
     "SocketBonus": "none",
     "Name": "Crippled Treads",
     "Id": "40184",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40187": {
     "ItemLevel": "213",
@@ -698,7 +698,7 @@
     },
     "Name": "Poignant Sabatons",
     "Id": "40187",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40206": {
     "ItemLevel": "213",
@@ -719,7 +719,7 @@
     "SocketBonus": "none",
     "Name": "Iron-Spring Jumpers",
     "Id": "40206",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40236": {
     "ItemLevel": "213",
@@ -741,7 +741,7 @@
     "SocketBonus": "none",
     "Name": "Serene Echoes",
     "Id": "40236",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40237": {
     "ItemLevel": "213",
@@ -766,7 +766,7 @@
     },
     "Name": "Eruption-Scarred Boots",
     "Id": "40237",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40243": {
     "ItemLevel": "213",
@@ -791,7 +791,7 @@
     },
     "Name": "Footwraps of Vile Deceit",
     "Id": "40243",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40246": {
     "ItemLevel": "213",
@@ -813,7 +813,7 @@
     "SocketBonus": "none",
     "Name": "Boots of Impetuous Ideals",
     "Id": "40246",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40269": {
     "ItemLevel": "213",
@@ -838,7 +838,7 @@
     },
     "Name": "Boots of Persuasion",
     "Id": "40269",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40270": {
     "ItemLevel": "213",
@@ -863,7 +863,7 @@
     },
     "Name": "Boots of Septic Wounds",
     "Id": "40270",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40297": {
     "ItemLevel": "213",
@@ -885,7 +885,7 @@
     "SocketBonus": "none",
     "Name": "Sabatons of Endurance",
     "Id": "40297",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40320": {
     "ItemLevel": "213",
@@ -907,7 +907,7 @@
     "SocketBonus": "none",
     "Name": "Faithful Steel Sabatons",
     "Id": "40320",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40326": {
     "ItemLevel": "213",
@@ -932,7 +932,7 @@
     },
     "Name": "Boots of Forlorn Wishes",
     "Id": "40326",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40367": {
     "ItemLevel": "213",
@@ -958,7 +958,7 @@
     },
     "Name": "Boots of the Great Construct",
     "Id": "40367",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40409": {
     "ItemLevel": "213",
@@ -980,7 +980,7 @@
     "SocketBonus": "none",
     "Name": "Boots of the Escaped Captive",
     "Id": "40409",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40519": {
     "ItemLevel": "213",
@@ -1002,7 +1002,7 @@
     "SocketBonus": "none",
     "Name": "Footsteps of Malygos",
     "Id": "40519",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40549": {
     "ItemLevel": "226",
@@ -1025,7 +1025,7 @@
     "SocketBonus": "none",
     "Name": "Boots of the Renewed Flight",
     "Id": "40549",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40558": {
     "ItemLevel": "226",
@@ -1047,7 +1047,7 @@
     "SocketBonus": "none",
     "Name": "Arcanic Tramplers",
     "Id": "40558",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40591": {
     "ItemLevel": "226",
@@ -1068,7 +1068,7 @@
     "SocketBonus": "none",
     "Name": "Melancholy Sabatons",
     "Id": "40591",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40592": {
     "ItemLevel": "226",
@@ -1090,7 +1090,7 @@
     "SocketBonus": "none",
     "Name": "Boots of Healing Energies",
     "Id": "40592",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40742": {
     "ItemLevel": "213",
@@ -1111,7 +1111,7 @@
     "SocketBonus": "none",
     "Name": "Bladed Steelboots",
     "Id": "40742",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40743": {
     "ItemLevel": "213",
@@ -1133,7 +1133,7 @@
     "SocketBonus": "none",
     "Name": "Kyzoc's Ground Stompers",
     "Id": "40743",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40745": {
     "ItemLevel": "213",
@@ -1155,7 +1155,7 @@
     "SocketBonus": "none",
     "Name": "Sabatons of Rapid Recovery",
     "Id": "40745",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40746": {
     "ItemLevel": "213",
@@ -1178,7 +1178,7 @@
     "SocketBonus": "none",
     "Name": "Pack-Ice Striders",
     "Id": "40746",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40747": {
     "ItemLevel": "213",
@@ -1200,7 +1200,7 @@
     "SocketBonus": "none",
     "Name": "Treads of Coastal Wandering",
     "Id": "40747",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40748": {
     "ItemLevel": "213",
@@ -1222,7 +1222,7 @@
     "SocketBonus": "none",
     "Name": "Boots of Captain Ellis",
     "Id": "40748",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40749": {
     "ItemLevel": "213",
@@ -1244,7 +1244,7 @@
     "SocketBonus": "none",
     "Name": "Rainey's Chewed Boots",
     "Id": "40749",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40750": {
     "ItemLevel": "213",
@@ -1266,7 +1266,7 @@
     "SocketBonus": "none",
     "Name": "Xintor's Expeditionary Boots",
     "Id": "40750",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40751": {
     "ItemLevel": "213",
@@ -1288,7 +1288,7 @@
     "SocketBonus": "none",
     "Name": "Slippers of the Holy Light",
     "Id": "40751",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40880": {
     "ItemLevel": "213",
@@ -1313,7 +1313,7 @@
     },
     "Name": "Deadly Gladiator's Greaves of Triumph",
     "Id": "40880",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40882": {
     "ItemLevel": "226",
@@ -1338,7 +1338,7 @@
     },
     "Name": "Furious Gladiator's Greaves of Triumph",
     "Id": "40882",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40884": {
     "ItemLevel": "245",
@@ -1363,7 +1363,7 @@
     },
     "Name": "Relentless Gladiator's Greaves of Triumph",
     "Id": "40884",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40975": {
     "ItemLevel": "213",
@@ -1389,7 +1389,7 @@
     },
     "Name": "Deadly Gladiator's Greaves of Salvation",
     "Id": "40975",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40977": {
     "ItemLevel": "226",
@@ -1415,7 +1415,7 @@
     },
     "Name": "Furious Gladiator's Greaves of Salvation",
     "Id": "40977",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "40979": {
     "ItemLevel": "245",
@@ -1441,7 +1441,7 @@
     },
     "Name": "Relentless Gladiator's Greaves of Salvation",
     "Id": "40979",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "41054": {
     "ItemLevel": "213",
@@ -1467,7 +1467,7 @@
     },
     "Name": "Deadly Gladiator's Sabatons of Salvation",
     "Id": "41054",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "41055": {
     "ItemLevel": "226",
@@ -1493,7 +1493,7 @@
     },
     "Name": "Furious Gladiator's Sabatons of Salvation",
     "Id": "41055",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "41056": {
     "ItemLevel": "245",
@@ -1519,7 +1519,7 @@
     },
     "Name": "Relentless Gladiator's Sabatons of Salvation",
     "Id": "41056",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "41074": {
     "ItemLevel": "213",
@@ -1545,7 +1545,7 @@
     },
     "Name": "Deadly Gladiator's Sabatons of Dominance",
     "Id": "41074",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "41075": {
     "ItemLevel": "226",
@@ -1571,7 +1571,7 @@
     },
     "Name": "Furious Gladiator's Sabatons of Dominance",
     "Id": "41075",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "41076": {
     "ItemLevel": "245",
@@ -1597,7 +1597,7 @@
     },
     "Name": "Relentless Gladiator's Sabatons of Dominance",
     "Id": "41076",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "41229": {
     "ItemLevel": "213",
@@ -1624,7 +1624,7 @@
     },
     "Name": "Deadly Gladiator's Sabatons of Triumph",
     "Id": "41229",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "41230": {
     "ItemLevel": "226",
@@ -1651,7 +1651,7 @@
     },
     "Name": "Furious Gladiator's Sabatons of Triumph",
     "Id": "41230",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "41231": {
     "ItemLevel": "245",
@@ -1678,7 +1678,7 @@
     },
     "Name": "Relentless Gladiator's Sabatons of Triumph",
     "Id": "41231",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "41391": {
     "ItemLevel": "200",
@@ -1698,7 +1698,7 @@
     "SocketBonus": "none",
     "Name": "Spiked Titansteel Treads",
     "Id": "41391",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "41392": {
     "ItemLevel": "200",
@@ -1718,7 +1718,7 @@
     "SocketBonus": "none",
     "Name": "Tempered Titansteel Treads",
     "Id": "41392",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "41394": {
     "ItemLevel": "200",
@@ -1738,7 +1738,7 @@
     "SocketBonus": "none",
     "Name": "Brilliant Titansteel Treads",
     "Id": "41394",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "41620": {
     "ItemLevel": "213",
@@ -1764,7 +1764,7 @@
     },
     "Name": "Deadly Gladiator's Boots of Salvation",
     "Id": "41620",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "41621": {
     "ItemLevel": "226",
@@ -1790,7 +1790,7 @@
     },
     "Name": "Furious Gladiator's Boots of Salvation",
     "Id": "41621",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "41622": {
     "ItemLevel": "245",
@@ -1816,7 +1816,7 @@
     },
     "Name": "Relentless Gladiator's Boots of Salvation",
     "Id": "41622",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "41634": {
     "ItemLevel": "213",
@@ -1842,7 +1842,7 @@
     },
     "Name": "Deadly Gladiator's Boots of Dominance",
     "Id": "41634",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "41635": {
     "ItemLevel": "226",
@@ -1866,7 +1866,7 @@
     "SocketBonus": "none",
     "Name": "Furious Gladiator's Boots of Dominance",
     "Id": "41635",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "41636": {
     "ItemLevel": "245",
@@ -1892,7 +1892,7 @@
     },
     "Name": "Relentless Gladiator's Boots of Dominance",
     "Id": "41636",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "41835": {
     "ItemLevel": "213",
@@ -1918,7 +1918,7 @@
     },
     "Name": "Deadly Gladiator's Boots of Triumph",
     "Id": "41835",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "41836": {
     "ItemLevel": "226",
@@ -1944,7 +1944,7 @@
     },
     "Name": "Furious Gladiator's Boots of Triumph",
     "Id": "41836",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "41837": {
     "ItemLevel": "245",
@@ -1970,7 +1970,7 @@
     },
     "Name": "Relentless Gladiator's Boots of Triumph",
     "Id": "41837",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "41884": {
     "ItemLevel": "213",
@@ -1996,7 +1996,7 @@
     },
     "Name": "Deadly Gladiator's Treads of Salvation",
     "Id": "41884",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "41885": {
     "ItemLevel": "226",
@@ -2022,7 +2022,7 @@
     },
     "Name": "Furious Gladiator's Slippers of Salvation",
     "Id": "41885",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "41886": {
     "ItemLevel": "245",
@@ -2048,7 +2048,7 @@
     },
     "Name": "Relentless Gladiator's Treads of Salvation",
     "Id": "41886",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "41902": {
     "ItemLevel": "213",
@@ -2074,7 +2074,7 @@
     },
     "Name": "Deadly Gladiator's Treads of Dominance",
     "Id": "41902",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "41903": {
     "ItemLevel": "226",
@@ -2100,7 +2100,7 @@
     },
     "Name": "Furious Gladiator's Slippers of Dominance",
     "Id": "41903",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "41904": {
     "ItemLevel": "245",
@@ -2126,7 +2126,7 @@
     },
     "Name": "Relentless Gladiator's Treads of Dominance",
     "Id": "41904",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "43312": {
     "ItemLevel": "200",
@@ -2150,7 +2150,7 @@
     },
     "Name": "Gorloc Muddy Footwraps",
     "Id": "43312",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "43402": {
     "ItemLevel": "200",
@@ -2173,7 +2173,7 @@
     },
     "Name": "The Obliterator Greaves",
     "Id": "43402",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "43405": {
     "ItemLevel": "200",
@@ -2197,7 +2197,7 @@
     },
     "Name": "Sabatons of Erekem",
     "Id": "43405",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "43469": {
     "ItemLevel": "200",
@@ -2218,7 +2218,7 @@
     "SocketBonus": "none",
     "Name": "Revenant's Treads",
     "Id": "43469",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "43502": {
     "ItemLevel": "200",
@@ -2239,7 +2239,7 @@
     "SocketBonus": "none",
     "Name": "Earthgiving Boots",
     "Id": "43502",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "43585": {
     "ItemLevel": "213",
@@ -2262,7 +2262,7 @@
     },
     "Name": "Glacial Slippers",
     "Id": "43585",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "43588": {
     "ItemLevel": "213",
@@ -2285,7 +2285,7 @@
     },
     "Name": "Icebane Treads",
     "Id": "43588",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "43592": {
     "ItemLevel": "213",
@@ -2308,7 +2308,7 @@
     },
     "Name": "Polar Boots",
     "Id": "43592",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "43595": {
     "ItemLevel": "213",
@@ -2331,7 +2331,7 @@
     },
     "Name": "Icy Scale Boots",
     "Id": "43595",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "43996": {
     "ItemLevel": "213",
@@ -2356,7 +2356,7 @@
     },
     "Name": "Sabatons of Firmament",
     "Id": "43996",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "44182": {
     "ItemLevel": "200",
@@ -2378,7 +2378,7 @@
     "SocketBonus": "none",
     "Name": "Boots of Twinkling Stars",
     "Id": "44182",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "44201": {
     "ItemLevel": "200",
@@ -2399,7 +2399,7 @@
     "SocketBonus": "none",
     "Name": "Sabatons of Draconic Vigor",
     "Id": "44201",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "44202": {
     "ItemLevel": "200",
@@ -2423,7 +2423,7 @@
     },
     "Name": "Sandals of Crimson Fury",
     "Id": "44202",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "44297": {
     "ItemLevel": "200",
@@ -2444,7 +2444,7 @@
     "SocketBonus": "none",
     "Name": "Boots of the Neverending Path",
     "Id": "44297",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "44306": {
     "ItemLevel": "200",
@@ -2468,7 +2468,7 @@
     },
     "Name": "Death-Inured Sabatons",
     "Id": "44306",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "44891": {
     "ItemLevel": "200",
@@ -2494,7 +2494,7 @@
     },
     "Name": "Titan-Forged Boots of Dominance",
     "Id": "44891",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "44892": {
     "ItemLevel": "200",
@@ -2520,7 +2520,7 @@
     },
     "Name": "Titan-Forged Boots of Salvation",
     "Id": "44892",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "44893": {
     "ItemLevel": "200",
@@ -2546,7 +2546,7 @@
     },
     "Name": "Titan-Forged Boots of Triumph",
     "Id": "44893",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "44894": {
     "ItemLevel": "200",
@@ -2572,7 +2572,7 @@
     },
     "Name": "Titan-Forged Greaves of Salvation",
     "Id": "44894",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "44895": {
     "ItemLevel": "200",
@@ -2597,7 +2597,7 @@
     },
     "Name": "Titan-Forged Greaves of Triumph",
     "Id": "44895",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "44896": {
     "ItemLevel": "200",
@@ -2623,7 +2623,7 @@
     },
     "Name": "Titan-Forged Sabatons of Dominance",
     "Id": "44896",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "44897": {
     "ItemLevel": "200",
@@ -2649,7 +2649,7 @@
     },
     "Name": "Titan-Forged Sabatons of Salvation",
     "Id": "44897",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "44898": {
     "ItemLevel": "200",
@@ -2676,7 +2676,7 @@
     },
     "Name": "Titan-Forged Sabatons of Triumph",
     "Id": "44898",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "44899": {
     "ItemLevel": "200",
@@ -2702,7 +2702,7 @@
     },
     "Name": "Titan-Forged Slippers of Dominance",
     "Id": "44899",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "44900": {
     "ItemLevel": "200",
@@ -2728,7 +2728,7 @@
     },
     "Name": "Titan-Forged Slippers of Salvation",
     "Id": "44900",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "44930": {
     "ItemLevel": "200",
@@ -2749,7 +2749,7 @@
     "SocketBonus": "none",
     "Name": "Windripper Boots",
     "Id": "44930",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45135": {
     "ItemLevel": "239",
@@ -2775,7 +2775,7 @@
     },
     "Name": "Boots of Fiery Resolution",
     "Id": "45135",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45159": {
     "ItemLevel": "200",
@@ -2799,7 +2799,7 @@
     },
     "Name": "Treads of Nimble Evasion",
     "Id": "45159",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45162": {
     "ItemLevel": "226",
@@ -2821,7 +2821,7 @@
     "SocketBonus": "none",
     "Name": "Flamestalker Boots",
     "Id": "45162",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45163": {
     "ItemLevel": "200",
@@ -2842,7 +2842,7 @@
     "SocketBonus": "none",
     "Name": "Stanchions of Unseatable Furor",
     "Id": "45163",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45166": {
     "ItemLevel": "226",
@@ -2864,7 +2864,7 @@
     "SocketBonus": "none",
     "Name": "Charred Saronite Greaves",
     "Id": "45166",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45183": {
     "ItemLevel": "200",
@@ -2888,7 +2888,7 @@
     },
     "Name": "Treads of the Glorious Spirit",
     "Id": "45183",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45218": {
     "ItemLevel": "200",
@@ -2909,7 +2909,7 @@
     "SocketBonus": "none",
     "Name": "Blood-Caked Stompers",
     "Id": "45218",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45220": {
     "ItemLevel": "200",
@@ -2933,7 +2933,7 @@
     },
     "Name": "Treads of the Earnest Squire",
     "Id": "45220",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45221": {
     "ItemLevel": "200",
@@ -2957,7 +2957,7 @@
     },
     "Name": "Treads of Whispering Dreams",
     "Id": "45221",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45232": {
     "ItemLevel": "226",
@@ -2982,7 +2982,7 @@
     },
     "Name": "Runed Ironhide Boots",
     "Id": "45232",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45244": {
     "ItemLevel": "239",
@@ -3009,7 +3009,7 @@
     },
     "Name": "Greaves of Swift Vengeance",
     "Id": "45244",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45249": {
     "ItemLevel": "226",
@@ -3032,7 +3032,7 @@
     "SocketBonus": "none",
     "Name": "Brass-lined Boots",
     "Id": "45249",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45258": {
     "ItemLevel": "226",
@@ -3054,7 +3054,7 @@
     "SocketBonus": "none",
     "Name": "Sandals of Rash Temperament",
     "Id": "45258",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45260": {
     "ItemLevel": "226",
@@ -3079,7 +3079,7 @@
     },
     "Name": "Boots of Hasty Revival",
     "Id": "45260",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45302": {
     "ItemLevel": "219",
@@ -3101,7 +3101,7 @@
     "SocketBonus": "none",
     "Name": "Treads of the Invader",
     "Id": "45302",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45330": {
     "ItemLevel": "219",
@@ -3122,7 +3122,7 @@
     "SocketBonus": "none",
     "Name": "Greaves of Iron Intensity",
     "Id": "45330",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45378": {
     "ItemLevel": "219",
@@ -3144,7 +3144,7 @@
     "SocketBonus": "none",
     "Name": "Boots of the Petrified Forest",
     "Id": "45378",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45434": {
     "ItemLevel": "226",
@@ -3169,7 +3169,7 @@
     },
     "Name": "Greaves of the Rockmender",
     "Id": "45434",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45441": {
     "ItemLevel": "226",
@@ -3191,7 +3191,7 @@
     "SocketBonus": "none",
     "Name": "Sandals of the Ancient Keeper",
     "Id": "45441",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45483": {
     "ItemLevel": "226",
@@ -3216,7 +3216,7 @@
     },
     "Name": "Boots of the Servant",
     "Id": "45483",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45501": {
     "ItemLevel": "226",
@@ -3237,7 +3237,7 @@
     "SocketBonus": "none",
     "Name": "Boots of the Underdweller",
     "Id": "45501",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45513": {
     "ItemLevel": "226",
@@ -3259,7 +3259,7 @@
     "SocketBonus": "none",
     "Name": "Boots of the Forgotten Depths",
     "Id": "45513",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45537": {
     "ItemLevel": "239",
@@ -3285,7 +3285,7 @@
     },
     "Name": "Treads of the False Oracle",
     "Id": "45537",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45542": {
     "ItemLevel": "226",
@@ -3310,7 +3310,7 @@
     },
     "Name": "Greaves of the Stonewarder",
     "Id": "45542",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45559": {
     "ItemLevel": "226",
@@ -3335,7 +3335,7 @@
     },
     "Name": "Battlelord's Plate Boots",
     "Id": "45559",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45560": {
     "ItemLevel": "226",
@@ -3361,7 +3361,7 @@
     },
     "Name": "Spiked Deathdealers",
     "Id": "45560",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45561": {
     "ItemLevel": "226",
@@ -3387,7 +3387,7 @@
     },
     "Name": "Treads of Destiny",
     "Id": "45561",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45562": {
     "ItemLevel": "226",
@@ -3414,7 +3414,7 @@
     },
     "Name": "Boots of Living Scale",
     "Id": "45562",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45563": {
     "ItemLevel": "226",
@@ -3440,7 +3440,7 @@
     },
     "Name": "Lightning Grounded Boots",
     "Id": "45563",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45564": {
     "ItemLevel": "226",
@@ -3466,7 +3466,7 @@
     },
     "Name": "Footpads of Silence",
     "Id": "45564",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45565": {
     "ItemLevel": "226",
@@ -3492,7 +3492,7 @@
     },
     "Name": "Boots of Wintry Endurance",
     "Id": "45565",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45566": {
     "ItemLevel": "226",
@@ -3518,7 +3518,7 @@
     },
     "Name": "Spellslinger's Slippers",
     "Id": "45566",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45567": {
     "ItemLevel": "226",
@@ -3544,7 +3544,7 @@
     },
     "Name": "Savior's Slippers",
     "Id": "45567",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45599": {
     "ItemLevel": "239",
@@ -3569,7 +3569,7 @@
     },
     "Name": "Sabatons of Lifeless Night",
     "Id": "45599",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45615": {
     "ItemLevel": "239",
@@ -3595,7 +3595,7 @@
     },
     "Name": "Planewalker Treads",
     "Id": "45615",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45698": {
     "ItemLevel": "219",
@@ -3617,7 +3617,7 @@
     "SocketBonus": "none",
     "Name": "Sabatons of the Iron Watcher",
     "Id": "45698",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45701": {
     "ItemLevel": "219",
@@ -3642,7 +3642,7 @@
     },
     "Name": "Greaves of the Earthbinder",
     "Id": "45701",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45988": {
     "ItemLevel": "226",
@@ -3668,7 +3668,7 @@
     },
     "Name": "Greaves of the Iron Army",
     "Id": "45988",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "45989": {
     "ItemLevel": "226",
@@ -3695,7 +3695,7 @@
     },
     "Name": "Tempered Mercury Greaves",
     "Id": "45989",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "46030": {
     "ItemLevel": "219",
@@ -3717,7 +3717,7 @@
     "SocketBonus": "none",
     "Name": "Treads of the Dragon Council",
     "Id": "46030",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "46050": {
     "ItemLevel": "226",
@@ -3743,7 +3743,7 @@
     },
     "Name": "Starlight Treads",
     "Id": "46050",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "46346": {
     "ItemLevel": "219",
@@ -3766,7 +3766,7 @@
     "SocketBonus": "none",
     "Name": "Boots of Unsettled Prey",
     "Id": "46346",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "46985": {
     "ItemLevel": "245",
@@ -3791,7 +3791,7 @@
     },
     "Name": "Boots of the Courageous",
     "Id": "46985",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "46986": {
     "ItemLevel": "258",
@@ -3817,7 +3817,7 @@
     },
     "Name": "Boots of the Courageous",
     "Id": "46986",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "46988": {
     "ItemLevel": "245",
@@ -3842,7 +3842,7 @@
     },
     "Name": "Boots of the Unrelenting Storm",
     "Id": "46988",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "46989": {
     "ItemLevel": "258",
@@ -3868,7 +3868,7 @@
     },
     "Name": "Boots of the Unrelenting Storm",
     "Id": "46989",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "46997": {
     "ItemLevel": "245",
@@ -3893,7 +3893,7 @@
     },
     "Name": "Dawnbreaker Greaves",
     "Id": "46997",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47003": {
     "ItemLevel": "258",
@@ -3919,7 +3919,7 @@
     },
     "Name": "Dawnbreaker Greaves",
     "Id": "47003",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47071": {
     "ItemLevel": "245",
@@ -3944,7 +3944,7 @@
     },
     "Name": "Treads of the Icewalker",
     "Id": "47071",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47077": {
     "ItemLevel": "258",
@@ -3970,7 +3970,7 @@
     },
     "Name": "Treads of the Icewalker",
     "Id": "47077",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47090": {
     "ItemLevel": "245",
@@ -3995,7 +3995,7 @@
     },
     "Name": "Boots of Tremoring Earth",
     "Id": "47090",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47092": {
     "ItemLevel": "245",
@@ -4020,7 +4020,7 @@
     },
     "Name": "Boots of the Mourning Widow",
     "Id": "47092",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47097": {
     "ItemLevel": "258",
@@ -4046,7 +4046,7 @@
     },
     "Name": "Boots of the Mourning Widow",
     "Id": "47097",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47099": {
     "ItemLevel": "258",
@@ -4072,7 +4072,7 @@
     },
     "Name": "Boots of Tremoring Earth",
     "Id": "47099",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47106": {
     "ItemLevel": "245",
@@ -4098,7 +4098,7 @@
     },
     "Name": "Sabatons of Ruthless Judgment",
     "Id": "47106",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47109": {
     "ItemLevel": "258",
@@ -4125,7 +4125,7 @@
     },
     "Name": "Sabatons of Ruthless Judgment",
     "Id": "47109",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47150": {
     "ItemLevel": "245",
@@ -4149,7 +4149,7 @@
     },
     "Name": "Greaves of the 7th Legion",
     "Id": "47150",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47154": {
     "ItemLevel": "258",
@@ -4174,7 +4174,7 @@
     },
     "Name": "Greaves of the 7th Legion",
     "Id": "47154",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47175": {
     "ItemLevel": "200",
@@ -4200,7 +4200,7 @@
     },
     "Name": "Scale Boots of the Outlander",
     "Id": "47175",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47194": {
     "ItemLevel": "245",
@@ -4225,7 +4225,7 @@
     },
     "Name": "Footpads of the Icy Floe",
     "Id": "47194",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47199": {
     "ItemLevel": "200",
@@ -4250,7 +4250,7 @@
     },
     "Name": "Greaves of the Grand Paladin",
     "Id": "47199",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47201": {
     "ItemLevel": "200",
@@ -4275,7 +4275,7 @@
     },
     "Name": "Boots of Heartfelt Repentance",
     "Id": "47201",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47205": {
     "ItemLevel": "258",
@@ -4301,7 +4301,7 @@
     },
     "Name": "Footpads of the Icy Floe",
     "Id": "47205",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47248": {
     "ItemLevel": "219",
@@ -4326,7 +4326,7 @@
     },
     "Name": "Treads of Dismal Fortune",
     "Id": "47248",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47262": {
     "ItemLevel": "245",
@@ -4351,7 +4351,7 @@
     },
     "Name": "Boots of the Harsh Winter",
     "Id": "47262",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47263": {
     "ItemLevel": "245",
@@ -4376,7 +4376,7 @@
     },
     "Name": "Sabatons of the Courageous",
     "Id": "47263",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47269": {
     "ItemLevel": "245",
@@ -4401,7 +4401,7 @@
     },
     "Name": "Dawnbreaker Sabatons",
     "Id": "47269",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47284": {
     "ItemLevel": "245",
@@ -4426,7 +4426,7 @@
     },
     "Name": "Icewalker Treads",
     "Id": "47284",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47293": {
     "ItemLevel": "245",
@@ -4451,7 +4451,7 @@
     },
     "Name": "Sandals of the Mourning Widow",
     "Id": "47293",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47295": {
     "ItemLevel": "245",
@@ -4476,7 +4476,7 @@
     },
     "Name": "Sabatons of Tremoring Earth",
     "Id": "47295",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47296": {
     "ItemLevel": "245",
@@ -4502,7 +4502,7 @@
     },
     "Name": "Greaves of Ruthless Judgment",
     "Id": "47296",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47312": {
     "ItemLevel": "245",
@@ -4526,7 +4526,7 @@
     },
     "Name": "Greaves of the Saronite Citadel",
     "Id": "47312",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47321": {
     "ItemLevel": "245",
@@ -4551,7 +4551,7 @@
     },
     "Name": "Boots of the Icy Floe",
     "Id": "47321",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47423": {
     "ItemLevel": "258",
@@ -4577,7 +4577,7 @@
     },
     "Name": "Boots of the Harsh Winter",
     "Id": "47423",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47424": {
     "ItemLevel": "258",
@@ -4603,7 +4603,7 @@
     },
     "Name": "Sabatons of the Courageous",
     "Id": "47424",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47430": {
     "ItemLevel": "258",
@@ -4629,7 +4629,7 @@
     },
     "Name": "Dawnbreaker Sabatons",
     "Id": "47430",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47445": {
     "ItemLevel": "258",
@@ -4655,7 +4655,7 @@
     },
     "Name": "Icewalker Treads",
     "Id": "47445",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47454": {
     "ItemLevel": "258",
@@ -4681,7 +4681,7 @@
     },
     "Name": "Sandals of the Mourning Widow",
     "Id": "47454",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47456": {
     "ItemLevel": "258",
@@ -4707,7 +4707,7 @@
     },
     "Name": "Sabatons of Tremoring Earth",
     "Id": "47456",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47457": {
     "ItemLevel": "258",
@@ -4734,7 +4734,7 @@
     },
     "Name": "Greaves of Ruthless Judgment",
     "Id": "47457",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47473": {
     "ItemLevel": "258",
@@ -4759,7 +4759,7 @@
     },
     "Name": "Greaves of the Saronite Citadel",
     "Id": "47473",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47482": {
     "ItemLevel": "258",
@@ -4785,7 +4785,7 @@
     },
     "Name": "Boots of the Icy Floe",
     "Id": "47482",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47504": {
     "ItemLevel": "219",
@@ -4807,7 +4807,7 @@
     "SocketBonus": "none",
     "Name": "Barkhide Treads",
     "Id": "47504",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47511": {
     "ItemLevel": "219",
@@ -4831,7 +4831,7 @@
     },
     "Name": "Plated Greaves of Providence",
     "Id": "47511",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47560": {
     "ItemLevel": "219",
@@ -4856,7 +4856,7 @@
     },
     "Name": "Boots of the Crackling Flame",
     "Id": "47560",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47608": {
     "ItemLevel": "232",
@@ -4881,7 +4881,7 @@
     },
     "Name": "Acidmaw Boots",
     "Id": "47608",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47683": {
     "ItemLevel": "232",
@@ -4907,7 +4907,7 @@
     },
     "Name": "Sentinel Scouting Greaves",
     "Id": "47683",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47721": {
     "ItemLevel": "232",
@@ -4932,7 +4932,7 @@
     },
     "Name": "Sandals of the Silver Magus",
     "Id": "47721",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47738": {
     "ItemLevel": "232",
@@ -4957,7 +4957,7 @@
     },
     "Name": "Sabatons of the Lingering Vortex",
     "Id": "47738",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47853": {
     "ItemLevel": "232",
@@ -4982,7 +4982,7 @@
     },
     "Name": "Acidmaw Treads",
     "Id": "47853",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47867": {
     "ItemLevel": "232",
@@ -5008,7 +5008,7 @@
     },
     "Name": "Warsong Poacher's Greaves",
     "Id": "47867",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47873": {
     "ItemLevel": "232",
@@ -5033,7 +5033,7 @@
     },
     "Name": "Sunreaver Magus' Sandals",
     "Id": "47873",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47885": {
     "ItemLevel": "232",
@@ -5058,7 +5058,7 @@
     },
     "Name": "Greaves of the Lingering Vortex",
     "Id": "47885",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47919": {
     "ItemLevel": "245",
@@ -5084,7 +5084,7 @@
     },
     "Name": "Acidmaw Boots",
     "Id": "47919",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47933": {
     "ItemLevel": "245",
@@ -5111,7 +5111,7 @@
     },
     "Name": "Sentinel Scouting Greaves",
     "Id": "47933",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47940": {
     "ItemLevel": "245",
@@ -5137,7 +5137,7 @@
     },
     "Name": "Sandals of the Silver Magus",
     "Id": "47940",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47952": {
     "ItemLevel": "245",
@@ -5163,7 +5163,7 @@
     },
     "Name": "Sabatons of the Lingering Vortex",
     "Id": "47952",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "47992": {
     "ItemLevel": "245",
@@ -5189,7 +5189,7 @@
     },
     "Name": "Acidmaw Treads",
     "Id": "47992",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "48006": {
     "ItemLevel": "245",
@@ -5216,7 +5216,7 @@
     },
     "Name": "Warsong Poacher's Greaves",
     "Id": "48006",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "48012": {
     "ItemLevel": "245",
@@ -5242,7 +5242,7 @@
     },
     "Name": "Sunreaver Magus' Sandals",
     "Id": "48012",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "48024": {
     "ItemLevel": "245",
@@ -5268,7 +5268,7 @@
     },
     "Name": "Greaves of the Lingering Vortex",
     "Id": "48024",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "49183": {
     "ItemLevel": "245",
@@ -5294,7 +5294,7 @@
     },
     "Name": "Relentless Gladiator's Treads of Alacrity",
     "Id": "49183",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "49231": {
     "ItemLevel": "232",
@@ -5316,7 +5316,7 @@
     "SocketBonus": "none",
     "Name": "Boots of the Grieving Soul",
     "Id": "49231",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "49232": {
     "ItemLevel": "232",
@@ -5338,7 +5338,7 @@
     "SocketBonus": "none",
     "Name": "Sandals of the Grieving Soul",
     "Id": "49232",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "49233": {
     "ItemLevel": "245",
@@ -5363,7 +5363,7 @@
     },
     "Name": "Sandals of the Grieving Soul",
     "Id": "49233",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "49234": {
     "ItemLevel": "245",
@@ -5388,7 +5388,7 @@
     },
     "Name": "Boots of the Grieving Soul",
     "Id": "49234",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "49235": {
     "ItemLevel": "232",
@@ -5413,7 +5413,7 @@
     },
     "Name": "Boots of Tortured Space",
     "Id": "49235",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "49236": {
     "ItemLevel": "232",
@@ -5438,7 +5438,7 @@
     },
     "Name": "Sabatons of Tortured Space",
     "Id": "49236",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "49237": {
     "ItemLevel": "245",
@@ -5464,7 +5464,7 @@
     },
     "Name": "Sabatons of Tortured Space",
     "Id": "49237",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "49238": {
     "ItemLevel": "245",
@@ -5490,7 +5490,7 @@
     },
     "Name": "Boots of Tortured Space",
     "Id": "49238",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "49795": {
     "ItemLevel": "219",
@@ -5512,7 +5512,7 @@
     "SocketBonus": "none",
     "Name": "Sollerets of Suffering",
     "Id": "49795",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "49798": {
     "ItemLevel": "219",
@@ -5534,7 +5534,7 @@
     "SocketBonus": "none",
     "Name": "Soul Screaming Boots",
     "Id": "49798",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "49805": {
     "ItemLevel": "219",
@@ -5556,7 +5556,7 @@
     "SocketBonus": "none",
     "Name": "Ice-Steeped Sandals",
     "Id": "49805",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "49831": {
     "ItemLevel": "219",
@@ -5579,7 +5579,7 @@
     "SocketBonus": "none",
     "Name": "Muddied Boots of Brill",
     "Id": "49831",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "49890": {
     "ItemLevel": "264",
@@ -5605,7 +5605,7 @@
     },
     "Name": "Deathfrost Boots",
     "Id": "49890",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "49893": {
     "ItemLevel": "264",
@@ -5631,7 +5631,7 @@
     },
     "Name": "Sandals of Consecration",
     "Id": "49893",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "49894": {
     "ItemLevel": "264",
@@ -5657,7 +5657,7 @@
     },
     "Name": "Blessed Cenarion Boots",
     "Id": "49894",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "49895": {
     "ItemLevel": "264",
@@ -5683,7 +5683,7 @@
     },
     "Name": "Footpads of Impending Death",
     "Id": "49895",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "49896": {
     "ItemLevel": "264",
@@ -5709,7 +5709,7 @@
     },
     "Name": "Earthsoul Boots",
     "Id": "49896",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "49897": {
     "ItemLevel": "264",
@@ -5736,7 +5736,7 @@
     },
     "Name": "Rock-Steady Treads",
     "Id": "49897",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "49905": {
     "ItemLevel": "264",
@@ -5762,7 +5762,7 @@
     },
     "Name": "Protectors of Life",
     "Id": "49905",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "49906": {
     "ItemLevel": "264",
@@ -5787,7 +5787,7 @@
     },
     "Name": "Hellfrozen Bonegrinders",
     "Id": "49906",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "49907": {
     "ItemLevel": "264",
@@ -5813,7 +5813,7 @@
     },
     "Name": "Boots of Kingly Upheaval",
     "Id": "49907",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "49950": {
     "ItemLevel": "264",
@@ -5839,7 +5839,7 @@
     },
     "Name": "Frostbitten Fur Boots",
     "Id": "49950",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "49983": {
     "ItemLevel": "264",
@@ -5864,7 +5864,7 @@
     },
     "Name": "Blood-Soaked Saronite Stompers",
     "Id": "49983",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "49993": {
     "ItemLevel": "264",
@@ -5890,7 +5890,7 @@
     },
     "Name": "Necrophotic Greaves",
     "Id": "49993",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "50009": {
     "ItemLevel": "264",
@@ -5918,7 +5918,7 @@
     "UniqueId": "50665",
     "Name": "Boots of Unnatural Growth",
     "Id": "50009",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "50062": {
     "ItemLevel": "264",
@@ -5944,7 +5944,7 @@
     },
     "Name": "Plague Scientist's Boots",
     "Id": "50062",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "50071": {
     "ItemLevel": "264",
@@ -5971,7 +5971,7 @@
     },
     "Name": "Treads of the Wasteland",
     "Id": "50071",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "50190": {
     "ItemLevel": "264",
@@ -5997,7 +5997,7 @@
     },
     "Name": "Grinning Skull Greatboots",
     "Id": "50190",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "50207": {
     "ItemLevel": "232",
@@ -6019,7 +6019,7 @@
     "SocketBonus": "none",
     "Name": "Black Spire Sabatons",
     "Id": "50207",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "50215": {
     "ItemLevel": "232",
@@ -6041,7 +6041,7 @@
     "SocketBonus": "none",
     "Name": "Recovered Reliquary Boots",
     "Id": "50215",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "50283": {
     "ItemLevel": "232",
@@ -6063,7 +6063,7 @@
     "SocketBonus": "none",
     "Name": "Mudslide Boots",
     "Id": "50283",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "50286": {
     "ItemLevel": "232",
@@ -6085,7 +6085,7 @@
     "SocketBonus": "none",
     "Name": "Prelate's Snowshoes",
     "Id": "50286",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "50295": {
     "ItemLevel": "232",
@@ -6108,7 +6108,7 @@
     "SocketBonus": "none",
     "Name": "Spiked Toestompers",
     "Id": "50295",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "50305": {
     "ItemLevel": "232",
@@ -6129,7 +6129,7 @@
     "SocketBonus": "none",
     "Name": "Grinning Skull Boots",
     "Id": "50305",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "50308": {
     "ItemLevel": "232",
@@ -6151,7 +6151,7 @@
     "SocketBonus": "none",
     "Name": "Blighted Leather Footpads",
     "Id": "50308",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "50416": {
     "ItemLevel": "264",
@@ -6177,7 +6177,7 @@
     },
     "Name": "Boots of the Funeral March",
     "Id": "50416",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "50607": {
     "ItemLevel": "277",
@@ -6203,7 +6203,7 @@
     },
     "Name": "Frostbitten Fur Boots",
     "Id": "50607",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "50625": {
     "ItemLevel": "277",
@@ -6229,7 +6229,7 @@
     },
     "Name": "Grinning Skull Greatboots",
     "Id": "50625",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "50632": {
     "ItemLevel": "277",
@@ -6255,7 +6255,7 @@
     },
     "Name": "Boots of the Funeral March",
     "Id": "50632",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "50639": {
     "ItemLevel": "277",
@@ -6280,7 +6280,7 @@
     },
     "Name": "Blood-Soaked Saronite Stompers",
     "Id": "50639",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "50652": {
     "ItemLevel": "277",
@@ -6306,7 +6306,7 @@
     },
     "Name": "Necrophotic Greaves",
     "Id": "50652",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "50665": {
     "ItemLevel": "277",
@@ -6332,7 +6332,7 @@
     },
     "Name": "Boots of Unnatural Growth",
     "Id": "50665",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "50699": {
     "ItemLevel": "277",
@@ -6358,7 +6358,7 @@
     },
     "Name": "Plague Scientist's Boots",
     "Id": "50699",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "50711": {
     "ItemLevel": "277",
@@ -6385,7 +6385,7 @@
     },
     "Name": "Treads of the Wasteland",
     "Id": "50711",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "50772": {
     "ItemLevel": "251",
@@ -6411,7 +6411,7 @@
     },
     "Name": "Ancient Skeletal Boots",
     "Id": "50772",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "50783": {
     "ItemLevel": "251",
@@ -6439,7 +6439,7 @@
     "UniqueId": "51920",
     "Name": "Boots of the Frozen Seed",
     "Id": "50783",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "50788": {
     "ItemLevel": "251",
@@ -6464,7 +6464,7 @@
     },
     "Name": "Bone Drake's Enameled Boots",
     "Id": "50788",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "50804": {
     "ItemLevel": "251",
@@ -6490,7 +6490,7 @@
     },
     "Name": "Icecrown Spire Sandals",
     "Id": "50804",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "50812": {
     "ItemLevel": "251",
@@ -6515,7 +6515,7 @@
     "SocketBonus": "none",
     "Name": "Taldron's Long Neglected Boots",
     "Id": "50812",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "51006": {
     "ItemLevel": "251",
@@ -6541,7 +6541,7 @@
     },
     "Name": "Shuffling Shoes",
     "Id": "51006",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "51023": {
     "ItemLevel": "251",
@@ -6567,7 +6567,7 @@
     },
     "Name": "Taldaram's Soft Slippers",
     "Id": "51023",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "51328": {
     "ItemLevel": "264",
@@ -6593,7 +6593,7 @@
     },
     "Name": "Wrathful Gladiator's Treads of Dominance",
     "Id": "51328",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "51338": {
     "ItemLevel": "264",
@@ -6619,7 +6619,7 @@
     },
     "Name": "Wrathful Gladiator's Treads of Alacrity",
     "Id": "51338",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "51341": {
     "ItemLevel": "264",
@@ -6645,7 +6645,7 @@
     },
     "Name": "Wrathful Gladiator's Boots of Salvation",
     "Id": "51341",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "51344": {
     "ItemLevel": "264",
@@ -6671,7 +6671,7 @@
     },
     "Name": "Wrathful Gladiator's Boots of Dominance",
     "Id": "51344",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "51351": {
     "ItemLevel": "264",
@@ -6698,7 +6698,7 @@
     },
     "Name": "Wrathful Gladiator's Sabatons of Triumph",
     "Id": "51351",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "51360": {
     "ItemLevel": "264",
@@ -6724,7 +6724,7 @@
     },
     "Name": "Wrathful Gladiator's Greaves of Salvation",
     "Id": "51360",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "51363": {
     "ItemLevel": "264",
@@ -6749,7 +6749,7 @@
     },
     "Name": "Wrathful Gladiator's Greaves of Triumph",
     "Id": "51363",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "51366": {
     "ItemLevel": "264",
@@ -6775,7 +6775,7 @@
     },
     "Name": "Wrathful Gladiator's Treads of Salvation",
     "Id": "51366",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "51369": {
     "ItemLevel": "264",
@@ -6801,7 +6801,7 @@
     },
     "Name": "Wrathful Gladiator's Boots of Triumph",
     "Id": "51369",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "51372": {
     "ItemLevel": "264",
@@ -6827,7 +6827,7 @@
     },
     "Name": "Wrathful Gladiator's Sabatons of Salvation",
     "Id": "51372",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "51375": {
     "ItemLevel": "264",
@@ -6853,7 +6853,7 @@
     },
     "Name": "Wrathful Gladiator's Sabatons of Dominance",
     "Id": "51375",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "51380": {
     "ItemLevel": "251",
@@ -6879,7 +6879,7 @@
     },
     "Name": "Pale Corpse Boots",
     "Id": "51380",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "51785": {
     "ItemLevel": "251",
@@ -6906,7 +6906,7 @@
     },
     "Name": "Wyrmwing Treads",
     "Id": "51785",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "51787": {
     "ItemLevel": "251",
@@ -6932,7 +6932,7 @@
     },
     "Name": "Scourge Fanged Stompers",
     "Id": "51787",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "51816": {
     "ItemLevel": "264",
@@ -6958,7 +6958,7 @@
     },
     "Name": "Scourge Fanged Stompers",
     "Id": "51816",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "51818": {
     "ItemLevel": "264",
@@ -6985,7 +6985,7 @@
     },
     "Name": "Wyrmwing Treads",
     "Id": "51818",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "51850": {
     "ItemLevel": "264",
@@ -7009,7 +7009,7 @@
     "SocketBonus": "none",
     "Name": "Pale Corpse Boots",
     "Id": "51850",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "51856": {
     "ItemLevel": "264",
@@ -7035,7 +7035,7 @@
     },
     "Name": "Taldaram's Soft Slippers",
     "Id": "51856",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "51873": {
     "ItemLevel": "264",
@@ -7059,7 +7059,7 @@
     "SocketBonus": "none",
     "Name": "Shuffling Shoes",
     "Id": "51873",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "51891": {
     "ItemLevel": "264",
@@ -7086,7 +7086,7 @@
     },
     "Name": "Taldron's Long Neglected Boots",
     "Id": "51891",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "51899": {
     "ItemLevel": "264",
@@ -7112,7 +7112,7 @@
     },
     "Name": "Icecrown Spire Sandals",
     "Id": "51899",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "51915": {
     "ItemLevel": "264",
@@ -7137,7 +7137,7 @@
     },
     "Name": "Bone Drake's Enameled Boots",
     "Id": "51915",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "51920": {
     "ItemLevel": "264",
@@ -7165,7 +7165,7 @@
     "UniqueId": "51920",
     "Name": "Boots of the Frozen Seed",
     "Id": "51920",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "51931": {
     "ItemLevel": "264",
@@ -7191,7 +7191,7 @@
     },
     "Name": "Ancient Skeletal Boots",
     "Id": "51931",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "53111": {
     "ItemLevel": "258",
@@ -7216,7 +7216,7 @@
     },
     "Name": "Scion's Treads",
     "Id": "53111",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "53119": {
     "ItemLevel": "258",
@@ -7242,7 +7242,7 @@
     },
     "Name": "Boots of Divided Being",
     "Id": "53119",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "53125": {
     "ItemLevel": "271",
@@ -7267,7 +7267,7 @@
     },
     "Name": "Apocalypse's Advance",
     "Id": "53125",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "53127": {
     "ItemLevel": "271",
@@ -7292,7 +7292,7 @@
     },
     "Name": "Returning Footfalls",
     "Id": "53127",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "53129": {
     "ItemLevel": "271",
@@ -7318,7 +7318,7 @@
     },
     "Name": "Treads of Impending Resurrection",
     "Id": "53129",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "53487": {
     "ItemLevel": "271",
@@ -7344,7 +7344,7 @@
     },
     "Name": "Foreshadow Steps",
     "Id": "53487",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "54558": {
     "ItemLevel": "271",
@@ -7370,7 +7370,7 @@
     },
     "Name": "Boots of Divided Being",
     "Id": "54558",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "54564": {
     "ItemLevel": "271",
@@ -7396,7 +7396,7 @@
     },
     "Name": "Scion's Treads",
     "Id": "54564",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "54577": {
     "ItemLevel": "284",
@@ -7423,7 +7423,7 @@
     },
     "Name": "Returning Footfalls",
     "Id": "54577",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "54578": {
     "ItemLevel": "284",
@@ -7448,7 +7448,7 @@
     },
     "Name": "Apocalypse's Advance",
     "Id": "54578",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "54579": {
     "ItemLevel": "284",
@@ -7474,7 +7474,7 @@
     },
     "Name": "Treads of Impending Resurrection",
     "Id": "54579",
-    "Slot": "Feet"
+    "Slot": 8
   },
   "54586": {
     "ItemLevel": "284",
@@ -7500,6 +7500,6 @@
     },
     "Name": "Foreshadow Steps",
     "Id": "54586",
-    "Slot": "Feet"
+    "Slot": 8
   }
 }

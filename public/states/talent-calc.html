@@ -13,15 +13,15 @@
   </div>
   <!-- Pick a class (when new) -->
   <div class="pick-class" ng-if="!validClassId()">
-    <span wm-tooltip content="Test Tooltip" style="position: relative;">Pick a class</span>
+    <span>Pick a class</span>
     <ul class="menu align-center">
       <li ng-repeat="(id, name) in classes" ng-click="changeClass(id)">
         <img
-          stlye="position: relative;"
           class="class-icons large hoverable"
           ng-src="/images/class-icons/{{id}}.png"
           alt="{{name}}"
           wm-tooltip
+          position="left-middle"
           content="{{name}}">
       </li>
     </ul>

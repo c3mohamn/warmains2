@@ -1,21 +1,47 @@
-wmApp.directive('wmTooltip', ['$compile', function($compile) {
+wmApp.directive('wmTooltip', ['$compile', '$document', function($compile, $document) {
   return {
     restrict: 'A',
-    transclude: true,
+    //transclude: true,
     scope: {
       position: '@',
       content: '@'
     },
-    templateUrl: '/partials/wm-tooltip.html',
+    //templateUrl: '/partials/wm-tooltip.html',
     link: function(scope, elem, attrs) {
-
+      var position = scope.position || 'top-middle';
+      var template = $compile("<div class='wm-tooltip' ng-show='showHover'>{{content}}</div>")(scope);
+      var eWidth = elem.prop('width'),
+          eHeight = elem.prop('height');
       scope.showHover = false;
 
-      console.log(scope.content);
+      $document.find('body').append(template);
 
-      elem.bind('mouseenter', function() {
+      var tWidth = template.prop('offsetWidth'),
+          tHeight = template.prop('offsetHeight');
+
+      elem.bind('mouseenter', function(e) {
         scope.$apply(function() {
-            scope.showHover = true;
+          var pos = e.target.getBoundingClientRect();
+          var margin = 10;
+
+          console.log(pos.left, pos.top, eWidth, eHeight, tWidth, tHeight);
+
+          // Position of tooltip
+          if (position == 'top-middle') {
+            template.css('left', pos.left - (tWidth / 2) + (eWidth / 2) + 'px');
+            template.css('top', pos.top - tHeight - margin + 'px');
+          } else if (position == 'left-middle') {
+            template.css('left', pos.left - tWidth - margin + 'px');
+            template.css('top', pos.top - (tHeight / 2) + (eHeight / 2) + 'px');
+          } else if (position == 'right-middle') {
+            template.css('left', pos.right + margin + 'px');
+            template.css('top', pos.top - (tHeight / 2) + (eHeight / 2) + 'px');
+          } else if (position == 'bottom-middle') {
+            template.css('left', pos.left - (tWidth / 2) + (eWidth / 2) + 'px');
+            template.css('top', pos.bottom + margin + 'px');
+          }
+
+          scope.showHover = true;
         });
       });
 
@@ -25,8 +51,11 @@ wmApp.directive('wmTooltip', ['$compile', function($compile) {
         });
       });
 
-      //$compile(elem);
-
+      // elem.bind('mousedown', function() {
+      //   scope.$apply(function() {
+      //       scope.showHover = false;
+      //   });
+      // });
     }
   }
 }]);

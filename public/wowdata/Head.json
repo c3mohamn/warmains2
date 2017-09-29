@@ -22,7 +22,7 @@
     },
     "Name": "Arcane-Shielded Helm",
     "Id": "37135",
-    "Slot": "Head"
+    "Slot": 1
   },
   "37149": {
     "ItemLevel": "200",
@@ -47,7 +47,7 @@
     },
     "Name": "Helm of Anomalus",
     "Id": "37149",
-    "Slot": "Head"
+    "Slot": 1
   },
   "37180": {
     "ItemLevel": "200",
@@ -72,7 +72,7 @@
     },
     "Name": "Battlemap Hide Helm",
     "Id": "37180",
-    "Slot": "Head"
+    "Slot": 1
   },
   "37182": {
     "ItemLevel": "200",
@@ -97,7 +97,7 @@
     },
     "Name": "Helmet of the Constructor",
     "Id": "37182",
-    "Slot": "Head"
+    "Slot": 1
   },
   "37188": {
     "ItemLevel": "200",
@@ -123,7 +123,7 @@
     },
     "Name": "Plunderer's Helmet",
     "Id": "37188",
-    "Slot": "Head"
+    "Slot": 1
   },
   "37237": {
     "ItemLevel": "200",
@@ -147,7 +147,7 @@
     },
     "Name": "Chitin Shell Greathelm",
     "Id": "37237",
-    "Slot": "Head"
+    "Slot": 1
   },
   "37293": {
     "ItemLevel": "200",
@@ -172,7 +172,7 @@
     },
     "Name": "Mask of the Watcher",
     "Id": "37293",
-    "Slot": "Head"
+    "Slot": 1
   },
   "37294": {
     "ItemLevel": "200",
@@ -197,7 +197,7 @@
     },
     "Name": "Crown of Unbridled Magic",
     "Id": "37294",
-    "Slot": "Head"
+    "Slot": 1
   },
   "37592": {
     "ItemLevel": "200",
@@ -222,7 +222,7 @@
     },
     "Name": "Brood Plague Helmet",
     "Id": "37592",
-    "Slot": "Head"
+    "Slot": 1
   },
   "37594": {
     "ItemLevel": "200",
@@ -243,7 +243,7 @@
     "SocketBonus": "none",
     "Name": "Elder Headpiece",
     "Id": "37594",
-    "Slot": "Head"
+    "Slot": 1
   },
   "37633": {
     "ItemLevel": "200",
@@ -268,7 +268,7 @@
     },
     "Name": "Ground Tremor Helm",
     "Id": "37633",
-    "Slot": "Head"
+    "Slot": 1
   },
   "37636": {
     "ItemLevel": "200",
@@ -289,7 +289,7 @@
     "SocketBonus": "none",
     "Name": "Helm of Cheated Fate",
     "Id": "37636",
-    "Slot": "Head"
+    "Slot": 1
   },
   "37684": {
     "ItemLevel": "200",
@@ -314,7 +314,7 @@
     },
     "Name": "Forgotten Shadow Hood",
     "Id": "37684",
-    "Slot": "Head"
+    "Slot": 1
   },
   "37715": {
     "ItemLevel": "200",
@@ -335,7 +335,7 @@
     "SocketBonus": "none",
     "Name": "Cowl of the Dire Troll",
     "Id": "37715",
-    "Slot": "Head"
+    "Slot": 1
   },
   "37726": {
     "ItemLevel": "200",
@@ -357,7 +357,7 @@
     "SocketBonus": "none",
     "Name": "King Dred's Helm",
     "Id": "37726",
-    "Slot": "Head"
+    "Slot": 1
   },
   "37849": {
     "ItemLevel": "200",
@@ -378,7 +378,7 @@
     "SocketBonus": "none",
     "Name": "Planetary Helm",
     "Id": "37849",
-    "Slot": "Head"
+    "Slot": 1
   },
   "37857": {
     "ItemLevel": "200",
@@ -399,7 +399,7 @@
     "SocketBonus": "none",
     "Name": "Helm of the Lightning Halls",
     "Id": "37857",
-    "Slot": "Head"
+    "Slot": 1
   },
   "39240": {
     "ItemLevel": "200",
@@ -425,7 +425,7 @@
     },
     "Name": "Noth's Curse",
     "Id": "39240",
-    "Slot": "Head"
+    "Slot": 1
   },
   "39260": {
     "ItemLevel": "200",
@@ -451,7 +451,7 @@
     },
     "Name": "Helm of the Corrupted Mind",
     "Id": "39260",
-    "Slot": "Head"
+    "Slot": 1
   },
   "39294": {
     "ItemLevel": "200",
@@ -478,7 +478,7 @@
     },
     "Name": "Arc-Scorched Helmet",
     "Id": "39294",
-    "Slot": "Head"
+    "Slot": 1
   },
   "39295": {
     "ItemLevel": "200",
@@ -504,7 +504,7 @@
     },
     "Name": "Cowl of Sheet Lightning",
     "Id": "39295",
-    "Slot": "Head"
+    "Slot": 1
   },
   "39395": {
     "ItemLevel": "200",
@@ -530,7 +530,7 @@
     },
     "Name": "Thane's Tainted Greathelm",
     "Id": "39395",
-    "Slot": "Head"
+    "Slot": 1
   },
   "39399": {
     "ItemLevel": "200",
@@ -556,7 +556,7 @@
     },
     "Name": "Helm of the Vast Legions",
     "Id": "39399",
-    "Slot": "Head"
+    "Slot": 1
   },
   "39403": {
     "ItemLevel": "200",
@@ -581,7 +581,7 @@
     },
     "Name": "Helm of the Unsubmissive",
     "Id": "39403",
-    "Slot": "Head"
+    "Slot": 1
   },
   "39405": {
     "ItemLevel": "200",
@@ -607,7 +607,7 @@
     },
     "Name": "Helmet of the Inner Sanctum",
     "Id": "39405",
-    "Slot": "Head"
+    "Slot": 1
   },
   "39409": {
     "ItemLevel": "200",
@@ -633,7 +633,7 @@
     },
     "Name": "Cowl of Winged Fear",
     "Id": "39409",
-    "Slot": "Head"
+    "Slot": 1
   },
   "39491": {
     "ItemLevel": "200",
@@ -661,7 +661,7 @@
     },
     "Name": "Heroes' Frostfire Circlet",
     "Id": "39491",
-    "Slot": "Head"
+    "Slot": 1
   },
   "39496": {
     "ItemLevel": "200",
@@ -689,7 +689,7 @@
     },
     "Name": "Heroes' Plagueheart Circlet",
     "Id": "39496",
-    "Slot": "Head"
+    "Slot": 1
   },
   "39514": {
     "ItemLevel": "200",
@@ -717,7 +717,7 @@
     },
     "Name": "Heroes' Crown of Faith",
     "Id": "39514",
-    "Slot": "Head"
+    "Slot": 1
   },
   "39521": {
     "ItemLevel": "200",
@@ -745,7 +745,7 @@
     },
     "Name": "Heroes' Circlet of Faith",
     "Id": "39521",
-    "Slot": "Head"
+    "Slot": 1
   },
   "39531": {
     "ItemLevel": "200",
@@ -773,7 +773,7 @@
     },
     "Name": "Heroes' Dreamwalker Headpiece",
     "Id": "39531",
-    "Slot": "Head"
+    "Slot": 1
   },
   "39545": {
     "ItemLevel": "200",
@@ -801,7 +801,7 @@
     },
     "Name": "Heroes' Dreamwalker Cover",
     "Id": "39545",
-    "Slot": "Head"
+    "Slot": 1
   },
   "39553": {
     "ItemLevel": "200",
@@ -829,7 +829,7 @@
     },
     "Name": "Heroes' Dreamwalker Headguard",
     "Id": "39553",
-    "Slot": "Head"
+    "Slot": 1
   },
   "39561": {
     "ItemLevel": "200",
@@ -857,7 +857,7 @@
     },
     "Name": "Heroes' Bonescythe Helmet",
     "Id": "39561",
-    "Slot": "Head"
+    "Slot": 1
   },
   "39578": {
     "ItemLevel": "200",
@@ -886,7 +886,7 @@
     },
     "Name": "Heroes' Cryptstalker Headpiece",
     "Id": "39578",
-    "Slot": "Head"
+    "Slot": 1
   },
   "39583": {
     "ItemLevel": "200",
@@ -914,7 +914,7 @@
     },
     "Name": "Heroes' Earthshatter Headpiece",
     "Id": "39583",
-    "Slot": "Head"
+    "Slot": 1
   },
   "39594": {
     "ItemLevel": "200",
@@ -942,7 +942,7 @@
     },
     "Name": "Heroes' Earthshatter Helm",
     "Id": "39594",
-    "Slot": "Head"
+    "Slot": 1
   },
   "39602": {
     "ItemLevel": "200",
@@ -971,7 +971,7 @@
     },
     "Name": "Heroes' Earthshatter Faceguard",
     "Id": "39602",
-    "Slot": "Head"
+    "Slot": 1
   },
   "39605": {
     "ItemLevel": "200",
@@ -998,7 +998,7 @@
     },
     "Name": "Heroes' Dreadnaught Helmet",
     "Id": "39605",
-    "Slot": "Head"
+    "Slot": 1
   },
   "39610": {
     "ItemLevel": "200",
@@ -1026,7 +1026,7 @@
     },
     "Name": "Heroes' Dreadnaught Greathelm",
     "Id": "39610",
-    "Slot": "Head"
+    "Slot": 1
   },
   "39619": {
     "ItemLevel": "200",
@@ -1053,7 +1053,7 @@
     },
     "Name": "Heroes' Scourgeborne Helmet",
     "Id": "39619",
-    "Slot": "Head"
+    "Slot": 1
   },
   "39625": {
     "ItemLevel": "200",
@@ -1081,7 +1081,7 @@
     },
     "Name": "Heroes' Scourgeborne Faceguard",
     "Id": "39625",
-    "Slot": "Head"
+    "Slot": 1
   },
   "39628": {
     "ItemLevel": "200",
@@ -1109,7 +1109,7 @@
     },
     "Name": "Heroes' Redemption Headpiece",
     "Id": "39628",
-    "Slot": "Head"
+    "Slot": 1
   },
   "39635": {
     "ItemLevel": "200",
@@ -1136,7 +1136,7 @@
     },
     "Name": "Heroes' Redemption Helm",
     "Id": "39635",
-    "Slot": "Head"
+    "Slot": 1
   },
   "39640": {
     "ItemLevel": "200",
@@ -1164,7 +1164,7 @@
     },
     "Name": "Heroes' Redemption Faceguard",
     "Id": "39640",
-    "Slot": "Head"
+    "Slot": 1
   },
   "39723": {
     "ItemLevel": "213",
@@ -1185,7 +1185,7 @@
     "SocketBonus": "none",
     "Name": "Fire-Scorched Greathelm",
     "Id": "39723",
-    "Slot": "Head"
+    "Slot": 1
   },
   "39732": {
     "ItemLevel": "213",
@@ -1207,7 +1207,7 @@
     "SocketBonus": "none",
     "Name": "Faerlina's Madness",
     "Id": "39732",
-    "Slot": "Head"
+    "Slot": 1
   },
   "39760": {
     "ItemLevel": "213",
@@ -1229,7 +1229,7 @@
     "SocketBonus": "none",
     "Name": "Helm of Diminished Pride",
     "Id": "39760",
-    "Slot": "Head"
+    "Slot": 1
   },
   "39768": {
     "ItemLevel": "213",
@@ -1251,7 +1251,7 @@
     "SocketBonus": "none",
     "Name": "Cowl of the Perished",
     "Id": "39768",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40235": {
     "ItemLevel": "213",
@@ -1273,7 +1273,7 @@
     "SocketBonus": "none",
     "Name": "Helm of Pilgrimage",
     "Id": "40235",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40247": {
     "ItemLevel": "213",
@@ -1295,7 +1295,7 @@
     "SocketBonus": "none",
     "Name": "Cowl of Innocent Delight",
     "Id": "40247",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40287": {
     "ItemLevel": "213",
@@ -1321,7 +1321,7 @@
     },
     "Name": "Cowl of Vanity",
     "Id": "40287",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40296": {
     "ItemLevel": "213",
@@ -1343,7 +1343,7 @@
     "SocketBonus": "none",
     "Name": "Cover of Silence",
     "Id": "40296",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40298": {
     "ItemLevel": "213",
@@ -1369,7 +1369,7 @@
     },
     "Name": "Faceguard of the Succumbed",
     "Id": "40298",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40304": {
     "ItemLevel": "213",
@@ -1395,7 +1395,7 @@
     },
     "Name": "Headpiece of Fungal Bloom",
     "Id": "40304",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40328": {
     "ItemLevel": "213",
@@ -1421,7 +1421,7 @@
     },
     "Name": "Helm of Vital Protection",
     "Id": "40328",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40329": {
     "ItemLevel": "213",
@@ -1447,7 +1447,7 @@
     },
     "Name": "Hood of the Exodus",
     "Id": "40329",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40339": {
     "ItemLevel": "213",
@@ -1473,7 +1473,7 @@
     },
     "Name": "Gothik's Cowl",
     "Id": "40339",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40340": {
     "ItemLevel": "213",
@@ -1499,7 +1499,7 @@
     },
     "Name": "Helm of Unleashed Energy",
     "Id": "40340",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40344": {
     "ItemLevel": "213",
@@ -1526,7 +1526,7 @@
     },
     "Name": "Helm of the Grave",
     "Id": "40344",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40366": {
     "ItemLevel": "213",
@@ -1548,7 +1548,7 @@
     "SocketBonus": "none",
     "Name": "Platehelm of the Great Wyrm",
     "Id": "40366",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40416": {
     "ItemLevel": "213",
@@ -1576,7 +1576,7 @@
     },
     "Name": "Valorous Frostfire Circlet",
     "Id": "40416",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40421": {
     "ItemLevel": "213",
@@ -1604,7 +1604,7 @@
     },
     "Name": "Valorous Plagueheart Circlet",
     "Id": "40421",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40428": {
     "ItemLevel": "200",
@@ -1625,7 +1625,7 @@
     "SocketBonus": "none",
     "Name": "Titan's Outlook",
     "Id": "40428",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40447": {
     "ItemLevel": "213",
@@ -1653,7 +1653,7 @@
     },
     "Name": "Valorous Crown of Faith",
     "Id": "40447",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40451": {
     "ItemLevel": "213",
@@ -1680,7 +1680,7 @@
     },
     "Name": "Hyaline Helm of the Sniper",
     "Id": "40451",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40456": {
     "ItemLevel": "213",
@@ -1708,7 +1708,7 @@
     },
     "Name": "Valorous Circlet of Faith",
     "Id": "40456",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40461": {
     "ItemLevel": "213",
@@ -1736,7 +1736,7 @@
     },
     "Name": "Valorous Dreamwalker Headpiece",
     "Id": "40461",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40467": {
     "ItemLevel": "213",
@@ -1764,7 +1764,7 @@
     },
     "Name": "Valorous Dreamwalker Cover",
     "Id": "40467",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40473": {
     "ItemLevel": "213",
@@ -1792,7 +1792,7 @@
     },
     "Name": "Valorous Dreamwalker Headguard",
     "Id": "40473",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40499": {
     "ItemLevel": "213",
@@ -1820,7 +1820,7 @@
     },
     "Name": "Valorous Bonescythe Helmet",
     "Id": "40499",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40505": {
     "ItemLevel": "213",
@@ -1849,7 +1849,7 @@
     },
     "Name": "Valorous Cryptstalker Headpiece",
     "Id": "40505",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40510": {
     "ItemLevel": "213",
@@ -1877,7 +1877,7 @@
     },
     "Name": "Valorous Earthshatter Headpiece",
     "Id": "40510",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40516": {
     "ItemLevel": "213",
@@ -1905,7 +1905,7 @@
     },
     "Name": "Valorous Earthshatter Helm",
     "Id": "40516",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40521": {
     "ItemLevel": "213",
@@ -1934,7 +1934,7 @@
     },
     "Name": "Valorous Earthshatter Faceguard",
     "Id": "40521",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40528": {
     "ItemLevel": "213",
@@ -1961,7 +1961,7 @@
     },
     "Name": "Valorous Dreadnaught Helmet",
     "Id": "40528",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40543": {
     "ItemLevel": "226",
@@ -1988,7 +1988,7 @@
     },
     "Name": "Blue Aspect Helm",
     "Id": "40543",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40546": {
     "ItemLevel": "213",
@@ -2016,7 +2016,7 @@
     },
     "Name": "Valorous Dreadnaught Greathelm",
     "Id": "40546",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40554": {
     "ItemLevel": "213",
@@ -2043,7 +2043,7 @@
     },
     "Name": "Valorous Scourgeborne Helmet",
     "Id": "40554",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40562": {
     "ItemLevel": "226",
@@ -2069,7 +2069,7 @@
     },
     "Name": "Hood of Rationality",
     "Id": "40562",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40565": {
     "ItemLevel": "213",
@@ -2097,7 +2097,7 @@
     },
     "Name": "Valorous Scourgeborne Faceguard",
     "Id": "40565",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40571": {
     "ItemLevel": "213",
@@ -2125,7 +2125,7 @@
     },
     "Name": "Valorous Redemption Headpiece",
     "Id": "40571",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40576": {
     "ItemLevel": "213",
@@ -2152,7 +2152,7 @@
     },
     "Name": "Valorous Redemption Helm",
     "Id": "40576",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40581": {
     "ItemLevel": "213",
@@ -2180,7 +2180,7 @@
     },
     "Name": "Valorous Redemption Faceguard",
     "Id": "40581",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40816": {
     "ItemLevel": "200",
@@ -2207,7 +2207,7 @@
     },
     "Name": "Savage Gladiator's Plate Helm",
     "Id": "40816",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40817": {
     "ItemLevel": "200",
@@ -2234,7 +2234,7 @@
     },
     "Name": "Savage Gladiator's Dreadplate Helm",
     "Id": "40817",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40818": {
     "ItemLevel": "200",
@@ -2261,7 +2261,7 @@
     },
     "Name": "Savage Gladiator's Scaled Helm",
     "Id": "40818",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40819": {
     "ItemLevel": "200",
@@ -2288,7 +2288,7 @@
     },
     "Name": "Hateful Gladiator's Plate Helm",
     "Id": "40819",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40820": {
     "ItemLevel": "200",
@@ -2315,7 +2315,7 @@
     },
     "Name": "Hateful Gladiator's Dreadplate Helm",
     "Id": "40820",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40821": {
     "ItemLevel": "200",
@@ -2342,7 +2342,7 @@
     },
     "Name": "Hateful Gladiator's Scaled Helm",
     "Id": "40821",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40823": {
     "ItemLevel": "213",
@@ -2369,7 +2369,7 @@
     },
     "Name": "Deadly Gladiator's Plate Helm",
     "Id": "40823",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40824": {
     "ItemLevel": "213",
@@ -2396,7 +2396,7 @@
     },
     "Name": "Deadly Gladiator's Dreadplate Helm",
     "Id": "40824",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40825": {
     "ItemLevel": "213",
@@ -2423,7 +2423,7 @@
     },
     "Name": "Deadly Gladiator's Scaled Helm",
     "Id": "40825",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40826": {
     "ItemLevel": "232",
@@ -2450,7 +2450,7 @@
     },
     "Name": "Furious Gladiator's Plate Helm",
     "Id": "40826",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40827": {
     "ItemLevel": "232",
@@ -2477,7 +2477,7 @@
     },
     "Name": "Furious Gladiator's Dreadplate Helm",
     "Id": "40827",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40828": {
     "ItemLevel": "232",
@@ -2504,7 +2504,7 @@
     },
     "Name": "Furious Gladiator's Scaled Helm",
     "Id": "40828",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40829": {
     "ItemLevel": "251",
@@ -2531,7 +2531,7 @@
     },
     "Name": "Relentless Gladiator's Plate Helm",
     "Id": "40829",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40830": {
     "ItemLevel": "251",
@@ -2558,7 +2558,7 @@
     },
     "Name": "Relentless Gladiator's Dreadplate Helm",
     "Id": "40830",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40831": {
     "ItemLevel": "251",
@@ -2585,7 +2585,7 @@
     },
     "Name": "Relentless Gladiator's Scaled Helm",
     "Id": "40831",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40930": {
     "ItemLevel": "200",
@@ -2613,7 +2613,7 @@
     },
     "Name": "Savage Gladiator's Ornamented Headcover",
     "Id": "40930",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40931": {
     "ItemLevel": "200",
@@ -2641,7 +2641,7 @@
     },
     "Name": "Hateful Gladiator's Ornamented Headcover",
     "Id": "40931",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40932": {
     "ItemLevel": "213",
@@ -2669,7 +2669,7 @@
     },
     "Name": "Deadly Gladiator's Ornamented Headcover",
     "Id": "40932",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40933": {
     "ItemLevel": "232",
@@ -2697,7 +2697,7 @@
     },
     "Name": "Furious Gladiator's Ornamented Headcover",
     "Id": "40933",
-    "Slot": "Head"
+    "Slot": 1
   },
   "40934": {
     "ItemLevel": "251",
@@ -2725,7 +2725,7 @@
     },
     "Name": "Relentless Gladiator's Ornamented Headcover",
     "Id": "40934",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41010": {
     "ItemLevel": "200",
@@ -2753,7 +2753,7 @@
     },
     "Name": "Savage Gladiator's Ringmail Helm",
     "Id": "41010",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41011": {
     "ItemLevel": "200",
@@ -2781,7 +2781,7 @@
     },
     "Name": "Hateful Gladiator's Ringmail Helm",
     "Id": "41011",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41012": {
     "ItemLevel": "213",
@@ -2809,7 +2809,7 @@
     },
     "Name": "Deadly Gladiator's Ringmail Helm",
     "Id": "41012",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41013": {
     "ItemLevel": "232",
@@ -2837,7 +2837,7 @@
     },
     "Name": "Furious Gladiator's Ringmail Helm",
     "Id": "41013",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41014": {
     "ItemLevel": "251",
@@ -2865,7 +2865,7 @@
     },
     "Name": "Relentless Gladiator's Ringmail Helm",
     "Id": "41014",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41016": {
     "ItemLevel": "200",
@@ -2893,7 +2893,7 @@
     },
     "Name": "Savage Gladiator's Mail Helm",
     "Id": "41016",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41017": {
     "ItemLevel": "200",
@@ -2921,7 +2921,7 @@
     },
     "Name": "Hateful Gladiator's Mail Helm",
     "Id": "41017",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41018": {
     "ItemLevel": "213",
@@ -2949,7 +2949,7 @@
     },
     "Name": "Deadly Gladiator's Mail Helm",
     "Id": "41018",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41019": {
     "ItemLevel": "232",
@@ -2977,7 +2977,7 @@
     },
     "Name": "Furious Gladiator's Mail Helm",
     "Id": "41019",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41020": {
     "ItemLevel": "251",
@@ -3005,7 +3005,7 @@
     },
     "Name": "Relentless Gladiator's Mail Helm",
     "Id": "41020",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41148": {
     "ItemLevel": "200",
@@ -3034,7 +3034,7 @@
     },
     "Name": "Savage Gladiator's Linked Helm",
     "Id": "41148",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41149": {
     "ItemLevel": "200",
@@ -3063,7 +3063,7 @@
     },
     "Name": "Hateful Gladiator's Linked Helm",
     "Id": "41149",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41150": {
     "ItemLevel": "213",
@@ -3092,7 +3092,7 @@
     },
     "Name": "Deadly Gladiator's Linked Helm",
     "Id": "41150",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41151": {
     "ItemLevel": "232",
@@ -3121,7 +3121,7 @@
     },
     "Name": "Furious Gladiator's Linked Helm",
     "Id": "41151",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41152": {
     "ItemLevel": "251",
@@ -3150,7 +3150,7 @@
     },
     "Name": "Relentless Gladiator's Linked Helm",
     "Id": "41152",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41154": {
     "ItemLevel": "200",
@@ -3179,7 +3179,7 @@
     },
     "Name": "Savage Gladiator's Chain Helm",
     "Id": "41154",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41155": {
     "ItemLevel": "200",
@@ -3208,7 +3208,7 @@
     },
     "Name": "Hateful Gladiator's Chain Helm",
     "Id": "41155",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41156": {
     "ItemLevel": "213",
@@ -3237,7 +3237,7 @@
     },
     "Name": "Deadly Gladiator's Chain Helm",
     "Id": "41156",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41157": {
     "ItemLevel": "232",
@@ -3266,7 +3266,7 @@
     },
     "Name": "Furious Gladiator's Chain Helm",
     "Id": "41157",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41158": {
     "ItemLevel": "251",
@@ -3295,7 +3295,7 @@
     },
     "Name": "Relentless Gladiator's Chain Helm",
     "Id": "41158",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41269": {
     "ItemLevel": "200",
@@ -3323,7 +3323,7 @@
     },
     "Name": "Savage Gladiator's Kodohide Helm",
     "Id": "41269",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41319": {
     "ItemLevel": "200",
@@ -3351,7 +3351,7 @@
     },
     "Name": "Hateful Gladiator's Kodohide Helm",
     "Id": "41319",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41320": {
     "ItemLevel": "213",
@@ -3379,7 +3379,7 @@
     },
     "Name": "Deadly Gladiator's Kodohide Helm",
     "Id": "41320",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41321": {
     "ItemLevel": "232",
@@ -3407,7 +3407,7 @@
     },
     "Name": "Furious Gladiator's Kodohide Helm",
     "Id": "41321",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41322": {
     "ItemLevel": "251",
@@ -3435,7 +3435,7 @@
     },
     "Name": "Relentless Gladiator's Kodohide Helm",
     "Id": "41322",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41324": {
     "ItemLevel": "200",
@@ -3463,7 +3463,7 @@
     },
     "Name": "Savage Gladiator's Wyrmhide Helm",
     "Id": "41324",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41325": {
     "ItemLevel": "200",
@@ -3491,7 +3491,7 @@
     },
     "Name": "Hateful Gladiator's Wyrmhide Helm",
     "Id": "41325",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41326": {
     "ItemLevel": "213",
@@ -3519,7 +3519,7 @@
     },
     "Name": "Deadly Gladiator's Wyrmhide Helm",
     "Id": "41326",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41327": {
     "ItemLevel": "232",
@@ -3547,7 +3547,7 @@
     },
     "Name": "Furious Gladiator's Wyrmhide Helm",
     "Id": "41327",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41328": {
     "ItemLevel": "251",
@@ -3575,7 +3575,7 @@
     },
     "Name": "Relentless Gladiator's Wyrmhide Helm",
     "Id": "41328",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41386": {
     "ItemLevel": "200",
@@ -3599,7 +3599,7 @@
     },
     "Name": "Spiked Titansteel Helm",
     "Id": "41386",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41387": {
     "ItemLevel": "200",
@@ -3623,7 +3623,7 @@
     },
     "Name": "Tempered Titansteel Helm",
     "Id": "41387",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41388": {
     "ItemLevel": "200",
@@ -3647,7 +3647,7 @@
     },
     "Name": "Brilliant Titansteel Helm",
     "Id": "41388",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41644": {
     "ItemLevel": "200",
@@ -3675,7 +3675,7 @@
     },
     "Name": "Savage Gladiator's Leather Helm",
     "Id": "41644",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41670": {
     "ItemLevel": "200",
@@ -3703,7 +3703,7 @@
     },
     "Name": "Hateful Gladiator's Leather Helm",
     "Id": "41670",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41671": {
     "ItemLevel": "213",
@@ -3731,7 +3731,7 @@
     },
     "Name": "Deadly Gladiator's Leather Helm",
     "Id": "41671",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41672": {
     "ItemLevel": "232",
@@ -3759,7 +3759,7 @@
     },
     "Name": "Furious Gladiator's Leather Helm",
     "Id": "41672",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41673": {
     "ItemLevel": "251",
@@ -3787,7 +3787,7 @@
     },
     "Name": "Relentless Gladiator's Leather Helm",
     "Id": "41673",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41675": {
     "ItemLevel": "200",
@@ -3815,7 +3815,7 @@
     },
     "Name": "Savage Gladiator's Dragonhide Helm",
     "Id": "41675",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41676": {
     "ItemLevel": "200",
@@ -3843,7 +3843,7 @@
     },
     "Name": "Hateful Gladiator's Dragonhide Helm",
     "Id": "41676",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41677": {
     "ItemLevel": "213",
@@ -3871,7 +3871,7 @@
     },
     "Name": "Deadly Gladiator's Dragonhide Helm",
     "Id": "41677",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41678": {
     "ItemLevel": "232",
@@ -3899,7 +3899,7 @@
     },
     "Name": "Furious Gladiator's Dragonhide Helm",
     "Id": "41678",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41679": {
     "ItemLevel": "251",
@@ -3927,7 +3927,7 @@
     },
     "Name": "Relentless Gladiator's Dragonhide Helm",
     "Id": "41679",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41848": {
     "ItemLevel": "200",
@@ -3955,7 +3955,7 @@
     },
     "Name": "Savage Gladiator's Mooncloth Hood",
     "Id": "41848",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41852": {
     "ItemLevel": "200",
@@ -3983,7 +3983,7 @@
     },
     "Name": "Hateful Gladiator's Mooncloth Hood",
     "Id": "41852",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41853": {
     "ItemLevel": "213",
@@ -4011,7 +4011,7 @@
     },
     "Name": "Deadly Gladiator's Mooncloth Hood",
     "Id": "41853",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41854": {
     "ItemLevel": "232",
@@ -4039,7 +4039,7 @@
     },
     "Name": "Furious Gladiator's Mooncloth Hood",
     "Id": "41854",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41855": {
     "ItemLevel": "251",
@@ -4067,7 +4067,7 @@
     },
     "Name": "Relentless Gladiator's Mooncloth Hood",
     "Id": "41855",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41912": {
     "ItemLevel": "200",
@@ -4095,7 +4095,7 @@
     },
     "Name": "Savage Gladiator's Satin Hood",
     "Id": "41912",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41913": {
     "ItemLevel": "200",
@@ -4123,7 +4123,7 @@
     },
     "Name": "Hateful Gladiator's Satin Hood",
     "Id": "41913",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41914": {
     "ItemLevel": "213",
@@ -4151,7 +4151,7 @@
     },
     "Name": "Deadly Gladiator's Satin Hood",
     "Id": "41914",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41915": {
     "ItemLevel": "232",
@@ -4179,7 +4179,7 @@
     },
     "Name": "Furious Gladiator's Satin Hood",
     "Id": "41915",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41916": {
     "ItemLevel": "251",
@@ -4207,7 +4207,7 @@
     },
     "Name": "Relentless Gladiator's Satin Hood",
     "Id": "41916",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41943": {
     "ItemLevel": "200",
@@ -4235,7 +4235,7 @@
     },
     "Name": "Savage Gladiator's Silk Cowl",
     "Id": "41943",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41944": {
     "ItemLevel": "200",
@@ -4263,7 +4263,7 @@
     },
     "Name": "Hateful Gladiator's Silk Cowl",
     "Id": "41944",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41945": {
     "ItemLevel": "213",
@@ -4291,7 +4291,7 @@
     },
     "Name": "Deadly Gladiator's Silk Cowl",
     "Id": "41945",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41946": {
     "ItemLevel": "232",
@@ -4319,7 +4319,7 @@
     },
     "Name": "Furious Gladiator's Silk Cowl",
     "Id": "41946",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41947": {
     "ItemLevel": "251",
@@ -4347,7 +4347,7 @@
     },
     "Name": "Relentless Gladiator's Silk Cowl",
     "Id": "41947",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41990": {
     "ItemLevel": "200",
@@ -4375,7 +4375,7 @@
     },
     "Name": "Savage Gladiator's Felweave Cowl",
     "Id": "41990",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41991": {
     "ItemLevel": "200",
@@ -4403,7 +4403,7 @@
     },
     "Name": "Hateful Gladiator's Felweave Cowl",
     "Id": "41991",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41992": {
     "ItemLevel": "213",
@@ -4431,7 +4431,7 @@
     },
     "Name": "Deadly Gladiator's Felweave Cowl",
     "Id": "41992",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41993": {
     "ItemLevel": "232",
@@ -4459,7 +4459,7 @@
     },
     "Name": "Furious Gladiator's Felweave Cowl",
     "Id": "41993",
-    "Slot": "Head"
+    "Slot": 1
   },
   "41994": {
     "ItemLevel": "251",
@@ -4487,7 +4487,7 @@
     },
     "Name": "Relentless Gladiator's Felweave Cowl",
     "Id": "41994",
-    "Slot": "Head"
+    "Slot": 1
   },
   "42549": {
     "ItemLevel": "200",
@@ -4512,7 +4512,7 @@
     },
     "Name": "Armored Titanium Goggles",
     "Id": "42549",
-    "Slot": "Head"
+    "Slot": 1
   },
   "42550": {
     "ItemLevel": "200",
@@ -4537,7 +4537,7 @@
     },
     "Name": "Weakness Spectralizers",
     "Id": "42550",
-    "Slot": "Head"
+    "Slot": 1
   },
   "42551": {
     "ItemLevel": "200",
@@ -4563,7 +4563,7 @@
     },
     "Name": "Truesight Ice Blinders",
     "Id": "42551",
-    "Slot": "Head"
+    "Slot": 1
   },
   "42552": {
     "ItemLevel": "200",
@@ -4587,7 +4587,7 @@
     },
     "Name": "Charged Titanium Specs",
     "Id": "42552",
-    "Slot": "Head"
+    "Slot": 1
   },
   "42553": {
     "ItemLevel": "200",
@@ -4612,7 +4612,7 @@
     },
     "Name": "Visage Liquification Goggles",
     "Id": "42553",
-    "Slot": "Head"
+    "Slot": 1
   },
   "42554": {
     "ItemLevel": "200",
@@ -4637,7 +4637,7 @@
     },
     "Name": "Greensight Gogs",
     "Id": "42554",
-    "Slot": "Head"
+    "Slot": 1
   },
   "42555": {
     "ItemLevel": "200",
@@ -4662,7 +4662,7 @@
     },
     "Name": "Electroflux Sight Enhancers",
     "Id": "42555",
-    "Slot": "Head"
+    "Slot": 1
   },
   "43280": {
     "ItemLevel": "200",
@@ -4683,7 +4683,7 @@
     "SocketBonus": "none",
     "Name": "Faceguard of the Hammer Clan",
     "Id": "43280",
-    "Slot": "Head"
+    "Slot": 1
   },
   "43311": {
     "ItemLevel": "200",
@@ -4709,7 +4709,7 @@
     },
     "Name": "Helmet of the Shrine",
     "Id": "43311",
-    "Slot": "Head"
+    "Slot": 1
   },
   "43403": {
     "ItemLevel": "200",
@@ -4734,7 +4734,7 @@
     },
     "Name": "Shroud of Darkness",
     "Id": "43403",
-    "Slot": "Head"
+    "Slot": 1
   },
   "43995": {
     "ItemLevel": "213",
@@ -4760,7 +4760,7 @@
     },
     "Name": "Enamored Cowl",
     "Id": "43995",
-    "Slot": "Head"
+    "Slot": 1
   },
   "44006": {
     "ItemLevel": "226",
@@ -4785,7 +4785,7 @@
     },
     "Name": "Obsidian Greathelm",
     "Id": "44006",
-    "Slot": "Head"
+    "Slot": 1
   },
   "44007": {
     "ItemLevel": "226",
@@ -4811,7 +4811,7 @@
     },
     "Name": "Headpiece of Reconciliation",
     "Id": "44007",
-    "Slot": "Head"
+    "Slot": 1
   },
   "44247": {
     "ItemLevel": "200",
@@ -4831,7 +4831,7 @@
     "SocketBonus": "none",
     "Name": "Fang-Deflecting Faceguard",
     "Id": "44247",
-    "Slot": "Head"
+    "Slot": 1
   },
   "44248": {
     "ItemLevel": "200",
@@ -4852,7 +4852,7 @@
     "SocketBonus": "none",
     "Name": "Battle Mender's Helm",
     "Id": "44248",
-    "Slot": "Head"
+    "Slot": 1
   },
   "44296": {
     "ItemLevel": "200",
@@ -4877,7 +4877,7 @@
     },
     "Name": "Helm of Purified Thoughts",
     "Id": "44296",
-    "Slot": "Head"
+    "Slot": 1
   },
   "44901": {
     "ItemLevel": "200",
@@ -4904,7 +4904,7 @@
     },
     "Name": "Titan-Forged Plate Headcover of Salvation",
     "Id": "44901",
-    "Slot": "Head"
+    "Slot": 1
   },
   "44902": {
     "ItemLevel": "200",
@@ -4930,7 +4930,7 @@
     },
     "Name": "Titan-Forged Plate Helm of Triumph",
     "Id": "44902",
-    "Slot": "Head"
+    "Slot": 1
   },
   "44903": {
     "ItemLevel": "200",
@@ -4958,7 +4958,7 @@
     },
     "Name": "Titan-Forged Chain Helm of Triumph",
     "Id": "44903",
-    "Slot": "Head"
+    "Slot": 1
   },
   "44904": {
     "ItemLevel": "200",
@@ -4985,7 +4985,7 @@
     },
     "Name": "Titan-Forged Mail Helm of Dominance",
     "Id": "44904",
-    "Slot": "Head"
+    "Slot": 1
   },
   "44905": {
     "ItemLevel": "200",
@@ -5012,7 +5012,7 @@
     },
     "Name": "Titan-Forged Ringmail Helm of Salvation",
     "Id": "44905",
-    "Slot": "Head"
+    "Slot": 1
   },
   "44906": {
     "ItemLevel": "200",
@@ -5039,7 +5039,7 @@
     },
     "Name": "Titan-Forged Leather Helm of Salvation",
     "Id": "44906",
-    "Slot": "Head"
+    "Slot": 1
   },
   "44907": {
     "ItemLevel": "200",
@@ -5066,7 +5066,7 @@
     },
     "Name": "Titan-Forged Leather Helm of Dominance",
     "Id": "44907",
-    "Slot": "Head"
+    "Slot": 1
   },
   "44908": {
     "ItemLevel": "200",
@@ -5093,7 +5093,7 @@
     },
     "Name": "Titan-Forged Leather Helm of Triumph",
     "Id": "44908",
-    "Slot": "Head"
+    "Slot": 1
   },
   "44909": {
     "ItemLevel": "200",
@@ -5120,7 +5120,7 @@
     },
     "Name": "Titan-Forged Hood of Salvation",
     "Id": "44909",
-    "Slot": "Head"
+    "Slot": 1
   },
   "44910": {
     "ItemLevel": "200",
@@ -5147,7 +5147,7 @@
     },
     "Name": "Titan-Forged Hood of Dominance",
     "Id": "44910",
-    "Slot": "Head"
+    "Slot": 1
   },
   "44949": {
     "ItemLevel": "200",
@@ -5172,7 +5172,7 @@
     },
     "Name": "Unbreakable Healing Amplifiers",
     "Id": "44949",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45107": {
     "ItemLevel": "226",
@@ -5197,7 +5197,7 @@
     },
     "Name": "Iron Riveted War Helm",
     "Id": "45107",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45118": {
     "ItemLevel": "226",
@@ -5223,7 +5223,7 @@
     },
     "Name": "Steamworker's Goggles",
     "Id": "45118",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45150": {
     "ItemLevel": "226",
@@ -5249,7 +5249,7 @@
     },
     "Name": "Collar of the Wyrmhunter",
     "Id": "45150",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45164": {
     "ItemLevel": "226",
@@ -5276,7 +5276,7 @@
     },
     "Name": "Helm of the Furnace Master",
     "Id": "45164",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45226": {
     "ItemLevel": "226",
@@ -5302,7 +5302,7 @@
     },
     "Name": "Ancient Iron Heaume",
     "Id": "45226",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45289": {
     "ItemLevel": "219",
@@ -5328,7 +5328,7 @@
     },
     "Name": "Lifespark Visage",
     "Id": "45289",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45299": {
     "ItemLevel": "219",
@@ -5353,7 +5353,7 @@
     },
     "Name": "Dragonsteel Faceplate",
     "Id": "45299",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45329": {
     "ItemLevel": "219",
@@ -5380,7 +5380,7 @@
     },
     "Name": "Circlet of True Sight",
     "Id": "45329",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45336": {
     "ItemLevel": "219",
@@ -5408,7 +5408,7 @@
     },
     "Name": "Valorous Darkruned Faceguard",
     "Id": "45336",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45342": {
     "ItemLevel": "219",
@@ -5435,7 +5435,7 @@
     },
     "Name": "Valorous Darkruned Helmet",
     "Id": "45342",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45346": {
     "ItemLevel": "219",
@@ -5463,7 +5463,7 @@
     },
     "Name": "Valorous Nightsong Headpiece",
     "Id": "45346",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45356": {
     "ItemLevel": "219",
@@ -5491,7 +5491,7 @@
     },
     "Name": "Valorous Nightsong Headguard",
     "Id": "45356",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45361": {
     "ItemLevel": "219",
@@ -5520,7 +5520,7 @@
     },
     "Name": "Valorous Scourgestalker Headpiece",
     "Id": "45361",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45365": {
     "ItemLevel": "219",
@@ -5548,7 +5548,7 @@
     },
     "Name": "Valorous Kirin Tor Hood",
     "Id": "45365",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45372": {
     "ItemLevel": "219",
@@ -5576,7 +5576,7 @@
     },
     "Name": "Valorous Aegis Headpiece",
     "Id": "45372",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45377": {
     "ItemLevel": "219",
@@ -5603,7 +5603,7 @@
     },
     "Name": "Valorous Aegis Helm",
     "Id": "45377",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45382": {
     "ItemLevel": "219",
@@ -5631,7 +5631,7 @@
     },
     "Name": "Valorous Aegis Faceguard",
     "Id": "45382",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45386": {
     "ItemLevel": "219",
@@ -5659,7 +5659,7 @@
     },
     "Name": "Valorous Cowl of Sanctification",
     "Id": "45386",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45391": {
     "ItemLevel": "219",
@@ -5687,7 +5687,7 @@
     },
     "Name": "Valorous Circlet of Sanctification",
     "Id": "45391",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45398": {
     "ItemLevel": "219",
@@ -5715,7 +5715,7 @@
     },
     "Name": "Valorous Terrorblade Helmet",
     "Id": "45398",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45402": {
     "ItemLevel": "219",
@@ -5743,7 +5743,7 @@
     },
     "Name": "Valorous Worldbreaker Headpiece",
     "Id": "45402",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45408": {
     "ItemLevel": "219",
@@ -5771,7 +5771,7 @@
     },
     "Name": "Valorous Worldbreaker Helm",
     "Id": "45408",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45412": {
     "ItemLevel": "219",
@@ -5800,7 +5800,7 @@
     },
     "Name": "Valorous Worldbreaker Faceguard",
     "Id": "45412",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45417": {
     "ItemLevel": "219",
@@ -5828,7 +5828,7 @@
     },
     "Name": "Valorous Deathbringer Hood",
     "Id": "45417",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45425": {
     "ItemLevel": "219",
@@ -5856,7 +5856,7 @@
     },
     "Name": "Valorous Siegebreaker Greathelm",
     "Id": "45425",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45431": {
     "ItemLevel": "219",
@@ -5883,7 +5883,7 @@
     },
     "Name": "Valorous Siegebreaker Helmet",
     "Id": "45431",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45435": {
     "ItemLevel": "226",
@@ -5905,7 +5905,7 @@
     "SocketBonus": "none",
     "Name": "Cowl of the Absolute",
     "Id": "45435",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45439": {
     "ItemLevel": "226",
@@ -5931,7 +5931,7 @@
     },
     "Name": "Unwavering Stare",
     "Id": "45439",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45464": {
     "ItemLevel": "219",
@@ -5957,7 +5957,7 @@
     },
     "Name": "Cowl of Icy Breaths",
     "Id": "45464",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45472": {
     "ItemLevel": "239",
@@ -5982,7 +5982,7 @@
     },
     "Name": "Warhelm of the Champion",
     "Id": "45472",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45497": {
     "ItemLevel": "239",
@@ -6008,7 +6008,7 @@
     },
     "Name": "Crown of Luminescence",
     "Id": "45497",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45502": {
     "ItemLevel": "226",
@@ -6034,7 +6034,7 @@
     },
     "Name": "Helm of the Faceless",
     "Id": "45502",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45523": {
     "ItemLevel": "226",
@@ -6060,7 +6060,7 @@
     },
     "Name": "Garona's Guise",
     "Id": "45523",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45532": {
     "ItemLevel": "226",
@@ -6086,7 +6086,7 @@
     },
     "Name": "Cowl of Dark Whispers",
     "Id": "45532",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45610": {
     "ItemLevel": "239",
@@ -6113,7 +6113,7 @@
     },
     "Name": "Boundless Gaze",
     "Id": "45610",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45687": {
     "ItemLevel": "219",
@@ -6139,7 +6139,7 @@
     },
     "Name": "Helm of Veiled Energies",
     "Id": "45687",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45864": {
     "ItemLevel": "219",
@@ -6165,7 +6165,7 @@
     },
     "Name": "Cover of the Keepers",
     "Id": "45864",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45893": {
     "ItemLevel": "219",
@@ -6191,7 +6191,7 @@
     },
     "Name": "Guise of the Midgard Serpent",
     "Id": "45893",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45935": {
     "ItemLevel": "219",
@@ -6217,7 +6217,7 @@
     },
     "Name": "Ironbark Faceguard",
     "Id": "45935",
-    "Slot": "Head"
+    "Slot": 1
   },
   "45993": {
     "ItemLevel": "226",
@@ -6243,7 +6243,7 @@
     },
     "Name": "Mimiron's Flight Goggles",
     "Id": "45993",
-    "Slot": "Head"
+    "Slot": 1
   },
   "46028": {
     "ItemLevel": "219",
@@ -6269,7 +6269,7 @@
     },
     "Name": "Faceguard of the Eyeless Horror",
     "Id": "46028",
-    "Slot": "Head"
+    "Slot": 1
   },
   "46115": {
     "ItemLevel": "226",
@@ -6296,7 +6296,7 @@
     },
     "Name": "Conqueror's Darkruned Helmet",
     "Id": "46115",
-    "Slot": "Head"
+    "Slot": 1
   },
   "46120": {
     "ItemLevel": "226",
@@ -6324,7 +6324,7 @@
     },
     "Name": "Conqueror's Darkruned Faceguard",
     "Id": "46120",
-    "Slot": "Head"
+    "Slot": 1
   },
   "46125": {
     "ItemLevel": "226",
@@ -6352,7 +6352,7 @@
     },
     "Name": "Conqueror's Terrorblade Helmet",
     "Id": "46125",
-    "Slot": "Head"
+    "Slot": 1
   },
   "46129": {
     "ItemLevel": "226",
@@ -6380,7 +6380,7 @@
     },
     "Name": "Conqueror's Kirin Tor Hood",
     "Id": "46129",
-    "Slot": "Head"
+    "Slot": 1
   },
   "46140": {
     "ItemLevel": "226",
@@ -6408,7 +6408,7 @@
     },
     "Name": "Conqueror's Deathbringer Hood",
     "Id": "46140",
-    "Slot": "Head"
+    "Slot": 1
   },
   "46143": {
     "ItemLevel": "226",
@@ -6437,7 +6437,7 @@
     },
     "Name": "Conqueror's Scourgestalker Headpiece",
     "Id": "46143",
-    "Slot": "Head"
+    "Slot": 1
   },
   "46151": {
     "ItemLevel": "226",
@@ -6464,7 +6464,7 @@
     },
     "Name": "Conqueror's Siegebreaker Helmet",
     "Id": "46151",
-    "Slot": "Head"
+    "Slot": 1
   },
   "46156": {
     "ItemLevel": "226",
@@ -6491,7 +6491,7 @@
     },
     "Name": "Conqueror's Aegis Helm",
     "Id": "46156",
-    "Slot": "Head"
+    "Slot": 1
   },
   "46161": {
     "ItemLevel": "226",
@@ -6519,7 +6519,7 @@
     },
     "Name": "Conqueror's Nightsong Headguard",
     "Id": "46161",
-    "Slot": "Head"
+    "Slot": 1
   },
   "46166": {
     "ItemLevel": "226",
@@ -6547,7 +6547,7 @@
     },
     "Name": "Conqueror's Siegebreaker Greathelm",
     "Id": "46166",
-    "Slot": "Head"
+    "Slot": 1
   },
   "46172": {
     "ItemLevel": "226",
@@ -6575,7 +6575,7 @@
     },
     "Name": "Conqueror's Circlet of Sanctification",
     "Id": "46172",
-    "Slot": "Head"
+    "Slot": 1
   },
   "46175": {
     "ItemLevel": "226",
@@ -6603,7 +6603,7 @@
     },
     "Name": "Conqueror's Aegis Faceguard",
     "Id": "46175",
-    "Slot": "Head"
+    "Slot": 1
   },
   "46180": {
     "ItemLevel": "226",
@@ -6631,7 +6631,7 @@
     },
     "Name": "Conqueror's Aegis Headpiece",
     "Id": "46180",
-    "Slot": "Head"
+    "Slot": 1
   },
   "46184": {
     "ItemLevel": "226",
@@ -6659,7 +6659,7 @@
     },
     "Name": "Conqueror's Nightsong Headpiece",
     "Id": "46184",
-    "Slot": "Head"
+    "Slot": 1
   },
   "46191": {
     "ItemLevel": "226",
@@ -6687,7 +6687,7 @@
     },
     "Name": "Conqueror's Nightsong Cover",
     "Id": "46191",
-    "Slot": "Head"
+    "Slot": 1
   },
   "46197": {
     "ItemLevel": "226",
@@ -6715,7 +6715,7 @@
     },
     "Name": "Conqueror's Cowl of Sanctification",
     "Id": "46197",
-    "Slot": "Head"
+    "Slot": 1
   },
   "46201": {
     "ItemLevel": "226",
@@ -6743,7 +6743,7 @@
     },
     "Name": "Conqueror's Worldbreaker Headpiece",
     "Id": "46201",
-    "Slot": "Head"
+    "Slot": 1
   },
   "46209": {
     "ItemLevel": "226",
@@ -6771,7 +6771,7 @@
     },
     "Name": "Conqueror's Worldbreaker Helm",
     "Id": "46209",
-    "Slot": "Head"
+    "Slot": 1
   },
   "46212": {
     "ItemLevel": "226",
@@ -6800,7 +6800,7 @@
     },
     "Name": "Conqueror's Worldbreaker Faceguard",
     "Id": "46212",
-    "Slot": "Head"
+    "Slot": 1
   },
   "46313": {
     "ItemLevel": "219",
@@ -6828,7 +6828,7 @@
     },
     "Name": "Valorous Nightsong Cover",
     "Id": "46313",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47172": {
     "ItemLevel": "200",
@@ -6854,7 +6854,7 @@
     },
     "Name": "Helm of the Bested Gallant",
     "Id": "47172",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47217": {
     "ItemLevel": "200",
@@ -6880,7 +6880,7 @@
     },
     "Name": "Gaze of the Somber Keeper",
     "Id": "47217",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47220": {
     "ItemLevel": "200",
@@ -6905,7 +6905,7 @@
     },
     "Name": "Helm of the Violent Fray",
     "Id": "47220",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47497": {
     "ItemLevel": "219",
@@ -6931,7 +6931,7 @@
     },
     "Name": "Helm of the Crestfallen Challenger",
     "Id": "47497",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47529": {
     "ItemLevel": "219",
@@ -6957,7 +6957,7 @@
     },
     "Name": "Mask of Distant Memory",
     "Id": "47529",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47564": {
     "ItemLevel": "219",
@@ -6983,7 +6983,7 @@
     },
     "Name": "Gaze of the Unknown",
     "Id": "47564",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47674": {
     "ItemLevel": "245",
@@ -7008,7 +7008,7 @@
     },
     "Name": "Helm of Thunderous Rampage",
     "Id": "47674",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47675": {
     "ItemLevel": "245",
@@ -7033,7 +7033,7 @@
     },
     "Name": "Faceplate of Thunderous Rampage",
     "Id": "47675",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47677": {
     "ItemLevel": "245",
@@ -7059,7 +7059,7 @@
     },
     "Name": "Faceplate of the Honorbound",
     "Id": "47677",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47678": {
     "ItemLevel": "245",
@@ -7085,7 +7085,7 @@
     },
     "Name": "Headplate of the Honorbound",
     "Id": "47678",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47681": {
     "ItemLevel": "245",
@@ -7111,7 +7111,7 @@
     },
     "Name": "Heaume of the Restless Watch",
     "Id": "47681",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47682": {
     "ItemLevel": "245",
@@ -7137,7 +7137,7 @@
     },
     "Name": "Helm of the Restless Watch",
     "Id": "47682",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47684": {
     "ItemLevel": "245",
@@ -7164,7 +7164,7 @@
     },
     "Name": "Coif of the Brooding Dragon",
     "Id": "47684",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47685": {
     "ItemLevel": "245",
@@ -7191,7 +7191,7 @@
     },
     "Name": "Helm of the Brooding Dragon",
     "Id": "47685",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47686": {
     "ItemLevel": "245",
@@ -7217,7 +7217,7 @@
     },
     "Name": "Helm of Inner Warmth",
     "Id": "47686",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47687": {
     "ItemLevel": "245",
@@ -7243,7 +7243,7 @@
     },
     "Name": "Headguard of Inner Warmth",
     "Id": "47687",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47688": {
     "ItemLevel": "245",
@@ -7269,7 +7269,7 @@
     },
     "Name": "Mask of Lethal Intent",
     "Id": "47688",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47689": {
     "ItemLevel": "245",
@@ -7295,7 +7295,7 @@
     },
     "Name": "Hood of Lethal Intent",
     "Id": "47689",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47690": {
     "ItemLevel": "245",
@@ -7321,7 +7321,7 @@
     },
     "Name": "Helm of Abundant Growth",
     "Id": "47690",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47691": {
     "ItemLevel": "245",
@@ -7347,7 +7347,7 @@
     },
     "Name": "Mask of Abundant Growth",
     "Id": "47691",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47692": {
     "ItemLevel": "245",
@@ -7373,7 +7373,7 @@
     },
     "Name": "Hood of Smoldering Aftermath",
     "Id": "47692",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47693": {
     "ItemLevel": "245",
@@ -7399,7 +7399,7 @@
     },
     "Name": "Hood of Fiery Aftermath",
     "Id": "47693",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47694": {
     "ItemLevel": "245",
@@ -7425,7 +7425,7 @@
     },
     "Name": "Helm of Clouded Sight",
     "Id": "47694",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47695": {
     "ItemLevel": "245",
@@ -7451,7 +7451,7 @@
     },
     "Name": "Hood of Clouded Sight",
     "Id": "47695",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47717": {
     "ItemLevel": "232",
@@ -7476,7 +7476,7 @@
     },
     "Name": "Faceplate of the Silver Champion",
     "Id": "47717",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47718": {
     "ItemLevel": "232",
@@ -7503,7 +7503,7 @@
     },
     "Name": "Helm of the Silver Ranger",
     "Id": "47718",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47746": {
     "ItemLevel": "232",
@@ -7529,7 +7529,7 @@
     },
     "Name": "Helm of the Snowy Grotto",
     "Id": "47746",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47748": {
     "ItemLevel": "232",
@@ -7557,7 +7557,7 @@
     },
     "Name": "Khadgar's Hood of Conquest",
     "Id": "47748",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47754": {
     "ItemLevel": "245",
@@ -7585,7 +7585,7 @@
     },
     "Name": "Khadgar's Hood of Triumph",
     "Id": "47754",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47761": {
     "ItemLevel": "258",
@@ -7613,7 +7613,7 @@
     },
     "Name": "Khadgar's Hood of Triumph",
     "Id": "47761",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47764": {
     "ItemLevel": "258",
@@ -7641,7 +7641,7 @@
     },
     "Name": "Sunstrider's Hood of Triumph",
     "Id": "47764",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47771": {
     "ItemLevel": "245",
@@ -7669,7 +7669,7 @@
     },
     "Name": "Sunstrider's Hood of Triumph",
     "Id": "47771",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47774": {
     "ItemLevel": "232",
@@ -7697,7 +7697,7 @@
     },
     "Name": "Sunstrider's Hood of Conquest",
     "Id": "47774",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47778": {
     "ItemLevel": "245",
@@ -7725,7 +7725,7 @@
     },
     "Name": "Kel'Thuzad's Hood of Triumph",
     "Id": "47778",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47784": {
     "ItemLevel": "232",
@@ -7753,7 +7753,7 @@
     },
     "Name": "Kel'Thuzad's Hood of Conquest",
     "Id": "47784",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47789": {
     "ItemLevel": "258",
@@ -7781,7 +7781,7 @@
     },
     "Name": "Kel'Thuzad's Hood of Triumph",
     "Id": "47789",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47796": {
     "ItemLevel": "258",
@@ -7809,7 +7809,7 @@
     },
     "Name": "Gul'dan's Hood of Triumph",
     "Id": "47796",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47801": {
     "ItemLevel": "232",
@@ -7837,7 +7837,7 @@
     },
     "Name": "Gul'dan's Hood of Conquest",
     "Id": "47801",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47804": {
     "ItemLevel": "245",
@@ -7865,7 +7865,7 @@
     },
     "Name": "Gul'dan's Hood of Triumph",
     "Id": "47804",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47813": {
     "ItemLevel": "232",
@@ -7891,7 +7891,7 @@
     },
     "Name": "Helmet of the Crypt Lord",
     "Id": "47813",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47875": {
     "ItemLevel": "232",
@@ -7918,7 +7918,7 @@
     },
     "Name": "Sunreaver Ranger's Helm",
     "Id": "47875",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47876": {
     "ItemLevel": "232",
@@ -7943,7 +7943,7 @@
     },
     "Name": "Sunreaver Champion's Faceplate",
     "Id": "47876",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47891": {
     "ItemLevel": "232",
@@ -7969,7 +7969,7 @@
     },
     "Name": "Helm of the High Mesa",
     "Id": "47891",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47897": {
     "ItemLevel": "232",
@@ -7995,7 +7995,7 @@
     },
     "Name": "Helm of the Crypt Lord",
     "Id": "47897",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47914": {
     "ItemLevel": "232",
@@ -8023,7 +8023,7 @@
     },
     "Name": "Velen's Cowl of Conquest",
     "Id": "47914",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47942": {
     "ItemLevel": "245",
@@ -8050,7 +8050,7 @@
     },
     "Name": "Helm of the Silver Ranger",
     "Id": "47942",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47943": {
     "ItemLevel": "245",
@@ -8075,7 +8075,7 @@
     },
     "Name": "Faceplate of the Silver Champion",
     "Id": "47943",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47959": {
     "ItemLevel": "245",
@@ -8101,7 +8101,7 @@
     },
     "Name": "Helm of the Snowy Grotto",
     "Id": "47959",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47965": {
     "ItemLevel": "245",
@@ -8127,7 +8127,7 @@
     },
     "Name": "Helmet of the Crypt Lord",
     "Id": "47965",
-    "Slot": "Head"
+    "Slot": 1
   },
   "47984": {
     "ItemLevel": "245",
@@ -8155,7 +8155,7 @@
     },
     "Name": "Velen's Cowl of Triumph",
     "Id": "47984",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48014": {
     "ItemLevel": "245",
@@ -8182,7 +8182,7 @@
     },
     "Name": "Sunreaver Ranger's Helm",
     "Id": "48014",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48015": {
     "ItemLevel": "245",
@@ -8207,7 +8207,7 @@
     },
     "Name": "Sunreaver Champion's Faceplate",
     "Id": "48015",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48034": {
     "ItemLevel": "245",
@@ -8233,7 +8233,7 @@
     },
     "Name": "Helm of the High Mesa",
     "Id": "48034",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48035": {
     "ItemLevel": "258",
@@ -8261,7 +8261,7 @@
     },
     "Name": "Velen's Cowl of Triumph",
     "Id": "48035",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48042": {
     "ItemLevel": "245",
@@ -8287,7 +8287,7 @@
     },
     "Name": "Helm of the Crypt Lord",
     "Id": "48042",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48058": {
     "ItemLevel": "258",
@@ -8315,7 +8315,7 @@
     },
     "Name": "Zabra's Cowl of Triumph",
     "Id": "48058",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48065": {
     "ItemLevel": "245",
@@ -8343,7 +8343,7 @@
     },
     "Name": "Zabra's Cowl of Triumph",
     "Id": "48065",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48068": {
     "ItemLevel": "232",
@@ -8371,7 +8371,7 @@
     },
     "Name": "Zabra's Cowl of Conquest",
     "Id": "48068",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48073": {
     "ItemLevel": "232",
@@ -8399,7 +8399,7 @@
     },
     "Name": "Velen's Circlet of Conquest",
     "Id": "48073",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48078": {
     "ItemLevel": "245",
@@ -8427,7 +8427,7 @@
     },
     "Name": "Velen's Circlet of Triumph",
     "Id": "48078",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48085": {
     "ItemLevel": "258",
@@ -8455,7 +8455,7 @@
     },
     "Name": "Velen's Circlet of Triumph",
     "Id": "48085",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48088": {
     "ItemLevel": "258",
@@ -8483,7 +8483,7 @@
     },
     "Name": "Zabra's Circlet of Triumph",
     "Id": "48088",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48095": {
     "ItemLevel": "245",
@@ -8511,7 +8511,7 @@
     },
     "Name": "Zabra's Circlet of Triumph",
     "Id": "48095",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48098": {
     "ItemLevel": "232",
@@ -8539,7 +8539,7 @@
     },
     "Name": "Zabra's Circlet of Conquest",
     "Id": "48098",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48102": {
     "ItemLevel": "232",
@@ -8567,7 +8567,7 @@
     },
     "Name": "Malfurion's Headpiece of Conquest",
     "Id": "48102",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48134": {
     "ItemLevel": "245",
@@ -8595,7 +8595,7 @@
     },
     "Name": "Malfurion's Headpiece of Triumph",
     "Id": "48134",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48141": {
     "ItemLevel": "258",
@@ -8623,7 +8623,7 @@
     },
     "Name": "Malfurion's Headpiece of Triumph",
     "Id": "48141",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48144": {
     "ItemLevel": "258",
@@ -8651,7 +8651,7 @@
     },
     "Name": "Runetotem's Headpiece of Triumph",
     "Id": "48144",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48151": {
     "ItemLevel": "245",
@@ -8679,7 +8679,7 @@
     },
     "Name": "Runetotem's Headpiece of Triumph",
     "Id": "48151",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48154": {
     "ItemLevel": "232",
@@ -8707,7 +8707,7 @@
     },
     "Name": "Runetotem's Headpiece of Conquest",
     "Id": "48154",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48158": {
     "ItemLevel": "232",
@@ -8735,7 +8735,7 @@
     },
     "Name": "Malfurion's Cover of Conquest",
     "Id": "48158",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48164": {
     "ItemLevel": "245",
@@ -8763,7 +8763,7 @@
     },
     "Name": "Malfurion's Cover of Triumph",
     "Id": "48164",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48171": {
     "ItemLevel": "258",
@@ -8791,7 +8791,7 @@
     },
     "Name": "Malfurion's Cover of Triumph",
     "Id": "48171",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48174": {
     "ItemLevel": "258",
@@ -8819,7 +8819,7 @@
     },
     "Name": "Runetotem's Cover of Triumph",
     "Id": "48174",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48181": {
     "ItemLevel": "245",
@@ -8847,7 +8847,7 @@
     },
     "Name": "Runetotem's Cover of Triumph",
     "Id": "48181",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48184": {
     "ItemLevel": "232",
@@ -8875,7 +8875,7 @@
     },
     "Name": "Runetotem's Cover of Conquest",
     "Id": "48184",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48188": {
     "ItemLevel": "232",
@@ -8903,7 +8903,7 @@
     },
     "Name": "Runetotem's Headguard of Conquest",
     "Id": "48188",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48194": {
     "ItemLevel": "245",
@@ -8931,7 +8931,7 @@
     },
     "Name": "Runetotem's Headguard of Triumph",
     "Id": "48194",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48201": {
     "ItemLevel": "258",
@@ -8959,7 +8959,7 @@
     },
     "Name": "Runetotem's Headguard of Triumph",
     "Id": "48201",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48204": {
     "ItemLevel": "258",
@@ -8987,7 +8987,7 @@
     },
     "Name": "Malfurion's Headguard of Triumph",
     "Id": "48204",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48211": {
     "ItemLevel": "245",
@@ -9015,7 +9015,7 @@
     },
     "Name": "Malfurion's Headguard of Triumph",
     "Id": "48211",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48214": {
     "ItemLevel": "232",
@@ -9043,7 +9043,7 @@
     },
     "Name": "Malfurion's Headguard of Conquest",
     "Id": "48214",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48218": {
     "ItemLevel": "232",
@@ -9071,7 +9071,7 @@
     },
     "Name": "VanCleef's Helmet of Conquest",
     "Id": "48218",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48225": {
     "ItemLevel": "245",
@@ -9099,7 +9099,7 @@
     },
     "Name": "VanCleef's Helmet of Triumph",
     "Id": "48225",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48230": {
     "ItemLevel": "258",
@@ -9127,7 +9127,7 @@
     },
     "Name": "VanCleef's Helmet of Triumph",
     "Id": "48230",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48235": {
     "ItemLevel": "258",
@@ -9155,7 +9155,7 @@
     },
     "Name": "Garona's Helmet of Triumph",
     "Id": "48235",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48240": {
     "ItemLevel": "245",
@@ -9183,7 +9183,7 @@
     },
     "Name": "Garona's Helmet of Triumph",
     "Id": "48240",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48245": {
     "ItemLevel": "232",
@@ -9211,7 +9211,7 @@
     },
     "Name": "Garona's Helmet of Conquest",
     "Id": "48245",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48250": {
     "ItemLevel": "232",
@@ -9240,7 +9240,7 @@
     },
     "Name": "Windrunner's Headpiece of Conquest",
     "Id": "48250",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48257": {
     "ItemLevel": "245",
@@ -9269,7 +9269,7 @@
     },
     "Name": "Windrunner's Headpiece of Triumph",
     "Id": "48257",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48262": {
     "ItemLevel": "258",
@@ -9298,7 +9298,7 @@
     },
     "Name": "Windrunner's Headpiece of Triumph",
     "Id": "48262",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48267": {
     "ItemLevel": "258",
@@ -9327,7 +9327,7 @@
     },
     "Name": "Windrunner's Headpiece of Triumph",
     "Id": "48267",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48272": {
     "ItemLevel": "245",
@@ -9356,7 +9356,7 @@
     },
     "Name": "Windrunner's Headpiece of Triumph",
     "Id": "48272",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48277": {
     "ItemLevel": "232",
@@ -9385,7 +9385,7 @@
     },
     "Name": "Windrunner's Headpiece of Conquest",
     "Id": "48277",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48280": {
     "ItemLevel": "232",
@@ -9413,7 +9413,7 @@
     },
     "Name": "Nobundo's Headpiece of Conquest",
     "Id": "48280",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48287": {
     "ItemLevel": "245",
@@ -9441,7 +9441,7 @@
     },
     "Name": "Nobundo's Headpiece of Triumph",
     "Id": "48287",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48292": {
     "ItemLevel": "258",
@@ -9469,7 +9469,7 @@
     },
     "Name": "Nobundo's Headpiece of Triumph",
     "Id": "48292",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48297": {
     "ItemLevel": "232",
@@ -9497,7 +9497,7 @@
     },
     "Name": "Thrall's Headpiece of Conquest",
     "Id": "48297",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48302": {
     "ItemLevel": "245",
@@ -9525,7 +9525,7 @@
     },
     "Name": "Thrall's Headpiece of Triumph",
     "Id": "48302",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48307": {
     "ItemLevel": "258",
@@ -9553,7 +9553,7 @@
     },
     "Name": "Thrall's Headpiece of Triumph",
     "Id": "48307",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48313": {
     "ItemLevel": "232",
@@ -9581,7 +9581,7 @@
     },
     "Name": "Nobundo's Helm of Conquest",
     "Id": "48313",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48318": {
     "ItemLevel": "245",
@@ -9609,7 +9609,7 @@
     },
     "Name": "Nobundo's Helm of Triumph",
     "Id": "48318",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48323": {
     "ItemLevel": "258",
@@ -9637,7 +9637,7 @@
     },
     "Name": "Nobundo's Helm of Triumph",
     "Id": "48323",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48328": {
     "ItemLevel": "258",
@@ -9665,7 +9665,7 @@
     },
     "Name": "Thrall's Helm of Triumph",
     "Id": "48328",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48333": {
     "ItemLevel": "245",
@@ -9693,7 +9693,7 @@
     },
     "Name": "Thrall's Helm of Triumph",
     "Id": "48333",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48338": {
     "ItemLevel": "232",
@@ -9721,7 +9721,7 @@
     },
     "Name": "Thrall's Helm of Conquest",
     "Id": "48338",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48343": {
     "ItemLevel": "232",
@@ -9750,7 +9750,7 @@
     },
     "Name": "Nobundo's Faceguard of Conquest",
     "Id": "48343",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48348": {
     "ItemLevel": "245",
@@ -9779,7 +9779,7 @@
     },
     "Name": "Nobundo's Faceguard of Triumph",
     "Id": "48348",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48353": {
     "ItemLevel": "258",
@@ -9808,7 +9808,7 @@
     },
     "Name": "Nobundo's Faceguard of Triumph",
     "Id": "48353",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48358": {
     "ItemLevel": "258",
@@ -9837,7 +9837,7 @@
     },
     "Name": "Thrall's Faceguard of Triumph",
     "Id": "48358",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48363": {
     "ItemLevel": "245",
@@ -9866,7 +9866,7 @@
     },
     "Name": "Thrall's Faceguard of Triumph",
     "Id": "48363",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48368": {
     "ItemLevel": "232",
@@ -9895,7 +9895,7 @@
     },
     "Name": "Thrall's Faceguard of Conquest",
     "Id": "48368",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48371": {
     "ItemLevel": "232",
@@ -9922,7 +9922,7 @@
     },
     "Name": "Wrynn's Helmet of Conquest",
     "Id": "48371",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48378": {
     "ItemLevel": "245",
@@ -9949,7 +9949,7 @@
     },
     "Name": "Wrynn's Helmet of Triumph",
     "Id": "48378",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48383": {
     "ItemLevel": "258",
@@ -9976,7 +9976,7 @@
     },
     "Name": "Wrynn's Helmet of Triumph",
     "Id": "48383",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48388": {
     "ItemLevel": "232",
@@ -10003,7 +10003,7 @@
     },
     "Name": "Hellscream's Helmet of Conquest",
     "Id": "48388",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48393": {
     "ItemLevel": "245",
@@ -10030,7 +10030,7 @@
     },
     "Name": "Hellscream's Helmet of Triumph",
     "Id": "48393",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48398": {
     "ItemLevel": "258",
@@ -10057,7 +10057,7 @@
     },
     "Name": "Hellscream's Helmet of Triumph",
     "Id": "48398",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48429": {
     "ItemLevel": "232",
@@ -10085,7 +10085,7 @@
     },
     "Name": "Wrynn's Greathelm of Conquest",
     "Id": "48429",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48430": {
     "ItemLevel": "245",
@@ -10113,7 +10113,7 @@
     },
     "Name": "Wrynn's Greathelm of Triumph",
     "Id": "48430",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48433": {
     "ItemLevel": "258",
@@ -10141,7 +10141,7 @@
     },
     "Name": "Wrynn's Greathelm of Triumph",
     "Id": "48433",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48458": {
     "ItemLevel": "232",
@@ -10169,7 +10169,7 @@
     },
     "Name": "Hellscream's Greathelm of Conquest",
     "Id": "48458",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48463": {
     "ItemLevel": "245",
@@ -10197,7 +10197,7 @@
     },
     "Name": "Hellscream's Greathelm of Triumph",
     "Id": "48463",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48468": {
     "ItemLevel": "258",
@@ -10225,7 +10225,7 @@
     },
     "Name": "Hellscream's Greathelm of Triumph",
     "Id": "48468",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48472": {
     "ItemLevel": "232",
@@ -10252,7 +10252,7 @@
     },
     "Name": "Thassarian's Helmet of Conquest",
     "Id": "48472",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48483": {
     "ItemLevel": "245",
@@ -10279,7 +10279,7 @@
     },
     "Name": "Thassarian's Helmet of Triumph",
     "Id": "48483",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48488": {
     "ItemLevel": "258",
@@ -10306,7 +10306,7 @@
     },
     "Name": "Thassarian's Helmet of Triumph",
     "Id": "48488",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48493": {
     "ItemLevel": "258",
@@ -10333,7 +10333,7 @@
     },
     "Name": "Koltira's Helmet of Triumph",
     "Id": "48493",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48498": {
     "ItemLevel": "245",
@@ -10360,7 +10360,7 @@
     },
     "Name": "Koltira's Helmet of Triumph",
     "Id": "48498",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48503": {
     "ItemLevel": "232",
@@ -10387,7 +10387,7 @@
     },
     "Name": "Koltira's Helmet of Conquest",
     "Id": "48503",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48529": {
     "ItemLevel": "232",
@@ -10415,7 +10415,7 @@
     },
     "Name": "Thassarian's Faceguard of Conquest",
     "Id": "48529",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48540": {
     "ItemLevel": "245",
@@ -10443,7 +10443,7 @@
     },
     "Name": "Thassarian's Faceguard of Triumph",
     "Id": "48540",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48545": {
     "ItemLevel": "258",
@@ -10471,7 +10471,7 @@
     },
     "Name": "Thassarian's Faceguard of Triumph",
     "Id": "48545",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48550": {
     "ItemLevel": "258",
@@ -10499,7 +10499,7 @@
     },
     "Name": "Koltira's Faceguard of Triumph",
     "Id": "48550",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48555": {
     "ItemLevel": "245",
@@ -10527,7 +10527,7 @@
     },
     "Name": "Koltira's Faceguard of Triumph",
     "Id": "48555",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48560": {
     "ItemLevel": "232",
@@ -10555,7 +10555,7 @@
     },
     "Name": "Koltira's Faceguard of Conquest",
     "Id": "48560",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48564": {
     "ItemLevel": "232",
@@ -10583,7 +10583,7 @@
     },
     "Name": "Turalyon's Headpiece of Conquest",
     "Id": "48564",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48577": {
     "ItemLevel": "245",
@@ -10611,7 +10611,7 @@
     },
     "Name": "Turalyon's Headpiece of Triumph",
     "Id": "48577",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48582": {
     "ItemLevel": "258",
@@ -10639,7 +10639,7 @@
     },
     "Name": "Turalyon's Headpiece of Triumph",
     "Id": "48582",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48587": {
     "ItemLevel": "258",
@@ -10667,7 +10667,7 @@
     },
     "Name": "Liadrin's Headpiece of Triumph",
     "Id": "48587",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48592": {
     "ItemLevel": "245",
@@ -10695,7 +10695,7 @@
     },
     "Name": "Liadrin's Headpiece of Triumph",
     "Id": "48592",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48597": {
     "ItemLevel": "232",
@@ -10723,7 +10723,7 @@
     },
     "Name": "Liadrin's Headpiece of Conquest",
     "Id": "48597",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48604": {
     "ItemLevel": "232",
@@ -10750,7 +10750,7 @@
     },
     "Name": "Turalyon's Helm of Conquest",
     "Id": "48604",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48609": {
     "ItemLevel": "245",
@@ -10777,7 +10777,7 @@
     },
     "Name": "Turalyon's Helm of Triumph",
     "Id": "48609",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48614": {
     "ItemLevel": "258",
@@ -10804,7 +10804,7 @@
     },
     "Name": "Turalyon's Helm of Triumph",
     "Id": "48614",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48619": {
     "ItemLevel": "258",
@@ -10831,7 +10831,7 @@
     },
     "Name": "Liadrin's Helm of Triumph",
     "Id": "48619",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48624": {
     "ItemLevel": "245",
@@ -10858,7 +10858,7 @@
     },
     "Name": "Liadrin's Helm of Triumph",
     "Id": "48624",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48629": {
     "ItemLevel": "232",
@@ -10885,7 +10885,7 @@
     },
     "Name": "Liadrin's Helm of Conquest",
     "Id": "48629",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48634": {
     "ItemLevel": "232",
@@ -10913,7 +10913,7 @@
     },
     "Name": "Turalyon's Faceguard of Conquest",
     "Id": "48634",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48639": {
     "ItemLevel": "245",
@@ -10941,7 +10941,7 @@
     },
     "Name": "Turalyon's Faceguard of Triumph",
     "Id": "48639",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48644": {
     "ItemLevel": "258",
@@ -10969,7 +10969,7 @@
     },
     "Name": "Turalyon's Faceguard of Triumph",
     "Id": "48644",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48649": {
     "ItemLevel": "258",
@@ -10997,7 +10997,7 @@
     },
     "Name": "Liadrin's Faceguard of Triumph",
     "Id": "48649",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48654": {
     "ItemLevel": "232",
@@ -11025,7 +11025,7 @@
     },
     "Name": "Liadrin's Faceguard of Conquest",
     "Id": "48654",
-    "Slot": "Head"
+    "Slot": 1
   },
   "48659": {
     "ItemLevel": "245",
@@ -11053,7 +11053,7 @@
     },
     "Name": "Liadrin's Faceguard of Triumph",
     "Id": "48659",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49315": {
     "ItemLevel": "232",
@@ -11082,7 +11082,7 @@
     },
     "Name": "Nemesis Skullcover",
     "Id": "49315",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49316": {
     "ItemLevel": "232",
@@ -11111,7 +11111,7 @@
     },
     "Name": "Circlet of Transcendence",
     "Id": "49316",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49317": {
     "ItemLevel": "232",
@@ -11140,7 +11140,7 @@
     },
     "Name": "Coronet of Transcendence",
     "Id": "49317",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49318": {
     "ItemLevel": "232",
@@ -11169,7 +11169,7 @@
     },
     "Name": "Netherwind Hood",
     "Id": "49318",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49319": {
     "ItemLevel": "232",
@@ -11199,7 +11199,7 @@
     },
     "Name": "Dragonstalker's Helmet",
     "Id": "49319",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49320": {
     "ItemLevel": "232",
@@ -11228,7 +11228,7 @@
     },
     "Name": "Faceguard of Wrath",
     "Id": "49320",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49321": {
     "ItemLevel": "232",
@@ -11256,7 +11256,7 @@
     },
     "Name": "Greathelm of Wrath",
     "Id": "49321",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49322": {
     "ItemLevel": "232",
@@ -11285,7 +11285,7 @@
     },
     "Name": "Bloodfang Mask",
     "Id": "49322",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49323": {
     "ItemLevel": "232",
@@ -11314,7 +11314,7 @@
     },
     "Name": "Judgement Cover",
     "Id": "49323",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49324": {
     "ItemLevel": "232",
@@ -11343,7 +11343,7 @@
     },
     "Name": "Judgement Helmet",
     "Id": "49324",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49325": {
     "ItemLevel": "232",
@@ -11371,7 +11371,7 @@
     },
     "Name": "Judgement Helm",
     "Id": "49325",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49326": {
     "ItemLevel": "232",
@@ -11400,7 +11400,7 @@
     },
     "Name": "Stormrage Hood",
     "Id": "49326",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49327": {
     "ItemLevel": "232",
@@ -11429,7 +11429,7 @@
     },
     "Name": "Stormrage Antlers",
     "Id": "49327",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49328": {
     "ItemLevel": "232",
@@ -11458,7 +11458,7 @@
     },
     "Name": "Stormrage Helm",
     "Id": "49328",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49329": {
     "ItemLevel": "232",
@@ -11487,7 +11487,7 @@
     },
     "Name": "Gaze of Ten Storms",
     "Id": "49329",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49330": {
     "ItemLevel": "232",
@@ -11517,7 +11517,7 @@
     },
     "Name": "Cowl of Ten Storms",
     "Id": "49330",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49331": {
     "ItemLevel": "232",
@@ -11546,7 +11546,7 @@
     },
     "Name": "Coif of Ten Storms",
     "Id": "49331",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49332": {
     "ItemLevel": "232",
@@ -11575,7 +11575,7 @@
     },
     "Name": "Frostforged Ringhelm",
     "Id": "49332",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49333": {
     "ItemLevel": "232",
@@ -11603,7 +11603,7 @@
     },
     "Name": "Frostforged Helmet",
     "Id": "49333",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49466": {
     "ItemLevel": "245",
@@ -11631,7 +11631,7 @@
     },
     "Name": "Frostforged Helm",
     "Id": "49466",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49467": {
     "ItemLevel": "245",
@@ -11660,7 +11660,7 @@
     },
     "Name": "Frostforged Greathelm",
     "Id": "49467",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49468": {
     "ItemLevel": "245",
@@ -11689,7 +11689,7 @@
     },
     "Name": "Helm of Ten Storms",
     "Id": "49468",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49469": {
     "ItemLevel": "245",
@@ -11719,7 +11719,7 @@
     },
     "Name": "Crown of Ten Storms",
     "Id": "49469",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49470": {
     "ItemLevel": "245",
@@ -11748,7 +11748,7 @@
     },
     "Name": "Helmet of Ten Storms",
     "Id": "49470",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49471": {
     "ItemLevel": "245",
@@ -11777,7 +11777,7 @@
     },
     "Name": "Stormrage Coverlet",
     "Id": "49471",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49472": {
     "ItemLevel": "245",
@@ -11806,7 +11806,7 @@
     },
     "Name": "Stormrage Crown",
     "Id": "49472",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49473": {
     "ItemLevel": "245",
@@ -11835,7 +11835,7 @@
     },
     "Name": "Stormrage Cover",
     "Id": "49473",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49474": {
     "ItemLevel": "245",
@@ -11863,7 +11863,7 @@
     },
     "Name": "Judgement Hood",
     "Id": "49474",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49475": {
     "ItemLevel": "245",
@@ -11892,7 +11892,7 @@
     },
     "Name": "Judgement Heaume",
     "Id": "49475",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49476": {
     "ItemLevel": "245",
@@ -11921,7 +11921,7 @@
     },
     "Name": "Judgement Crown",
     "Id": "49476",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49477": {
     "ItemLevel": "245",
@@ -11950,7 +11950,7 @@
     },
     "Name": "Bloodfang Hood",
     "Id": "49477",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49478": {
     "ItemLevel": "245",
@@ -11978,7 +11978,7 @@
     },
     "Name": "Helmet of Wrath",
     "Id": "49478",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49479": {
     "ItemLevel": "245",
@@ -12007,7 +12007,7 @@
     },
     "Name": "Helm of Wrath",
     "Id": "49479",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49480": {
     "ItemLevel": "245",
@@ -12037,7 +12037,7 @@
     },
     "Name": "Dragonstalker's Helm",
     "Id": "49480",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49481": {
     "ItemLevel": "245",
@@ -12066,7 +12066,7 @@
     },
     "Name": "Netherwind Crown",
     "Id": "49481",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49482": {
     "ItemLevel": "245",
@@ -12095,7 +12095,7 @@
     },
     "Name": "Aurora of Transcendence",
     "Id": "49482",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49483": {
     "ItemLevel": "245",
@@ -12124,7 +12124,7 @@
     },
     "Name": "Halo of Transcendence",
     "Id": "49483",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49484": {
     "ItemLevel": "245",
@@ -12153,7 +12153,7 @@
     },
     "Name": "Nemesis Skullcap",
     "Id": "49484",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49804": {
     "ItemLevel": "219",
@@ -12179,7 +12179,7 @@
     },
     "Name": "Polished Mirror Helm",
     "Id": "49804",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49819": {
     "ItemLevel": "219",
@@ -12204,7 +12204,7 @@
     },
     "Name": "Skeleton Lord's Cranium",
     "Id": "49819",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49824": {
     "ItemLevel": "219",
@@ -12231,7 +12231,7 @@
     },
     "Name": "Horns of the Spurned Val'kyr",
     "Id": "49824",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49830": {
     "ItemLevel": "219",
@@ -12257,7 +12257,7 @@
     },
     "Name": "Fallen Sentry's Hood",
     "Id": "49830",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49849": {
     "ItemLevel": "219",
@@ -12283,7 +12283,7 @@
     },
     "Name": "Tattered Glacial-Woven Hood",
     "Id": "49849",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49851": {
     "ItemLevel": "219",
@@ -12309,7 +12309,7 @@
     },
     "Name": "Greathelm of the Silver Hand",
     "Id": "49851",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49952": {
     "ItemLevel": "264",
@@ -12336,7 +12336,7 @@
     },
     "Name": "Snowserpent Mail Helm",
     "Id": "49952",
-    "Slot": "Head"
+    "Slot": 1
   },
   "49986": {
     "ItemLevel": "264",
@@ -12362,7 +12362,7 @@
     },
     "Name": "Broken Ram Skull Helm",
     "Id": "49986",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50006": {
     "ItemLevel": "264",
@@ -12388,7 +12388,7 @@
     },
     "Name": "Corp'rethar Ceremonial Crown",
     "Id": "50006",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50026": {
     "ItemLevel": "264",
@@ -12414,7 +12414,7 @@
     },
     "Name": "Helm of the Elder Moon",
     "Id": "50026",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50060": {
     "ItemLevel": "264",
@@ -12440,7 +12440,7 @@
     },
     "Name": "Faceplate of the Forgotten",
     "Id": "50060",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50072": {
     "ItemLevel": "264",
@@ -12465,7 +12465,7 @@
     },
     "Name": "Landsoul's Horned Greathelm",
     "Id": "50072",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50073": {
     "ItemLevel": "264",
@@ -12491,7 +12491,7 @@
     },
     "Name": "Geistlord's Punishment Sack",
     "Id": "50073",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50080": {
     "ItemLevel": "251",
@@ -12518,7 +12518,7 @@
     },
     "Name": "Ymirjar Lord's Helmet",
     "Id": "50080",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50089": {
     "ItemLevel": "251",
@@ -12546,7 +12546,7 @@
     },
     "Name": "Shadowblade Helmet",
     "Id": "50089",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50096": {
     "ItemLevel": "251",
@@ -12573,7 +12573,7 @@
     },
     "Name": "Scourgelord Helmet",
     "Id": "50096",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50108": {
     "ItemLevel": "251",
@@ -12601,7 +12601,7 @@
     },
     "Name": "Lasherweave Helmet",
     "Id": "50108",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50115": {
     "ItemLevel": "251",
@@ -12630,7 +12630,7 @@
     },
     "Name": "Ahn'Kahar Blood Hunter's Headpiece",
     "Id": "50115",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50197": {
     "ItemLevel": "232",
@@ -12657,7 +12657,7 @@
     },
     "Name": "Eyes of Bewilderment",
     "Id": "50197",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50202": {
     "ItemLevel": "264",
@@ -12683,7 +12683,7 @@
     },
     "Name": "Snowstorm Helm",
     "Id": "50202",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50206": {
     "ItemLevel": "232",
@@ -12709,7 +12709,7 @@
     },
     "Name": "Frayed Scoundrel's Cap",
     "Id": "50206",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50214": {
     "ItemLevel": "232",
@@ -12735,7 +12735,7 @@
     },
     "Name": "Helm of the Spirit Shock",
     "Id": "50214",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50241": {
     "ItemLevel": "251",
@@ -12763,7 +12763,7 @@
     },
     "Name": "Dark Coven Hood",
     "Id": "50241",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50276": {
     "ItemLevel": "251",
@@ -12791,7 +12791,7 @@
     },
     "Name": "Bloodmage Hood",
     "Id": "50276",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50298": {
     "ItemLevel": "232",
@@ -12817,7 +12817,7 @@
     },
     "Name": "Sightless Crown of Ulmaas",
     "Id": "50298",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50311": {
     "ItemLevel": "232",
@@ -12843,7 +12843,7 @@
     },
     "Name": "Second Helm of the Executioner",
     "Id": "50311",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50326": {
     "ItemLevel": "251",
@@ -12870,7 +12870,7 @@
     },
     "Name": "Lightsworn Helmet",
     "Id": "50326",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50392": {
     "ItemLevel": "251",
@@ -12898,7 +12898,7 @@
     },
     "Name": "Crimson Acolyte Cowl",
     "Id": "50392",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50605": {
     "ItemLevel": "277",
@@ -12925,7 +12925,7 @@
     },
     "Name": "Snowserpent Mail Helm",
     "Id": "50605",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50626": {
     "ItemLevel": "277",
@@ -12951,7 +12951,7 @@
     },
     "Name": "Snowstorm Helm",
     "Id": "50626",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50640": {
     "ItemLevel": "277",
@@ -12977,7 +12977,7 @@
     },
     "Name": "Broken Ram Skull Helm",
     "Id": "50640",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50661": {
     "ItemLevel": "277",
@@ -13003,7 +13003,7 @@
     },
     "Name": "Corp'rethar Ceremonial Crown",
     "Id": "50661",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50679": {
     "ItemLevel": "277",
@@ -13029,7 +13029,7 @@
     },
     "Name": "Helm of the Elder Moon",
     "Id": "50679",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50701": {
     "ItemLevel": "277",
@@ -13055,7 +13055,7 @@
     },
     "Name": "Faceplate of the Forgotten",
     "Id": "50701",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50712": {
     "ItemLevel": "277",
@@ -13080,7 +13080,7 @@
     },
     "Name": "Landsoul's Horned Greathelm",
     "Id": "50712",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50713": {
     "ItemLevel": "277",
@@ -13106,7 +13106,7 @@
     },
     "Name": "Geistlord's Punishment Sack",
     "Id": "50713",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50765": {
     "ItemLevel": "251",
@@ -13134,7 +13134,7 @@
     },
     "Name": "Crimson Acolyte Hood",
     "Id": "50765",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50779": {
     "ItemLevel": "251",
@@ -13159,7 +13159,7 @@
     },
     "Name": "Deathspeaker Zealot's Helm",
     "Id": "50779",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50797": {
     "ItemLevel": "251",
@@ -13185,7 +13185,7 @@
     },
     "Name": "Ice-Reinforced Vrykul Helm",
     "Id": "50797",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50807": {
     "ItemLevel": "251",
@@ -13211,7 +13211,7 @@
     },
     "Name": "Thaumaturge's Crackling Cowl",
     "Id": "50807",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50821": {
     "ItemLevel": "251",
@@ -13239,7 +13239,7 @@
     },
     "Name": "Lasherweave Cover",
     "Id": "50821",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50826": {
     "ItemLevel": "251",
@@ -13267,7 +13267,7 @@
     },
     "Name": "Lasherweave Headguard",
     "Id": "50826",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50832": {
     "ItemLevel": "251",
@@ -13296,7 +13296,7 @@
     },
     "Name": "Frost Witch's Faceguard",
     "Id": "50832",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50837": {
     "ItemLevel": "251",
@@ -13324,7 +13324,7 @@
     },
     "Name": "Frost Witch's Headpiece",
     "Id": "50837",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50843": {
     "ItemLevel": "251",
@@ -13352,7 +13352,7 @@
     },
     "Name": "Frost Witch's Helm",
     "Id": "50843",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50848": {
     "ItemLevel": "251",
@@ -13380,7 +13380,7 @@
     },
     "Name": "Ymirjar Lord's Greathelm",
     "Id": "50848",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50855": {
     "ItemLevel": "251",
@@ -13408,7 +13408,7 @@
     },
     "Name": "Scourgelord Faceguard",
     "Id": "50855",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50862": {
     "ItemLevel": "251",
@@ -13436,7 +13436,7 @@
     },
     "Name": "Lightsworn Faceguard",
     "Id": "50862",
-    "Slot": "Head"
+    "Slot": 1
   },
   "50867": {
     "ItemLevel": "251",
@@ -13464,7 +13464,7 @@
     },
     "Name": "Lightsworn Headpiece",
     "Id": "50867",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51002": {
     "ItemLevel": "251",
@@ -13491,7 +13491,7 @@
     },
     "Name": "Taldron's Short-Sighted Helm",
     "Id": "51002",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51013": {
     "ItemLevel": "251",
@@ -13517,7 +13517,7 @@
     },
     "Name": "Discarded Bag of Entrails",
     "Id": "51013",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51127": {
     "ItemLevel": "264",
@@ -13544,7 +13544,7 @@
     },
     "Name": "Sanctified Scourgelord Helmet",
     "Id": "51127",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51133": {
     "ItemLevel": "264",
@@ -13572,7 +13572,7 @@
     },
     "Name": "Sanctified Scourgelord Faceguard",
     "Id": "51133",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51137": {
     "ItemLevel": "264",
@@ -13600,7 +13600,7 @@
     },
     "Name": "Sanctified Lasherweave Helmet",
     "Id": "51137",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51143": {
     "ItemLevel": "264",
@@ -13628,7 +13628,7 @@
     },
     "Name": "Sanctified Lasherweave Headguard",
     "Id": "51143",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51149": {
     "ItemLevel": "264",
@@ -13656,7 +13656,7 @@
     },
     "Name": "Sanctified Lasherweave Cover",
     "Id": "51149",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51153": {
     "ItemLevel": "264",
@@ -13685,7 +13685,7 @@
     },
     "Name": "Sanctified Ahn'Kahar Blood Hunter's Headpiece",
     "Id": "51153",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51158": {
     "ItemLevel": "264",
@@ -13713,7 +13713,7 @@
     },
     "Name": "Sanctified Bloodmage Hood",
     "Id": "51158",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51162": {
     "ItemLevel": "264",
@@ -13740,7 +13740,7 @@
     },
     "Name": "Sanctified Lightsworn Helmet",
     "Id": "51162",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51167": {
     "ItemLevel": "264",
@@ -13768,7 +13768,7 @@
     },
     "Name": "Sanctified Lightsworn Headpiece",
     "Id": "51167",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51173": {
     "ItemLevel": "264",
@@ -13796,7 +13796,7 @@
     },
     "Name": "Sanctified Lightsworn Faceguard",
     "Id": "51173",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51178": {
     "ItemLevel": "264",
@@ -13824,7 +13824,7 @@
     },
     "Name": "Sanctified Crimson Acolyte Hood",
     "Id": "51178",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51184": {
     "ItemLevel": "264",
@@ -13852,7 +13852,7 @@
     },
     "Name": "Sanctified Crimson Acolyte Cowl",
     "Id": "51184",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51187": {
     "ItemLevel": "264",
@@ -13880,7 +13880,7 @@
     },
     "Name": "Sanctified Shadowblade Helmet",
     "Id": "51187",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51192": {
     "ItemLevel": "264",
@@ -13908,7 +13908,7 @@
     },
     "Name": "Sanctified Frost Witch's Headpiece",
     "Id": "51192",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51197": {
     "ItemLevel": "264",
@@ -13937,7 +13937,7 @@
     },
     "Name": "Sanctified Frost Witch's Faceguard",
     "Id": "51197",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51202": {
     "ItemLevel": "264",
@@ -13965,7 +13965,7 @@
     },
     "Name": "Sanctified Frost Witch's Helm",
     "Id": "51202",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51208": {
     "ItemLevel": "264",
@@ -13993,7 +13993,7 @@
     },
     "Name": "Sanctified Dark Coven Hood",
     "Id": "51208",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51212": {
     "ItemLevel": "264",
@@ -14020,7 +14020,7 @@
     },
     "Name": "Sanctified Ymirjar Lord's Helmet",
     "Id": "51212",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51218": {
     "ItemLevel": "264",
@@ -14048,7 +14048,7 @@
     },
     "Name": "Sanctified Ymirjar Lord's Greathelm",
     "Id": "51218",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51221": {
     "ItemLevel": "277",
@@ -14076,7 +14076,7 @@
     },
     "Name": "Sanctified Ymirjar Lord's Greathelm",
     "Id": "51221",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51227": {
     "ItemLevel": "277",
@@ -14103,7 +14103,7 @@
     },
     "Name": "Sanctified Ymirjar Lord's Helmet",
     "Id": "51227",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51231": {
     "ItemLevel": "277",
@@ -14131,7 +14131,7 @@
     },
     "Name": "Sanctified Dark Coven Hood",
     "Id": "51231",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51237": {
     "ItemLevel": "277",
@@ -14159,7 +14159,7 @@
     },
     "Name": "Sanctified Frost Witch's Helm",
     "Id": "51237",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51242": {
     "ItemLevel": "277",
@@ -14188,7 +14188,7 @@
     },
     "Name": "Sanctified Frost Witch's Faceguard",
     "Id": "51242",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51247": {
     "ItemLevel": "277",
@@ -14216,7 +14216,7 @@
     },
     "Name": "Sanctified Frost Witch's Headpiece",
     "Id": "51247",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51252": {
     "ItemLevel": "277",
@@ -14244,7 +14244,7 @@
     },
     "Name": "Sanctified Shadowblade Helmet",
     "Id": "51252",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51255": {
     "ItemLevel": "277",
@@ -14272,7 +14272,7 @@
     },
     "Name": "Sanctified Crimson Acolyte Cowl",
     "Id": "51255",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51261": {
     "ItemLevel": "277",
@@ -14300,7 +14300,7 @@
     },
     "Name": "Sanctified Crimson Acolyte Hood",
     "Id": "51261",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51266": {
     "ItemLevel": "277",
@@ -14328,7 +14328,7 @@
     },
     "Name": "Sanctified Lightsworn Faceguard",
     "Id": "51266",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51272": {
     "ItemLevel": "277",
@@ -14356,7 +14356,7 @@
     },
     "Name": "Sanctified Lightsworn Headpiece",
     "Id": "51272",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51277": {
     "ItemLevel": "277",
@@ -14383,7 +14383,7 @@
     },
     "Name": "Sanctified Lightsworn Helmet",
     "Id": "51277",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51281": {
     "ItemLevel": "277",
@@ -14411,7 +14411,7 @@
     },
     "Name": "Sanctified Bloodmage Hood",
     "Id": "51281",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51286": {
     "ItemLevel": "277",
@@ -14440,7 +14440,7 @@
     },
     "Name": "Sanctified Ahn'Kahar Blood Hunter's Headpiece",
     "Id": "51286",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51290": {
     "ItemLevel": "277",
@@ -14468,7 +14468,7 @@
     },
     "Name": "Sanctified Lasherweave Cover",
     "Id": "51290",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51296": {
     "ItemLevel": "277",
@@ -14496,7 +14496,7 @@
     },
     "Name": "Sanctified Lasherweave Headguard",
     "Id": "51296",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51302": {
     "ItemLevel": "277",
@@ -14524,7 +14524,7 @@
     },
     "Name": "Sanctified Lasherweave Helmet",
     "Id": "51302",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51306": {
     "ItemLevel": "277",
@@ -14552,7 +14552,7 @@
     },
     "Name": "Sanctified Scourgelord Faceguard",
     "Id": "51306",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51312": {
     "ItemLevel": "277",
@@ -14579,7 +14579,7 @@
     },
     "Name": "Sanctified Scourgelord Helmet",
     "Id": "51312",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51415": {
     "ItemLevel": "270",
@@ -14606,7 +14606,7 @@
     },
     "Name": "Wrathful Gladiator's Dreadplate Helm",
     "Id": "51415",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51421": {
     "ItemLevel": "270",
@@ -14634,7 +14634,7 @@
     },
     "Name": "Wrathful Gladiator's Kodohide Helm",
     "Id": "51421",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51427": {
     "ItemLevel": "270",
@@ -14662,7 +14662,7 @@
     },
     "Name": "Wrathful Gladiator's Dragonhide Helm",
     "Id": "51427",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51435": {
     "ItemLevel": "270",
@@ -14690,7 +14690,7 @@
     },
     "Name": "Wrathful Gladiator's Wyrmhide Helm",
     "Id": "51435",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51460": {
     "ItemLevel": "270",
@@ -14719,7 +14719,7 @@
     },
     "Name": "Wrathful Gladiator's Chain Helm",
     "Id": "51460",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51465": {
     "ItemLevel": "270",
@@ -14747,7 +14747,7 @@
     },
     "Name": "Wrathful Gladiator's Silk Cowl",
     "Id": "51465",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51470": {
     "ItemLevel": "270",
@@ -14775,7 +14775,7 @@
     },
     "Name": "Wrathful Gladiator's Ornamented Headcover",
     "Id": "51470",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51476": {
     "ItemLevel": "270",
@@ -14802,7 +14802,7 @@
     },
     "Name": "Wrathful Gladiator's Scaled Helm",
     "Id": "51476",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51484": {
     "ItemLevel": "270",
@@ -14830,7 +14830,7 @@
     },
     "Name": "Wrathful Gladiator's Mooncloth Hood",
     "Id": "51484",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51489": {
     "ItemLevel": "270",
@@ -14858,7 +14858,7 @@
     },
     "Name": "Wrathful Gladiator's Satin Hood",
     "Id": "51489",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51494": {
     "ItemLevel": "270",
@@ -14886,7 +14886,7 @@
     },
     "Name": "Wrathful Gladiator's Leather Helm",
     "Id": "51494",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51499": {
     "ItemLevel": "270",
@@ -14914,7 +14914,7 @@
     },
     "Name": "Wrathful Gladiator's Ringmail Helm",
     "Id": "51499",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51505": {
     "ItemLevel": "270",
@@ -14943,7 +14943,7 @@
     },
     "Name": "Wrathful Gladiator's Linked Helm",
     "Id": "51505",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51511": {
     "ItemLevel": "270",
@@ -14971,7 +14971,7 @@
     },
     "Name": "Wrathful Gladiator's Mail Helm",
     "Id": "51511",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51538": {
     "ItemLevel": "270",
@@ -14999,7 +14999,7 @@
     },
     "Name": "Wrathful Gladiator's Felweave Cowl",
     "Id": "51538",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51543": {
     "ItemLevel": "270",
@@ -15026,7 +15026,7 @@
     },
     "Name": "Wrathful Gladiator's Plate Helm",
     "Id": "51543",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51554": {
     "ItemLevel": "251",
@@ -15052,7 +15052,7 @@
     },
     "Name": "Cowl of Malefic Repose",
     "Id": "51554",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51585": {
     "ItemLevel": "251",
@@ -15078,7 +15078,7 @@
     },
     "Name": "Sister Svalna's Spangenhelm",
     "Id": "51585",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51825": {
     "ItemLevel": "264",
@@ -15104,7 +15104,7 @@
     },
     "Name": "Sister Svalna's Spangenhelm",
     "Id": "51825",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51837": {
     "ItemLevel": "264",
@@ -15130,7 +15130,7 @@
     },
     "Name": "Cowl of Malefic Repose",
     "Id": "51837",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51866": {
     "ItemLevel": "264",
@@ -15156,7 +15156,7 @@
     },
     "Name": "Discarded Bag of Entrails",
     "Id": "51866",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51877": {
     "ItemLevel": "264",
@@ -15183,7 +15183,7 @@
     },
     "Name": "Taldron's Short-Sighted Helm",
     "Id": "51877",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51896": {
     "ItemLevel": "264",
@@ -15209,7 +15209,7 @@
     },
     "Name": "Thaumaturge's Crackling Cowl",
     "Id": "51896",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51906": {
     "ItemLevel": "264",
@@ -15235,7 +15235,7 @@
     },
     "Name": "Ice-Reinforced Vrykul Helm",
     "Id": "51906",
-    "Slot": "Head"
+    "Slot": 1
   },
   "51924": {
     "ItemLevel": "264",
@@ -15260,6 +15260,6 @@
     },
     "Name": "Deathspeaker Zealot's Helm",
     "Id": "51924",
-    "Slot": "Head"
+    "Slot": 1
   }
 }

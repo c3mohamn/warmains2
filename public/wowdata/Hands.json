@@ -18,7 +18,7 @@
     "SocketBonus": "none",
     "Name": "Gloves of the Crystal Gardener",
     "Id": "37153",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "37172": {
     "ItemLevel": "200",
@@ -43,7 +43,7 @@
     },
     "Name": "Gloves of Glistening Runes",
     "Id": "37172",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "37230": {
     "ItemLevel": "200",
@@ -67,7 +67,7 @@
     },
     "Name": "Grotto Mist Gloves",
     "Id": "37230",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "37261": {
     "ItemLevel": "200",
@@ -88,7 +88,7 @@
     "SocketBonus": "none",
     "Name": "Gloves of Radiant Light",
     "Id": "37261",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "37363": {
     "ItemLevel": "200",
@@ -109,7 +109,7 @@
     "SocketBonus": "none",
     "Name": "Gauntlets of Dragon Wrath",
     "Id": "37363",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "37409": {
     "ItemLevel": "200",
@@ -130,7 +130,7 @@
     "SocketBonus": "none",
     "Name": "Gilt-Edged Leather Gauntlets",
     "Id": "37409",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "37614": {
     "ItemLevel": "200",
@@ -152,7 +152,7 @@
     "SocketBonus": "none",
     "Name": "Gauntlets of the Plundering Geist",
     "Id": "37614",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "37623": {
     "ItemLevel": "200",
@@ -173,7 +173,7 @@
     "SocketBonus": "none",
     "Name": "Fiery Obelisk Handguards",
     "Id": "37623",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "37625": {
     "ItemLevel": "200",
@@ -194,7 +194,7 @@
     "SocketBonus": "none",
     "Name": "Web Winder Gloves",
     "Id": "37625",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "37639": {
     "ItemLevel": "200",
@@ -219,7 +219,7 @@
     },
     "Name": "Grips of the Beast God",
     "Id": "37639",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "37645": {
     "ItemLevel": "200",
@@ -240,7 +240,7 @@
     "SocketBonus": "none",
     "Name": "Horn-Tipped Gauntlets",
     "Id": "37645",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "37671": {
     "ItemLevel": "200",
@@ -261,7 +261,7 @@
     "SocketBonus": "none",
     "Name": "Refined Ore Gloves",
     "Id": "37671",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "37678": {
     "ItemLevel": "200",
@@ -282,7 +282,7 @@
     "SocketBonus": "none",
     "Name": "Bile-Cured Gloves",
     "Id": "37678",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "37686": {
     "ItemLevel": "200",
@@ -306,7 +306,7 @@
     },
     "Name": "Cracked Epoch Grasps",
     "Id": "37686",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "37687": {
     "ItemLevel": "200",
@@ -330,7 +330,7 @@
     },
     "Name": "Gloves of Distorted Time",
     "Id": "37687",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "37729": {
     "ItemLevel": "200",
@@ -351,7 +351,7 @@
     "SocketBonus": "none",
     "Name": "Grips of Sculptured Icicles",
     "Id": "37729",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "37798": {
     "ItemLevel": "200",
@@ -372,7 +372,7 @@
     "SocketBonus": "none",
     "Name": "Overlook Handguards",
     "Id": "37798",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "37825": {
     "ItemLevel": "200",
@@ -396,7 +396,7 @@
     },
     "Name": "Traditionally Dyed Handguards",
     "Id": "37825",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "37843": {
     "ItemLevel": "200",
@@ -417,7 +417,7 @@
     "SocketBonus": "none",
     "Name": "Giant-Hair Woven Gloves",
     "Id": "37843",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "37846": {
     "ItemLevel": "200",
@@ -441,7 +441,7 @@
     },
     "Name": "Charged-Bolt Grips",
     "Id": "37846",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "37858": {
     "ItemLevel": "200",
@@ -462,7 +462,7 @@
     "SocketBonus": "none",
     "Name": "Awakened Handguards",
     "Id": "37858",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "37862": {
     "ItemLevel": "200",
@@ -483,7 +483,7 @@
     "SocketBonus": "none",
     "Name": "Gauntlets of the Water Revenant",
     "Id": "37862",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "37874": {
     "ItemLevel": "200",
@@ -504,7 +504,7 @@
     "SocketBonus": "none",
     "Name": "Gauntlets of Capture",
     "Id": "37874",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "37886": {
     "ItemLevel": "200",
@@ -526,7 +526,7 @@
     "SocketBonus": "none",
     "Name": "Handgrips of the Savage Emissary",
     "Id": "37886",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "38615": {
     "ItemLevel": "200",
@@ -547,7 +547,7 @@
     "SocketBonus": "none",
     "Name": "Lightning-Charged Gloves",
     "Id": "38615",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39192": {
     "ItemLevel": "200",
@@ -572,7 +572,7 @@
     },
     "Name": "Gloves of Dark Gestures",
     "Id": "39192",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39194": {
     "ItemLevel": "200",
@@ -598,7 +598,7 @@
     },
     "Name": "Rusted-Link Spiked Gauntlets",
     "Id": "39194",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39197": {
     "ItemLevel": "200",
@@ -620,7 +620,7 @@
     "SocketBonus": "none",
     "Name": "Gauntlets of the Master",
     "Id": "39197",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39228": {
     "ItemLevel": "200",
@@ -642,7 +642,7 @@
     "SocketBonus": "none",
     "Name": "Web Cocoon Grips",
     "Id": "39228",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39243": {
     "ItemLevel": "200",
@@ -664,7 +664,7 @@
     "SocketBonus": "none",
     "Name": "Handgrips of the Foredoomed",
     "Id": "39243",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39262": {
     "ItemLevel": "200",
@@ -685,7 +685,7 @@
     "SocketBonus": "none",
     "Name": "Gauntlets of Combined Strength",
     "Id": "39262",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39275": {
     "ItemLevel": "200",
@@ -707,7 +707,7 @@
     "SocketBonus": "none",
     "Name": "Contagion Gloves",
     "Id": "39275",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39285": {
     "ItemLevel": "200",
@@ -732,7 +732,7 @@
     },
     "Name": "Handgrips of Turmoil",
     "Id": "39285",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39299": {
     "ItemLevel": "200",
@@ -757,7 +757,7 @@
     },
     "Name": "Rapid Attack Gloves",
     "Id": "39299",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39306": {
     "ItemLevel": "200",
@@ -782,7 +782,7 @@
     },
     "Name": "Plated Gloves of Relief",
     "Id": "39306",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39495": {
     "ItemLevel": "200",
@@ -809,7 +809,7 @@
     },
     "Name": "Heroes' Frostfire Gloves",
     "Id": "39495",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39500": {
     "ItemLevel": "200",
@@ -836,7 +836,7 @@
     },
     "Name": "Heroes' Plagueheart Gloves",
     "Id": "39500",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39519": {
     "ItemLevel": "200",
@@ -863,7 +863,7 @@
     },
     "Name": "Heroes' Gloves of Faith",
     "Id": "39519",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39530": {
     "ItemLevel": "200",
@@ -890,7 +890,7 @@
     },
     "Name": "Heroes' Handwraps of Faith",
     "Id": "39530",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39543": {
     "ItemLevel": "200",
@@ -917,7 +917,7 @@
     },
     "Name": "Heroes' Dreamwalker Handguards",
     "Id": "39543",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39544": {
     "ItemLevel": "200",
@@ -944,7 +944,7 @@
     },
     "Name": "Heroes' Dreamwalker Gloves",
     "Id": "39544",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39557": {
     "ItemLevel": "200",
@@ -971,7 +971,7 @@
     },
     "Name": "Heroes' Dreamwalker Handgrips",
     "Id": "39557",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39560": {
     "ItemLevel": "200",
@@ -998,7 +998,7 @@
     },
     "Name": "Heroes' Bonescythe Gauntlets",
     "Id": "39560",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39582": {
     "ItemLevel": "200",
@@ -1026,7 +1026,7 @@
     },
     "Name": "Heroes' Cryptstalker Handguards",
     "Id": "39582",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39591": {
     "ItemLevel": "200",
@@ -1053,7 +1053,7 @@
     },
     "Name": "Heroes' Earthshatter Handguards",
     "Id": "39591",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39593": {
     "ItemLevel": "200",
@@ -1080,7 +1080,7 @@
     },
     "Name": "Heroes' Earthshatter Gloves",
     "Id": "39593",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39601": {
     "ItemLevel": "200",
@@ -1108,7 +1108,7 @@
     },
     "Name": "Heroes' Earthshatter Grips",
     "Id": "39601",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39609": {
     "ItemLevel": "200",
@@ -1134,7 +1134,7 @@
     },
     "Name": "Heroes' Dreadnaught Gauntlets",
     "Id": "39609",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39618": {
     "ItemLevel": "200",
@@ -1160,7 +1160,7 @@
     },
     "Name": "Heroes' Scourgeborne Gauntlets",
     "Id": "39618",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39622": {
     "ItemLevel": "200",
@@ -1187,7 +1187,7 @@
     },
     "Name": "Heroes' Dreadnaught Handguards",
     "Id": "39622",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39624": {
     "ItemLevel": "200",
@@ -1214,7 +1214,7 @@
     },
     "Name": "Heroes' Scourgeborne Handguards",
     "Id": "39624",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39632": {
     "ItemLevel": "200",
@@ -1241,7 +1241,7 @@
     },
     "Name": "Heroes' Redemption Gloves",
     "Id": "39632",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39634": {
     "ItemLevel": "200",
@@ -1267,7 +1267,7 @@
     },
     "Name": "Heroes' Redemption Gauntlets",
     "Id": "39634",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39639": {
     "ItemLevel": "200",
@@ -1294,7 +1294,7 @@
     },
     "Name": "Heroes' Redemption Handguards",
     "Id": "39639",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39703": {
     "ItemLevel": "213",
@@ -1316,7 +1316,7 @@
     "SocketBonus": "none",
     "Name": "Rescinding Grips",
     "Id": "39703",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39718": {
     "ItemLevel": "213",
@@ -1341,7 +1341,7 @@
     },
     "Name": "Corpse Scarab Handguards",
     "Id": "39718",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39726": {
     "ItemLevel": "213",
@@ -1363,7 +1363,7 @@
     "SocketBonus": "none",
     "Name": "Callous-Hearted Gauntlets",
     "Id": "39726",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39727": {
     "ItemLevel": "213",
@@ -1385,7 +1385,7 @@
     "SocketBonus": "none",
     "Name": "Dislocating Handguards",
     "Id": "39727",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "39733": {
     "ItemLevel": "213",
@@ -1407,7 +1407,7 @@
     "SocketBonus": "none",
     "Name": "Gloves of Token Respect",
     "Id": "39733",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40188": {
     "ItemLevel": "213",
@@ -1429,7 +1429,7 @@
     "SocketBonus": "none",
     "Name": "Gauntlets of the Disobedient",
     "Id": "40188",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40197": {
     "ItemLevel": "213",
@@ -1451,7 +1451,7 @@
     "SocketBonus": "none",
     "Name": "Gloves of the Fallen Wizard",
     "Id": "40197",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40238": {
     "ItemLevel": "213",
@@ -1476,7 +1476,7 @@
     },
     "Name": "Gloves of the Dancing Bear",
     "Id": "40238",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40242": {
     "ItemLevel": "213",
@@ -1502,7 +1502,7 @@
     },
     "Name": "Grotesque Handgrips",
     "Id": "40242",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40261": {
     "ItemLevel": "213",
@@ -1523,7 +1523,7 @@
     "SocketBonus": "none",
     "Name": "Crude Discolored Battlegrips",
     "Id": "40261",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40262": {
     "ItemLevel": "213",
@@ -1546,7 +1546,7 @@
     "SocketBonus": "none",
     "Name": "Gloves of Calculated Risk",
     "Id": "40262",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40302": {
     "ItemLevel": "213",
@@ -1568,7 +1568,7 @@
     "SocketBonus": "none",
     "Name": "Benefactor's Gauntlets",
     "Id": "40302",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40303": {
     "ItemLevel": "213",
@@ -1590,7 +1590,7 @@
     "SocketBonus": "none",
     "Name": "Wraps of the Persecuted",
     "Id": "40303",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40316": {
     "ItemLevel": "213",
@@ -1615,7 +1615,7 @@
     },
     "Name": "Gauntlets of Guiding Touch",
     "Id": "40316",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40347": {
     "ItemLevel": "213",
@@ -1639,7 +1639,7 @@
     },
     "Name": "Zeliek's Gauntlets",
     "Id": "40347",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40349": {
     "ItemLevel": "213",
@@ -1661,7 +1661,7 @@
     "SocketBonus": "none",
     "Name": "Gloves of Peaceful Death",
     "Id": "40349",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40362": {
     "ItemLevel": "213",
@@ -1686,7 +1686,7 @@
     },
     "Name": "Gloves of Fast Reactions",
     "Id": "40362",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40380": {
     "ItemLevel": "213",
@@ -1708,7 +1708,7 @@
     "SocketBonus": "none",
     "Name": "Gloves of Grandeur",
     "Id": "40380",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40415": {
     "ItemLevel": "213",
@@ -1735,7 +1735,7 @@
     },
     "Name": "Valorous Frostfire Gloves",
     "Id": "40415",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40420": {
     "ItemLevel": "213",
@@ -1762,7 +1762,7 @@
     },
     "Name": "Valorous Plagueheart Gloves",
     "Id": "40420",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40445": {
     "ItemLevel": "213",
@@ -1789,7 +1789,7 @@
     },
     "Name": "Valorous Gloves of Faith",
     "Id": "40445",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40454": {
     "ItemLevel": "213",
@@ -1816,7 +1816,7 @@
     },
     "Name": "Valorous Handwraps of Faith",
     "Id": "40454",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40460": {
     "ItemLevel": "213",
@@ -1843,7 +1843,7 @@
     },
     "Name": "Valorous Dreamwalker Handguards",
     "Id": "40460",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40466": {
     "ItemLevel": "213",
@@ -1870,7 +1870,7 @@
     },
     "Name": "Valorous Dreamwalker Gloves",
     "Id": "40466",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40472": {
     "ItemLevel": "213",
@@ -1897,7 +1897,7 @@
     },
     "Name": "Valorous Dreamwalker Handgrips",
     "Id": "40472",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40496": {
     "ItemLevel": "213",
@@ -1924,7 +1924,7 @@
     },
     "Name": "Valorous Bonescythe Gauntlets",
     "Id": "40496",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40504": {
     "ItemLevel": "213",
@@ -1952,7 +1952,7 @@
     },
     "Name": "Valorous Cryptstalker Handguards",
     "Id": "40504",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40509": {
     "ItemLevel": "213",
@@ -1979,7 +1979,7 @@
     },
     "Name": "Valorous Earthshatter Handguards",
     "Id": "40509",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40515": {
     "ItemLevel": "213",
@@ -2006,7 +2006,7 @@
     },
     "Name": "Valorous Earthshatter Gloves",
     "Id": "40515",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40520": {
     "ItemLevel": "213",
@@ -2034,7 +2034,7 @@
     },
     "Name": "Valorous Earthshatter Grips",
     "Id": "40520",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40527": {
     "ItemLevel": "213",
@@ -2060,7 +2060,7 @@
     },
     "Name": "Valorous Dreadnaught Gauntlets",
     "Id": "40527",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40541": {
     "ItemLevel": "226",
@@ -2082,7 +2082,7 @@
     "SocketBonus": "none",
     "Name": "Frosted Adroit Handguards",
     "Id": "40541",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40545": {
     "ItemLevel": "213",
@@ -2109,7 +2109,7 @@
     },
     "Name": "Valorous Dreadnaught Handguards",
     "Id": "40545",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40552": {
     "ItemLevel": "213",
@@ -2135,7 +2135,7 @@
     },
     "Name": "Valorous Scourgeborne Gauntlets",
     "Id": "40552",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40563": {
     "ItemLevel": "213",
@@ -2162,7 +2162,7 @@
     },
     "Name": "Valorous Scourgeborne Handguards",
     "Id": "40563",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40564": {
     "ItemLevel": "226",
@@ -2184,7 +2184,7 @@
     "SocketBonus": "none",
     "Name": "Winter Spectacle Gloves",
     "Id": "40564",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40570": {
     "ItemLevel": "213",
@@ -2211,7 +2211,7 @@
     },
     "Name": "Valorous Redemption Gloves",
     "Id": "40570",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40575": {
     "ItemLevel": "213",
@@ -2237,7 +2237,7 @@
     },
     "Name": "Valorous Redemption Gauntlets",
     "Id": "40575",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40580": {
     "ItemLevel": "213",
@@ -2264,7 +2264,7 @@
     },
     "Name": "Valorous Redemption Handguards",
     "Id": "40580",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40797": {
     "ItemLevel": "200",
@@ -2290,7 +2290,7 @@
     },
     "Name": "Savage Gladiator's Plate Gauntlets",
     "Id": "40797",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40798": {
     "ItemLevel": "200",
@@ -2317,7 +2317,7 @@
     },
     "Name": "Savage Gladiator's Scaled Gauntlets",
     "Id": "40798",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40799": {
     "ItemLevel": "200",
@@ -2343,7 +2343,7 @@
     },
     "Name": "Savage Gladiator's Dreadplate Gauntlets",
     "Id": "40799",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40801": {
     "ItemLevel": "200",
@@ -2369,7 +2369,7 @@
     },
     "Name": "Hateful Gladiator's Plate Gauntlets",
     "Id": "40801",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40802": {
     "ItemLevel": "200",
@@ -2396,7 +2396,7 @@
     },
     "Name": "Hateful Gladiator's Scaled Gauntlets",
     "Id": "40802",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40803": {
     "ItemLevel": "200",
@@ -2422,7 +2422,7 @@
     },
     "Name": "Hateful Gladiator's Dreadplate Gauntlets",
     "Id": "40803",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40804": {
     "ItemLevel": "213",
@@ -2448,7 +2448,7 @@
     },
     "Name": "Deadly Gladiator's Plate Gauntlets",
     "Id": "40804",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40805": {
     "ItemLevel": "213",
@@ -2475,7 +2475,7 @@
     },
     "Name": "Deadly Gladiator's Scaled Gauntlets",
     "Id": "40805",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40806": {
     "ItemLevel": "213",
@@ -2501,7 +2501,7 @@
     },
     "Name": "Deadly Gladiator's Dreadplate Gauntlets",
     "Id": "40806",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40807": {
     "ItemLevel": "232",
@@ -2527,7 +2527,7 @@
     },
     "Name": "Furious Gladiator's Plate Gauntlets",
     "Id": "40807",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40808": {
     "ItemLevel": "232",
@@ -2554,7 +2554,7 @@
     },
     "Name": "Furious Gladiator's Scaled Gauntlets",
     "Id": "40808",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40809": {
     "ItemLevel": "232",
@@ -2580,7 +2580,7 @@
     },
     "Name": "Furious Gladiator's Dreadplate Gauntlets",
     "Id": "40809",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40810": {
     "ItemLevel": "251",
@@ -2606,7 +2606,7 @@
     },
     "Name": "Relentless Gladiator's Plate Gauntlets",
     "Id": "40810",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40811": {
     "ItemLevel": "251",
@@ -2632,7 +2632,7 @@
     },
     "Name": "Relentless Gladiator's Dreadplate Gauntlets",
     "Id": "40811",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40812": {
     "ItemLevel": "251",
@@ -2659,7 +2659,7 @@
     },
     "Name": "Relentless Gladiator's Scaled Gauntlets",
     "Id": "40812",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40918": {
     "ItemLevel": "200",
@@ -2686,7 +2686,7 @@
     },
     "Name": "Savage Gladiator's Ornamented Gloves",
     "Id": "40918",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40925": {
     "ItemLevel": "200",
@@ -2713,7 +2713,7 @@
     },
     "Name": "Hateful Gladiator's Ornamented Gloves",
     "Id": "40925",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40926": {
     "ItemLevel": "213",
@@ -2740,7 +2740,7 @@
     },
     "Name": "Deadly Gladiator's Ornamented Gloves",
     "Id": "40926",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40927": {
     "ItemLevel": "232",
@@ -2767,7 +2767,7 @@
     },
     "Name": "Furious Gladiator's Ornamented Gloves",
     "Id": "40927",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40928": {
     "ItemLevel": "251",
@@ -2794,7 +2794,7 @@
     },
     "Name": "Relentless Gladiator's Ornamented Gloves",
     "Id": "40928",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40998": {
     "ItemLevel": "200",
@@ -2821,7 +2821,7 @@
     },
     "Name": "Savage Gladiator's Ringmail Gauntlets",
     "Id": "40998",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "40999": {
     "ItemLevel": "200",
@@ -2848,7 +2848,7 @@
     },
     "Name": "Hateful Gladiator's Ringmail Gauntlets",
     "Id": "40999",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41000": {
     "ItemLevel": "213",
@@ -2875,7 +2875,7 @@
     },
     "Name": "Deadly Gladiator's Ringmail Gauntlets",
     "Id": "41000",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41001": {
     "ItemLevel": "232",
@@ -2902,7 +2902,7 @@
     },
     "Name": "Furious Gladiator's Ringmail Gauntlets",
     "Id": "41001",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41002": {
     "ItemLevel": "251",
@@ -2929,7 +2929,7 @@
     },
     "Name": "Relentless Gladiator's Ringmail Gauntlets",
     "Id": "41002",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41004": {
     "ItemLevel": "200",
@@ -2956,7 +2956,7 @@
     },
     "Name": "Savage Gladiator's Mail Gauntlets",
     "Id": "41004",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41005": {
     "ItemLevel": "200",
@@ -2983,7 +2983,7 @@
     },
     "Name": "Hateful Gladiator's Mail Gauntlets",
     "Id": "41005",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41006": {
     "ItemLevel": "213",
@@ -3010,7 +3010,7 @@
     },
     "Name": "Deadly Gladiator's Mail Gauntlets",
     "Id": "41006",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41007": {
     "ItemLevel": "232",
@@ -3037,7 +3037,7 @@
     },
     "Name": "Furious Gladiator's Mail Gauntlets",
     "Id": "41007",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41008": {
     "ItemLevel": "251",
@@ -3064,7 +3064,7 @@
     },
     "Name": "Relentless Gladiator's Mail Gauntlets",
     "Id": "41008",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41134": {
     "ItemLevel": "200",
@@ -3092,7 +3092,7 @@
     },
     "Name": "Savage Gladiator's Linked Gauntlets",
     "Id": "41134",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41135": {
     "ItemLevel": "200",
@@ -3120,7 +3120,7 @@
     },
     "Name": "Hateful Gladiator's Linked Gauntlets",
     "Id": "41135",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41136": {
     "ItemLevel": "213",
@@ -3148,7 +3148,7 @@
     },
     "Name": "Deadly Gladiator's Linked Gauntlets",
     "Id": "41136",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41137": {
     "ItemLevel": "232",
@@ -3176,7 +3176,7 @@
     },
     "Name": "Furious Gladiator's Linked Gauntlets",
     "Id": "41137",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41138": {
     "ItemLevel": "251",
@@ -3204,7 +3204,7 @@
     },
     "Name": "Relentless Gladiator's Linked Gauntlets",
     "Id": "41138",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41140": {
     "ItemLevel": "200",
@@ -3232,7 +3232,7 @@
     },
     "Name": "Savage Gladiator's Chain Gauntlets",
     "Id": "41140",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41141": {
     "ItemLevel": "200",
@@ -3260,7 +3260,7 @@
     },
     "Name": "Hateful Gladiator's Chain Gauntlets",
     "Id": "41141",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41142": {
     "ItemLevel": "213",
@@ -3288,7 +3288,7 @@
     },
     "Name": "Deadly Gladiator's Chain Gauntlets",
     "Id": "41142",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41143": {
     "ItemLevel": "232",
@@ -3316,7 +3316,7 @@
     },
     "Name": "Furious Gladiator's Chain Gauntlets",
     "Id": "41143",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41144": {
     "ItemLevel": "251",
@@ -3344,7 +3344,7 @@
     },
     "Name": "Relentless Gladiator's Chain Gauntlets",
     "Id": "41144",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41268": {
     "ItemLevel": "200",
@@ -3371,7 +3371,7 @@
     },
     "Name": "Savage Gladiator's Kodohide Gloves",
     "Id": "41268",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41284": {
     "ItemLevel": "200",
@@ -3398,7 +3398,7 @@
     },
     "Name": "Hateful Gladiator's Kodohide Gloves",
     "Id": "41284",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41286": {
     "ItemLevel": "213",
@@ -3425,7 +3425,7 @@
     },
     "Name": "Deadly Gladiator's Kodohide Gloves",
     "Id": "41286",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41287": {
     "ItemLevel": "232",
@@ -3452,7 +3452,7 @@
     },
     "Name": "Furious Gladiator's Kodohide Gloves",
     "Id": "41287",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41288": {
     "ItemLevel": "251",
@@ -3479,7 +3479,7 @@
     },
     "Name": "Relentless Gladiator's Kodohide Gloves",
     "Id": "41288",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41290": {
     "ItemLevel": "200",
@@ -3506,7 +3506,7 @@
     },
     "Name": "Savage Gladiator's Wyrmhide Gloves",
     "Id": "41290",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41291": {
     "ItemLevel": "200",
@@ -3533,7 +3533,7 @@
     },
     "Name": "Hateful Gladiator's Wyrmhide Gloves",
     "Id": "41291",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41292": {
     "ItemLevel": "213",
@@ -3560,7 +3560,7 @@
     },
     "Name": "Deadly Gladiator's Wyrmhide Gloves",
     "Id": "41292",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41293": {
     "ItemLevel": "232",
@@ -3587,7 +3587,7 @@
     },
     "Name": "Furious Gladiator's Wyrmhide Gloves",
     "Id": "41293",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41294": {
     "ItemLevel": "251",
@@ -3614,7 +3614,7 @@
     },
     "Name": "Relentless Gladiator's Wyrmhide Gloves",
     "Id": "41294",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41643": {
     "ItemLevel": "200",
@@ -3641,7 +3641,7 @@
     },
     "Name": "Savage Gladiator's Leather Gloves",
     "Id": "41643",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41765": {
     "ItemLevel": "200",
@@ -3668,7 +3668,7 @@
     },
     "Name": "Hateful Gladiator's Leather Gloves",
     "Id": "41765",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41766": {
     "ItemLevel": "213",
@@ -3695,7 +3695,7 @@
     },
     "Name": "Deadly Gladiator's Leather Gloves",
     "Id": "41766",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41767": {
     "ItemLevel": "232",
@@ -3722,7 +3722,7 @@
     },
     "Name": "Furious Gladiator's Leather Gloves",
     "Id": "41767",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41768": {
     "ItemLevel": "251",
@@ -3749,7 +3749,7 @@
     },
     "Name": "Relentless Gladiator's Leather Gloves",
     "Id": "41768",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41770": {
     "ItemLevel": "200",
@@ -3776,7 +3776,7 @@
     },
     "Name": "Savage Gladiator's Dragonhide Gloves",
     "Id": "41770",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41771": {
     "ItemLevel": "200",
@@ -3803,7 +3803,7 @@
     },
     "Name": "Hateful Gladiator's Dragonhide Gloves",
     "Id": "41771",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41772": {
     "ItemLevel": "213",
@@ -3830,7 +3830,7 @@
     },
     "Name": "Deadly Gladiator's Dragonhide Gloves",
     "Id": "41772",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41773": {
     "ItemLevel": "232",
@@ -3857,7 +3857,7 @@
     },
     "Name": "Furious Gladiator's Dragonhide Gloves",
     "Id": "41773",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41774": {
     "ItemLevel": "251",
@@ -3884,7 +3884,7 @@
     },
     "Name": "Relentless Gladiator's Dragonhide Gloves",
     "Id": "41774",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41847": {
     "ItemLevel": "200",
@@ -3911,7 +3911,7 @@
     },
     "Name": "Savage Gladiator's Mooncloth Gloves",
     "Id": "41847",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41872": {
     "ItemLevel": "200",
@@ -3938,7 +3938,7 @@
     },
     "Name": "Hateful Gladiator's Mooncloth Gloves",
     "Id": "41872",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41873": {
     "ItemLevel": "213",
@@ -3965,7 +3965,7 @@
     },
     "Name": "Deadly Gladiator's Mooncloth Gloves",
     "Id": "41873",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41874": {
     "ItemLevel": "232",
@@ -3992,7 +3992,7 @@
     },
     "Name": "Furious Gladiator's Mooncloth Gloves",
     "Id": "41874",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41875": {
     "ItemLevel": "251",
@@ -4019,7 +4019,7 @@
     },
     "Name": "Relentless Gladiator's Mooncloth Gloves",
     "Id": "41875",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41937": {
     "ItemLevel": "200",
@@ -4046,7 +4046,7 @@
     },
     "Name": "Savage Gladiator's Satin Gloves",
     "Id": "41937",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41938": {
     "ItemLevel": "200",
@@ -4073,7 +4073,7 @@
     },
     "Name": "Hateful Gladiator's Satin Gloves",
     "Id": "41938",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41939": {
     "ItemLevel": "213",
@@ -4100,7 +4100,7 @@
     },
     "Name": "Deadly Gladiator's Satin Gloves",
     "Id": "41939",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41940": {
     "ItemLevel": "232",
@@ -4127,7 +4127,7 @@
     },
     "Name": "Furious Gladiator's Satin Gloves",
     "Id": "41940",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41941": {
     "ItemLevel": "251",
@@ -4154,7 +4154,7 @@
     },
     "Name": "Relentless Gladiator's Satin Gloves",
     "Id": "41941",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41968": {
     "ItemLevel": "200",
@@ -4181,7 +4181,7 @@
     },
     "Name": "Savage Gladiator's Silk Handguards",
     "Id": "41968",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41969": {
     "ItemLevel": "200",
@@ -4208,7 +4208,7 @@
     },
     "Name": "Hateful Gladiator's Silk Handguards",
     "Id": "41969",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41970": {
     "ItemLevel": "213",
@@ -4235,7 +4235,7 @@
     },
     "Name": "Deadly Gladiator's Silk Handguards",
     "Id": "41970",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41971": {
     "ItemLevel": "232",
@@ -4262,7 +4262,7 @@
     },
     "Name": "Furious Gladiator's Silk Handguards",
     "Id": "41971",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "41972": {
     "ItemLevel": "251",
@@ -4289,7 +4289,7 @@
     },
     "Name": "Relentless Gladiator's Silk Handguards",
     "Id": "41972",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "42014": {
     "ItemLevel": "200",
@@ -4316,7 +4316,7 @@
     },
     "Name": "Savage Gladiator's Felweave Handguards",
     "Id": "42014",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "42015": {
     "ItemLevel": "200",
@@ -4343,7 +4343,7 @@
     },
     "Name": "Hateful Gladiator's Felweave Handguards",
     "Id": "42015",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "42016": {
     "ItemLevel": "213",
@@ -4370,7 +4370,7 @@
     },
     "Name": "Deadly Gladiator's Felweave Handguards",
     "Id": "42016",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "42017": {
     "ItemLevel": "232",
@@ -4397,7 +4397,7 @@
     },
     "Name": "Furious Gladiator's Felweave Handguards",
     "Id": "42017",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "42018": {
     "ItemLevel": "251",
@@ -4424,7 +4424,7 @@
     },
     "Name": "Relentless Gladiator's Felweave Handguards",
     "Id": "42018",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "42103": {
     "ItemLevel": "200",
@@ -4445,7 +4445,7 @@
     "SocketBonus": "none",
     "Name": "Moonshroud Gloves",
     "Id": "42103",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "42111": {
     "ItemLevel": "200",
@@ -4466,7 +4466,7 @@
     "SocketBonus": "none",
     "Name": "Ebonweave Gloves",
     "Id": "42111",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "42113": {
     "ItemLevel": "200",
@@ -4487,7 +4487,7 @@
     "SocketBonus": "none",
     "Name": "Spellweave Gloves",
     "Id": "42113",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "43287": {
     "ItemLevel": "200",
@@ -4511,7 +4511,7 @@
     },
     "Name": "Silken Bridge Handwraps",
     "Id": "43287",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "44004": {
     "ItemLevel": "213",
@@ -4536,7 +4536,7 @@
     },
     "Name": "Bountiful Gauntlets",
     "Id": "44004",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "44183": {
     "ItemLevel": "200",
@@ -4557,7 +4557,7 @@
     "SocketBonus": "none",
     "Name": "Fireproven Gauntlets",
     "Id": "44183",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "44204": {
     "ItemLevel": "200",
@@ -4578,7 +4578,7 @@
     "SocketBonus": "none",
     "Name": "Grips of Fierce Pronouncements",
     "Id": "44204",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "44256": {
     "ItemLevel": "200",
@@ -4599,7 +4599,7 @@
     "SocketBonus": "none",
     "Name": "Sterile Flesh-Handling Gloves",
     "Id": "44256",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45109": {
     "ItemLevel": "226",
@@ -4622,7 +4622,7 @@
     "SocketBonus": "none",
     "Name": "Gloves of the Fiery Behemoth",
     "Id": "45109",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45117": {
     "ItemLevel": "226",
@@ -4644,7 +4644,7 @@
     "SocketBonus": "none",
     "Name": "Constructor's Handwraps",
     "Id": "45117",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45182": {
     "ItemLevel": "200",
@@ -4665,7 +4665,7 @@
     "SocketBonus": "none",
     "Name": "Gauntlets of Shattered Pride",
     "Id": "45182",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45216": {
     "ItemLevel": "200",
@@ -4686,7 +4686,7 @@
     "SocketBonus": "none",
     "Name": "Gauntlets of Mending Touch",
     "Id": "45216",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45228": {
     "ItemLevel": "226",
@@ -4708,7 +4708,7 @@
     "SocketBonus": "none",
     "Name": "Handguards of the Enclave",
     "Id": "45228",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45239": {
     "ItemLevel": "226",
@@ -4733,7 +4733,7 @@
     },
     "Name": "Runeshaper's Gloves",
     "Id": "45239",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45268": {
     "ItemLevel": "226",
@@ -4755,7 +4755,7 @@
     "SocketBonus": "none",
     "Name": "Gloves of the Pythonic Guardian",
     "Id": "45268",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45273": {
     "ItemLevel": "226",
@@ -4777,7 +4777,7 @@
     "SocketBonus": "none",
     "Name": "Handwraps of Plentiful Recovery",
     "Id": "45273",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45293": {
     "ItemLevel": "226",
@@ -4802,7 +4802,7 @@
     },
     "Name": "Handguards of Potent Cures",
     "Id": "45293",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45310": {
     "ItemLevel": "219",
@@ -4824,7 +4824,7 @@
     "SocketBonus": "none",
     "Name": "Gauntlets of the Iron Furnace",
     "Id": "45310",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45312": {
     "ItemLevel": "219",
@@ -4846,7 +4846,7 @@
     "SocketBonus": "none",
     "Name": "Gloves of Smoldering Touch",
     "Id": "45312",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45325": {
     "ItemLevel": "226",
@@ -4871,7 +4871,7 @@
     },
     "Name": "Gloves of the Stonereaper",
     "Id": "45325",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45337": {
     "ItemLevel": "219",
@@ -4898,7 +4898,7 @@
     },
     "Name": "Valorous Darkruned Handguards",
     "Id": "45337",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45341": {
     "ItemLevel": "219",
@@ -4924,7 +4924,7 @@
     },
     "Name": "Valorous Darkruned Gauntlets",
     "Id": "45341",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45345": {
     "ItemLevel": "219",
@@ -4951,7 +4951,7 @@
     },
     "Name": "Valorous Nightsong Handguards",
     "Id": "45345",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45351": {
     "ItemLevel": "219",
@@ -4978,7 +4978,7 @@
     },
     "Name": "Valorous Nightsong Gloves",
     "Id": "45351",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45355": {
     "ItemLevel": "219",
@@ -5005,7 +5005,7 @@
     },
     "Name": "Valorous Nightsong Handgrips",
     "Id": "45355",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45360": {
     "ItemLevel": "219",
@@ -5033,7 +5033,7 @@
     },
     "Name": "Valorous Scourgestalker Handguards",
     "Id": "45360",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45370": {
     "ItemLevel": "219",
@@ -5060,7 +5060,7 @@
     },
     "Name": "Valorous Aegis Gloves",
     "Id": "45370",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45376": {
     "ItemLevel": "219",
@@ -5086,7 +5086,7 @@
     },
     "Name": "Valorous Aegis Gauntlets",
     "Id": "45376",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45383": {
     "ItemLevel": "219",
@@ -5113,7 +5113,7 @@
     },
     "Name": "Valorous Aegis Handguards",
     "Id": "45383",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45387": {
     "ItemLevel": "219",
@@ -5140,7 +5140,7 @@
     },
     "Name": "Valorous Gloves of Sanctification",
     "Id": "45387",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45392": {
     "ItemLevel": "219",
@@ -5167,7 +5167,7 @@
     },
     "Name": "Valorous Handwraps of Sanctification",
     "Id": "45392",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45397": {
     "ItemLevel": "219",
@@ -5194,7 +5194,7 @@
     },
     "Name": "Valorous Terrorblade Gauntlets",
     "Id": "45397",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45401": {
     "ItemLevel": "219",
@@ -5221,7 +5221,7 @@
     },
     "Name": "Valorous Worldbreaker Handguards",
     "Id": "45401",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45406": {
     "ItemLevel": "219",
@@ -5248,7 +5248,7 @@
     },
     "Name": "Valorous Worldbreaker Gloves",
     "Id": "45406",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45414": {
     "ItemLevel": "219",
@@ -5276,7 +5276,7 @@
     },
     "Name": "Valorous Worldbreaker Grips",
     "Id": "45414",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45419": {
     "ItemLevel": "219",
@@ -5303,7 +5303,7 @@
     },
     "Name": "Valorous Deathbringer Gloves",
     "Id": "45419",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45426": {
     "ItemLevel": "219",
@@ -5330,7 +5330,7 @@
     },
     "Name": "Valorous Siegebreaker Handguards",
     "Id": "45426",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45430": {
     "ItemLevel": "219",
@@ -5356,7 +5356,7 @@
     },
     "Name": "Valorous Siegebreaker Gauntlets",
     "Id": "45430",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45444": {
     "ItemLevel": "239",
@@ -5383,7 +5383,7 @@
     },
     "Name": "Gloves of the Steady Hand",
     "Id": "45444",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45462": {
     "ItemLevel": "239",
@@ -5409,7 +5409,7 @@
     },
     "Name": "Gloves of the Frozen Glade",
     "Id": "45462",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45481": {
     "ItemLevel": "226",
@@ -5430,7 +5430,7 @@
     "SocketBonus": "none",
     "Name": "Gauntlets of Ruthless Reprisal",
     "Id": "45481",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45487": {
     "ItemLevel": "239",
@@ -5456,7 +5456,7 @@
     },
     "Name": "Handguards of Revitalization",
     "Id": "45487",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45512": {
     "ItemLevel": "226",
@@ -5481,7 +5481,7 @@
     },
     "Name": "Grips of the Unbroken",
     "Id": "45512",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45520": {
     "ItemLevel": "239",
@@ -5507,7 +5507,7 @@
     },
     "Name": "Handwraps of the Vigilant",
     "Id": "45520",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45665": {
     "ItemLevel": "239",
@@ -5533,7 +5533,7 @@
     },
     "Name": "Pharos Gloves",
     "Id": "45665",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45679": {
     "ItemLevel": "219",
@@ -5559,7 +5559,7 @@
     },
     "Name": "Gloves of Taut Grip",
     "Id": "45679",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45833": {
     "ItemLevel": "226",
@@ -5580,7 +5580,7 @@
     "SocketBonus": "none",
     "Name": "Bladebreaker Gauntlets",
     "Id": "45833",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45834": {
     "ItemLevel": "226",
@@ -5602,7 +5602,7 @@
     "SocketBonus": "none",
     "Name": "Gauntlets of the Royal Watch",
     "Id": "45834",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45835": {
     "ItemLevel": "226",
@@ -5624,7 +5624,7 @@
     "SocketBonus": "none",
     "Name": "Gauntlets of Serene Blessing",
     "Id": "45835",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45836": {
     "ItemLevel": "226",
@@ -5647,7 +5647,7 @@
     "SocketBonus": "none",
     "Name": "Gloves of Unerring Aim",
     "Id": "45836",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45837": {
     "ItemLevel": "226",
@@ -5669,7 +5669,7 @@
     "SocketBonus": "none",
     "Name": "Gloves of Augury",
     "Id": "45837",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45838": {
     "ItemLevel": "226",
@@ -5691,7 +5691,7 @@
     "SocketBonus": "none",
     "Name": "Gloves of the Blind Stalker",
     "Id": "45838",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45839": {
     "ItemLevel": "226",
@@ -5713,7 +5713,7 @@
     "SocketBonus": "none",
     "Name": "Grips of the Secret Grove",
     "Id": "45839",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45840": {
     "ItemLevel": "226",
@@ -5735,7 +5735,7 @@
     "SocketBonus": "none",
     "Name": "Touch of the Occult",
     "Id": "45840",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45927": {
     "ItemLevel": "219",
@@ -5757,7 +5757,7 @@
     "SocketBonus": "none",
     "Name": "Handwraps of Resonance",
     "Id": "45927",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45928": {
     "ItemLevel": "226",
@@ -5783,7 +5783,7 @@
     },
     "Name": "Gauntlets of the Thunder God",
     "Id": "45928",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45943": {
     "ItemLevel": "226",
@@ -5808,7 +5808,7 @@
     },
     "Name": "Gloves of Whispering Winds",
     "Id": "45943",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45976": {
     "ItemLevel": "219",
@@ -5830,7 +5830,7 @@
     "SocketBonus": "none",
     "Name": "Static Charge Handwraps",
     "Id": "45976",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "45997": {
     "ItemLevel": "219",
@@ -5851,7 +5851,7 @@
     "SocketBonus": "none",
     "Name": "Gauntlets of the Wretched",
     "Id": "45997",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "46043": {
     "ItemLevel": "226",
@@ -5877,7 +5877,7 @@
     },
     "Name": "Gloves of the Endless Dark",
     "Id": "46043",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "46045": {
     "ItemLevel": "226",
@@ -5903,7 +5903,7 @@
     },
     "Name": "Pulsar Gloves",
     "Id": "46045",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "46113": {
     "ItemLevel": "226",
@@ -5929,7 +5929,7 @@
     },
     "Name": "Conqueror's Darkruned Gauntlets",
     "Id": "46113",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "46119": {
     "ItemLevel": "226",
@@ -5956,7 +5956,7 @@
     },
     "Name": "Conqueror's Darkruned Handguards",
     "Id": "46119",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "46124": {
     "ItemLevel": "226",
@@ -5983,7 +5983,7 @@
     },
     "Name": "Conqueror's Terrorblade Gauntlets",
     "Id": "46124",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "46131": {
     "ItemLevel": "219",
@@ -6010,7 +6010,7 @@
     },
     "Name": "Valorous Kirin Tor Gauntlets",
     "Id": "46131",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "46132": {
     "ItemLevel": "226",
@@ -6037,7 +6037,7 @@
     },
     "Name": "Conqueror's Kirin Tor Gauntlets",
     "Id": "46132",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "46135": {
     "ItemLevel": "226",
@@ -6064,7 +6064,7 @@
     },
     "Name": "Conqueror's Deathbringer Gloves",
     "Id": "46135",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "46142": {
     "ItemLevel": "226",
@@ -6092,7 +6092,7 @@
     },
     "Name": "Conqueror's Scourgestalker Handguards",
     "Id": "46142",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "46148": {
     "ItemLevel": "226",
@@ -6118,7 +6118,7 @@
     },
     "Name": "Conqueror's Siegebreaker Gauntlets",
     "Id": "46148",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "46155": {
     "ItemLevel": "226",
@@ -6144,7 +6144,7 @@
     },
     "Name": "Conqueror's Aegis Gauntlets",
     "Id": "46155",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "46158": {
     "ItemLevel": "226",
@@ -6171,7 +6171,7 @@
     },
     "Name": "Conqueror's Nightsong Handgrips",
     "Id": "46158",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "46163": {
     "ItemLevel": "226",
@@ -6198,7 +6198,7 @@
     },
     "Name": "Conqueror's Handwraps of Sanctification",
     "Id": "46163",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "46164": {
     "ItemLevel": "226",
@@ -6225,7 +6225,7 @@
     },
     "Name": "Conqueror's Siegebreaker Handguards",
     "Id": "46164",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "46174": {
     "ItemLevel": "226",
@@ -6252,7 +6252,7 @@
     },
     "Name": "Conqueror's Aegis Handguards",
     "Id": "46174",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "46179": {
     "ItemLevel": "226",
@@ -6279,7 +6279,7 @@
     },
     "Name": "Conqueror's Aegis Gloves",
     "Id": "46179",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "46183": {
     "ItemLevel": "226",
@@ -6306,7 +6306,7 @@
     },
     "Name": "Conqueror's Nightsong Handguards",
     "Id": "46183",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "46188": {
     "ItemLevel": "226",
@@ -6333,7 +6333,7 @@
     },
     "Name": "Conqueror's Gloves of Sanctification",
     "Id": "46188",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "46189": {
     "ItemLevel": "226",
@@ -6360,7 +6360,7 @@
     },
     "Name": "Conqueror's Nightsong Gloves",
     "Id": "46189",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "46199": {
     "ItemLevel": "226",
@@ -6387,7 +6387,7 @@
     },
     "Name": "Conqueror's Worldbreaker Handguards",
     "Id": "46199",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "46200": {
     "ItemLevel": "226",
@@ -6415,7 +6415,7 @@
     },
     "Name": "Conqueror's Worldbreaker Grips",
     "Id": "46200",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "46207": {
     "ItemLevel": "226",
@@ -6442,7 +6442,7 @@
     },
     "Name": "Conqueror's Worldbreaker Gloves",
     "Id": "46207",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "46340": {
     "ItemLevel": "219",
@@ -6464,7 +6464,7 @@
     "SocketBonus": "none",
     "Name": "Adamant Handguards",
     "Id": "46340",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47177": {
     "ItemLevel": "200",
@@ -6489,7 +6489,7 @@
     },
     "Name": "Gloves of the Argent Fanatic",
     "Id": "47177",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47197": {
     "ItemLevel": "200",
@@ -6513,7 +6513,7 @@
     },
     "Name": "Gauntlets of the Stouthearted Crusader",
     "Id": "47197",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47212": {
     "ItemLevel": "200",
@@ -6538,7 +6538,7 @@
     },
     "Name": "Mercy's Hold",
     "Id": "47212",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47230": {
     "ItemLevel": "200",
@@ -6563,7 +6563,7 @@
     },
     "Name": "Handwraps of Surrendered Hope",
     "Id": "47230",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47234": {
     "ItemLevel": "245",
@@ -6587,7 +6587,7 @@
     },
     "Name": "Gloves of Bitter Reprisal",
     "Id": "47234",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47235": {
     "ItemLevel": "245",
@@ -6612,7 +6612,7 @@
     },
     "Name": "Gloves of the Lifeless Touch",
     "Id": "47235",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47236": {
     "ItemLevel": "258",
@@ -6638,7 +6638,7 @@
     },
     "Name": "Gloves of the Lifeless Touch",
     "Id": "47236",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47240": {
     "ItemLevel": "258",
@@ -6663,7 +6663,7 @@
     },
     "Name": "Gloves of Bitter Reprisal",
     "Id": "47240",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47326": {
     "ItemLevel": "245",
@@ -6688,7 +6688,7 @@
     },
     "Name": "Handwraps of the Lifeless Touch",
     "Id": "47326",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47330": {
     "ItemLevel": "245",
@@ -6712,7 +6712,7 @@
     },
     "Name": "Gauntlets of Bitter Reprisal",
     "Id": "47330",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47487": {
     "ItemLevel": "258",
@@ -6738,7 +6738,7 @@
     },
     "Name": "Handwraps of the Lifeless Touch",
     "Id": "47487",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47492": {
     "ItemLevel": "258",
@@ -6763,7 +6763,7 @@
     },
     "Name": "Gauntlets of Bitter Reprisal",
     "Id": "47492",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47498": {
     "ItemLevel": "219",
@@ -6785,7 +6785,7 @@
     "SocketBonus": "none",
     "Name": "Gloves of Dismal Fortune",
     "Id": "47498",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47561": {
     "ItemLevel": "219",
@@ -6811,7 +6811,7 @@
     },
     "Name": "Gloves of the Dark Exile",
     "Id": "47561",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47567": {
     "ItemLevel": "219",
@@ -6836,7 +6836,7 @@
     },
     "Name": "Gauntlets of Revelation",
     "Id": "47567",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47609": {
     "ItemLevel": "232",
@@ -6860,7 +6860,7 @@
     },
     "Name": "Gauntlets of Rising Anger",
     "Id": "47609",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47719": {
     "ItemLevel": "232",
@@ -6885,7 +6885,7 @@
     },
     "Name": "Gloves of the Silver Assassin",
     "Id": "47719",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47744": {
     "ItemLevel": "232",
@@ -6910,7 +6910,7 @@
     },
     "Name": "Gloves of the Azure Prophet",
     "Id": "47744",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47745": {
     "ItemLevel": "232",
@@ -6936,7 +6936,7 @@
     },
     "Name": "Gloves of Looming Shadow",
     "Id": "47745",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47752": {
     "ItemLevel": "232",
@@ -6963,7 +6963,7 @@
     },
     "Name": "Khadgar's Gauntlets of Conquest",
     "Id": "47752",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47753": {
     "ItemLevel": "245",
@@ -6990,7 +6990,7 @@
     },
     "Name": "Khadgar's Gauntlets of Triumph",
     "Id": "47753",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47762": {
     "ItemLevel": "258",
@@ -7017,7 +7017,7 @@
     },
     "Name": "Khadgar's Gauntlets of Triumph",
     "Id": "47762",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47763": {
     "ItemLevel": "258",
@@ -7044,7 +7044,7 @@
     },
     "Name": "Sunstrider's Gauntlets of Triumph",
     "Id": "47763",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47772": {
     "ItemLevel": "245",
@@ -7071,7 +7071,7 @@
     },
     "Name": "Sunstrider's Gauntlets of Triumph",
     "Id": "47772",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47773": {
     "ItemLevel": "232",
@@ -7098,7 +7098,7 @@
     },
     "Name": "Sunstrider's Gauntlets of Conquest",
     "Id": "47773",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47782": {
     "ItemLevel": "245",
@@ -7125,7 +7125,7 @@
     },
     "Name": "Kel'Thuzad's Gloves of Triumph",
     "Id": "47782",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47783": {
     "ItemLevel": "232",
@@ -7152,7 +7152,7 @@
     },
     "Name": "Kel'Thuzad's Gloves of Conquest",
     "Id": "47783",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47788": {
     "ItemLevel": "258",
@@ -7179,7 +7179,7 @@
     },
     "Name": "Kel'Thuzad's Gloves of Triumph",
     "Id": "47788",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47797": {
     "ItemLevel": "258",
@@ -7206,7 +7206,7 @@
     },
     "Name": "Gul'dan's Gloves of Triumph",
     "Id": "47797",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47802": {
     "ItemLevel": "232",
@@ -7233,7 +7233,7 @@
     },
     "Name": "Gul'dan's Gloves of Conquest",
     "Id": "47802",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47803": {
     "ItemLevel": "245",
@@ -7260,7 +7260,7 @@
     },
     "Name": "Gul'dan's Gloves of Triumph",
     "Id": "47803",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47851": {
     "ItemLevel": "232",
@@ -7284,7 +7284,7 @@
     },
     "Name": "Gauntlets of Mounting Anger",
     "Id": "47851",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47878": {
     "ItemLevel": "232",
@@ -7309,7 +7309,7 @@
     },
     "Name": "Sunreaver Assassin's Gloves",
     "Id": "47878",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47889": {
     "ItemLevel": "232",
@@ -7335,7 +7335,7 @@
     },
     "Name": "Looming Shadow Wraps",
     "Id": "47889",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47893": {
     "ItemLevel": "232",
@@ -7360,7 +7360,7 @@
     },
     "Name": "Sen'jin Ritualist Gloves",
     "Id": "47893",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47917": {
     "ItemLevel": "245",
@@ -7385,7 +7385,7 @@
     },
     "Name": "Gauntlets of Rising Anger",
     "Id": "47917",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47945": {
     "ItemLevel": "245",
@@ -7411,7 +7411,7 @@
     },
     "Name": "Gloves of the Silver Assassin",
     "Id": "47945",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47956": {
     "ItemLevel": "245",
@@ -7437,7 +7437,7 @@
     },
     "Name": "Gloves of Looming Shadow",
     "Id": "47956",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47961": {
     "ItemLevel": "245",
@@ -7463,7 +7463,7 @@
     },
     "Name": "Gloves of the Azure Prophet",
     "Id": "47961",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47982": {
     "ItemLevel": "232",
@@ -7490,7 +7490,7 @@
     },
     "Name": "Velen's Gloves of Conquest",
     "Id": "47982",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47983": {
     "ItemLevel": "245",
@@ -7517,7 +7517,7 @@
     },
     "Name": "Velen's Gloves of Triumph",
     "Id": "47983",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "47990": {
     "ItemLevel": "245",
@@ -7542,7 +7542,7 @@
     },
     "Name": "Gauntlets of Mounting Anger",
     "Id": "47990",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48017": {
     "ItemLevel": "245",
@@ -7568,7 +7568,7 @@
     },
     "Name": "Sunreaver Assassin's Gloves",
     "Id": "48017",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48028": {
     "ItemLevel": "245",
@@ -7594,7 +7594,7 @@
     },
     "Name": "Looming Shadow Wraps",
     "Id": "48028",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48037": {
     "ItemLevel": "258",
@@ -7621,7 +7621,7 @@
     },
     "Name": "Velen's Gloves of Triumph",
     "Id": "48037",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48038": {
     "ItemLevel": "245",
@@ -7647,7 +7647,7 @@
     },
     "Name": "Sen'jin Ritualist Gloves",
     "Id": "48038",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48057": {
     "ItemLevel": "258",
@@ -7674,7 +7674,7 @@
     },
     "Name": "Zabra's Gloves of Triumph",
     "Id": "48057",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48066": {
     "ItemLevel": "245",
@@ -7701,7 +7701,7 @@
     },
     "Name": "Zabra's Gloves of Triumph",
     "Id": "48066",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48067": {
     "ItemLevel": "232",
@@ -7728,7 +7728,7 @@
     },
     "Name": "Zabra's Gloves of Conquest",
     "Id": "48067",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48072": {
     "ItemLevel": "232",
@@ -7755,7 +7755,7 @@
     },
     "Name": "Velen's Handwraps of Conquest",
     "Id": "48072",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48077": {
     "ItemLevel": "245",
@@ -7782,7 +7782,7 @@
     },
     "Name": "Velen's Handwraps of Triumph",
     "Id": "48077",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48086": {
     "ItemLevel": "258",
@@ -7809,7 +7809,7 @@
     },
     "Name": "Velen's Handwraps of Triumph",
     "Id": "48086",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48087": {
     "ItemLevel": "258",
@@ -7836,7 +7836,7 @@
     },
     "Name": "Zabra's Handwraps of Triumph",
     "Id": "48087",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48096": {
     "ItemLevel": "245",
@@ -7863,7 +7863,7 @@
     },
     "Name": "Zabra's Handwraps of Triumph",
     "Id": "48096",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48097": {
     "ItemLevel": "232",
@@ -7890,7 +7890,7 @@
     },
     "Name": "Zabra's Handwraps of Conquest",
     "Id": "48097",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48132": {
     "ItemLevel": "232",
@@ -7917,7 +7917,7 @@
     },
     "Name": "Malfurion's Handguards of Conquest",
     "Id": "48132",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48133": {
     "ItemLevel": "245",
@@ -7944,7 +7944,7 @@
     },
     "Name": "Malfurion's Handguards of Triumph",
     "Id": "48133",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48142": {
     "ItemLevel": "258",
@@ -7971,7 +7971,7 @@
     },
     "Name": "Malfurion's Handguards of Triumph",
     "Id": "48142",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48143": {
     "ItemLevel": "258",
@@ -7998,7 +7998,7 @@
     },
     "Name": "Runetotem's Handguards of Triumph",
     "Id": "48143",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48152": {
     "ItemLevel": "245",
@@ -8025,7 +8025,7 @@
     },
     "Name": "Runetotem's Handguards of Triumph",
     "Id": "48152",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48153": {
     "ItemLevel": "232",
@@ -8052,7 +8052,7 @@
     },
     "Name": "Runetotem's Handguards of Conquest",
     "Id": "48153",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48162": {
     "ItemLevel": "232",
@@ -8079,7 +8079,7 @@
     },
     "Name": "Malfurion's Gloves of Conquest",
     "Id": "48162",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48163": {
     "ItemLevel": "245",
@@ -8106,7 +8106,7 @@
     },
     "Name": "Malfurion's Gloves of Triumph",
     "Id": "48163",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48172": {
     "ItemLevel": "258",
@@ -8133,7 +8133,7 @@
     },
     "Name": "Malfurion's Gloves of Triumph",
     "Id": "48172",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48173": {
     "ItemLevel": "258",
@@ -8160,7 +8160,7 @@
     },
     "Name": "Runetotem's Gloves of Triumph",
     "Id": "48173",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48182": {
     "ItemLevel": "245",
@@ -8187,7 +8187,7 @@
     },
     "Name": "Runetotem's Gloves of Triumph",
     "Id": "48182",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48183": {
     "ItemLevel": "232",
@@ -8214,7 +8214,7 @@
     },
     "Name": "Runetotem's Gloves of Conquest",
     "Id": "48183",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48192": {
     "ItemLevel": "232",
@@ -8241,7 +8241,7 @@
     },
     "Name": "Runetotem's Handgrips of Conquest",
     "Id": "48192",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48193": {
     "ItemLevel": "245",
@@ -8268,7 +8268,7 @@
     },
     "Name": "Runetotem's Handgrips of Triumph",
     "Id": "48193",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48202": {
     "ItemLevel": "258",
@@ -8295,7 +8295,7 @@
     },
     "Name": "Runetotem's Handgrips of Triumph",
     "Id": "48202",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48203": {
     "ItemLevel": "258",
@@ -8322,7 +8322,7 @@
     },
     "Name": "Malfurion's Handgrips of Triumph",
     "Id": "48203",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48212": {
     "ItemLevel": "245",
@@ -8349,7 +8349,7 @@
     },
     "Name": "Malfurion's Handgrips of Triumph",
     "Id": "48212",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48213": {
     "ItemLevel": "232",
@@ -8376,7 +8376,7 @@
     },
     "Name": "Malfurion's Handgrips of Conquest",
     "Id": "48213",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48222": {
     "ItemLevel": "232",
@@ -8403,7 +8403,7 @@
     },
     "Name": "VanCleef's Gauntlets of Conquest",
     "Id": "48222",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48224": {
     "ItemLevel": "245",
@@ -8430,7 +8430,7 @@
     },
     "Name": "VanCleef's Gauntlets of Triumph",
     "Id": "48224",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48231": {
     "ItemLevel": "258",
@@ -8457,7 +8457,7 @@
     },
     "Name": "VanCleef's Gauntlets of Triumph",
     "Id": "48231",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48234": {
     "ItemLevel": "258",
@@ -8484,7 +8484,7 @@
     },
     "Name": "Garona's Gauntlets of Triumph",
     "Id": "48234",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48241": {
     "ItemLevel": "245",
@@ -8511,7 +8511,7 @@
     },
     "Name": "Garona's Gauntlets of Triumph",
     "Id": "48241",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48244": {
     "ItemLevel": "232",
@@ -8538,7 +8538,7 @@
     },
     "Name": "Garona's Gauntlets of Conquest",
     "Id": "48244",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48254": {
     "ItemLevel": "232",
@@ -8566,7 +8566,7 @@
     },
     "Name": "Windrunner's Handguards of Conquest",
     "Id": "48254",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48256": {
     "ItemLevel": "245",
@@ -8594,7 +8594,7 @@
     },
     "Name": "Windrunner's Handguards of Triumph",
     "Id": "48256",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48263": {
     "ItemLevel": "258",
@@ -8622,7 +8622,7 @@
     },
     "Name": "Windrunner's Handguards of Triumph",
     "Id": "48263",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48266": {
     "ItemLevel": "258",
@@ -8650,7 +8650,7 @@
     },
     "Name": "Windrunner's Handguards of Triumph",
     "Id": "48266",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48273": {
     "ItemLevel": "245",
@@ -8678,7 +8678,7 @@
     },
     "Name": "Windrunner's Handguards of Triumph",
     "Id": "48273",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48276": {
     "ItemLevel": "232",
@@ -8706,7 +8706,7 @@
     },
     "Name": "Windrunner's Handguards of Conquest",
     "Id": "48276",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48284": {
     "ItemLevel": "232",
@@ -8733,7 +8733,7 @@
     },
     "Name": "Nobundo's Handguards of Conquest",
     "Id": "48284",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48286": {
     "ItemLevel": "245",
@@ -8760,7 +8760,7 @@
     },
     "Name": "Nobundo's Handguards of Triumph",
     "Id": "48286",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48293": {
     "ItemLevel": "258",
@@ -8787,7 +8787,7 @@
     },
     "Name": "Nobundo's Handguards of Triumph",
     "Id": "48293",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48296": {
     "ItemLevel": "232",
@@ -8814,7 +8814,7 @@
     },
     "Name": "Thrall's Handguards of Conquest",
     "Id": "48296",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48301": {
     "ItemLevel": "245",
@@ -8841,7 +8841,7 @@
     },
     "Name": "Thrall's Handguards of Triumph",
     "Id": "48301",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48306": {
     "ItemLevel": "258",
@@ -8868,7 +8868,7 @@
     },
     "Name": "Thrall's Handguards of Triumph",
     "Id": "48306",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48312": {
     "ItemLevel": "232",
@@ -8895,7 +8895,7 @@
     },
     "Name": "Nobundo's Gloves of Conquest",
     "Id": "48312",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48317": {
     "ItemLevel": "245",
@@ -8922,7 +8922,7 @@
     },
     "Name": "Nobundo's Gloves of Triumph",
     "Id": "48317",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48324": {
     "ItemLevel": "258",
@@ -8949,7 +8949,7 @@
     },
     "Name": "Nobundo's Gloves of Triumph",
     "Id": "48324",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48327": {
     "ItemLevel": "258",
@@ -8976,7 +8976,7 @@
     },
     "Name": "Thrall's Gloves of Triumph",
     "Id": "48327",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48334": {
     "ItemLevel": "245",
@@ -9003,7 +9003,7 @@
     },
     "Name": "Thrall's Gloves of Triumph",
     "Id": "48334",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48337": {
     "ItemLevel": "232",
@@ -9030,7 +9030,7 @@
     },
     "Name": "Thrall's Gloves of Conquest",
     "Id": "48337",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48342": {
     "ItemLevel": "232",
@@ -9058,7 +9058,7 @@
     },
     "Name": "Nobundo's Grips of Conquest",
     "Id": "48342",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48347": {
     "ItemLevel": "245",
@@ -9086,7 +9086,7 @@
     },
     "Name": "Nobundo's Grips of Triumph",
     "Id": "48347",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48354": {
     "ItemLevel": "258",
@@ -9114,7 +9114,7 @@
     },
     "Name": "Nobundo's Grips of Triumph",
     "Id": "48354",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48357": {
     "ItemLevel": "258",
@@ -9142,7 +9142,7 @@
     },
     "Name": "Thrall's Grips of Triumph",
     "Id": "48357",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48364": {
     "ItemLevel": "245",
@@ -9170,7 +9170,7 @@
     },
     "Name": "Thrall's Grips of Triumph",
     "Id": "48364",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48367": {
     "ItemLevel": "232",
@@ -9198,7 +9198,7 @@
     },
     "Name": "Thrall's Grips of Conquest",
     "Id": "48367",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48375": {
     "ItemLevel": "232",
@@ -9224,7 +9224,7 @@
     },
     "Name": "Wrynn's Gauntlets of Conquest",
     "Id": "48375",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48377": {
     "ItemLevel": "245",
@@ -9250,7 +9250,7 @@
     },
     "Name": "Wrynn's Gauntlets of Triumph",
     "Id": "48377",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48384": {
     "ItemLevel": "258",
@@ -9276,7 +9276,7 @@
     },
     "Name": "Wrynn's Gauntlets of Triumph",
     "Id": "48384",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48387": {
     "ItemLevel": "232",
@@ -9302,7 +9302,7 @@
     },
     "Name": "Hellscream's Gauntlets of Conquest",
     "Id": "48387",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48392": {
     "ItemLevel": "245",
@@ -9328,7 +9328,7 @@
     },
     "Name": "Hellscream's Gauntlets of Triumph",
     "Id": "48392",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48397": {
     "ItemLevel": "258",
@@ -9354,7 +9354,7 @@
     },
     "Name": "Hellscream's Gauntlets of Triumph",
     "Id": "48397",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48449": {
     "ItemLevel": "232",
@@ -9381,7 +9381,7 @@
     },
     "Name": "Wrynn's Handguards of Conquest",
     "Id": "48449",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48452": {
     "ItemLevel": "245",
@@ -9408,7 +9408,7 @@
     },
     "Name": "Wrynn's Handguards of Triumph",
     "Id": "48452",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48453": {
     "ItemLevel": "258",
@@ -9435,7 +9435,7 @@
     },
     "Name": "Wrynn's Handguards of Triumph",
     "Id": "48453",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48457": {
     "ItemLevel": "232",
@@ -9462,7 +9462,7 @@
     },
     "Name": "Hellscream's Handguards of Conquest",
     "Id": "48457",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48462": {
     "ItemLevel": "245",
@@ -9489,7 +9489,7 @@
     },
     "Name": "Hellscream's Handguards of Triumph",
     "Id": "48462",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48467": {
     "ItemLevel": "258",
@@ -9516,7 +9516,7 @@
     },
     "Name": "Hellscream's Handguards of Triumph",
     "Id": "48467",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48480": {
     "ItemLevel": "232",
@@ -9542,7 +9542,7 @@
     },
     "Name": "Thassarian's Gauntlets of Conquest",
     "Id": "48480",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48482": {
     "ItemLevel": "245",
@@ -9568,7 +9568,7 @@
     },
     "Name": "Thassarian's Gauntlets of Triumph",
     "Id": "48482",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48489": {
     "ItemLevel": "258",
@@ -9594,7 +9594,7 @@
     },
     "Name": "Thassarian's Gauntlets of Triumph",
     "Id": "48489",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48492": {
     "ItemLevel": "258",
@@ -9620,7 +9620,7 @@
     },
     "Name": "Koltira's Gauntlets of Triumph",
     "Id": "48492",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48499": {
     "ItemLevel": "245",
@@ -9646,7 +9646,7 @@
     },
     "Name": "Koltira's Gauntlets of Triumph",
     "Id": "48499",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48502": {
     "ItemLevel": "232",
@@ -9672,7 +9672,7 @@
     },
     "Name": "Koltira's Gauntlets of Conquest",
     "Id": "48502",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48537": {
     "ItemLevel": "232",
@@ -9699,7 +9699,7 @@
     },
     "Name": "Thassarian's Handguards of Conquest",
     "Id": "48537",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48539": {
     "ItemLevel": "245",
@@ -9726,7 +9726,7 @@
     },
     "Name": "Thassarian's Handguards of Triumph",
     "Id": "48539",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48546": {
     "ItemLevel": "258",
@@ -9753,7 +9753,7 @@
     },
     "Name": "Thassarian's Handguards of Triumph",
     "Id": "48546",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48549": {
     "ItemLevel": "258",
@@ -9780,7 +9780,7 @@
     },
     "Name": "Koltira's Handguards of Triumph",
     "Id": "48549",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48556": {
     "ItemLevel": "245",
@@ -9807,7 +9807,7 @@
     },
     "Name": "Koltira's Handguards of Triumph",
     "Id": "48556",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48559": {
     "ItemLevel": "232",
@@ -9834,7 +9834,7 @@
     },
     "Name": "Koltira's Handguards of Conquest",
     "Id": "48559",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48574": {
     "ItemLevel": "232",
@@ -9861,7 +9861,7 @@
     },
     "Name": "Turalyon's Gloves of Conquest",
     "Id": "48574",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48576": {
     "ItemLevel": "245",
@@ -9888,7 +9888,7 @@
     },
     "Name": "Turalyon's Gloves of Triumph",
     "Id": "48576",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48583": {
     "ItemLevel": "258",
@@ -9915,7 +9915,7 @@
     },
     "Name": "Turalyon's Gloves of Triumph",
     "Id": "48583",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48588": {
     "ItemLevel": "258",
@@ -9942,7 +9942,7 @@
     },
     "Name": "Liadrin's Gloves of Triumph",
     "Id": "48588",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48593": {
     "ItemLevel": "245",
@@ -9969,7 +9969,7 @@
     },
     "Name": "Liadrin's Gloves of Triumph",
     "Id": "48593",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48598": {
     "ItemLevel": "232",
@@ -9996,7 +9996,7 @@
     },
     "Name": "Liadrin's Gloves of Conquest",
     "Id": "48598",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48603": {
     "ItemLevel": "232",
@@ -10022,7 +10022,7 @@
     },
     "Name": "Turalyon's Gauntlets of Conquest",
     "Id": "48603",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48608": {
     "ItemLevel": "245",
@@ -10048,7 +10048,7 @@
     },
     "Name": "Turalyon's Gauntlets of Triumph",
     "Id": "48608",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48615": {
     "ItemLevel": "258",
@@ -10074,7 +10074,7 @@
     },
     "Name": "Turalyon's Gauntlets of Triumph",
     "Id": "48615",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48618": {
     "ItemLevel": "258",
@@ -10100,7 +10100,7 @@
     },
     "Name": "Liadrin's Gauntlets of Triumph",
     "Id": "48618",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48625": {
     "ItemLevel": "245",
@@ -10126,7 +10126,7 @@
     },
     "Name": "Liadrin's Gauntlets of Triumph",
     "Id": "48625",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48630": {
     "ItemLevel": "232",
@@ -10152,7 +10152,7 @@
     },
     "Name": "Liadrin's Gauntlets of Conquest",
     "Id": "48630",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48633": {
     "ItemLevel": "232",
@@ -10179,7 +10179,7 @@
     },
     "Name": "Turalyon's Handguards of Conquest",
     "Id": "48633",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48640": {
     "ItemLevel": "245",
@@ -10206,7 +10206,7 @@
     },
     "Name": "Turalyon's Handguards of Triumph",
     "Id": "48640",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48643": {
     "ItemLevel": "258",
@@ -10233,7 +10233,7 @@
     },
     "Name": "Turalyon's Handguards of Triumph",
     "Id": "48643",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48650": {
     "ItemLevel": "258",
@@ -10260,7 +10260,7 @@
     },
     "Name": "Liadrin's Handguards of Triumph",
     "Id": "48650",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48653": {
     "ItemLevel": "232",
@@ -10287,7 +10287,7 @@
     },
     "Name": "Liadrin's Handguards of Conquest",
     "Id": "48653",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "48658": {
     "ItemLevel": "245",
@@ -10314,7 +10314,7 @@
     },
     "Name": "Liadrin's Handguards of Triumph",
     "Id": "48658",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "49788": {
     "ItemLevel": "219",
@@ -10336,7 +10336,7 @@
     "SocketBonus": "none",
     "Name": "Cold Sweat Grips",
     "Id": "49788",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "49828": {
     "ItemLevel": "219",
@@ -10361,7 +10361,7 @@
     },
     "Name": "Marwyn's Macabre Fingertips",
     "Id": "49828",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "49837": {
     "ItemLevel": "219",
@@ -10383,7 +10383,7 @@
     "SocketBonus": "none",
     "Name": "Mitts of Burning Hail",
     "Id": "49837",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "49838": {
     "ItemLevel": "219",
@@ -10405,7 +10405,7 @@
     "SocketBonus": "none",
     "Name": "Carpal Tunnelers",
     "Id": "49838",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "49843": {
     "ItemLevel": "219",
@@ -10427,7 +10427,7 @@
     "SocketBonus": "none",
     "Name": "Crystalline Citadel Gauntlets",
     "Id": "49843",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "49855": {
     "ItemLevel": "219",
@@ -10448,7 +10448,7 @@
     "SocketBonus": "none",
     "Name": "Plated Grips of Korth'azz",
     "Id": "49855",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "49979": {
     "ItemLevel": "264",
@@ -10474,7 +10474,7 @@
     },
     "Name": "Handguards of Winter's Respite",
     "Id": "49979",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "49995": {
     "ItemLevel": "264",
@@ -10500,7 +10500,7 @@
     },
     "Name": "Fallen Lord's Handguards",
     "Id": "49995",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50011": {
     "ItemLevel": "264",
@@ -10526,7 +10526,7 @@
     },
     "Name": "Gunship Captain's Mittens",
     "Id": "50011",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50021": {
     "ItemLevel": "264",
@@ -10552,7 +10552,7 @@
     },
     "Name": "Aldriana's Gloves of Secrecy",
     "Id": "50021",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50037": {
     "ItemLevel": "264",
@@ -10577,7 +10577,7 @@
     },
     "Name": "Fleshrending Gauntlets",
     "Id": "50037",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50064": {
     "ItemLevel": "264",
@@ -10603,7 +10603,7 @@
     },
     "Name": "Unclean Surgical Gloves",
     "Id": "50064",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50075": {
     "ItemLevel": "264",
@@ -10629,7 +10629,7 @@
     },
     "Name": "Taldaram's Plated Fists",
     "Id": "50075",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50079": {
     "ItemLevel": "251",
@@ -10655,7 +10655,7 @@
     },
     "Name": "Ymirjar Lord's Gauntlets",
     "Id": "50079",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50088": {
     "ItemLevel": "251",
@@ -10682,7 +10682,7 @@
     },
     "Name": "Shadowblade Gauntlets",
     "Id": "50088",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50095": {
     "ItemLevel": "251",
@@ -10708,7 +10708,7 @@
     },
     "Name": "Scourgelord Gauntlets",
     "Id": "50095",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50107": {
     "ItemLevel": "251",
@@ -10735,7 +10735,7 @@
     },
     "Name": "Lasherweave Gauntlets",
     "Id": "50107",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50114": {
     "ItemLevel": "251",
@@ -10763,7 +10763,7 @@
     },
     "Name": "Ahn'Kahar Blood Hunter's Handguards",
     "Id": "50114",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50176": {
     "ItemLevel": "264",
@@ -10789,7 +10789,7 @@
     },
     "Name": "San'layn Ritualist Gloves",
     "Id": "50176",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50188": {
     "ItemLevel": "264",
@@ -10816,7 +10816,7 @@
     },
     "Name": "Anub'ar Stalker's Gloves",
     "Id": "50188",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50194": {
     "ItemLevel": "232",
@@ -10837,7 +10837,7 @@
     "SocketBonus": "none",
     "Name": "Weeping Gauntlets",
     "Id": "50194",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50212": {
     "ItemLevel": "232",
@@ -10859,7 +10859,7 @@
     "SocketBonus": "none",
     "Name": "Essence of Desire",
     "Id": "50212",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50240": {
     "ItemLevel": "251",
@@ -10886,7 +10886,7 @@
     },
     "Name": "Dark Coven Gloves",
     "Id": "50240",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50275": {
     "ItemLevel": "251",
@@ -10913,7 +10913,7 @@
     },
     "Name": "Bloodmage Gloves",
     "Id": "50275",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50284": {
     "ItemLevel": "232",
@@ -10935,7 +10935,7 @@
     "SocketBonus": "none",
     "Name": "Rusty Frozen Fingerguards",
     "Id": "50284",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50299": {
     "ItemLevel": "232",
@@ -10957,7 +10957,7 @@
     "SocketBonus": "none",
     "Name": "Suspiciously Soft Gloves",
     "Id": "50299",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50304": {
     "ItemLevel": "232",
@@ -10980,7 +10980,7 @@
     "SocketBonus": "none",
     "Name": "Hoarfrost Gauntlets",
     "Id": "50304",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50327": {
     "ItemLevel": "251",
@@ -11006,7 +11006,7 @@
     },
     "Name": "Lightsworn Gauntlets",
     "Id": "50327",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50391": {
     "ItemLevel": "251",
@@ -11033,7 +11033,7 @@
     },
     "Name": "Crimson Acolyte Handwraps",
     "Id": "50391",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50615": {
     "ItemLevel": "277",
@@ -11059,7 +11059,7 @@
     },
     "Name": "Handguards of Winter's Respite",
     "Id": "50615",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50619": {
     "ItemLevel": "277",
@@ -11086,7 +11086,7 @@
     },
     "Name": "Anub'ar Stalker's Gloves",
     "Id": "50619",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50650": {
     "ItemLevel": "277",
@@ -11112,7 +11112,7 @@
     },
     "Name": "Fallen Lord's Handguards",
     "Id": "50650",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50663": {
     "ItemLevel": "277",
@@ -11138,7 +11138,7 @@
     },
     "Name": "Gunship Captain's Mittens",
     "Id": "50663",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50675": {
     "ItemLevel": "277",
@@ -11164,7 +11164,7 @@
     },
     "Name": "Aldriana's Gloves of Secrecy",
     "Id": "50675",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50690": {
     "ItemLevel": "277",
@@ -11189,7 +11189,7 @@
     },
     "Name": "Fleshrending Gauntlets",
     "Id": "50690",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50703": {
     "ItemLevel": "277",
@@ -11215,7 +11215,7 @@
     },
     "Name": "Unclean Surgical Gloves",
     "Id": "50703",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50716": {
     "ItemLevel": "277",
@@ -11241,7 +11241,7 @@
     },
     "Name": "Taldaram's Plated Fists",
     "Id": "50716",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50722": {
     "ItemLevel": "277",
@@ -11267,7 +11267,7 @@
     },
     "Name": "San'layn Ritualist Gloves",
     "Id": "50722",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50766": {
     "ItemLevel": "251",
@@ -11294,7 +11294,7 @@
     },
     "Name": "Crimson Acolyte Gloves",
     "Id": "50766",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50777": {
     "ItemLevel": "251",
@@ -11321,7 +11321,7 @@
     },
     "Name": "Handgrips of Frost and Sleet",
     "Id": "50777",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50782": {
     "ItemLevel": "251",
@@ -11347,7 +11347,7 @@
     },
     "Name": "Sister's Handshrouds",
     "Id": "50782",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50799": {
     "ItemLevel": "251",
@@ -11373,7 +11373,7 @@
     },
     "Name": "Scourge Stranglers",
     "Id": "50799",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50811": {
     "ItemLevel": "251",
@@ -11398,7 +11398,7 @@
     },
     "Name": "Festering Fingerguards",
     "Id": "50811",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50822": {
     "ItemLevel": "251",
@@ -11425,7 +11425,7 @@
     },
     "Name": "Lasherweave Gloves",
     "Id": "50822",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50827": {
     "ItemLevel": "251",
@@ -11452,7 +11452,7 @@
     },
     "Name": "Lasherweave Handgrips",
     "Id": "50827",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50831": {
     "ItemLevel": "251",
@@ -11480,7 +11480,7 @@
     },
     "Name": "Frost Witch's Grips",
     "Id": "50831",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50836": {
     "ItemLevel": "251",
@@ -11507,7 +11507,7 @@
     },
     "Name": "Frost Witch's Handguards",
     "Id": "50836",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50842": {
     "ItemLevel": "251",
@@ -11534,7 +11534,7 @@
     },
     "Name": "Frost Witch's Gloves",
     "Id": "50842",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50849": {
     "ItemLevel": "251",
@@ -11561,7 +11561,7 @@
     },
     "Name": "Ymirjar Lord's Handguards",
     "Id": "50849",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50856": {
     "ItemLevel": "251",
@@ -11588,7 +11588,7 @@
     },
     "Name": "Scourgelord Handguards",
     "Id": "50856",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50863": {
     "ItemLevel": "251",
@@ -11615,7 +11615,7 @@
     },
     "Name": "Lightsworn Handguards",
     "Id": "50863",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50868": {
     "ItemLevel": "251",
@@ -11642,7 +11642,7 @@
     },
     "Name": "Lightsworn Gloves",
     "Id": "50868",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50967": {
     "ItemLevel": "251",
@@ -11668,7 +11668,7 @@
     },
     "Name": "Festergut's Gaseous Gloves",
     "Id": "50967",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50976": {
     "ItemLevel": "264",
@@ -11694,7 +11694,7 @@
     },
     "Name": "Gauntlets of Overexposure",
     "Id": "50976",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50977": {
     "ItemLevel": "264",
@@ -11719,7 +11719,7 @@
     },
     "Name": "Gatecrasher's Gauntlets",
     "Id": "50977",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50978": {
     "ItemLevel": "264",
@@ -11745,7 +11745,7 @@
     },
     "Name": "Gauntlets of the Kraken",
     "Id": "50978",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50979": {
     "ItemLevel": "264",
@@ -11772,7 +11772,7 @@
     },
     "Name": "Logsplitters",
     "Id": "50979",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50980": {
     "ItemLevel": "264",
@@ -11798,7 +11798,7 @@
     },
     "Name": "Blizzard Keeper's Mitts",
     "Id": "50980",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50981": {
     "ItemLevel": "264",
@@ -11823,7 +11823,7 @@
     },
     "Name": "Gloves of the Great Horned Owl",
     "Id": "50981",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50982": {
     "ItemLevel": "264",
@@ -11849,7 +11849,7 @@
     },
     "Name": "Cat Burglar's Grips",
     "Id": "50982",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50983": {
     "ItemLevel": "264",
@@ -11875,7 +11875,7 @@
     },
     "Name": "Gloves of False Gestures",
     "Id": "50983",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "50984": {
     "ItemLevel": "264",
@@ -11901,7 +11901,7 @@
     },
     "Name": "Gloves of Ambivalence",
     "Id": "50984",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51005": {
     "ItemLevel": "251",
@@ -11925,7 +11925,7 @@
     "SocketBonus": "none",
     "Name": "Gloves of Broken Fingers",
     "Id": "51005",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51128": {
     "ItemLevel": "264",
@@ -11951,7 +11951,7 @@
     },
     "Name": "Sanctified Scourgelord Gauntlets",
     "Id": "51128",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51132": {
     "ItemLevel": "264",
@@ -11978,7 +11978,7 @@
     },
     "Name": "Sanctified Scourgelord Handguards",
     "Id": "51132",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51138": {
     "ItemLevel": "264",
@@ -12005,7 +12005,7 @@
     },
     "Name": "Sanctified Lasherweave Gauntlets",
     "Id": "51138",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51144": {
     "ItemLevel": "264",
@@ -12032,7 +12032,7 @@
     },
     "Name": "Sanctified Lasherweave Handgrips",
     "Id": "51144",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51148": {
     "ItemLevel": "264",
@@ -12059,7 +12059,7 @@
     },
     "Name": "Sanctified Lasherweave Gloves",
     "Id": "51148",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51154": {
     "ItemLevel": "264",
@@ -12087,7 +12087,7 @@
     },
     "Name": "Sanctified Ahn'Kahar Blood Hunter's Handguards",
     "Id": "51154",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51159": {
     "ItemLevel": "264",
@@ -12114,7 +12114,7 @@
     },
     "Name": "Sanctified Bloodmage Gloves",
     "Id": "51159",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51163": {
     "ItemLevel": "264",
@@ -12140,7 +12140,7 @@
     },
     "Name": "Sanctified Lightsworn Gauntlets",
     "Id": "51163",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51169": {
     "ItemLevel": "264",
@@ -12167,7 +12167,7 @@
     },
     "Name": "Sanctified Lightsworn Gloves",
     "Id": "51169",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51172": {
     "ItemLevel": "264",
@@ -12194,7 +12194,7 @@
     },
     "Name": "Sanctified Lightsworn Handguards",
     "Id": "51172",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51179": {
     "ItemLevel": "264",
@@ -12221,7 +12221,7 @@
     },
     "Name": "Sanctified Crimson Acolyte Gloves",
     "Id": "51179",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51183": {
     "ItemLevel": "264",
@@ -12248,7 +12248,7 @@
     },
     "Name": "Sanctified Crimson Acolyte Handwraps",
     "Id": "51183",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51188": {
     "ItemLevel": "264",
@@ -12275,7 +12275,7 @@
     },
     "Name": "Sanctified Shadowblade Gauntlets",
     "Id": "51188",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51191": {
     "ItemLevel": "264",
@@ -12302,7 +12302,7 @@
     },
     "Name": "Sanctified Frost Witch's Handguards",
     "Id": "51191",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51196": {
     "ItemLevel": "264",
@@ -12330,7 +12330,7 @@
     },
     "Name": "Sanctified Frost Witch's Grips",
     "Id": "51196",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51201": {
     "ItemLevel": "264",
@@ -12357,7 +12357,7 @@
     },
     "Name": "Sanctified Frost Witch's Gloves",
     "Id": "51201",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51209": {
     "ItemLevel": "264",
@@ -12384,7 +12384,7 @@
     },
     "Name": "Sanctified Dark Coven Gloves",
     "Id": "51209",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51213": {
     "ItemLevel": "264",
@@ -12410,7 +12410,7 @@
     },
     "Name": "Sanctified Ymirjar Lord's Gauntlets",
     "Id": "51213",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51217": {
     "ItemLevel": "264",
@@ -12437,7 +12437,7 @@
     },
     "Name": "Sanctified Ymirjar Lord's Handguards",
     "Id": "51217",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51222": {
     "ItemLevel": "277",
@@ -12464,7 +12464,7 @@
     },
     "Name": "Sanctified Ymirjar Lord's Handguards",
     "Id": "51222",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51226": {
     "ItemLevel": "277",
@@ -12490,7 +12490,7 @@
     },
     "Name": "Sanctified Ymirjar Lord's Gauntlets",
     "Id": "51226",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51230": {
     "ItemLevel": "277",
@@ -12517,7 +12517,7 @@
     },
     "Name": "Sanctified Dark Coven Gloves",
     "Id": "51230",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51238": {
     "ItemLevel": "277",
@@ -12544,7 +12544,7 @@
     },
     "Name": "Sanctified Frost Witch's Gloves",
     "Id": "51238",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51243": {
     "ItemLevel": "277",
@@ -12572,7 +12572,7 @@
     },
     "Name": "Sanctified Frost Witch's Grips",
     "Id": "51243",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51248": {
     "ItemLevel": "277",
@@ -12599,7 +12599,7 @@
     },
     "Name": "Sanctified Frost Witch's Handguards",
     "Id": "51248",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51251": {
     "ItemLevel": "277",
@@ -12626,7 +12626,7 @@
     },
     "Name": "Sanctified Shadowblade Gauntlets",
     "Id": "51251",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51256": {
     "ItemLevel": "277",
@@ -12653,7 +12653,7 @@
     },
     "Name": "Sanctified Crimson Acolyte Handwraps",
     "Id": "51256",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51260": {
     "ItemLevel": "277",
@@ -12680,7 +12680,7 @@
     },
     "Name": "Sanctified Crimson Acolyte Gloves",
     "Id": "51260",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51267": {
     "ItemLevel": "277",
@@ -12707,7 +12707,7 @@
     },
     "Name": "Sanctified Lightsworn Handguards",
     "Id": "51267",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51270": {
     "ItemLevel": "277",
@@ -12734,7 +12734,7 @@
     },
     "Name": "Sanctified Lightsworn Gloves",
     "Id": "51270",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51276": {
     "ItemLevel": "277",
@@ -12760,7 +12760,7 @@
     },
     "Name": "Sanctified Lightsworn Gauntlets",
     "Id": "51276",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51280": {
     "ItemLevel": "277",
@@ -12787,7 +12787,7 @@
     },
     "Name": "Sanctified Bloodmage Gloves",
     "Id": "51280",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51285": {
     "ItemLevel": "277",
@@ -12815,7 +12815,7 @@
     },
     "Name": "Sanctified Ahn'Kahar Blood Hunter's Handguards",
     "Id": "51285",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51291": {
     "ItemLevel": "277",
@@ -12842,7 +12842,7 @@
     },
     "Name": "Sanctified Lasherweave Gloves",
     "Id": "51291",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51295": {
     "ItemLevel": "277",
@@ -12869,7 +12869,7 @@
     },
     "Name": "Sanctified Lasherweave Handgrips",
     "Id": "51295",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51301": {
     "ItemLevel": "277",
@@ -12896,7 +12896,7 @@
     },
     "Name": "Sanctified Lasherweave Gauntlets",
     "Id": "51301",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51307": {
     "ItemLevel": "277",
@@ -12923,7 +12923,7 @@
     },
     "Name": "Sanctified Scourgelord Handguards",
     "Id": "51307",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51311": {
     "ItemLevel": "277",
@@ -12949,7 +12949,7 @@
     },
     "Name": "Sanctified Scourgelord Gauntlets",
     "Id": "51311",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51386": {
     "ItemLevel": "251",
@@ -12974,7 +12974,7 @@
     },
     "Name": "Throatrender Handguards",
     "Id": "51386",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51414": {
     "ItemLevel": "270",
@@ -13000,7 +13000,7 @@
     },
     "Name": "Wrathful Gladiator's Dreadplate Gauntlets",
     "Id": "51414",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51420": {
     "ItemLevel": "270",
@@ -13027,7 +13027,7 @@
     },
     "Name": "Wrathful Gladiator's Kodohide Gloves",
     "Id": "51420",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51426": {
     "ItemLevel": "270",
@@ -13054,7 +13054,7 @@
     },
     "Name": "Wrathful Gladiator's Dragonhide Gloves",
     "Id": "51426",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51434": {
     "ItemLevel": "270",
@@ -13081,7 +13081,7 @@
     },
     "Name": "Wrathful Gladiator's Wyrmhide Gloves",
     "Id": "51434",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51459": {
     "ItemLevel": "270",
@@ -13109,7 +13109,7 @@
     },
     "Name": "Wrathful Gladiator's Chain Gauntlets",
     "Id": "51459",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51464": {
     "ItemLevel": "270",
@@ -13136,7 +13136,7 @@
     },
     "Name": "Wrathful Gladiator's Silk Handguards",
     "Id": "51464",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51469": {
     "ItemLevel": "270",
@@ -13163,7 +13163,7 @@
     },
     "Name": "Wrathful Gladiator's Ornamented Gloves",
     "Id": "51469",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51475": {
     "ItemLevel": "270",
@@ -13190,7 +13190,7 @@
     },
     "Name": "Wrathful Gladiator's Scaled Gauntlets",
     "Id": "51475",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51483": {
     "ItemLevel": "270",
@@ -13217,7 +13217,7 @@
     },
     "Name": "Wrathful Gladiator's Mooncloth Gloves",
     "Id": "51483",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51488": {
     "ItemLevel": "270",
@@ -13244,7 +13244,7 @@
     },
     "Name": "Wrathful Gladiator's Satin Gloves",
     "Id": "51488",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51493": {
     "ItemLevel": "270",
@@ -13271,7 +13271,7 @@
     },
     "Name": "Wrathful Gladiator's Leather Gloves",
     "Id": "51493",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51498": {
     "ItemLevel": "270",
@@ -13298,7 +13298,7 @@
     },
     "Name": "Wrathful Gladiator's Ringmail Gauntlets",
     "Id": "51498",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51504": {
     "ItemLevel": "270",
@@ -13326,7 +13326,7 @@
     },
     "Name": "Wrathful Gladiator's Linked Gauntlets",
     "Id": "51504",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51510": {
     "ItemLevel": "270",
@@ -13353,7 +13353,7 @@
     },
     "Name": "Wrathful Gladiator's Mail Gauntlets",
     "Id": "51510",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51537": {
     "ItemLevel": "270",
@@ -13378,7 +13378,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Felweave Handguards",
     "Id": "51537",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51542": {
     "ItemLevel": "270",
@@ -13404,7 +13404,7 @@
     },
     "Name": "Wrathful Gladiator's Plate Gauntlets",
     "Id": "51542",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51556": {
     "ItemLevel": "251",
@@ -13430,7 +13430,7 @@
     },
     "Name": "Veincrusher Gauntlets",
     "Id": "51556",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51583": {
     "ItemLevel": "251",
@@ -13456,7 +13456,7 @@
     },
     "Name": "Stormbringer Gloves",
     "Id": "51583",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51789": {
     "ItemLevel": "251",
@@ -13482,7 +13482,7 @@
     },
     "Name": "Icicle Shapers",
     "Id": "51789",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51814": {
     "ItemLevel": "264",
@@ -13508,7 +13508,7 @@
     },
     "Name": "Icicle Shapers",
     "Id": "51814",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51827": {
     "ItemLevel": "264",
@@ -13534,7 +13534,7 @@
     },
     "Name": "Stormbringer Gloves",
     "Id": "51827",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51835": {
     "ItemLevel": "264",
@@ -13560,7 +13560,7 @@
     },
     "Name": "Veincrusher Gauntlets",
     "Id": "51835",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51844": {
     "ItemLevel": "264",
@@ -13585,7 +13585,7 @@
     },
     "Name": "Throatrender Handguards",
     "Id": "51844",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51874": {
     "ItemLevel": "264",
@@ -13611,7 +13611,7 @@
     },
     "Name": "Gloves of Broken Fingers",
     "Id": "51874",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51886": {
     "ItemLevel": "264",
@@ -13637,7 +13637,7 @@
     },
     "Name": "Festergut's Gaseous Gloves",
     "Id": "51886",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51892": {
     "ItemLevel": "264",
@@ -13662,7 +13662,7 @@
     },
     "Name": "Festering Fingerguards",
     "Id": "51892",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51904": {
     "ItemLevel": "264",
@@ -13688,7 +13688,7 @@
     },
     "Name": "Scourge Stranglers",
     "Id": "51904",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51921": {
     "ItemLevel": "264",
@@ -13714,7 +13714,7 @@
     },
     "Name": "Sister's Handshrouds",
     "Id": "51921",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "51926": {
     "ItemLevel": "264",
@@ -13741,7 +13741,7 @@
     },
     "Name": "Handgrips of Frost and Sleet",
     "Id": "51926",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "53117": {
     "ItemLevel": "258",
@@ -13767,7 +13767,7 @@
     },
     "Name": "Changeling Gloves",
     "Id": "53117",
-    "Slot": "Hands"
+    "Slot": 10
   },
   "54560": {
     "ItemLevel": "271",
@@ -13793,6 +13793,6 @@
     },
     "Name": "Changeling Gloves",
     "Id": "54560",
-    "Slot": "Hands"
+    "Slot": 10
   }
 }

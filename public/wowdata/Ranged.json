@@ -20,7 +20,7 @@
     "SocketBonus": "none",
     "Name": "Wand of the San'layn",
     "Id": "37177",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "37191": {
     "ItemLevel": "200",
@@ -42,7 +42,7 @@
     "SocketBonus": "none",
     "Name": "Drake-Mounted Crossbow",
     "Id": "37191",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "37238": {
     "ItemLevel": "200",
@@ -66,7 +66,7 @@
     "SocketBonus": "none",
     "Name": "Rod of the Fallen Monarch",
     "Id": "37238",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "37410": {
     "ItemLevel": "200",
@@ -88,7 +88,7 @@
     "SocketBonus": "none",
     "Name": "Tracker's Balanced Knives",
     "Id": "37410",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "37615": {
     "ItemLevel": "200",
@@ -110,7 +110,7 @@
     "SocketBonus": "none",
     "Name": "Titanium Compound Bow",
     "Id": "37615",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "37619": {
     "ItemLevel": "200",
@@ -134,7 +134,7 @@
     "SocketBonus": "none",
     "Name": "Wand of Ahn'kahet",
     "Id": "37619",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "37626": {
     "ItemLevel": "200",
@@ -158,7 +158,7 @@
     "SocketBonus": "none",
     "Name": "Wand of Sseratus",
     "Id": "37626",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "37692": {
     "ItemLevel": "200",
@@ -180,7 +180,7 @@
     "SocketBonus": "none",
     "Name": "Pierce's Pistol",
     "Id": "37692",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "39296": {
     "ItemLevel": "200",
@@ -204,7 +204,7 @@
     "SocketBonus": "none",
     "Name": "Accursed Bow of the Elite",
     "Id": "39296",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "39419": {
     "ItemLevel": "213",
@@ -227,7 +227,7 @@
     "SocketBonus": "none",
     "Name": "Nerubian Conquerer",
     "Id": "39419",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "39426": {
     "ItemLevel": "213",
@@ -252,7 +252,7 @@
     "SocketBonus": "none",
     "Name": "Wand of the Archlich",
     "Id": "39426",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "39473": {
     "ItemLevel": "200",
@@ -277,7 +277,7 @@
     "SocketBonus": "none",
     "Name": "Contortion",
     "Id": "39473",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "39712": {
     "ItemLevel": "213",
@@ -302,7 +302,7 @@
     "SocketBonus": "none",
     "Name": "Gemmed Wand of the Nerubians",
     "Id": "39712",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "39728": {
     "ItemLevel": "213",
@@ -319,7 +319,7 @@
     "SocketBonus": "none",
     "Name": "Totem of Misery",
     "Id": "39728",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "39757": {
     "ItemLevel": "213",
@@ -337,7 +337,7 @@
     "SocketBonus": "none",
     "Name": "Idol of Worship",
     "Id": "39757",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "40190": {
     "ItemLevel": "213",
@@ -361,7 +361,7 @@
     "SocketBonus": "none",
     "Name": "Spinning Fate",
     "Id": "40190",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "40191": {
     "ItemLevel": "213",
@@ -378,7 +378,7 @@
     "SocketBonus": "none",
     "Name": "Libram of Radiance",
     "Id": "40191",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "40207": {
     "ItemLevel": "213",
@@ -398,7 +398,7 @@
     "SocketBonus": "none",
     "Name": "Sigil of Awareness",
     "Id": "40207",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "40245": {
     "ItemLevel": "213",
@@ -423,7 +423,7 @@
     "SocketBonus": "none",
     "Name": "Fading Glow",
     "Id": "40245",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "40265": {
     "ItemLevel": "213",
@@ -447,7 +447,7 @@
     "SocketBonus": "none",
     "Name": "Arrowsong",
     "Id": "40265",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "40267": {
     "ItemLevel": "213",
@@ -464,7 +464,7 @@
     "SocketBonus": "none",
     "Name": "Totem of Hex",
     "Id": "40267",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "40268": {
     "ItemLevel": "213",
@@ -481,7 +481,7 @@
     "SocketBonus": "none",
     "Name": "Libram of Tolerance",
     "Id": "40268",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "40284": {
     "ItemLevel": "213",
@@ -506,7 +506,7 @@
     "SocketBonus": "none",
     "Name": "Plague Igniter",
     "Id": "40284",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "40321": {
     "ItemLevel": "213",
@@ -524,7 +524,7 @@
     "SocketBonus": "none",
     "Name": "Idol of the Shooting Star",
     "Id": "40321",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "40322": {
     "ItemLevel": "213",
@@ -553,7 +553,7 @@
     "SocketBonus": "none",
     "Name": "Totem of Dueling",
     "Id": "40322",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "40335": {
     "ItemLevel": "213",
@@ -578,7 +578,7 @@
     "SocketBonus": "none",
     "Name": "Touch of Horror",
     "Id": "40335",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "40337": {
     "ItemLevel": "213",
@@ -595,7 +595,7 @@
     "SocketBonus": "none",
     "Name": "Libram of Resurgence",
     "Id": "40337",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "40342": {
     "ItemLevel": "213",
@@ -613,7 +613,7 @@
     "SocketBonus": "none",
     "Name": "Idol of Awakening",
     "Id": "40342",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "40346": {
     "ItemLevel": "213",
@@ -637,7 +637,7 @@
     "SocketBonus": "none",
     "Name": "Final Voyage",
     "Id": "40346",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "40385": {
     "ItemLevel": "226",
@@ -660,7 +660,7 @@
     "SocketBonus": "none",
     "Name": "Envoy of Mortality",
     "Id": "40385",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "40705": {
     "ItemLevel": "200",
@@ -678,7 +678,7 @@
     "SocketBonus": "none",
     "Name": "Libram of Renewal",
     "Id": "40705",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "40706": {
     "ItemLevel": "200",
@@ -694,7 +694,7 @@
     "SocketBonus": "none",
     "Name": "Libram of Reciprocation",
     "Id": "40706",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "40707": {
     "ItemLevel": "200",
@@ -724,7 +724,7 @@
     "SocketBonus": "none",
     "Name": "Libram of Obstruction",
     "Id": "40707",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "40708": {
     "ItemLevel": "200",
@@ -754,7 +754,7 @@
     "SocketBonus": "none",
     "Name": "Totem of the Elemental Plane",
     "Id": "40708",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "40709": {
     "ItemLevel": "200",
@@ -772,7 +772,7 @@
     "SocketBonus": "none",
     "Name": "Totem of Forest Growth",
     "Id": "40709",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "40710": {
     "ItemLevel": "200",
@@ -790,7 +790,7 @@
     "SocketBonus": "none",
     "Name": "Totem of Splintering",
     "Id": "40710",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "40711": {
     "ItemLevel": "200",
@@ -809,7 +809,7 @@
     "SocketBonus": "none",
     "Name": "Idol of Lush Moss",
     "Id": "40711",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "40712": {
     "ItemLevel": "200",
@@ -828,7 +828,7 @@
     "SocketBonus": "none",
     "Name": "Idol of Steadfast Renewal",
     "Id": "40712",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "40713": {
     "ItemLevel": "200",
@@ -847,7 +847,7 @@
     "SocketBonus": "none",
     "Name": "Idol of the Ravenous Beast",
     "Id": "40713",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "40715": {
     "ItemLevel": "200",
@@ -878,7 +878,7 @@
     "SocketBonus": "none",
     "Name": "Sigil of Haunted Dreams",
     "Id": "40715",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "40716": {
     "ItemLevel": "200",
@@ -901,7 +901,7 @@
     "SocketBonus": "none",
     "Name": "Lillehoff's Winged Blades",
     "Id": "40716",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "41168": {
     "ItemLevel": "200",
@@ -926,7 +926,7 @@
     },
     "Name": "Armor Plated Combat Shotgun",
     "Id": "41168",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "43284": {
     "ItemLevel": "200",
@@ -949,7 +949,7 @@
     "SocketBonus": "none",
     "Name": "Amanitar Skullbow",
     "Id": "43284",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "44245": {
     "ItemLevel": "200",
@@ -971,7 +971,7 @@
     "SocketBonus": "none",
     "Name": "Zombie Sweeper Shotgun",
     "Id": "44245",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "44504": {
     "ItemLevel": "200",
@@ -995,7 +995,7 @@
     },
     "Name": "Nesingwary 4000",
     "Id": "44504",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "45086": {
     "ItemLevel": "232",
@@ -1019,7 +1019,7 @@
     "SocketBonus": "none",
     "Name": "Rising Sun",
     "Id": "45086",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "45114": {
     "ItemLevel": "226",
@@ -1036,7 +1036,7 @@
     "SocketBonus": "none",
     "Name": "Steamcaller's Totem",
     "Id": "45114",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "45130": {
     "ItemLevel": "200",
@@ -1059,7 +1059,7 @@
     "SocketBonus": "none",
     "Name": "Blunderbuss of Khaz Modan",
     "Id": "45130",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "45137": {
     "ItemLevel": "232",
@@ -1083,7 +1083,7 @@
     "SocketBonus": "none",
     "Name": "Veranus' Bane",
     "Id": "45137",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "45144": {
     "ItemLevel": "226",
@@ -1113,7 +1113,7 @@
     "SocketBonus": "none",
     "Name": "Sigil of Deflection",
     "Id": "45144",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "45145": {
     "ItemLevel": "226",
@@ -1142,7 +1142,7 @@
     "SocketBonus": "none",
     "Name": "Libram of the Sacred Shield",
     "Id": "45145",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "45169": {
     "ItemLevel": "226",
@@ -1159,7 +1159,7 @@
     "SocketBonus": "none",
     "Name": "Totem of the Dancing Flame",
     "Id": "45169",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "45170": {
     "ItemLevel": "232",
@@ -1184,7 +1184,7 @@
     "SocketBonus": "none",
     "Name": "Scepter of Creation",
     "Id": "45170",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "45210": {
     "ItemLevel": "200",
@@ -1207,7 +1207,7 @@
     "SocketBonus": "none",
     "Name": "Sen'jin Beakblade Longrifle",
     "Id": "45210",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "45254": {
     "ItemLevel": "226",
@@ -1226,7 +1226,7 @@
     "SocketBonus": "none",
     "Name": "Sigil of the Vengeful Heart",
     "Id": "45254",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "45255": {
     "ItemLevel": "226",
@@ -1243,7 +1243,7 @@
     "SocketBonus": "none",
     "Name": "Thunderfall Totem",
     "Id": "45255",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "45257": {
     "ItemLevel": "232",
@@ -1268,7 +1268,7 @@
     "SocketBonus": "none",
     "Name": "Quartz Crystal Wand",
     "Id": "45257",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "45261": {
     "ItemLevel": "232",
@@ -1292,7 +1292,7 @@
     "SocketBonus": "none",
     "Name": "Giant's Bane",
     "Id": "45261",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "45270": {
     "ItemLevel": "226",
@@ -1310,7 +1310,7 @@
     "SocketBonus": "none",
     "Name": "Idol of the Crying Wind",
     "Id": "45270",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "45294": {
     "ItemLevel": "232",
@@ -1338,7 +1338,7 @@
     },
     "Name": "Petrified Ivy Sprig",
     "Id": "45294",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "45296": {
     "ItemLevel": "232",
@@ -1365,7 +1365,7 @@
     },
     "Name": "Twirling Blades",
     "Id": "45296",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "45309": {
     "ItemLevel": "219",
@@ -1388,7 +1388,7 @@
     "SocketBonus": "none",
     "Name": "Rifle of the Platinum Guard",
     "Id": "45309",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "45327": {
     "ItemLevel": "232",
@@ -1412,7 +1412,7 @@
     "SocketBonus": "none",
     "Name": "Siren's Cry",
     "Id": "45327",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "45436": {
     "ItemLevel": "226",
@@ -1429,7 +1429,7 @@
     "SocketBonus": "none",
     "Name": "Libram of the Resolute",
     "Id": "45436",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "45509": {
     "ItemLevel": "226",
@@ -1459,7 +1459,7 @@
     "SocketBonus": "none",
     "Name": "Idol of the Corruptor",
     "Id": "45509",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "45510": {
     "ItemLevel": "226",
@@ -1476,7 +1476,7 @@
     "SocketBonus": "none",
     "Name": "Libram of Discord",
     "Id": "45510",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "45511": {
     "ItemLevel": "232",
@@ -1501,7 +1501,7 @@
     "SocketBonus": "none",
     "Name": "Scepter of Lost Souls",
     "Id": "45511",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "45570": {
     "ItemLevel": "239",
@@ -1525,7 +1525,7 @@
     "SocketBonus": "none",
     "Name": "Skyforge Crossbow",
     "Id": "45570",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "45713": {
     "ItemLevel": "219",
@@ -1550,7 +1550,7 @@
     "SocketBonus": "none",
     "Name": "Nurturing Touch",
     "Id": "45713",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "45870": {
     "ItemLevel": "232",
@@ -1576,7 +1576,7 @@
     },
     "Name": "Magnetized Projectile Emitter",
     "Id": "45870",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "45872": {
     "ItemLevel": "219",
@@ -1600,7 +1600,7 @@
     "SocketBonus": "none",
     "Name": "Avalanche",
     "Id": "45872",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "46018": {
     "ItemLevel": "219",
@@ -1624,7 +1624,7 @@
     "SocketBonus": "none",
     "Name": "Deliverance",
     "Id": "46018",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "46138": {
     "ItemLevel": "226",
@@ -1642,7 +1642,7 @@
     "SocketBonus": "none",
     "Name": "Idol of the Flourishing Life",
     "Id": "46138",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "46339": {
     "ItemLevel": "219",
@@ -1665,7 +1665,7 @@
     "SocketBonus": "none",
     "Name": "Mimiron's Repeater",
     "Id": "46339",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "46342": {
     "ItemLevel": "219",
@@ -1689,7 +1689,7 @@
     "SocketBonus": "none",
     "Name": "Golemheart Longbow",
     "Id": "46342",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "46994": {
     "ItemLevel": "245",
@@ -1713,7 +1713,7 @@
     "SocketBonus": "none",
     "Name": "Talonstrike",
     "Id": "46994",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "46995": {
     "ItemLevel": "258",
@@ -1740,7 +1740,7 @@
     },
     "Name": "Talonstrike",
     "Id": "46995",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "47267": {
     "ItemLevel": "245",
@@ -1764,7 +1764,7 @@
     "SocketBonus": "none",
     "Name": "Death's Head Crossbow",
     "Id": "47267",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "47428": {
     "ItemLevel": "258",
@@ -1791,7 +1791,7 @@
     },
     "Name": "Death's Head Crossbow",
     "Id": "47428",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "47521": {
     "ItemLevel": "258",
@@ -1818,7 +1818,7 @@
     },
     "Name": "BRK-1000",
     "Id": "47521",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "47523": {
     "ItemLevel": "258",
@@ -1845,7 +1845,7 @@
     },
     "Name": "Fezzik's Autocannon",
     "Id": "47523",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "47568": {
     "ItemLevel": "219",
@@ -1868,7 +1868,7 @@
     "SocketBonus": "none",
     "Name": "True-aim Long Rifle",
     "Id": "47568",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "47612": {
     "ItemLevel": "232",
@@ -1893,7 +1893,7 @@
     "SocketBonus": "none",
     "Name": "Rod of Imprisoned Souls",
     "Id": "47612",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "47658": {
     "ItemLevel": "245",
@@ -1918,7 +1918,7 @@
     "SocketBonus": "none",
     "Name": "Brimstone Igniter",
     "Id": "47658",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "47659": {
     "ItemLevel": "245",
@@ -1942,7 +1942,7 @@
     "SocketBonus": "none",
     "Name": "Crimson Star",
     "Id": "47659",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "47660": {
     "ItemLevel": "245",
@@ -1966,7 +1966,7 @@
     "SocketBonus": "none",
     "Name": "Blades of the Sable Cross",
     "Id": "47660",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "47661": {
     "ItemLevel": "245",
@@ -1995,7 +1995,7 @@
     "SocketBonus": "none",
     "Name": "Libram of Valiance",
     "Id": "47661",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "47662": {
     "ItemLevel": "245",
@@ -2024,7 +2024,7 @@
     "SocketBonus": "none",
     "Name": "Libram of Veracity",
     "Id": "47662",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "47664": {
     "ItemLevel": "245",
@@ -2053,7 +2053,7 @@
     "SocketBonus": "none",
     "Name": "Libram of Defiance",
     "Id": "47664",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "47665": {
     "ItemLevel": "245",
@@ -2070,7 +2070,7 @@
     "SocketBonus": "none",
     "Name": "Totem of Calming Tides",
     "Id": "47665",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "47666": {
     "ItemLevel": "245",
@@ -2099,7 +2099,7 @@
     "SocketBonus": "none",
     "Name": "Totem of Electrifying Wind",
     "Id": "47666",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "47667": {
     "ItemLevel": "245",
@@ -2128,7 +2128,7 @@
     "SocketBonus": "none",
     "Name": "Totem of Quaking Earth",
     "Id": "47667",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "47668": {
     "ItemLevel": "245",
@@ -2158,7 +2158,7 @@
     "SocketBonus": "none",
     "Name": "Idol of Mutilation",
     "Id": "47668",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "47670": {
     "ItemLevel": "245",
@@ -2188,7 +2188,7 @@
     "SocketBonus": "none",
     "Name": "Idol of Lunar Fury",
     "Id": "47670",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "47671": {
     "ItemLevel": "245",
@@ -2218,7 +2218,7 @@
     "SocketBonus": "none",
     "Name": "Idol of Flaring Growth",
     "Id": "47671",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "47672": {
     "ItemLevel": "245",
@@ -2248,7 +2248,7 @@
     "SocketBonus": "none",
     "Name": "Sigil of Insolence",
     "Id": "47672",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "47673": {
     "ItemLevel": "245",
@@ -2278,7 +2278,7 @@
     "SocketBonus": "none",
     "Name": "Sigil of Virulence",
     "Id": "47673",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "47740": {
     "ItemLevel": "232",
@@ -2305,7 +2305,7 @@
     },
     "Name": "The Diplomat",
     "Id": "47740",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "47741": {
     "ItemLevel": "232",
@@ -2329,7 +2329,7 @@
     "SocketBonus": "none",
     "Name": "Baelgun's Heavy Crossbow",
     "Id": "47741",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "47856": {
     "ItemLevel": "232",
@@ -2354,7 +2354,7 @@
     "SocketBonus": "none",
     "Name": "Scepter of Imprisoned Souls",
     "Id": "47856",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "47883": {
     "ItemLevel": "232",
@@ -2381,7 +2381,7 @@
     },
     "Name": "Widebarrel Flintlock",
     "Id": "47883",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "47907": {
     "ItemLevel": "232",
@@ -2405,7 +2405,7 @@
     "SocketBonus": "none",
     "Name": "Darkmaw Crossbow",
     "Id": "47907",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "47922": {
     "ItemLevel": "245",
@@ -2430,7 +2430,7 @@
     "SocketBonus": "none",
     "Name": "Rod of Imprisoned Souls",
     "Id": "47922",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "47950": {
     "ItemLevel": "245",
@@ -2457,7 +2457,7 @@
     },
     "Name": "The Diplomat",
     "Id": "47950",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "47975": {
     "ItemLevel": "245",
@@ -2484,7 +2484,7 @@
     },
     "Name": "Baelgun's Heavy Crossbow",
     "Id": "47975",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "47995": {
     "ItemLevel": "245",
@@ -2509,7 +2509,7 @@
     "SocketBonus": "none",
     "Name": "Scepter of Imprisoned Souls",
     "Id": "47995",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "48022": {
     "ItemLevel": "245",
@@ -2536,7 +2536,7 @@
     },
     "Name": "Widebarrel Flintlock",
     "Id": "48022",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "48052": {
     "ItemLevel": "245",
@@ -2563,7 +2563,7 @@
     },
     "Name": "Darkmaw Crossbow",
     "Id": "48052",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "48697": {
     "ItemLevel": "245",
@@ -2590,7 +2590,7 @@
     },
     "Name": "Frenzystrike Longbow",
     "Id": "48697",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "48711": {
     "ItemLevel": "245",
@@ -2617,7 +2617,7 @@
     },
     "Name": "Rhok'shalla, the Shadow's Bane",
     "Id": "48711",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "49305": {
     "ItemLevel": "232",
@@ -2640,7 +2640,7 @@
     "SocketBonus": "none",
     "Name": "Snub-Nose Blastershot Launcher",
     "Id": "49305",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "49493": {
     "ItemLevel": "245",
@@ -2663,7 +2663,7 @@
     "SocketBonus": "none",
     "Name": "Rifled Blastershot Launcher",
     "Id": "49493",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "49813": {
     "ItemLevel": "219",
@@ -2686,7 +2686,7 @@
     "SocketBonus": "none",
     "Name": "Rimebane Rifle",
     "Id": "49813",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "49844": {
     "ItemLevel": "219",
@@ -2710,7 +2710,7 @@
     "SocketBonus": "none",
     "Name": "Crypt Fiend Slayer",
     "Id": "49844",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "49852": {
     "ItemLevel": "219",
@@ -2735,7 +2735,7 @@
     "SocketBonus": "none",
     "Name": "Coffin Nail",
     "Id": "49852",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "49981": {
     "ItemLevel": "271",
@@ -2759,7 +2759,7 @@
     "SocketBonus": "none",
     "Name": "Fal'inrush, Defender of Quel'thalas",
     "Id": "49981",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "50033": {
     "ItemLevel": "264",
@@ -2784,7 +2784,7 @@
     "SocketBonus": "none",
     "Name": "Corpse-Impaling Spike",
     "Id": "50033",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "50034": {
     "ItemLevel": "264",
@@ -2806,7 +2806,7 @@
     "SocketBonus": "none",
     "Name": "Zod's Repeating Longbow",
     "Id": "50034",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "50169": {
     "ItemLevel": "232",
@@ -2830,7 +2830,7 @@
     "SocketBonus": "none",
     "Name": "Papa's Brand New Knife",
     "Id": "50169",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "50262": {
     "ItemLevel": "232",
@@ -2854,7 +2854,7 @@
     "SocketBonus": "none",
     "Name": "Felglacier Bolter",
     "Id": "50262",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "50291": {
     "ItemLevel": "232",
@@ -2879,7 +2879,7 @@
     "SocketBonus": "none",
     "Name": "Soulsplinter",
     "Id": "50291",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "50444": {
     "ItemLevel": "264",
@@ -2903,7 +2903,7 @@
     "SocketBonus": "none",
     "Name": "Rowan's Rifle of Silver Bullets",
     "Id": "50444",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "50454": {
     "ItemLevel": "264",
@@ -2933,7 +2933,7 @@
     "SocketBonus": "none",
     "Name": "Idol of the Black Willow",
     "Id": "50454",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "50455": {
     "ItemLevel": "264",
@@ -2962,7 +2962,7 @@
     "SocketBonus": "none",
     "Name": "Libram of Three Truths",
     "Id": "50455",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "50456": {
     "ItemLevel": "264",
@@ -2992,7 +2992,7 @@
     "SocketBonus": "none",
     "Name": "Idol of the Crying Moon",
     "Id": "50456",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "50457": {
     "ItemLevel": "264",
@@ -3022,7 +3022,7 @@
     "SocketBonus": "none",
     "Name": "Idol of the Lunar Eclipse",
     "Id": "50457",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "50458": {
     "ItemLevel": "264",
@@ -3051,7 +3051,7 @@
     "SocketBonus": "none",
     "Name": "Bizuri's Totem of Shattered Ice",
     "Id": "50458",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "50459": {
     "ItemLevel": "264",
@@ -3081,7 +3081,7 @@
     "SocketBonus": "none",
     "Name": "Sigil of the Hanged Man",
     "Id": "50459",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "50460": {
     "ItemLevel": "264",
@@ -3110,7 +3110,7 @@
     "SocketBonus": "none",
     "Name": "Libram of Blinding Light",
     "Id": "50460",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "50461": {
     "ItemLevel": "264",
@@ -3139,7 +3139,7 @@
     "SocketBonus": "none",
     "Name": "Libram of the Eternal Tower",
     "Id": "50461",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "50462": {
     "ItemLevel": "264",
@@ -3169,7 +3169,7 @@
     "SocketBonus": "none",
     "Name": "Sigil of the Bone Gryphon",
     "Id": "50462",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "50463": {
     "ItemLevel": "264",
@@ -3198,7 +3198,7 @@
     "SocketBonus": "none",
     "Name": "Totem of the Avalanche",
     "Id": "50463",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "50464": {
     "ItemLevel": "264",
@@ -3215,7 +3215,7 @@
     "SocketBonus": "none",
     "Name": "Totem of the Surging Sea",
     "Id": "50464",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "50472": {
     "ItemLevel": "264",
@@ -3240,7 +3240,7 @@
     "SocketBonus": "none",
     "Name": "Nightmare Ender",
     "Id": "50472",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "50474": {
     "ItemLevel": "264",
@@ -3264,7 +3264,7 @@
     "SocketBonus": "none",
     "Name": "Shrapnel Star",
     "Id": "50474",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "50631": {
     "ItemLevel": "277",
@@ -3292,7 +3292,7 @@
     },
     "Name": "Nightmare Ender",
     "Id": "50631",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "50638": {
     "ItemLevel": "277",
@@ -3317,7 +3317,7 @@
     },
     "Name": "Zod's Repeating Longbow",
     "Id": "50638",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "50684": {
     "ItemLevel": "277",
@@ -3345,7 +3345,7 @@
     },
     "Name": "Corpse-Impaling Spike",
     "Id": "50684",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "50733": {
     "ItemLevel": "284",
@@ -3372,7 +3372,7 @@
     },
     "Name": "Fal'inrush, Defender of Quel'thalas",
     "Id": "50733",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "50776": {
     "ItemLevel": "251",
@@ -3396,7 +3396,7 @@
     "SocketBonus": "none",
     "Name": "Njorndar Bone Bow",
     "Id": "50776",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "50999": {
     "ItemLevel": "251",
@@ -3420,7 +3420,7 @@
     "SocketBonus": "none",
     "Name": "Gluth's Fetching Knife",
     "Id": "50999",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "51326": {
     "ItemLevel": "251",
@@ -3445,7 +3445,7 @@
     "SocketBonus": "none",
     "Name": "Wand of Ruby Claret",
     "Id": "51326",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "51385": {
     "ItemLevel": "251",
@@ -3469,7 +3469,7 @@
     "SocketBonus": "none",
     "Name": "Stakethrower",
     "Id": "51385",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "51394": {
     "ItemLevel": "264",
@@ -3492,7 +3492,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Longbow",
     "Id": "51394",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "51395": {
     "ItemLevel": "277",
@@ -3515,7 +3515,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Recurve",
     "Id": "51395",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "51410": {
     "ItemLevel": "264",
@@ -3540,7 +3540,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Touch of Defeat",
     "Id": "51410",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "51411": {
     "ItemLevel": "264",
@@ -3563,7 +3563,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Heavy Crossbow",
     "Id": "51411",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "51412": {
     "ItemLevel": "277",
@@ -3586,7 +3586,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Repeater",
     "Id": "51412",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "51417": {
     "ItemLevel": "270",
@@ -3616,7 +3616,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Sigil of Strife",
     "Id": "51417",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "51423": {
     "ItemLevel": "270",
@@ -3633,7 +3633,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Idol of Tenacity",
     "Id": "51423",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "51429": {
     "ItemLevel": "270",
@@ -3662,7 +3662,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Idol of Resolve",
     "Id": "51429",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "51437": {
     "ItemLevel": "270",
@@ -3691,7 +3691,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Idol of Steadfastness",
     "Id": "51437",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "51449": {
     "ItemLevel": "264",
@@ -3714,7 +3714,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Rifle",
     "Id": "51449",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "51450": {
     "ItemLevel": "277",
@@ -3737,7 +3737,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Shotgun",
     "Id": "51450",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "51451": {
     "ItemLevel": "264",
@@ -3762,7 +3762,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Wand of Alacrity",
     "Id": "51451",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "51472": {
     "ItemLevel": "270",
@@ -3779,7 +3779,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Libram of Justice",
     "Id": "51472",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "51478": {
     "ItemLevel": "270",
@@ -3808,7 +3808,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Libram of Fortitude",
     "Id": "51478",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "51501": {
     "ItemLevel": "270",
@@ -3825,7 +3825,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Totem of the Third Wind",
     "Id": "51501",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "51507": {
     "ItemLevel": "270",
@@ -3854,7 +3854,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Totem of Indomitability",
     "Id": "51507",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "51513": {
     "ItemLevel": "270",
@@ -3869,7 +3869,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Totem of Survival",
     "Id": "51513",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "51531": {
     "ItemLevel": "264",
@@ -3894,7 +3894,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Piercing Touch",
     "Id": "51531",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "51532": {
     "ItemLevel": "264",
@@ -3919,7 +3919,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Baton of Light",
     "Id": "51532",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "51535": {
     "ItemLevel": "264",
@@ -3942,7 +3942,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's War Edge",
     "Id": "51535",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "51553": {
     "ItemLevel": "251",
@@ -3967,7 +3967,7 @@
     "SocketBonus": "none",
     "Name": "Lana'thel's Bloody Nail",
     "Id": "51553",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "51561": {
     "ItemLevel": "251",
@@ -3991,7 +3991,7 @@
     "SocketBonus": "none",
     "Name": "Dreamhunter's Carbine",
     "Id": "51561",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "51802": {
     "ItemLevel": "258",
@@ -4015,7 +4015,7 @@
     "SocketBonus": "none",
     "Name": "Windrunner's Heartseeker",
     "Id": "51802",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "51834": {
     "ItemLevel": "264",
@@ -4042,7 +4042,7 @@
     },
     "Name": "Dreamhunter's Carbine",
     "Id": "51834",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "51838": {
     "ItemLevel": "264",
@@ -4070,7 +4070,7 @@
     },
     "Name": "Lana'thel's Bloody Nail",
     "Id": "51838",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "51845": {
     "ItemLevel": "264",
@@ -4097,7 +4097,7 @@
     },
     "Name": "Stakethrower",
     "Id": "51845",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "51852": {
     "ItemLevel": "264",
@@ -4125,7 +4125,7 @@
     },
     "Name": "Wand of Ruby Claret",
     "Id": "51852",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "51880": {
     "ItemLevel": "264",
@@ -4152,7 +4152,7 @@
     },
     "Name": "Gluth's Fetching Knife",
     "Id": "51880",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "51927": {
     "ItemLevel": "264",
@@ -4179,7 +4179,7 @@
     },
     "Name": "Njorndar Bone Bow",
     "Id": "51927",
-    "Slot": "Ranged"
+    "Slot": 18
   },
   "51940": {
     "ItemLevel": "271",
@@ -4206,6 +4206,6 @@
     },
     "Name": "Windrunner's Heartseeker",
     "Id": "51940",
-    "Slot": "Ranged"
+    "Slot": 18
   }
 }

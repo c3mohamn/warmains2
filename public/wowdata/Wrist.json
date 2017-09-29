@@ -18,7 +18,7 @@
     "SocketBonus": "none",
     "Name": "Bands of Channeled Energy",
     "Id": "37138",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "37170": {
     "ItemLevel": "200",
@@ -40,7 +40,7 @@
     "SocketBonus": "none",
     "Name": "Interwoven Scale Bracers",
     "Id": "37170",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "37183": {
     "ItemLevel": "200",
@@ -61,7 +61,7 @@
     "SocketBonus": "none",
     "Name": "Bindings of the Tunneler",
     "Id": "37183",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "37217": {
     "ItemLevel": "200",
@@ -81,7 +81,7 @@
     "SocketBonus": "none",
     "Name": "Golden Limb Bands",
     "Id": "37217",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "37240": {
     "ItemLevel": "200",
@@ -102,7 +102,7 @@
     "SocketBonus": "none",
     "Name": "Flamebeard's Bracers",
     "Id": "37240",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "37288": {
     "ItemLevel": "200",
@@ -123,7 +123,7 @@
     "SocketBonus": "none",
     "Name": "Catalytic Bands",
     "Id": "37288",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "37361": {
     "ItemLevel": "200",
@@ -145,7 +145,7 @@
     "SocketBonus": "none",
     "Name": "Cuffs of Winged Levitation",
     "Id": "37361",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "37365": {
     "ItemLevel": "200",
@@ -166,7 +166,7 @@
     "SocketBonus": "none",
     "Name": "Bands of the Sky Ring",
     "Id": "37365",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "37366": {
     "ItemLevel": "200",
@@ -187,7 +187,7 @@
     "SocketBonus": "none",
     "Name": "Drake-Champion's Bracers",
     "Id": "37366",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "37370": {
     "ItemLevel": "200",
@@ -208,7 +208,7 @@
     "SocketBonus": "none",
     "Name": "Cuffs of the Trussed Hall",
     "Id": "37370",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "37590": {
     "ItemLevel": "200",
@@ -232,7 +232,7 @@
     },
     "Name": "Bands of Fading Light",
     "Id": "37590",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "37613": {
     "ItemLevel": "200",
@@ -253,7 +253,7 @@
     "SocketBonus": "none",
     "Name": "Flame Sphere Bindings",
     "Id": "37613",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "37620": {
     "ItemLevel": "200",
@@ -274,7 +274,7 @@
     "SocketBonus": "none",
     "Name": "Bracers of the Herald",
     "Id": "37620",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "37634": {
     "ItemLevel": "200",
@@ -295,7 +295,7 @@
     "SocketBonus": "none",
     "Name": "Bracers of the Divine Elemental",
     "Id": "37634",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "37656": {
     "ItemLevel": "200",
@@ -317,7 +317,7 @@
     "SocketBonus": "none",
     "Name": "Raging Construct Bands",
     "Id": "37656",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "37668": {
     "ItemLevel": "200",
@@ -337,7 +337,7 @@
     "SocketBonus": "none",
     "Name": "Bands of the Stoneforge",
     "Id": "37668",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "37682": {
     "ItemLevel": "200",
@@ -358,7 +358,7 @@
     "SocketBonus": "none",
     "Name": "Bindings of Dark Will",
     "Id": "37682",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "37696": {
     "ItemLevel": "200",
@@ -380,7 +380,7 @@
     "SocketBonus": "none",
     "Name": "Plague-Infected Bracers",
     "Id": "37696",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "37724": {
     "ItemLevel": "200",
@@ -401,7 +401,7 @@
     "SocketBonus": "none",
     "Name": "Handler's Arm Strap",
     "Id": "37724",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "37725": {
     "ItemLevel": "200",
@@ -422,7 +422,7 @@
     "SocketBonus": "none",
     "Name": "Savage Wound Wrap",
     "Id": "37725",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "37788": {
     "ItemLevel": "200",
@@ -443,7 +443,7 @@
     "SocketBonus": "none",
     "Name": "Limb Regeneration Bracers",
     "Id": "37788",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "37853": {
     "ItemLevel": "200",
@@ -464,7 +464,7 @@
     "SocketBonus": "none",
     "Name": "Advanced Tooled-Leather Bands",
     "Id": "37853",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "37884": {
     "ItemLevel": "200",
@@ -485,7 +485,7 @@
     "SocketBonus": "none",
     "Name": "Azure Cloth Bindings",
     "Id": "37884",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "37891": {
     "ItemLevel": "200",
@@ -506,7 +506,7 @@
     "SocketBonus": "none",
     "Name": "Cast Iron Shackles",
     "Id": "37891",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "39195": {
     "ItemLevel": "200",
@@ -527,7 +527,7 @@
     "SocketBonus": "none",
     "Name": "Bracers of Lost Sentiments",
     "Id": "39195",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "39235": {
     "ItemLevel": "200",
@@ -549,7 +549,7 @@
     "SocketBonus": "none",
     "Name": "Bone-Framed Bracers",
     "Id": "39235",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "39247": {
     "ItemLevel": "200",
@@ -571,7 +571,7 @@
     "SocketBonus": "none",
     "Name": "Cuffs of Dark Shadows",
     "Id": "39247",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "39252": {
     "ItemLevel": "200",
@@ -593,7 +593,7 @@
     "SocketBonus": "none",
     "Name": "Preceptor's Bindings",
     "Id": "39252",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "39278": {
     "ItemLevel": "200",
@@ -616,7 +616,7 @@
     "SocketBonus": "none",
     "Name": "Bands of Anxiety",
     "Id": "39278",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "39283": {
     "ItemLevel": "200",
@@ -638,7 +638,7 @@
     "SocketBonus": "none",
     "Name": "Putrescent Bands",
     "Id": "39283",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "39307": {
     "ItemLevel": "200",
@@ -660,7 +660,7 @@
     "SocketBonus": "none",
     "Name": "Iron Rings of Endurance",
     "Id": "39307",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "39390": {
     "ItemLevel": "200",
@@ -682,7 +682,7 @@
     "SocketBonus": "none",
     "Name": "Resurgent Phantom Bindings",
     "Id": "39390",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "39467": {
     "ItemLevel": "200",
@@ -704,7 +704,7 @@
     "SocketBonus": "none",
     "Name": "Minion Bracers",
     "Id": "39467",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "39702": {
     "ItemLevel": "213",
@@ -727,7 +727,7 @@
     "SocketBonus": "none",
     "Name": "Arachnoid Gold Band",
     "Id": "39702",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "39722": {
     "ItemLevel": "213",
@@ -749,7 +749,7 @@
     "SocketBonus": "none",
     "Name": "Swarm Bindings",
     "Id": "39722",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "39729": {
     "ItemLevel": "213",
@@ -770,7 +770,7 @@
     "SocketBonus": "none",
     "Name": "Bracers of the Tyrant",
     "Id": "39729",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "39731": {
     "ItemLevel": "213",
@@ -792,7 +792,7 @@
     "SocketBonus": "none",
     "Name": "Punctilious Bindings",
     "Id": "39731",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "39764": {
     "ItemLevel": "213",
@@ -814,7 +814,7 @@
     "SocketBonus": "none",
     "Name": "Bindings of the Hapless Prey",
     "Id": "39764",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "39765": {
     "ItemLevel": "213",
@@ -839,7 +839,7 @@
     },
     "Name": "Sinner's Bindings",
     "Id": "39765",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "40186": {
     "ItemLevel": "213",
@@ -861,7 +861,7 @@
     "SocketBonus": "none",
     "Name": "Thrusting Bands",
     "Id": "40186",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "40198": {
     "ItemLevel": "213",
@@ -886,7 +886,7 @@
     },
     "Name": "Bands of Impurity",
     "Id": "40198",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "40209": {
     "ItemLevel": "213",
@@ -908,7 +908,7 @@
     "SocketBonus": "none",
     "Name": "Bindings of the Decrepit",
     "Id": "40209",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "40274": {
     "ItemLevel": "213",
@@ -930,7 +930,7 @@
     "SocketBonus": "none",
     "Name": "Bracers of Liberation",
     "Id": "40274",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "40282": {
     "ItemLevel": "213",
@@ -956,7 +956,7 @@
     },
     "Name": "Slime Stream Bands",
     "Id": "40282",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "40306": {
     "ItemLevel": "213",
@@ -981,7 +981,7 @@
     },
     "Name": "Bracers of the Unholy Knight",
     "Id": "40306",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "40323": {
     "ItemLevel": "213",
@@ -1006,7 +1006,7 @@
     },
     "Name": "Esteemed Bindings",
     "Id": "40323",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "40324": {
     "ItemLevel": "213",
@@ -1031,7 +1031,7 @@
     },
     "Name": "Bands of Mutual Respect",
     "Id": "40324",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "40325": {
     "ItemLevel": "213",
@@ -1053,7 +1053,7 @@
     "SocketBonus": "none",
     "Name": "Bindings of the Expansive Mind",
     "Id": "40325",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "40330": {
     "ItemLevel": "213",
@@ -1077,7 +1077,7 @@
     },
     "Name": "Bracers of Unrelenting Attack",
     "Id": "40330",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "40332": {
     "ItemLevel": "213",
@@ -1102,7 +1102,7 @@
     },
     "Name": "Abetment Bracers",
     "Id": "40332",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "40338": {
     "ItemLevel": "213",
@@ -1124,7 +1124,7 @@
     "SocketBonus": "none",
     "Name": "Bindings of Yearning",
     "Id": "40338",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "40490": {
     "ItemLevel": "200",
@@ -1146,7 +1146,7 @@
     "SocketBonus": "none",
     "Name": "Necromantic Wristguards",
     "Id": "40490",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "40733": {
     "ItemLevel": "213",
@@ -1167,7 +1167,7 @@
     "SocketBonus": "none",
     "Name": "Wristbands of the Sentinel Huntress",
     "Id": "40733",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "40734": {
     "ItemLevel": "213",
@@ -1189,7 +1189,7 @@
     "SocketBonus": "none",
     "Name": "Bracers of Dalaran's Parapets",
     "Id": "40734",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "40735": {
     "ItemLevel": "213",
@@ -1211,7 +1211,7 @@
     "SocketBonus": "none",
     "Name": "Zartson's Jungle Vambraces",
     "Id": "40735",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "40736": {
     "ItemLevel": "213",
@@ -1234,7 +1234,7 @@
     "SocketBonus": "none",
     "Name": "Armguard of the Tower Archer",
     "Id": "40736",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "40737": {
     "ItemLevel": "213",
@@ -1256,7 +1256,7 @@
     "SocketBonus": "none",
     "Name": "Pigmented Clan Bindings",
     "Id": "40737",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "40738": {
     "ItemLevel": "213",
@@ -1278,7 +1278,7 @@
     "SocketBonus": "none",
     "Name": "Wristwraps of the Cutthroat",
     "Id": "40738",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "40739": {
     "ItemLevel": "213",
@@ -1300,7 +1300,7 @@
     "SocketBonus": "none",
     "Name": "Bands of the Great Tree",
     "Id": "40739",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "40740": {
     "ItemLevel": "213",
@@ -1322,7 +1322,7 @@
     "SocketBonus": "none",
     "Name": "Wraps of the Astral Traveler",
     "Id": "40740",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "40741": {
     "ItemLevel": "213",
@@ -1344,7 +1344,7 @@
     "SocketBonus": "none",
     "Name": "Cuffs of the Shadow Ascendant",
     "Id": "40741",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "40888": {
     "ItemLevel": "213",
@@ -1366,7 +1366,7 @@
     "SocketBonus": "none",
     "Name": "Deadly Gladiator's Bracers of Triumph",
     "Id": "40888",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "40889": {
     "ItemLevel": "226",
@@ -1388,7 +1388,7 @@
     "SocketBonus": "none",
     "Name": "Furious Gladiator's Bracers of Triumph",
     "Id": "40889",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "40890": {
     "ItemLevel": "245",
@@ -1410,7 +1410,7 @@
     "SocketBonus": "none",
     "Name": "Relentless Gladiator's Bracers of Triumph",
     "Id": "40890",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "40982": {
     "ItemLevel": "213",
@@ -1433,7 +1433,7 @@
     "SocketBonus": "none",
     "Name": "Deadly Gladiator's Bracers of Salvation",
     "Id": "40982",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "40983": {
     "ItemLevel": "226",
@@ -1456,7 +1456,7 @@
     "SocketBonus": "none",
     "Name": "Furious Gladiator's Bracers of Salvation",
     "Id": "40983",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "40984": {
     "ItemLevel": "245",
@@ -1479,7 +1479,7 @@
     "SocketBonus": "none",
     "Name": "Relentless Gladiator's Bracers of Salvation",
     "Id": "40984",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "41059": {
     "ItemLevel": "213",
@@ -1502,7 +1502,7 @@
     "SocketBonus": "none",
     "Name": "Deadly Gladiator's Wristguards of Salvation",
     "Id": "41059",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "41060": {
     "ItemLevel": "226",
@@ -1525,7 +1525,7 @@
     "SocketBonus": "none",
     "Name": "Furious Gladiator's Wristguards of Salvation",
     "Id": "41060",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "41061": {
     "ItemLevel": "245",
@@ -1548,7 +1548,7 @@
     "SocketBonus": "none",
     "Name": "Relentless Gladiator's Wristguards of Salvation",
     "Id": "41061",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "41064": {
     "ItemLevel": "213",
@@ -1571,7 +1571,7 @@
     "SocketBonus": "none",
     "Name": "Deadly Gladiator's Wristguards of Dominance",
     "Id": "41064",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "41065": {
     "ItemLevel": "226",
@@ -1594,7 +1594,7 @@
     "SocketBonus": "none",
     "Name": "Furious Gladiator's Wristguards of Dominance",
     "Id": "41065",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "41066": {
     "ItemLevel": "245",
@@ -1617,7 +1617,7 @@
     "SocketBonus": "none",
     "Name": "Relentless Gladiator's Wristguards of Dominance",
     "Id": "41066",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "41224": {
     "ItemLevel": "213",
@@ -1641,7 +1641,7 @@
     "SocketBonus": "none",
     "Name": "Deadly Gladiator's Wristguards of Triumph",
     "Id": "41224",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "41225": {
     "ItemLevel": "226",
@@ -1665,7 +1665,7 @@
     "SocketBonus": "none",
     "Name": "Furious Gladiator's Wristguards of Triumph",
     "Id": "41225",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "41226": {
     "ItemLevel": "245",
@@ -1689,7 +1689,7 @@
     "SocketBonus": "none",
     "Name": "Relentless Gladiator's Wristguards of Triumph",
     "Id": "41226",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "41264": {
     "ItemLevel": "200",
@@ -1707,7 +1707,7 @@
     "SocketBonus": "none",
     "Name": "Deflecting Bracers",
     "Id": "41264",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "41624": {
     "ItemLevel": "213",
@@ -1730,7 +1730,7 @@
     "SocketBonus": "none",
     "Name": "Deadly Gladiator's Armwraps of Salvation",
     "Id": "41624",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "41625": {
     "ItemLevel": "226",
@@ -1753,7 +1753,7 @@
     "SocketBonus": "none",
     "Name": "Furious Gladiator's Armwraps of Salvation",
     "Id": "41625",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "41626": {
     "ItemLevel": "245",
@@ -1776,7 +1776,7 @@
     "SocketBonus": "none",
     "Name": "Relentless Gladiator's Armwraps of Salvation",
     "Id": "41626",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "41639": {
     "ItemLevel": "213",
@@ -1799,7 +1799,7 @@
     "SocketBonus": "none",
     "Name": "Deadly Gladiator's Armwraps of Dominance",
     "Id": "41639",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "41641": {
     "ItemLevel": "245",
@@ -1822,7 +1822,7 @@
     "SocketBonus": "none",
     "Name": "Relentless Gladiator's Armwraps of Dominance",
     "Id": "41641",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "41839": {
     "ItemLevel": "213",
@@ -1845,7 +1845,7 @@
     "SocketBonus": "none",
     "Name": "Deadly Gladiator's Armwraps of Triumph",
     "Id": "41839",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "41840": {
     "ItemLevel": "226",
@@ -1868,7 +1868,7 @@
     "SocketBonus": "none",
     "Name": "Furious Gladiator's Armwraps of Triumph",
     "Id": "41840",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "41841": {
     "ItemLevel": "245",
@@ -1891,7 +1891,7 @@
     "SocketBonus": "none",
     "Name": "Relentless Gladiator's Armwraps of Triumph",
     "Id": "41841",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "41892": {
     "ItemLevel": "213",
@@ -1914,7 +1914,7 @@
     "SocketBonus": "none",
     "Name": "Deadly Gladiator's Cuffs of Salvation",
     "Id": "41892",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "41893": {
     "ItemLevel": "226",
@@ -1937,7 +1937,7 @@
     "SocketBonus": "none",
     "Name": "Furious Gladiator's Cuffs of Salvation",
     "Id": "41893",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "41894": {
     "ItemLevel": "245",
@@ -1960,7 +1960,7 @@
     "SocketBonus": "none",
     "Name": "Relentless Gladiator's Cuffs of Salvation",
     "Id": "41894",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "41908": {
     "ItemLevel": "213",
@@ -1983,7 +1983,7 @@
     "SocketBonus": "none",
     "Name": "Deadly Gladiator's Cuffs of Dominance",
     "Id": "41908",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "41909": {
     "ItemLevel": "226",
@@ -2006,7 +2006,7 @@
     "SocketBonus": "none",
     "Name": "Furious Gladiator's Cuffs of Dominance",
     "Id": "41909",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "41910": {
     "ItemLevel": "245",
@@ -2029,7 +2029,7 @@
     "SocketBonus": "none",
     "Name": "Relentless Gladiator's Cuffs of Dominance",
     "Id": "41910",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "43459": {
     "ItemLevel": "200",
@@ -2051,7 +2051,7 @@
     "SocketBonus": "none",
     "Name": "Giantmaim Bracers",
     "Id": "43459",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "44008": {
     "ItemLevel": "226",
@@ -2076,7 +2076,7 @@
     },
     "Name": "Unsullied Cuffs",
     "Id": "44008",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "44200": {
     "ItemLevel": "200",
@@ -2100,7 +2100,7 @@
     },
     "Name": "Ancestral Sinew Wristguards",
     "Id": "44200",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "44203": {
     "ItemLevel": "200",
@@ -2121,7 +2121,7 @@
     "SocketBonus": "none",
     "Name": "Dragonfriend Bracers",
     "Id": "44203",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "44258": {
     "ItemLevel": "200",
@@ -2142,7 +2142,7 @@
     "SocketBonus": "none",
     "Name": "Wound-Binder's Wristguards",
     "Id": "44258",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "45108": {
     "ItemLevel": "226",
@@ -2164,7 +2164,7 @@
     "SocketBonus": "none",
     "Name": "Mechanist's Bindings",
     "Id": "45108",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "45111": {
     "ItemLevel": "226",
@@ -2186,7 +2186,7 @@
     "SocketBonus": "none",
     "Name": "Mimiron's Inferno Couplings",
     "Id": "45111",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "45146": {
     "ItemLevel": "226",
@@ -2208,7 +2208,7 @@
     "SocketBonus": "none",
     "Name": "Shackles of the Odalisque",
     "Id": "45146",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "45149": {
     "ItemLevel": "226",
@@ -2230,7 +2230,7 @@
     "SocketBonus": "none",
     "Name": "Bracers of the Broodmother",
     "Id": "45149",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "45187": {
     "ItemLevel": "226",
@@ -2252,7 +2252,7 @@
     "SocketBonus": "none",
     "Name": "Wristguards of the Firetender",
     "Id": "45187",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "45252": {
     "ItemLevel": "226",
@@ -2274,7 +2274,7 @@
     "SocketBonus": "none",
     "Name": "Horologist's Wristguards",
     "Id": "45252",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "45264": {
     "ItemLevel": "226",
@@ -2295,7 +2295,7 @@
     "SocketBonus": "none",
     "Name": "Decimator's Armguards",
     "Id": "45264",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "45269": {
     "ItemLevel": "226",
@@ -2320,7 +2320,7 @@
     },
     "Name": "Unfaltering Armguards",
     "Id": "45269",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "45275": {
     "ItemLevel": "226",
@@ -2342,7 +2342,7 @@
     "SocketBonus": "none",
     "Name": "Bracers of Unleashed Magic",
     "Id": "45275",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "45283": {
     "ItemLevel": "219",
@@ -2364,7 +2364,7 @@
     "SocketBonus": "none",
     "Name": "Flamewatch Armguards",
     "Id": "45283",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "45291": {
     "ItemLevel": "219",
@@ -2386,7 +2386,7 @@
     "SocketBonus": "none",
     "Name": "Combustion Bracers",
     "Id": "45291",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "45301": {
     "ItemLevel": "219",
@@ -2409,7 +2409,7 @@
     "SocketBonus": "none",
     "Name": "Bracers of the Smothering Inferno",
     "Id": "45301",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "45316": {
     "ItemLevel": "219",
@@ -2431,7 +2431,7 @@
     "SocketBonus": "none",
     "Name": "Armbraces of the Vibrant Flame",
     "Id": "45316",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "45423": {
     "ItemLevel": "219",
@@ -2453,7 +2453,7 @@
     "SocketBonus": "none",
     "Name": "Runetouch Wristwraps",
     "Id": "45423",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "45446": {
     "ItemLevel": "239",
@@ -2478,7 +2478,7 @@
     },
     "Name": "Grasps of Reason",
     "Id": "45446",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "45454": {
     "ItemLevel": "226",
@@ -2501,7 +2501,7 @@
     "SocketBonus": "none",
     "Name": "Frost-bound Chain Bracers",
     "Id": "45454",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "45460": {
     "ItemLevel": "239",
@@ -2526,7 +2526,7 @@
     },
     "Name": "Bindings of Winter Gale",
     "Id": "45460",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "45549": {
     "ItemLevel": "226",
@@ -2548,7 +2548,7 @@
     "SocketBonus": "none",
     "Name": "Grips of Chaos",
     "Id": "45549",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "45611": {
     "ItemLevel": "239",
@@ -2573,7 +2573,7 @@
     },
     "Name": "Solar Bindings",
     "Id": "45611",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "45663": {
     "ItemLevel": "239",
@@ -2597,7 +2597,7 @@
     },
     "Name": "Armbands of Bedlam",
     "Id": "45663",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "45680": {
     "ItemLevel": "219",
@@ -2619,7 +2619,7 @@
     "SocketBonus": "none",
     "Name": "Armbands of the Construct",
     "Id": "45680",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "45869": {
     "ItemLevel": "226",
@@ -2644,7 +2644,7 @@
     },
     "Name": "Fluxing Energy Coils",
     "Id": "45869",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "45888": {
     "ItemLevel": "226",
@@ -2668,7 +2668,7 @@
     },
     "Name": "Bitter Cold Armguards",
     "Id": "45888",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "46009": {
     "ItemLevel": "219",
@@ -2690,7 +2690,7 @@
     "SocketBonus": "none",
     "Name": "Bindings of the Depths",
     "Id": "46009",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "46345": {
     "ItemLevel": "219",
@@ -2715,7 +2715,7 @@
     },
     "Name": "Bracers of Righteous Reformation",
     "Id": "46345",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "46961": {
     "ItemLevel": "245",
@@ -2736,7 +2736,7 @@
     "SocketBonus": "none",
     "Name": "Boneshatter Armplates",
     "Id": "46961",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "46967": {
     "ItemLevel": "258",
@@ -2760,7 +2760,7 @@
     },
     "Name": "Boneshatter Armplates",
     "Id": "46967",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47055": {
     "ItemLevel": "245",
@@ -2782,7 +2782,7 @@
     "SocketBonus": "none",
     "Name": "Bracers of the Autumn Willow",
     "Id": "47055",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47056": {
     "ItemLevel": "245",
@@ -2804,7 +2804,7 @@
     "SocketBonus": "none",
     "Name": "Bracers of Cloudy Omen",
     "Id": "47056",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47066": {
     "ItemLevel": "258",
@@ -2829,7 +2829,7 @@
     },
     "Name": "Bracers of the Autumn Willow",
     "Id": "47066",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47068": {
     "ItemLevel": "258",
@@ -2854,7 +2854,7 @@
     },
     "Name": "Bracers of Cloudy Omen",
     "Id": "47068",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47073": {
     "ItemLevel": "245",
@@ -2877,7 +2877,7 @@
     "SocketBonus": "none",
     "Name": "Bracers of the Untold Massacre",
     "Id": "47073",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47074": {
     "ItemLevel": "258",
@@ -2903,7 +2903,7 @@
     },
     "Name": "Bracers of the Untold Massacre",
     "Id": "47074",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47093": {
     "ItemLevel": "245",
@@ -2925,7 +2925,7 @@
     "SocketBonus": "none",
     "Name": "Vambraces of the Broken Bond",
     "Id": "47093",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47098": {
     "ItemLevel": "258",
@@ -2950,7 +2950,7 @@
     },
     "Name": "Vambraces of the Broken Bond",
     "Id": "47098",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47108": {
     "ItemLevel": "245",
@@ -2972,7 +2972,7 @@
     "SocketBonus": "none",
     "Name": "Bracers of the Shieldmaiden",
     "Id": "47108",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47111": {
     "ItemLevel": "258",
@@ -2997,7 +2997,7 @@
     },
     "Name": "Bracers of the Shieldmaiden",
     "Id": "47111",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47141": {
     "ItemLevel": "245",
@@ -3019,7 +3019,7 @@
     "SocketBonus": "none",
     "Name": "Bindings of Dark Essence",
     "Id": "47141",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47143": {
     "ItemLevel": "258",
@@ -3044,7 +3044,7 @@
     },
     "Name": "Bindings of Dark Essence",
     "Id": "47143",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47151": {
     "ItemLevel": "245",
@@ -3066,7 +3066,7 @@
     "SocketBonus": "none",
     "Name": "Bracers of Dark Determination",
     "Id": "47151",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47155": {
     "ItemLevel": "258",
@@ -3092,7 +3092,7 @@
     },
     "Name": "Bracers of Dark Determination",
     "Id": "47155",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47173": {
     "ItemLevel": "200",
@@ -3114,7 +3114,7 @@
     "SocketBonus": "none",
     "Name": "Bindings of the Wicked",
     "Id": "47173",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47203": {
     "ItemLevel": "245",
@@ -3136,7 +3136,7 @@
     "SocketBonus": "none",
     "Name": "Armbands of the Ashen Saint",
     "Id": "47203",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47208": {
     "ItemLevel": "258",
@@ -3161,7 +3161,7 @@
     },
     "Name": "Armbands of the Ashen Saint",
     "Id": "47208",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47211": {
     "ItemLevel": "200",
@@ -3187,7 +3187,7 @@
     },
     "Name": "Wristguards of Ceaseless Regret",
     "Id": "47211",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47253": {
     "ItemLevel": "245",
@@ -3208,7 +3208,7 @@
     "SocketBonus": "none",
     "Name": "Boneshatter Vambraces",
     "Id": "47253",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47277": {
     "ItemLevel": "245",
@@ -3230,7 +3230,7 @@
     "SocketBonus": "none",
     "Name": "Bindings of the Autumn Willow",
     "Id": "47277",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47280": {
     "ItemLevel": "245",
@@ -3252,7 +3252,7 @@
     "SocketBonus": "none",
     "Name": "Wristwraps of Cloudy Omen",
     "Id": "47280",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47281": {
     "ItemLevel": "245",
@@ -3275,7 +3275,7 @@
     "SocketBonus": "none",
     "Name": "Bracers of the Silent Massacre",
     "Id": "47281",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47294": {
     "ItemLevel": "245",
@@ -3297,7 +3297,7 @@
     "SocketBonus": "none",
     "Name": "Bracers of the Broken Bond",
     "Id": "47294",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47298": {
     "ItemLevel": "245",
@@ -3319,7 +3319,7 @@
     "SocketBonus": "none",
     "Name": "Armguards of the Shieldmaiden",
     "Id": "47298",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47306": {
     "ItemLevel": "245",
@@ -3341,7 +3341,7 @@
     "SocketBonus": "none",
     "Name": "Dark Essence Bindings",
     "Id": "47306",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47313": {
     "ItemLevel": "245",
@@ -3363,7 +3363,7 @@
     "SocketBonus": "none",
     "Name": "Armbands of Dark Determination",
     "Id": "47313",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47324": {
     "ItemLevel": "245",
@@ -3385,7 +3385,7 @@
     "SocketBonus": "none",
     "Name": "Bindings of the Ashen Saint",
     "Id": "47324",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47414": {
     "ItemLevel": "258",
@@ -3409,7 +3409,7 @@
     },
     "Name": "Boneshatter Vambraces",
     "Id": "47414",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47438": {
     "ItemLevel": "258",
@@ -3434,7 +3434,7 @@
     },
     "Name": "Bindings of the Autumn Willow",
     "Id": "47438",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47441": {
     "ItemLevel": "258",
@@ -3459,7 +3459,7 @@
     },
     "Name": "Wristwraps of Cloudy Omen",
     "Id": "47441",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47442": {
     "ItemLevel": "258",
@@ -3485,7 +3485,7 @@
     },
     "Name": "Bracers of the Silent Massacre",
     "Id": "47442",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47455": {
     "ItemLevel": "258",
@@ -3510,7 +3510,7 @@
     },
     "Name": "Bracers of the Broken Bond",
     "Id": "47455",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47459": {
     "ItemLevel": "258",
@@ -3535,7 +3535,7 @@
     },
     "Name": "Armguards of the Shieldmaiden",
     "Id": "47459",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47467": {
     "ItemLevel": "258",
@@ -3560,7 +3560,7 @@
     },
     "Name": "Dark Essence Bindings",
     "Id": "47467",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47474": {
     "ItemLevel": "258",
@@ -3586,7 +3586,7 @@
     },
     "Name": "Armbands of Dark Determination",
     "Id": "47474",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47485": {
     "ItemLevel": "258",
@@ -3611,7 +3611,7 @@
     },
     "Name": "Bindings of the Ashen Saint",
     "Id": "47485",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47496": {
     "ItemLevel": "219",
@@ -3633,7 +3633,7 @@
     "SocketBonus": "none",
     "Name": "Armbands of the Wary Lookout",
     "Id": "47496",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47565": {
     "ItemLevel": "219",
@@ -3654,7 +3654,7 @@
     "SocketBonus": "none",
     "Name": "Vambraces of Unholy Command",
     "Id": "47565",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47570": {
     "ItemLevel": "245",
@@ -3679,7 +3679,7 @@
     },
     "Name": "Saronite Swordbreakers",
     "Id": "47570",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47571": {
     "ItemLevel": "245",
@@ -3704,7 +3704,7 @@
     },
     "Name": "Saronite Swordbreakers",
     "Id": "47571",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47572": {
     "ItemLevel": "245",
@@ -3728,7 +3728,7 @@
     },
     "Name": "Titanium Spikeguards",
     "Id": "47572",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47573": {
     "ItemLevel": "245",
@@ -3752,7 +3752,7 @@
     },
     "Name": "Titanium Spikeguards",
     "Id": "47573",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47574": {
     "ItemLevel": "245",
@@ -3777,7 +3777,7 @@
     },
     "Name": "Sunforged Bracers",
     "Id": "47574",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47575": {
     "ItemLevel": "245",
@@ -3802,7 +3802,7 @@
     },
     "Name": "Sunforged Bracers",
     "Id": "47575",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47576": {
     "ItemLevel": "245",
@@ -3828,7 +3828,7 @@
     },
     "Name": "Crusader's Dragonscale Bracers",
     "Id": "47576",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47577": {
     "ItemLevel": "245",
@@ -3854,7 +3854,7 @@
     },
     "Name": "Crusader's Dragonscale Bracers",
     "Id": "47577",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47579": {
     "ItemLevel": "245",
@@ -3879,7 +3879,7 @@
     },
     "Name": "Black Chitin Bracers",
     "Id": "47579",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47580": {
     "ItemLevel": "245",
@@ -3904,7 +3904,7 @@
     },
     "Name": "Black Chitin Bracers",
     "Id": "47580",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47581": {
     "ItemLevel": "245",
@@ -3929,7 +3929,7 @@
     },
     "Name": "Bracers of Swift Death",
     "Id": "47581",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47582": {
     "ItemLevel": "245",
@@ -3954,7 +3954,7 @@
     },
     "Name": "Bracers of Swift Death",
     "Id": "47582",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47583": {
     "ItemLevel": "245",
@@ -3979,7 +3979,7 @@
     },
     "Name": "Moonshadow Armguards",
     "Id": "47583",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47584": {
     "ItemLevel": "245",
@@ -4004,7 +4004,7 @@
     },
     "Name": "Moonshadow Armguards",
     "Id": "47584",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47585": {
     "ItemLevel": "245",
@@ -4029,7 +4029,7 @@
     },
     "Name": "Bejeweled Wizard's Bracers",
     "Id": "47585",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47586": {
     "ItemLevel": "245",
@@ -4054,7 +4054,7 @@
     },
     "Name": "Bejeweled Wizard's Bracers",
     "Id": "47586",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47587": {
     "ItemLevel": "245",
@@ -4079,7 +4079,7 @@
     },
     "Name": "Royal Moonshroud Bracers",
     "Id": "47587",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47588": {
     "ItemLevel": "245",
@@ -4104,7 +4104,7 @@
     },
     "Name": "Royal Moonshroud Bracers",
     "Id": "47588",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47610": {
     "ItemLevel": "232",
@@ -4127,7 +4127,7 @@
     "SocketBonus": "none",
     "Name": "Armbands of the Northern Stalker",
     "Id": "47610",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47611": {
     "ItemLevel": "232",
@@ -4149,7 +4149,7 @@
     "SocketBonus": "none",
     "Name": "Dreadscale Armguards",
     "Id": "47611",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47663": {
     "ItemLevel": "232",
@@ -4171,7 +4171,7 @@
     "SocketBonus": "none",
     "Name": "Felspark Bindings",
     "Id": "47663",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47680": {
     "ItemLevel": "232",
@@ -4192,7 +4192,7 @@
     "SocketBonus": "none",
     "Name": "Armguards of the Nether Lord",
     "Id": "47680",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47850": {
     "ItemLevel": "232",
@@ -4215,7 +4215,7 @@
     "SocketBonus": "none",
     "Name": "Bracers of the Northern Stalker",
     "Id": "47850",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47852": {
     "ItemLevel": "232",
@@ -4237,7 +4237,7 @@
     "SocketBonus": "none",
     "Name": "Dreadscale Bracers",
     "Id": "47852",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47861": {
     "ItemLevel": "232",
@@ -4259,7 +4259,7 @@
     "SocketBonus": "none",
     "Name": "Felspark Bracers",
     "Id": "47861",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47869": {
     "ItemLevel": "232",
@@ -4280,7 +4280,7 @@
     "SocketBonus": "none",
     "Name": "Armplates of the Nether Lord",
     "Id": "47869",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47916": {
     "ItemLevel": "245",
@@ -4306,7 +4306,7 @@
     },
     "Name": "Armbands of the Northern Stalker",
     "Id": "47916",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47918": {
     "ItemLevel": "245",
@@ -4331,7 +4331,7 @@
     },
     "Name": "Dreadscale Armguards",
     "Id": "47918",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47927": {
     "ItemLevel": "245",
@@ -4356,7 +4356,7 @@
     },
     "Name": "Felspark Bindings",
     "Id": "47927",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47935": {
     "ItemLevel": "245",
@@ -4380,7 +4380,7 @@
     },
     "Name": "Armguards of the Nether Lord",
     "Id": "47935",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47989": {
     "ItemLevel": "245",
@@ -4406,7 +4406,7 @@
     },
     "Name": "Bracers of the Northern Stalker",
     "Id": "47989",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "47991": {
     "ItemLevel": "245",
@@ -4431,7 +4431,7 @@
     },
     "Name": "Dreadscale Bracers",
     "Id": "47991",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "48000": {
     "ItemLevel": "245",
@@ -4456,7 +4456,7 @@
     },
     "Name": "Felspark Bracers",
     "Id": "48000",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "48008": {
     "ItemLevel": "245",
@@ -4480,7 +4480,7 @@
     },
     "Name": "Armplates of the Nether Lord",
     "Id": "48008",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "48974": {
     "ItemLevel": "226",
@@ -4503,7 +4503,7 @@
     "SocketBonus": "none",
     "Name": "Titan-Forged Armwraps of Dominance",
     "Id": "48974",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "48975": {
     "ItemLevel": "226",
@@ -4526,7 +4526,7 @@
     "SocketBonus": "none",
     "Name": "Titan-Forged Armwraps of Salvation",
     "Id": "48975",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "48976": {
     "ItemLevel": "226",
@@ -4549,7 +4549,7 @@
     "SocketBonus": "none",
     "Name": "Titan-Forged Armwraps of Triumph",
     "Id": "48976",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "48977": {
     "ItemLevel": "226",
@@ -4572,7 +4572,7 @@
     "SocketBonus": "none",
     "Name": "Titan-Forged Bracers of Salvation",
     "Id": "48977",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "48978": {
     "ItemLevel": "226",
@@ -4594,7 +4594,7 @@
     "SocketBonus": "none",
     "Name": "Titan-Forged Bracers of Triumph",
     "Id": "48978",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "48979": {
     "ItemLevel": "226",
@@ -4617,7 +4617,7 @@
     "SocketBonus": "none",
     "Name": "Titan-Forged Cuffs of Salvation",
     "Id": "48979",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "48980": {
     "ItemLevel": "226",
@@ -4640,7 +4640,7 @@
     "SocketBonus": "none",
     "Name": "Titan-Forged Wristguards of Dominance",
     "Id": "48980",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "48981": {
     "ItemLevel": "226",
@@ -4663,7 +4663,7 @@
     "SocketBonus": "none",
     "Name": "Titan-Forged Wristguards of Salvation",
     "Id": "48981",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "48982": {
     "ItemLevel": "226",
@@ -4687,7 +4687,7 @@
     "SocketBonus": "none",
     "Name": "Titan-Forged Wristguards of Triumph",
     "Id": "48982",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "49181": {
     "ItemLevel": "245",
@@ -4710,7 +4710,7 @@
     "SocketBonus": "none",
     "Name": "Relentless Gladiator's Cuffs of Alacrity",
     "Id": "49181",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "49787": {
     "ItemLevel": "219",
@@ -4732,7 +4732,7 @@
     "SocketBonus": "none",
     "Name": "Seven Stormy Mornings",
     "Id": "49787",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "49797": {
     "ItemLevel": "219",
@@ -4754,7 +4754,7 @@
     "SocketBonus": "none",
     "Name": "Brace Guards of the Starless Night",
     "Id": "49797",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "49809": {
     "ItemLevel": "219",
@@ -4776,7 +4776,7 @@
     "SocketBonus": "none",
     "Name": "Wristguards of Subterranean Moss",
     "Id": "49809",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "49820": {
     "ItemLevel": "219",
@@ -4799,7 +4799,7 @@
     "SocketBonus": "none",
     "Name": "Gondria's Spectral Bracer",
     "Id": "49820",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "49960": {
     "ItemLevel": "264",
@@ -4824,7 +4824,7 @@
     },
     "Name": "Bracers of Dark Reckoning",
     "Id": "49960",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "49994": {
     "ItemLevel": "264",
@@ -4849,7 +4849,7 @@
     },
     "Name": "The Lady's Brittle Bracers",
     "Id": "49994",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "50000": {
     "ItemLevel": "264",
@@ -4875,7 +4875,7 @@
     },
     "Name": "Scourge Hunter's Vambraces",
     "Id": "50000",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "50002": {
     "ItemLevel": "264",
@@ -4899,7 +4899,7 @@
     },
     "Name": "Polar Bear Claw Bracers",
     "Id": "50002",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "50030": {
     "ItemLevel": "264",
@@ -4924,7 +4924,7 @@
     },
     "Name": "Bloodsunder's Bracers",
     "Id": "50030",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "50032": {
     "ItemLevel": "264",
@@ -4949,7 +4949,7 @@
     },
     "Name": "Death Surgeon's Sleeves",
     "Id": "50032",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "50175": {
     "ItemLevel": "264",
@@ -4974,7 +4974,7 @@
     },
     "Name": "Crypt Keeper's Bracers",
     "Id": "50175",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "50209": {
     "ItemLevel": "232",
@@ -4997,7 +4997,7 @@
     "SocketBonus": "none",
     "Name": "Essence of Suffering",
     "Id": "50209",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "50230": {
     "ItemLevel": "232",
@@ -5018,7 +5018,7 @@
     "SocketBonus": "none",
     "Name": "Malykriss Vambraces",
     "Id": "50230",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "50264": {
     "ItemLevel": "232",
@@ -5040,7 +5040,7 @@
     "SocketBonus": "none",
     "Name": "Chewed Leather Wristguards",
     "Id": "50264",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "50292": {
     "ItemLevel": "232",
@@ -5062,7 +5062,7 @@
     "SocketBonus": "none",
     "Name": "Bracer of Worn Molars",
     "Id": "50292",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "50318": {
     "ItemLevel": "232",
@@ -5084,7 +5084,7 @@
     "SocketBonus": "none",
     "Name": "Ghostly Wristwraps",
     "Id": "50318",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "50333": {
     "ItemLevel": "264",
@@ -5109,7 +5109,7 @@
     },
     "Name": "Toskk's Maximized Wristguards",
     "Id": "50333",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "50417": {
     "ItemLevel": "264",
@@ -5134,7 +5134,7 @@
     },
     "Name": "Bracers of Eternal Dreaming",
     "Id": "50417",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "50611": {
     "ItemLevel": "277",
@@ -5159,7 +5159,7 @@
     },
     "Name": "Bracers of Dark Reckoning",
     "Id": "50611",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "50630": {
     "ItemLevel": "277",
@@ -5184,7 +5184,7 @@
     },
     "Name": "Bracers of Eternal Dreaming",
     "Id": "50630",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "50651": {
     "ItemLevel": "277",
@@ -5209,7 +5209,7 @@
     },
     "Name": "The Lady's Brittle Bracers",
     "Id": "50651",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "50655": {
     "ItemLevel": "277",
@@ -5235,7 +5235,7 @@
     },
     "Name": "Scourge Hunter's Vambraces",
     "Id": "50655",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "50659": {
     "ItemLevel": "277",
@@ -5259,7 +5259,7 @@
     },
     "Name": "Polar Bear Claw Bracers",
     "Id": "50659",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "50670": {
     "ItemLevel": "277",
@@ -5284,7 +5284,7 @@
     },
     "Name": "Toskk's Maximized Wristguards",
     "Id": "50670",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "50686": {
     "ItemLevel": "277",
@@ -5309,7 +5309,7 @@
     },
     "Name": "Death Surgeon's Sleeves",
     "Id": "50686",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "50687": {
     "ItemLevel": "277",
@@ -5334,7 +5334,7 @@
     },
     "Name": "Bloodsunder's Bracers",
     "Id": "50687",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "50721": {
     "ItemLevel": "277",
@@ -5359,7 +5359,7 @@
     },
     "Name": "Crypt Keeper's Bracers",
     "Id": "50721",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "50774": {
     "ItemLevel": "251",
@@ -5384,7 +5384,7 @@
     },
     "Name": "Coldwraith Bracers",
     "Id": "50774",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "50785": {
     "ItemLevel": "251",
@@ -5409,7 +5409,7 @@
     },
     "Name": "Bracers of Dark Blessings",
     "Id": "50785",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "50789": {
     "ItemLevel": "251",
@@ -5435,7 +5435,7 @@
     },
     "Name": "Icecrown Rampart Bracers",
     "Id": "50789",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "50796": {
     "ItemLevel": "251",
@@ -5460,7 +5460,7 @@
     },
     "Name": "Bracers of Pale Illumination",
     "Id": "50796",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "50802": {
     "ItemLevel": "251",
@@ -5485,7 +5485,7 @@
     },
     "Name": "Gargoyle Spit Bracers",
     "Id": "50802",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "50985": {
     "ItemLevel": "251",
@@ -5510,7 +5510,7 @@
     },
     "Name": "Wrists of Septic Shock",
     "Id": "50985",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "51007": {
     "ItemLevel": "251",
@@ -5532,7 +5532,7 @@
     "SocketBonus": "none",
     "Name": "Ether-Soaked Bracers",
     "Id": "51007",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "51329": {
     "ItemLevel": "264",
@@ -5555,7 +5555,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Cuffs of Dominance",
     "Id": "51329",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "51339": {
     "ItemLevel": "264",
@@ -5578,7 +5578,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Cuffs of Alacrity",
     "Id": "51339",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "51342": {
     "ItemLevel": "264",
@@ -5601,7 +5601,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Armwraps of Salvation",
     "Id": "51342",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "51345": {
     "ItemLevel": "264",
@@ -5624,7 +5624,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Armwraps of Dominance",
     "Id": "51345",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "51352": {
     "ItemLevel": "264",
@@ -5648,7 +5648,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Wristguards of Triumph",
     "Id": "51352",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "51361": {
     "ItemLevel": "264",
@@ -5671,7 +5671,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Bracers of Salvation",
     "Id": "51361",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "51364": {
     "ItemLevel": "264",
@@ -5693,7 +5693,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Bracers of Triumph",
     "Id": "51364",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "51367": {
     "ItemLevel": "264",
@@ -5716,7 +5716,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Cuffs of Salvation",
     "Id": "51367",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "51370": {
     "ItemLevel": "264",
@@ -5739,7 +5739,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Armwraps of Triumph",
     "Id": "51370",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "51373": {
     "ItemLevel": "264",
@@ -5762,7 +5762,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Wristguards of Salvation",
     "Id": "51373",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "51376": {
     "ItemLevel": "264",
@@ -5785,7 +5785,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Wristguards of Dominance",
     "Id": "51376",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "51563": {
     "ItemLevel": "251",
@@ -5809,7 +5809,7 @@
     },
     "Name": "Taiga Bindings",
     "Id": "51563",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "51783": {
     "ItemLevel": "251",
@@ -5834,7 +5834,7 @@
     },
     "Name": "Vambraces of the Frost Wyrm Queen",
     "Id": "51783",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "51820": {
     "ItemLevel": "264",
@@ -5859,7 +5859,7 @@
     },
     "Name": "Vambraces of the Frost Wyrm Queen",
     "Id": "51820",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "51832": {
     "ItemLevel": "264",
@@ -5883,7 +5883,7 @@
     },
     "Name": "Taiga Bindings",
     "Id": "51832",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "51872": {
     "ItemLevel": "264",
@@ -5908,7 +5908,7 @@
     },
     "Name": "Ether-Soaked Bracers",
     "Id": "51872",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "51885": {
     "ItemLevel": "264",
@@ -5933,7 +5933,7 @@
     },
     "Name": "Wrists of Septic Shock",
     "Id": "51885",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "51901": {
     "ItemLevel": "264",
@@ -5958,7 +5958,7 @@
     },
     "Name": "Gargoyle Spit Bracers",
     "Id": "51901",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "51907": {
     "ItemLevel": "264",
@@ -5983,7 +5983,7 @@
     },
     "Name": "Bracers of Pale Illumination",
     "Id": "51907",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "51914": {
     "ItemLevel": "264",
@@ -6009,7 +6009,7 @@
     },
     "Name": "Icecrown Rampart Bracers",
     "Id": "51914",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "51918": {
     "ItemLevel": "264",
@@ -6034,7 +6034,7 @@
     },
     "Name": "Bracers of Dark Blessings",
     "Id": "51918",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "51929": {
     "ItemLevel": "264",
@@ -6059,7 +6059,7 @@
     },
     "Name": "Coldwraith Bracers",
     "Id": "51929",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "53112": {
     "ItemLevel": "258",
@@ -6083,7 +6083,7 @@
     },
     "Name": "Bracers of the Heir",
     "Id": "53112",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "53126": {
     "ItemLevel": "271",
@@ -6108,7 +6108,7 @@
     },
     "Name": "Umbrage Armbands",
     "Id": "53126",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "53134": {
     "ItemLevel": "271",
@@ -6133,7 +6133,7 @@
     },
     "Name": "Phaseshifter's Bracers",
     "Id": "53134",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "53486": {
     "ItemLevel": "271",
@@ -6158,7 +6158,7 @@
     },
     "Name": "Bracers of Fiery Night",
     "Id": "53486",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "54559": {
     "ItemLevel": "271",
@@ -6182,7 +6182,7 @@
     },
     "Name": "Bracers of the Heir",
     "Id": "54559",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "54580": {
     "ItemLevel": "284",
@@ -6207,7 +6207,7 @@
     },
     "Name": "Umbrage Armbands",
     "Id": "54580",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "54582": {
     "ItemLevel": "284",
@@ -6232,7 +6232,7 @@
     },
     "Name": "Bracers of Fiery Night",
     "Id": "54582",
-    "Slot": "Wrist"
+    "Slot": 9
   },
   "54584": {
     "ItemLevel": "284",
@@ -6257,6 +6257,6 @@
     },
     "Name": "Phaseshifter's Bracers",
     "Id": "54584",
-    "Slot": "Wrist"
+    "Slot": 9
   }
 }

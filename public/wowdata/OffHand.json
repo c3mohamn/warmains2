@@ -17,7 +17,7 @@
     "SocketBonus": "none",
     "Name": "Telestra's Journal",
     "Id": "37134",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "37162": {
     "ItemLevel": "200",
@@ -39,7 +39,7 @@
     "SocketBonus": "none",
     "Name": "Bulwark of the Noble Protector",
     "Id": "37162",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "37169": {
     "ItemLevel": "200",
@@ -61,7 +61,7 @@
     "SocketBonus": "none",
     "Name": "War Mace of Unrequited Love",
     "Id": "37169",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "37179": {
     "ItemLevel": "200",
@@ -84,7 +84,7 @@
     "SocketBonus": "none",
     "Name": "Infantry Assault Blade",
     "Id": "37179",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "37181": {
     "ItemLevel": "200",
@@ -107,7 +107,7 @@
     "SocketBonus": "none",
     "Name": "Dagger of Betrayal",
     "Id": "37181",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "37190": {
     "ItemLevel": "200",
@@ -130,7 +130,7 @@
     "SocketBonus": "none",
     "Name": "Enraged Feral Staff",
     "Id": "37190",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "37216": {
     "ItemLevel": "200",
@@ -152,7 +152,7 @@
     "SocketBonus": "none",
     "Name": "Facade Shield of Glyphs",
     "Id": "37216",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "37235": {
     "ItemLevel": "200",
@@ -175,7 +175,7 @@
     "SocketBonus": "none",
     "Name": "Crypt Lord's Deft Blade",
     "Id": "37235",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "37255": {
     "ItemLevel": "200",
@@ -197,7 +197,7 @@
     "SocketBonus": "none",
     "Name": "The Interrogator",
     "Id": "37255",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "37260": {
     "ItemLevel": "200",
@@ -220,7 +220,7 @@
     "SocketBonus": "none",
     "Name": "Cloudstrider's Waraxe",
     "Id": "37260",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "37360": {
     "ItemLevel": "200",
@@ -244,7 +244,7 @@
     "SocketBonus": "none",
     "Name": "Staff of Draconic Combat",
     "Id": "37360",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "37364": {
     "ItemLevel": "200",
@@ -264,7 +264,7 @@
     "SocketBonus": "none",
     "Name": "Frostbridge Orb",
     "Id": "37364",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "37377": {
     "ItemLevel": "200",
@@ -288,7 +288,7 @@
     "SocketBonus": "none",
     "Name": "Netherbreath Spellblade",
     "Id": "37377",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "37384": {
     "ItemLevel": "200",
@@ -312,7 +312,7 @@
     "SocketBonus": "none",
     "Name": "Staff of Wayward Principles",
     "Id": "37384",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "37401": {
     "ItemLevel": "200",
@@ -336,7 +336,7 @@
     "SocketBonus": "none",
     "Name": "Red Sword of Courage",
     "Id": "37401",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "37617": {
     "ItemLevel": "200",
@@ -360,7 +360,7 @@
     "SocketBonus": "none",
     "Name": "Staff of Sinister Claws",
     "Id": "37617",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "37631": {
     "ItemLevel": "200",
@@ -382,7 +382,7 @@
     "SocketBonus": "none",
     "Name": "Fist of the Deity",
     "Id": "37631",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "37653": {
     "ItemLevel": "200",
@@ -407,7 +407,7 @@
     },
     "Name": "Sword of Justice",
     "Id": "37653",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "37667": {
     "ItemLevel": "200",
@@ -431,7 +431,7 @@
     "SocketBonus": "none",
     "Name": "The Fleshshaper",
     "Id": "37667",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "37681": {
     "ItemLevel": "200",
@@ -454,7 +454,7 @@
     "SocketBonus": "none",
     "Name": "Gavel of the Fleshcrafter",
     "Id": "37681",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "37693": {
     "ItemLevel": "200",
@@ -477,7 +477,7 @@
     "SocketBonus": "none",
     "Name": "Greed",
     "Id": "37693",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "37718": {
     "ItemLevel": "200",
@@ -497,7 +497,7 @@
     "SocketBonus": "none",
     "Name": "Temple Crystal Fragment",
     "Id": "37718",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "37721": {
     "ItemLevel": "200",
@@ -521,7 +521,7 @@
     "SocketBonus": "none",
     "Name": "Cursed Lich Blade",
     "Id": "37721",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "37733": {
     "ItemLevel": "200",
@@ -544,7 +544,7 @@
     "SocketBonus": "none",
     "Name": "Mojo Masked Crusher",
     "Id": "37733",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "37848": {
     "ItemLevel": "200",
@@ -567,7 +567,7 @@
     "SocketBonus": "none",
     "Name": "Lightning Giant Staff",
     "Id": "37848",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "37852": {
     "ItemLevel": "200",
@@ -590,7 +590,7 @@
     "SocketBonus": "none",
     "Name": "Colossal Skull-Clad Cleaver",
     "Id": "37852",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "37856": {
     "ItemLevel": "200",
@@ -612,7 +612,7 @@
     "SocketBonus": "none",
     "Name": "Librarian's Paper Cutter",
     "Id": "37856",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "37871": {
     "ItemLevel": "200",
@@ -635,7 +635,7 @@
     "SocketBonus": "none",
     "Name": "The Key",
     "Id": "37871",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "37883": {
     "ItemLevel": "200",
@@ -657,7 +657,7 @@
     "SocketBonus": "none",
     "Name": "Staff of Trickery",
     "Id": "37883",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "37889": {
     "ItemLevel": "200",
@@ -677,7 +677,7 @@
     "SocketBonus": "none",
     "Name": "Prison Manifest",
     "Id": "37889",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "38322": {
     "ItemLevel": "200",
@@ -698,7 +698,7 @@
     "SocketBonus": "none",
     "Name": "Iron-bound Tome",
     "Id": "38322",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "38618": {
     "ItemLevel": "200",
@@ -720,7 +720,7 @@
     "SocketBonus": "none",
     "Name": "Hammer of Grief",
     "Id": "38618",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "39140": {
     "ItemLevel": "200",
@@ -744,7 +744,7 @@
     "SocketBonus": "none",
     "Name": "Knife of Incision",
     "Id": "39140",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "39199": {
     "ItemLevel": "200",
@@ -765,7 +765,7 @@
     "SocketBonus": "none",
     "Name": "Watchful Eye",
     "Id": "39199",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "39200": {
     "ItemLevel": "200",
@@ -790,7 +790,7 @@
     "SocketBonus": "none",
     "Name": "Grieving Spellblade",
     "Id": "39200",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "39221": {
     "ItemLevel": "200",
@@ -814,7 +814,7 @@
     "SocketBonus": "none",
     "Name": "Wraith Spear",
     "Id": "39221",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "39226": {
     "ItemLevel": "200",
@@ -838,7 +838,7 @@
     "SocketBonus": "none",
     "Name": "Maexxna's Femur",
     "Id": "39226",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "39233": {
     "ItemLevel": "200",
@@ -861,7 +861,7 @@
     "SocketBonus": "none",
     "Name": "Aegis of Damnation",
     "Id": "39233",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "39245": {
     "ItemLevel": "200",
@@ -884,7 +884,7 @@
     "SocketBonus": "none",
     "Name": "Demise",
     "Id": "39245",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "39255": {
     "ItemLevel": "200",
@@ -907,7 +907,7 @@
     "SocketBonus": "none",
     "Name": "Staff of the Plague Beast",
     "Id": "39255",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "39256": {
     "ItemLevel": "200",
@@ -931,7 +931,7 @@
     "SocketBonus": "none",
     "Name": "Sulfur Stave",
     "Id": "39256",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "39270": {
     "ItemLevel": "200",
@@ -955,7 +955,7 @@
     "SocketBonus": "none",
     "Name": "Hatestrike",
     "Id": "39270",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "39271": {
     "ItemLevel": "200",
@@ -980,7 +980,7 @@
     "SocketBonus": "none",
     "Name": "Blade of Dormant Memories",
     "Id": "39271",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "39276": {
     "ItemLevel": "200",
@@ -1002,7 +1002,7 @@
     "SocketBonus": "none",
     "Name": "The Skull of Ruin",
     "Id": "39276",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "39281": {
     "ItemLevel": "200",
@@ -1026,7 +1026,7 @@
     "SocketBonus": "none",
     "Name": "Infection Repulser",
     "Id": "39281",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "39291": {
     "ItemLevel": "200",
@@ -1050,7 +1050,7 @@
     "SocketBonus": "none",
     "Name": "Torment of the Banished",
     "Id": "39291",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "39311": {
     "ItemLevel": "200",
@@ -1071,7 +1071,7 @@
     "SocketBonus": "none",
     "Name": "Scepter of Murmuring Spirits",
     "Id": "39311",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "39344": {
     "ItemLevel": "200",
@@ -1095,7 +1095,7 @@
     "SocketBonus": "none",
     "Name": "Slayer of the Lifeless",
     "Id": "39344",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "39393": {
     "ItemLevel": "200",
@@ -1118,7 +1118,7 @@
     "SocketBonus": "none",
     "Name": "Claymore of Ancient Power",
     "Id": "39393",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "39394": {
     "ItemLevel": "200",
@@ -1142,7 +1142,7 @@
     "SocketBonus": "none",
     "Name": "Charmed Cierge",
     "Id": "39394",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "39416": {
     "ItemLevel": "213",
@@ -1166,7 +1166,7 @@
     "SocketBonus": "none",
     "Name": "Kel'Thuzad's Reach",
     "Id": "39416",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "39417": {
     "ItemLevel": "213",
@@ -1189,7 +1189,7 @@
     "SocketBonus": "none",
     "Name": "Death's Bite",
     "Id": "39417",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "39420": {
     "ItemLevel": "213",
@@ -1213,7 +1213,7 @@
     "SocketBonus": "none",
     "Name": "Anarchy",
     "Id": "39420",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "39422": {
     "ItemLevel": "213",
@@ -1236,7 +1236,7 @@
     "SocketBonus": "none",
     "Name": "Staff of the Plaguehound",
     "Id": "39422",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "39423": {
     "ItemLevel": "213",
@@ -1260,7 +1260,7 @@
     "SocketBonus": "none",
     "Name": "Hammer of the Astral Plane",
     "Id": "39423",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "39424": {
     "ItemLevel": "213",
@@ -1285,7 +1285,7 @@
     "SocketBonus": "none",
     "Name": "The Soulblade",
     "Id": "39424",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "39427": {
     "ItemLevel": "200",
@@ -1309,7 +1309,7 @@
     "SocketBonus": "none",
     "Name": "Omen of Ruin",
     "Id": "39427",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "39468": {
     "ItemLevel": "200",
@@ -1333,7 +1333,7 @@
     "SocketBonus": "none",
     "Name": "The Stray",
     "Id": "39468",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "39714": {
     "ItemLevel": "213",
@@ -1357,7 +1357,7 @@
     "SocketBonus": "none",
     "Name": "Webbed Death",
     "Id": "39714",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "39716": {
     "ItemLevel": "213",
@@ -1380,7 +1380,7 @@
     "SocketBonus": "none",
     "Name": "Shield of Assimilation",
     "Id": "39716",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "39730": {
     "ItemLevel": "213",
@@ -1404,7 +1404,7 @@
     "SocketBonus": "none",
     "Name": "Widow's Fury",
     "Id": "39730",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "39758": {
     "ItemLevel": "213",
@@ -1427,7 +1427,7 @@
     "SocketBonus": "none",
     "Name": "The Jawbone",
     "Id": "39758",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "39763": {
     "ItemLevel": "213",
@@ -1451,7 +1451,7 @@
     "SocketBonus": "none",
     "Name": "Wraith Strike",
     "Id": "39763",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "39766": {
     "ItemLevel": "213",
@@ -1472,7 +1472,7 @@
     "SocketBonus": "none",
     "Name": "Matriarch's Spawn",
     "Id": "39766",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "40189": {
     "ItemLevel": "213",
@@ -1496,7 +1496,7 @@
     "SocketBonus": "none",
     "Name": "Angry Dread",
     "Id": "40189",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "40192": {
     "ItemLevel": "213",
@@ -1517,7 +1517,7 @@
     "SocketBonus": "none",
     "Name": "Accursed Spine",
     "Id": "40192",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "40208": {
     "ItemLevel": "213",
@@ -1541,7 +1541,7 @@
     "SocketBonus": "none",
     "Name": "Cryptfiend's Bite",
     "Id": "40208",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "40233": {
     "ItemLevel": "213",
@@ -1564,7 +1564,7 @@
     "SocketBonus": "none",
     "Name": "The Undeath Carrier",
     "Id": "40233",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "40239": {
     "ItemLevel": "213",
@@ -1588,7 +1588,7 @@
     "SocketBonus": "none",
     "Name": "The Hand of Nerub",
     "Id": "40239",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "40244": {
     "ItemLevel": "213",
@@ -1612,7 +1612,7 @@
     "SocketBonus": "none",
     "Name": "The Impossible Dream",
     "Id": "40244",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "40264": {
     "ItemLevel": "213",
@@ -1636,7 +1636,7 @@
     "SocketBonus": "none",
     "Name": "Split Greathammer",
     "Id": "40264",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "40266": {
     "ItemLevel": "213",
@@ -1659,7 +1659,7 @@
     "SocketBonus": "none",
     "Name": "Hero's Surrender",
     "Id": "40266",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "40273": {
     "ItemLevel": "213",
@@ -1680,7 +1680,7 @@
     "SocketBonus": "none",
     "Name": "Surplus Limb",
     "Id": "40273",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "40280": {
     "ItemLevel": "213",
@@ -1703,7 +1703,7 @@
     "SocketBonus": "none",
     "Name": "Origin of Nightmares",
     "Id": "40280",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "40281": {
     "ItemLevel": "213",
@@ -1727,7 +1727,7 @@
     "SocketBonus": "none",
     "Name": "Twilight Mist",
     "Id": "40281",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "40300": {
     "ItemLevel": "213",
@@ -1751,7 +1751,7 @@
     "SocketBonus": "none",
     "Name": "Spire of Sunset",
     "Id": "40300",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "40336": {
     "ItemLevel": "213",
@@ -1776,7 +1776,7 @@
     "SocketBonus": "none",
     "Name": "Life and Death",
     "Id": "40336",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "40343": {
     "ItemLevel": "213",
@@ -1799,7 +1799,7 @@
     "SocketBonus": "none",
     "Name": "Armageddon",
     "Id": "40343",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "40345": {
     "ItemLevel": "213",
@@ -1823,7 +1823,7 @@
     "SocketBonus": "none",
     "Name": "Broken Promise",
     "Id": "40345",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "40348": {
     "ItemLevel": "213",
@@ -1847,7 +1847,7 @@
     "SocketBonus": "none",
     "Name": "Damnation",
     "Id": "40348",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "40350": {
     "ItemLevel": "213",
@@ -1868,7 +1868,7 @@
     "SocketBonus": "none",
     "Name": "Urn of Lost Memories",
     "Id": "40350",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "40368": {
     "ItemLevel": "213",
@@ -1892,7 +1892,7 @@
     "SocketBonus": "none",
     "Name": "Murder",
     "Id": "40368",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "40383": {
     "ItemLevel": "226",
@@ -1916,7 +1916,7 @@
     "SocketBonus": "none",
     "Name": "Calamity's Grasp",
     "Id": "40383",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "40384": {
     "ItemLevel": "226",
@@ -1940,7 +1940,7 @@
     "SocketBonus": "none",
     "Name": "Betrayer of Humanity",
     "Id": "40384",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "40386": {
     "ItemLevel": "226",
@@ -1964,7 +1964,7 @@
     "SocketBonus": "none",
     "Name": "Sinister Revenge",
     "Id": "40386",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "40388": {
     "ItemLevel": "226",
@@ -1988,7 +1988,7 @@
     "SocketBonus": "none",
     "Name": "Journey's End",
     "Id": "40388",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "40395": {
     "ItemLevel": "226",
@@ -2012,7 +2012,7 @@
     "SocketBonus": "none",
     "Name": "Torch of Holy Fire",
     "Id": "40395",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "40396": {
     "ItemLevel": "226",
@@ -2037,7 +2037,7 @@
     "SocketBonus": "none",
     "Name": "The Turning Tide",
     "Id": "40396",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "40400": {
     "ItemLevel": "226",
@@ -2060,7 +2060,7 @@
     "SocketBonus": "none",
     "Name": "Wall of Terror",
     "Id": "40400",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "40401": {
     "ItemLevel": "226",
@@ -2083,7 +2083,7 @@
     "SocketBonus": "none",
     "Name": "Voice of Reason",
     "Id": "40401",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "40402": {
     "ItemLevel": "226",
@@ -2107,7 +2107,7 @@
     "SocketBonus": "none",
     "Name": "Last Laugh",
     "Id": "40402",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "40406": {
     "ItemLevel": "213",
@@ -2130,7 +2130,7 @@
     "SocketBonus": "none",
     "Name": "Inevitable Defeat",
     "Id": "40406",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "40407": {
     "ItemLevel": "213",
@@ -2154,7 +2154,7 @@
     "SocketBonus": "none",
     "Name": "Silent Crusader",
     "Id": "40407",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "40408": {
     "ItemLevel": "213",
@@ -2179,7 +2179,7 @@
     "SocketBonus": "none",
     "Name": "Haunting Call",
     "Id": "40408",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "40429": {
     "ItemLevel": "200",
@@ -2203,7 +2203,7 @@
     "SocketBonus": "none",
     "Name": "Crimson Steel",
     "Id": "40429",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "40455": {
     "ItemLevel": "213",
@@ -2227,7 +2227,7 @@
     "SocketBonus": "none",
     "Name": "Staff of Restraint",
     "Id": "40455",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "40475": {
     "ItemLevel": "213",
@@ -2250,7 +2250,7 @@
     "SocketBonus": "none",
     "Name": "Barricade of Eternity",
     "Id": "40475",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "40488": {
     "ItemLevel": "213",
@@ -2274,7 +2274,7 @@
     "SocketBonus": "none",
     "Name": "Ice Spire Scepter",
     "Id": "40488",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "40489": {
     "ItemLevel": "213",
@@ -2298,7 +2298,7 @@
     "SocketBonus": "none",
     "Name": "Greatstaff of the Nexus",
     "Id": "40489",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "40491": {
     "ItemLevel": "213",
@@ -2322,7 +2322,7 @@
     "SocketBonus": "none",
     "Name": "Hailstorm",
     "Id": "40491",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "40497": {
     "ItemLevel": "213",
@@ -2346,7 +2346,7 @@
     "SocketBonus": "none",
     "Name": "Black Ice",
     "Id": "40497",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "40698": {
     "ItemLevel": "200",
@@ -2367,7 +2367,7 @@
     "SocketBonus": "none",
     "Name": "Ward of the Violet Citadel",
     "Id": "40698",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "40699": {
     "ItemLevel": "200",
@@ -2388,7 +2388,7 @@
     "SocketBonus": "none",
     "Name": "Handbook of Obscure Remedies",
     "Id": "40699",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "40700": {
     "ItemLevel": "200",
@@ -2411,7 +2411,7 @@
     "SocketBonus": "none",
     "Name": "Protective Barricade of the Light",
     "Id": "40700",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "40701": {
     "ItemLevel": "200",
@@ -2434,7 +2434,7 @@
     "SocketBonus": "none",
     "Name": "Crygil's Discarded Plate Panel",
     "Id": "40701",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "40702": {
     "ItemLevel": "200",
@@ -2456,7 +2456,7 @@
     "SocketBonus": "none",
     "Name": "Rolfsen's Ripper",
     "Id": "40702",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "40703": {
     "ItemLevel": "200",
@@ -2479,7 +2479,7 @@
     "SocketBonus": "none",
     "Name": "Grasscutter",
     "Id": "40703",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "40704": {
     "ItemLevel": "200",
@@ -2501,7 +2501,7 @@
     "SocketBonus": "none",
     "Name": "Pride",
     "Id": "40704",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "41257": {
     "ItemLevel": "200",
@@ -2524,7 +2524,7 @@
     "SocketBonus": "none",
     "Name": "Titansteel Destroyer",
     "Id": "41257",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "41383": {
     "ItemLevel": "200",
@@ -2547,7 +2547,7 @@
     "SocketBonus": "none",
     "Name": "Titansteel Bonecrusher",
     "Id": "41383",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "41384": {
     "ItemLevel": "200",
@@ -2570,7 +2570,7 @@
     "SocketBonus": "none",
     "Name": "Titansteel Guardian",
     "Id": "41384",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "42435": {
     "ItemLevel": "200",
@@ -2593,7 +2593,7 @@
     "SocketBonus": "none",
     "Name": "Titansteel Shanker",
     "Id": "42435",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "42508": {
     "ItemLevel": "200",
@@ -2614,7 +2614,7 @@
     "SocketBonus": "none",
     "Name": "Titansteel Shield Wall",
     "Id": "42508",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "43085": {
     "ItemLevel": "200",
@@ -2636,7 +2636,7 @@
     "SocketBonus": "none",
     "Name": "Royal Crest of Lordaeron",
     "Id": "43085",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "43281": {
     "ItemLevel": "200",
@@ -2658,7 +2658,7 @@
     "SocketBonus": "none",
     "Name": "Edge of Oblivion",
     "Id": "43281",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "43407": {
     "ItemLevel": "200",
@@ -2680,7 +2680,7 @@
     "SocketBonus": "none",
     "Name": "Stormstrike Mace",
     "Id": "43407",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "43409": {
     "ItemLevel": "200",
@@ -2702,7 +2702,7 @@
     "SocketBonus": "none",
     "Name": "Saliva Corroded Pike",
     "Id": "43409",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "43611": {
     "ItemLevel": "200",
@@ -2725,7 +2725,7 @@
     "SocketBonus": "none",
     "Name": "Krol Cleaver",
     "Id": "43611",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "43613": {
     "ItemLevel": "200",
@@ -2743,7 +2743,7 @@
     "SocketBonus": "none",
     "Name": "The Dusk Blade",
     "Id": "43613",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "44050": {
     "ItemLevel": "200",
@@ -2762,7 +2762,7 @@
     "SocketBonus": "none",
     "Name": "Mastercraft Kalu'ak Fishing Pole",
     "Id": "44050",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "44173": {
     "ItemLevel": "200",
@@ -2786,7 +2786,7 @@
     "SocketBonus": "none",
     "Name": "Flameheart Spell Scalpel",
     "Id": "44173",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "44174": {
     "ItemLevel": "200",
@@ -2809,7 +2809,7 @@
     "SocketBonus": "none",
     "Name": "Stave of Shrouded Mysteries",
     "Id": "44174",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "44192": {
     "ItemLevel": "200",
@@ -2832,7 +2832,7 @@
     "SocketBonus": "none",
     "Name": "Stalactite Chopper",
     "Id": "44192",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "44193": {
     "ItemLevel": "200",
@@ -2855,7 +2855,7 @@
     "SocketBonus": "none",
     "Name": "Broken Stalactite",
     "Id": "44193",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "44199": {
     "ItemLevel": "200",
@@ -2879,7 +2879,7 @@
     "SocketBonus": "none",
     "Name": "Gavel of the Brewing Storm",
     "Id": "44199",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "44210": {
     "ItemLevel": "200",
@@ -2900,7 +2900,7 @@
     "SocketBonus": "none",
     "Name": "Faces of Doom",
     "Id": "44210",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "44244": {
     "ItemLevel": "200",
@@ -2922,7 +2922,7 @@
     "SocketBonus": "none",
     "Name": "Argent Skeleton Crusher",
     "Id": "44244",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "44249": {
     "ItemLevel": "200",
@@ -2945,7 +2945,7 @@
     "SocketBonus": "none",
     "Name": "Runeblade of Demonstrable Power",
     "Id": "44249",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "44250": {
     "ItemLevel": "200",
@@ -2968,7 +2968,7 @@
     "SocketBonus": "none",
     "Name": "Reaper of Dark Souls",
     "Id": "44250",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "44310": {
     "ItemLevel": "200",
@@ -2991,7 +2991,7 @@
     "SocketBonus": "none",
     "Name": "Namlak's Supernumerary Sticker",
     "Id": "44310",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "44311": {
     "ItemLevel": "200",
@@ -3014,7 +3014,7 @@
     "SocketBonus": "none",
     "Name": "Avool's Sword of Jin",
     "Id": "44311",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "44313": {
     "ItemLevel": "200",
@@ -3036,7 +3036,7 @@
     "SocketBonus": "none",
     "Name": "Zom's Crackling Bulwark",
     "Id": "44313",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "45074": {
     "ItemLevel": "200",
@@ -3059,7 +3059,7 @@
     "SocketBonus": "none",
     "Name": "Claymore of the Prophet",
     "Id": "45074",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "45075": {
     "ItemLevel": "200",
@@ -3082,7 +3082,7 @@
     "SocketBonus": "none",
     "Name": "Ironforge Smasher",
     "Id": "45075",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "45076": {
     "ItemLevel": "200",
@@ -3105,7 +3105,7 @@
     "SocketBonus": "none",
     "Name": "Teldrassil Protector",
     "Id": "45076",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "45077": {
     "ItemLevel": "200",
@@ -3129,7 +3129,7 @@
     "SocketBonus": "none",
     "Name": "Dagger of the Rising Moon",
     "Id": "45077",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "45078": {
     "ItemLevel": "200",
@@ -3153,7 +3153,7 @@
     "SocketBonus": "none",
     "Name": "Dagger of Lunar Purity",
     "Id": "45078",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "45085": {
     "ItemLevel": "200",
@@ -3177,7 +3177,7 @@
     "SocketBonus": "none",
     "Name": "Titansteel Spellblade",
     "Id": "45085",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "45110": {
     "ItemLevel": "232",
@@ -3201,7 +3201,7 @@
     "SocketBonus": "none",
     "Name": "Titanguard",
     "Id": "45110",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "45115": {
     "ItemLevel": "226",
@@ -3222,7 +3222,7 @@
     "SocketBonus": "none",
     "Name": "Leviathan Fueling Manual",
     "Id": "45115",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "45128": {
     "ItemLevel": "200",
@@ -3246,7 +3246,7 @@
     "SocketBonus": "none",
     "Name": "Silvery Sylvan Stave",
     "Id": "45128",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "45129": {
     "ItemLevel": "200",
@@ -3271,7 +3271,7 @@
     "SocketBonus": "none",
     "Name": "Gnomeregan Bonechopper",
     "Id": "45129",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "45132": {
     "ItemLevel": "239",
@@ -3298,7 +3298,7 @@
     },
     "Name": "Golden Saronite Dragon",
     "Id": "45132",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "45142": {
     "ItemLevel": "232",
@@ -3322,7 +3322,7 @@
     "SocketBonus": "none",
     "Name": "Remorse",
     "Id": "45142",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "45147": {
     "ItemLevel": "232",
@@ -3346,7 +3346,7 @@
     "SocketBonus": "none",
     "Name": "Guiding Star",
     "Id": "45147",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "45165": {
     "ItemLevel": "232",
@@ -3369,7 +3369,7 @@
     "SocketBonus": "none",
     "Name": "Worldcarver",
     "Id": "45165",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "45171": {
     "ItemLevel": "232",
@@ -3393,7 +3393,7 @@
     "SocketBonus": "none",
     "Name": "Intensity",
     "Id": "45171",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "45203": {
     "ItemLevel": "200",
@@ -3416,7 +3416,7 @@
     "SocketBonus": "none",
     "Name": "Grimhorn Crusher",
     "Id": "45203",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "45204": {
     "ItemLevel": "200",
@@ -3439,7 +3439,7 @@
     "SocketBonus": "none",
     "Name": "Axe of the Sen'jin Protector",
     "Id": "45204",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "45205": {
     "ItemLevel": "200",
@@ -3462,7 +3462,7 @@
     "SocketBonus": "none",
     "Name": "Greatsword of the Sin'dorei",
     "Id": "45205",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "45208": {
     "ItemLevel": "200",
@@ -3487,7 +3487,7 @@
     "SocketBonus": "none",
     "Name": "Blade of the Keening Banshee",
     "Id": "45208",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "45212": {
     "ItemLevel": "200",
@@ -3511,7 +3511,7 @@
     "SocketBonus": "none",
     "Name": "Staff of Feral Furies",
     "Id": "45212",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "45214": {
     "ItemLevel": "200",
@@ -3535,7 +3535,7 @@
     "SocketBonus": "none",
     "Name": "Scalpel of the Royal Apothecary",
     "Id": "45214",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "45222": {
     "ItemLevel": "200",
@@ -3559,7 +3559,7 @@
     "SocketBonus": "none",
     "Name": "Spinal Destroyer",
     "Id": "45222",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "45233": {
     "ItemLevel": "232",
@@ -3583,7 +3583,7 @@
     "SocketBonus": "none",
     "Name": "Stormrune Edge",
     "Id": "45233",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "45234": {
     "ItemLevel": "232",
@@ -3607,7 +3607,7 @@
     "SocketBonus": "none",
     "Name": "Rapture",
     "Id": "45234",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "45246": {
     "ItemLevel": "232",
@@ -3631,7 +3631,7 @@
     "SocketBonus": "none",
     "Name": "Golem-Shard Sticker",
     "Id": "45246",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "45256": {
     "ItemLevel": "232",
@@ -3655,7 +3655,7 @@
     "SocketBonus": "none",
     "Name": "Twisted Visage",
     "Id": "45256",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "45266": {
     "ItemLevel": "232",
@@ -3679,7 +3679,7 @@
     "SocketBonus": "none",
     "Name": "Malice",
     "Id": "45266",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "45271": {
     "ItemLevel": "226",
@@ -3700,7 +3700,7 @@
     "SocketBonus": "none",
     "Name": "Ironmender",
     "Id": "45271",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "45282": {
     "ItemLevel": "219",
@@ -3723,7 +3723,7 @@
     "SocketBonus": "none",
     "Name": "Ironsoul",
     "Id": "45282",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "45284": {
     "ItemLevel": "219",
@@ -3747,7 +3747,7 @@
     "SocketBonus": "none",
     "Name": "Kinetic Ripper",
     "Id": "45284",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "45287": {
     "ItemLevel": "219",
@@ -3772,7 +3772,7 @@
     "SocketBonus": "none",
     "Name": "Firesoul",
     "Id": "45287",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "45298": {
     "ItemLevel": "219",
@@ -3796,7 +3796,7 @@
     "SocketBonus": "none",
     "Name": "Razorscale Talon",
     "Id": "45298",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "45311": {
     "ItemLevel": "219",
@@ -3820,7 +3820,7 @@
     "SocketBonus": "none",
     "Name": "Relentless Edge",
     "Id": "45311",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "45314": {
     "ItemLevel": "219",
@@ -3841,7 +3841,7 @@
     "SocketBonus": "none",
     "Name": "Igniter Rod",
     "Id": "45314",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "45315": {
     "ItemLevel": "232",
@@ -3865,7 +3865,7 @@
     "SocketBonus": "none",
     "Name": "Stonerender",
     "Id": "45315",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "45331": {
     "ItemLevel": "219",
@@ -3889,7 +3889,7 @@
     "SocketBonus": "none",
     "Name": "Rune-Etched Nightblade",
     "Id": "45331",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "45332": {
     "ItemLevel": "219",
@@ -3914,7 +3914,7 @@
     "SocketBonus": "none",
     "Name": "Stormtip",
     "Id": "45332",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "45437": {
     "ItemLevel": "232",
@@ -3939,7 +3939,7 @@
     "SocketBonus": "none",
     "Name": "Runescribed Blade",
     "Id": "45437",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "45442": {
     "ItemLevel": "239",
@@ -3966,7 +3966,7 @@
     },
     "Name": "Sorthalis, Hammer of the Watchers",
     "Id": "45442",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "45448": {
     "ItemLevel": "232",
@@ -3993,7 +3993,7 @@
     },
     "Name": "Perilous Bite",
     "Id": "45448",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "45449": {
     "ItemLevel": "232",
@@ -4020,7 +4020,7 @@
     },
     "Name": "The Masticator",
     "Id": "45449",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "45450": {
     "ItemLevel": "226",
@@ -4043,7 +4043,7 @@
     "SocketBonus": "none",
     "Name": "Northern Barrier",
     "Id": "45450",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "45457": {
     "ItemLevel": "239",
@@ -4071,7 +4071,7 @@
     },
     "Name": "Staff of Endless Winter",
     "Id": "45457",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "45458": {
     "ItemLevel": "219",
@@ -4094,7 +4094,7 @@
     "SocketBonus": "none",
     "Name": "Stormedge",
     "Id": "45458",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "45463": {
     "ItemLevel": "232",
@@ -4118,7 +4118,7 @@
     "SocketBonus": "none",
     "Name": "Vulmir, the Northern Tempest",
     "Id": "45463",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "45470": {
     "ItemLevel": "239",
@@ -4144,7 +4144,7 @@
     },
     "Name": "Wisdom's Hold",
     "Id": "45470",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "45479": {
     "ItemLevel": "232",
@@ -4168,7 +4168,7 @@
     "SocketBonus": "none",
     "Name": "The Lifebinder",
     "Id": "45479",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "45484": {
     "ItemLevel": "239",
@@ -4195,7 +4195,7 @@
     },
     "Name": "Bladetwister",
     "Id": "45484",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "45489": {
     "ItemLevel": "232",
@@ -4219,7 +4219,7 @@
     "SocketBonus": "none",
     "Name": "Insanity's Grip",
     "Id": "45489",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "45494": {
     "ItemLevel": "239",
@@ -4246,7 +4246,7 @@
     },
     "Name": "Delirium's Touch",
     "Id": "45494",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "45498": {
     "ItemLevel": "232",
@@ -4270,7 +4270,7 @@
     "SocketBonus": "none",
     "Name": "Lotrafen, Spear of the Damned",
     "Id": "45498",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "45516": {
     "ItemLevel": "239",
@@ -4297,7 +4297,7 @@
     },
     "Name": "Voldrethar, Dark Blade of Oblivion",
     "Id": "45516",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "45521": {
     "ItemLevel": "232",
@@ -4320,7 +4320,7 @@
     "SocketBonus": "none",
     "Name": "Earthshaper",
     "Id": "45521",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "45527": {
     "ItemLevel": "232",
@@ -4345,7 +4345,7 @@
     "SocketBonus": "none",
     "Name": "Soulscribe",
     "Id": "45527",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "45533": {
     "ItemLevel": "239",
@@ -4373,7 +4373,7 @@
     },
     "Name": "Dark Edge of Depravity",
     "Id": "45533",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "45587": {
     "ItemLevel": "239",
@@ -4399,7 +4399,7 @@
     },
     "Name": "Bulwark of Algalon",
     "Id": "45587",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "45605": {
     "ItemLevel": "232",
@@ -4423,7 +4423,7 @@
     "SocketBonus": "none",
     "Name": "Daschal's Bite",
     "Id": "45605",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "45607": {
     "ItemLevel": "239",
@@ -4451,7 +4451,7 @@
     },
     "Name": "Fang of Oblivion",
     "Id": "45607",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "45612": {
     "ItemLevel": "239",
@@ -4478,7 +4478,7 @@
     },
     "Name": "Constellus",
     "Id": "45612",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "45613": {
     "ItemLevel": "239",
@@ -4506,7 +4506,7 @@
     },
     "Name": "Dreambinder",
     "Id": "45613",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "45617": {
     "ItemLevel": "239",
@@ -4527,7 +4527,7 @@
     "SocketBonus": "none",
     "Name": "Cosmos",
     "Id": "45617",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "45620": {
     "ItemLevel": "239",
@@ -4555,7 +4555,7 @@
     },
     "Name": "Starshard Edge",
     "Id": "45620",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "45682": {
     "ItemLevel": "219",
@@ -4578,7 +4578,7 @@
     "SocketBonus": "none",
     "Name": "Pulsing Spellshield",
     "Id": "45682",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "45685": {
     "ItemLevel": "219",
@@ -4603,7 +4603,7 @@
     "SocketBonus": "none",
     "Name": "Plasma Foil",
     "Id": "45685",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "45695": {
     "ItemLevel": "219",
@@ -4627,7 +4627,7 @@
     "SocketBonus": "none",
     "Name": "Spire of Withering Dreams",
     "Id": "45695",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "45700": {
     "ItemLevel": "219",
@@ -4651,7 +4651,7 @@
     "SocketBonus": "none",
     "Name": "Stoneguard",
     "Id": "45700",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "45707": {
     "ItemLevel": "219",
@@ -4677,7 +4677,7 @@
     },
     "Name": "Shieldwall of the Breaker",
     "Id": "45707",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "45868": {
     "ItemLevel": "232",
@@ -4704,7 +4704,7 @@
     },
     "Name": "Aesir's Edge",
     "Id": "45868",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "45876": {
     "ItemLevel": "232",
@@ -4731,7 +4731,7 @@
     },
     "Name": "Shiver",
     "Id": "45876",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "45877": {
     "ItemLevel": "232",
@@ -4758,7 +4758,7 @@
     },
     "Name": "The Boreal Guard",
     "Id": "45877",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "45886": {
     "ItemLevel": "232",
@@ -4786,7 +4786,7 @@
     },
     "Name": "Icecore Staff",
     "Id": "45886",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "45887": {
     "ItemLevel": "232",
@@ -4809,7 +4809,7 @@
     "SocketBonus": "none",
     "Name": "Ice Layered Barrier",
     "Id": "45887",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "45892": {
     "ItemLevel": "219",
@@ -4833,7 +4833,7 @@
     "SocketBonus": "none",
     "Name": "Legacy of Thunder",
     "Id": "45892",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "45930": {
     "ItemLevel": "232",
@@ -4860,7 +4860,7 @@
     },
     "Name": "Combatant's Bootblade",
     "Id": "45930",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "45934": {
     "ItemLevel": "219",
@@ -4884,7 +4884,7 @@
     "SocketBonus": "none",
     "Name": "Unraveling Reach",
     "Id": "45934",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "45947": {
     "ItemLevel": "232",
@@ -4911,7 +4911,7 @@
     },
     "Name": "Serilas, Blood Blade of Invar One-Arm",
     "Id": "45947",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "45972": {
     "ItemLevel": "219",
@@ -4935,7 +4935,7 @@
     "SocketBonus": "none",
     "Name": "Pulse Baton",
     "Id": "45972",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "45990": {
     "ItemLevel": "232",
@@ -4963,7 +4963,7 @@
     },
     "Name": "Fusion Blade",
     "Id": "45990",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "45992": {
     "ItemLevel": "200",
@@ -4982,7 +4982,7 @@
     "SocketBonus": "none",
     "Name": "Jeweled Fishing Pole",
     "Id": "45992",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "45996": {
     "ItemLevel": "219",
@@ -5009,7 +5009,7 @@
     },
     "Name": "Hoperender",
     "Id": "45996",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "46011": {
     "ItemLevel": "219",
@@ -5033,7 +5033,7 @@
     "SocketBonus": "none",
     "Name": "Shadowbite",
     "Id": "46011",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "46016": {
     "ItemLevel": "219",
@@ -5056,7 +5056,7 @@
     "SocketBonus": "none",
     "Name": "Abaddon",
     "Id": "46016",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "46017": {
     "ItemLevel": "245",
@@ -5093,7 +5093,7 @@
     "SocketBonus": "none",
     "Name": "Val'anyr, Hammer of Ancient Kings",
     "Id": "46017",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "46024": {
     "ItemLevel": "219",
@@ -5117,7 +5117,7 @@
     "SocketBonus": "none",
     "Name": "Kingsbane",
     "Id": "46024",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "46025": {
     "ItemLevel": "219",
@@ -5141,7 +5141,7 @@
     "SocketBonus": "none",
     "Name": "Devotion",
     "Id": "46025",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "46031": {
     "ItemLevel": "219",
@@ -5165,7 +5165,7 @@
     "SocketBonus": "none",
     "Name": "Touch of Madness",
     "Id": "46031",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "46033": {
     "ItemLevel": "232",
@@ -5193,7 +5193,7 @@
     },
     "Name": "Tortured Earth",
     "Id": "46033",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "46035": {
     "ItemLevel": "232",
@@ -5220,7 +5220,7 @@
     },
     "Name": "Aesuga, Hand of the Ardent Champion",
     "Id": "46035",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "46036": {
     "ItemLevel": "232",
@@ -5247,7 +5247,7 @@
     },
     "Name": "Void Sabre",
     "Id": "46036",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "46067": {
     "ItemLevel": "232",
@@ -5274,7 +5274,7 @@
     },
     "Name": "Hammer of Crushing Whispers",
     "Id": "46067",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "46097": {
     "ItemLevel": "232",
@@ -5301,7 +5301,7 @@
     },
     "Name": "Caress of Insanity",
     "Id": "46097",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "46350": {
     "ItemLevel": "219",
@@ -5325,7 +5325,7 @@
     "SocketBonus": "none",
     "Name": "Pillar of Fortitude",
     "Id": "46350",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "46351": {
     "ItemLevel": "219",
@@ -5349,7 +5349,7 @@
     "SocketBonus": "none",
     "Name": "Bloodcrush Cudgel",
     "Id": "46351",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "46958": {
     "ItemLevel": "245",
@@ -5373,7 +5373,7 @@
     "SocketBonus": "none",
     "Name": "Steel Bladebreaker",
     "Id": "46958",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "46963": {
     "ItemLevel": "245",
@@ -5395,7 +5395,7 @@
     "SocketBonus": "none",
     "Name": "Crystal Plated Vanguard",
     "Id": "46963",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "46964": {
     "ItemLevel": "258",
@@ -5420,7 +5420,7 @@
     },
     "Name": "Crystal Plated Vanguard",
     "Id": "46964",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "46969": {
     "ItemLevel": "258",
@@ -5447,7 +5447,7 @@
     },
     "Name": "Steel Bladebreaker",
     "Id": "46969",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "46979": {
     "ItemLevel": "245",
@@ -5472,7 +5472,7 @@
     "SocketBonus": "none",
     "Name": "Blade of Tarasque",
     "Id": "46979",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "46980": {
     "ItemLevel": "258",
@@ -5500,7 +5500,7 @@
     },
     "Name": "Blade of Tarasque",
     "Id": "46980",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "46996": {
     "ItemLevel": "245",
@@ -5524,7 +5524,7 @@
     "SocketBonus": "none",
     "Name": "Lionhead Slasher",
     "Id": "46996",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47001": {
     "ItemLevel": "258",
@@ -5551,7 +5551,7 @@
     },
     "Name": "Lionhead Slasher",
     "Id": "47001",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47053": {
     "ItemLevel": "245",
@@ -5572,7 +5572,7 @@
     "SocketBonus": "none",
     "Name": "Symbol of Transgression",
     "Id": "47053",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "47064": {
     "ItemLevel": "258",
@@ -5593,7 +5593,7 @@
     "SocketBonus": "none",
     "Name": "Symbol of Transgression",
     "Id": "47064",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "47069": {
     "ItemLevel": "245",
@@ -5619,7 +5619,7 @@
     },
     "Name": "Justicebringer",
     "Id": "47069",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "47078": {
     "ItemLevel": "258",
@@ -5646,7 +5646,7 @@
     },
     "Name": "Justicebringer",
     "Id": "47078",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "47079": {
     "ItemLevel": "245",
@@ -5669,7 +5669,7 @@
     "SocketBonus": "none",
     "Name": "Bastion of Purity",
     "Id": "47079",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "47085": {
     "ItemLevel": "258",
@@ -5695,7 +5695,7 @@
     },
     "Name": "Bastion of Purity",
     "Id": "47085",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "47104": {
     "ItemLevel": "245",
@@ -5719,7 +5719,7 @@
     "SocketBonus": "none",
     "Name": "Twin Spike",
     "Id": "47104",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47113": {
     "ItemLevel": "258",
@@ -5746,7 +5746,7 @@
     },
     "Name": "Twin Spike",
     "Id": "47113",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47114": {
     "ItemLevel": "245",
@@ -5773,7 +5773,7 @@
     },
     "Name": "Lupine Longstaff",
     "Id": "47114",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "47130": {
     "ItemLevel": "258",
@@ -5801,7 +5801,7 @@
     },
     "Name": "Lupine Longstaff",
     "Id": "47130",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "47138": {
     "ItemLevel": "245",
@@ -5822,7 +5822,7 @@
     "SocketBonus": "none",
     "Name": "Chalice of Searing Light",
     "Id": "47138",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "47146": {
     "ItemLevel": "258",
@@ -5843,7 +5843,7 @@
     "SocketBonus": "none",
     "Name": "Chalice of Searing Light",
     "Id": "47146",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "47148": {
     "ItemLevel": "245",
@@ -5867,7 +5867,7 @@
     "SocketBonus": "none",
     "Name": "Stormpike Cleaver",
     "Id": "47148",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47156": {
     "ItemLevel": "258",
@@ -5894,7 +5894,7 @@
     },
     "Name": "Stormpike Cleaver",
     "Id": "47156",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47193": {
     "ItemLevel": "245",
@@ -5918,7 +5918,7 @@
     "SocketBonus": "none",
     "Name": "Misery's End",
     "Id": "47193",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "47206": {
     "ItemLevel": "258",
@@ -5942,7 +5942,7 @@
     "SocketBonus": "none",
     "Name": "Misery's End",
     "Id": "47206",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "47233": {
     "ItemLevel": "245",
@@ -5969,7 +5969,7 @@
     },
     "Name": "Archon Glaive",
     "Id": "47233",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "47239": {
     "ItemLevel": "258",
@@ -5997,7 +5997,7 @@
     },
     "Name": "Archon Glaive",
     "Id": "47239",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "47255": {
     "ItemLevel": "245",
@@ -6021,7 +6021,7 @@
     "SocketBonus": "none",
     "Name": "Stygian Bladebreaker",
     "Id": "47255",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47260": {
     "ItemLevel": "245",
@@ -6043,7 +6043,7 @@
     "SocketBonus": "none",
     "Name": "Forlorn Barrier",
     "Id": "47260",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "47261": {
     "ItemLevel": "245",
@@ -6068,7 +6068,7 @@
     "SocketBonus": "none",
     "Name": "Barb of Tarasque",
     "Id": "47261",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "47266": {
     "ItemLevel": "245",
@@ -6092,7 +6092,7 @@
     "SocketBonus": "none",
     "Name": "Blood Fury",
     "Id": "47266",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47276": {
     "ItemLevel": "245",
@@ -6113,7 +6113,7 @@
     "SocketBonus": "none",
     "Name": "Talisman of Heedless Sins",
     "Id": "47276",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "47285": {
     "ItemLevel": "245",
@@ -6139,7 +6139,7 @@
     },
     "Name": "Dual-blade Butcher",
     "Id": "47285",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "47287": {
     "ItemLevel": "245",
@@ -6162,7 +6162,7 @@
     "SocketBonus": "none",
     "Name": "Bastion of Resolve",
     "Id": "47287",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "47300": {
     "ItemLevel": "245",
@@ -6186,7 +6186,7 @@
     "SocketBonus": "none",
     "Name": "Gouge of the Frigid Heart",
     "Id": "47300",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47302": {
     "ItemLevel": "245",
@@ -6213,7 +6213,7 @@
     },
     "Name": "Twin's Pact",
     "Id": "47302",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "47309": {
     "ItemLevel": "245",
@@ -6234,7 +6234,7 @@
     "SocketBonus": "none",
     "Name": "Mystifying Charm",
     "Id": "47309",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "47314": {
     "ItemLevel": "245",
@@ -6258,7 +6258,7 @@
     "SocketBonus": "none",
     "Name": "Hellscream Slicer",
     "Id": "47314",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47322": {
     "ItemLevel": "245",
@@ -6282,7 +6282,7 @@
     "SocketBonus": "none",
     "Name": "Suffering's End",
     "Id": "47322",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "47329": {
     "ItemLevel": "245",
@@ -6309,7 +6309,7 @@
     },
     "Name": "Hellion Glaive",
     "Id": "47329",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "47416": {
     "ItemLevel": "258",
@@ -6336,7 +6336,7 @@
     },
     "Name": "Stygian Bladebreaker",
     "Id": "47416",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47421": {
     "ItemLevel": "258",
@@ -6361,7 +6361,7 @@
     },
     "Name": "Forlorn Barrier",
     "Id": "47421",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "47422": {
     "ItemLevel": "258",
@@ -6389,7 +6389,7 @@
     },
     "Name": "Barb of Tarasque",
     "Id": "47422",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "47427": {
     "ItemLevel": "258",
@@ -6416,7 +6416,7 @@
     },
     "Name": "Blood Fury",
     "Id": "47427",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47437": {
     "ItemLevel": "258",
@@ -6437,7 +6437,7 @@
     "SocketBonus": "none",
     "Name": "Talisman of Heedless Sins",
     "Id": "47437",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "47446": {
     "ItemLevel": "258",
@@ -6464,7 +6464,7 @@
     },
     "Name": "Dual-blade Butcher",
     "Id": "47446",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "47448": {
     "ItemLevel": "258",
@@ -6490,7 +6490,7 @@
     },
     "Name": "Bastion of Resolve",
     "Id": "47448",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "47461": {
     "ItemLevel": "258",
@@ -6517,7 +6517,7 @@
     },
     "Name": "Gouge of the Frigid Heart",
     "Id": "47461",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47463": {
     "ItemLevel": "258",
@@ -6545,7 +6545,7 @@
     },
     "Name": "Twin's Pact",
     "Id": "47463",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "47470": {
     "ItemLevel": "258",
@@ -6566,7 +6566,7 @@
     "SocketBonus": "none",
     "Name": "Mystifying Charm",
     "Id": "47470",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "47475": {
     "ItemLevel": "258",
@@ -6593,7 +6593,7 @@
     },
     "Name": "Hellscream Slicer",
     "Id": "47475",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47483": {
     "ItemLevel": "258",
@@ -6617,7 +6617,7 @@
     "SocketBonus": "none",
     "Name": "Suffering's End",
     "Id": "47483",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "47491": {
     "ItemLevel": "258",
@@ -6645,7 +6645,7 @@
     },
     "Name": "Hellion Glaive",
     "Id": "47491",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "47493": {
     "ItemLevel": "219",
@@ -6668,7 +6668,7 @@
     "SocketBonus": "none",
     "Name": "Edge of Ruin",
     "Id": "47493",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "47500": {
     "ItemLevel": "219",
@@ -6695,7 +6695,7 @@
     },
     "Name": "Peacekeeper Blade",
     "Id": "47500",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47506": {
     "ItemLevel": "258",
@@ -6722,7 +6722,7 @@
     },
     "Name": "Silverwing Defender",
     "Id": "47506",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47508": {
     "ItemLevel": "219",
@@ -6749,7 +6749,7 @@
     },
     "Name": "Aledar's Battlestar",
     "Id": "47508",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47509": {
     "ItemLevel": "219",
@@ -6773,7 +6773,7 @@
     "SocketBonus": "none",
     "Name": "Mariel's Sorrow",
     "Id": "47509",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "47513": {
     "ItemLevel": "258",
@@ -6800,7 +6800,7 @@
     },
     "Name": "Orgrim's Deflector",
     "Id": "47513",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47515": {
     "ItemLevel": "258",
@@ -6828,7 +6828,7 @@
     },
     "Name": "Decimation",
     "Id": "47515",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "47516": {
     "ItemLevel": "258",
@@ -6856,7 +6856,7 @@
     },
     "Name": "Fleshrender",
     "Id": "47516",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "47517": {
     "ItemLevel": "258",
@@ -6884,7 +6884,7 @@
     },
     "Name": "Blade of the Unbroken Covenant",
     "Id": "47517",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "47518": {
     "ItemLevel": "258",
@@ -6912,7 +6912,7 @@
     },
     "Name": "Mortalis",
     "Id": "47518",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "47519": {
     "ItemLevel": "258",
@@ -6939,7 +6939,7 @@
     },
     "Name": "Catastrophe",
     "Id": "47519",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "47520": {
     "ItemLevel": "258",
@@ -6966,7 +6966,7 @@
     },
     "Name": "Grievance",
     "Id": "47520",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "47522": {
     "ItemLevel": "219",
@@ -6993,7 +6993,7 @@
     },
     "Name": "Marrowstrike",
     "Id": "47522",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "47524": {
     "ItemLevel": "258",
@@ -7021,7 +7021,7 @@
     },
     "Name": "Clemency",
     "Id": "47524",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "47525": {
     "ItemLevel": "258",
@@ -7049,7 +7049,7 @@
     },
     "Name": "Sufferance",
     "Id": "47525",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "47526": {
     "ItemLevel": "258",
@@ -7076,7 +7076,7 @@
     },
     "Name": "Remorseless",
     "Id": "47526",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47528": {
     "ItemLevel": "258",
@@ -7103,7 +7103,7 @@
     },
     "Name": "Cudgel of the Damned",
     "Id": "47528",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47569": {
     "ItemLevel": "219",
@@ -7131,7 +7131,7 @@
     },
     "Name": "Spectral Kris",
     "Id": "47569",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "47676": {
     "ItemLevel": "232",
@@ -7158,7 +7158,7 @@
     },
     "Name": "Dirk of the Night Watch",
     "Id": "47676",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47724": {
     "ItemLevel": "232",
@@ -7186,7 +7186,7 @@
     },
     "Name": "Blade of the Silver Disciple",
     "Id": "47724",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "47736": {
     "ItemLevel": "232",
@@ -7210,7 +7210,7 @@
     "SocketBonus": "none",
     "Name": "Icefall Blade",
     "Id": "47736",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47737": {
     "ItemLevel": "232",
@@ -7237,7 +7237,7 @@
     },
     "Name": "Reckoning",
     "Id": "47737",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "47742": {
     "ItemLevel": "232",
@@ -7261,7 +7261,7 @@
     },
     "Name": "Chalice of Benedictus",
     "Id": "47742",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "47743": {
     "ItemLevel": "232",
@@ -7289,7 +7289,7 @@
     },
     "Name": "Enlightenment",
     "Id": "47743",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "47808": {
     "ItemLevel": "232",
@@ -7313,7 +7313,7 @@
     "SocketBonus": "none",
     "Name": "The Lion's Maw",
     "Id": "47808",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47809": {
     "ItemLevel": "232",
@@ -7337,7 +7337,7 @@
     "SocketBonus": "none",
     "Name": "Argent Resolve",
     "Id": "47809",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "47810": {
     "ItemLevel": "232",
@@ -7361,7 +7361,7 @@
     "SocketBonus": "none",
     "Name": "Crusader's Glory",
     "Id": "47810",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47812": {
     "ItemLevel": "232",
@@ -7387,7 +7387,7 @@
     },
     "Name": "Vigilant Ward",
     "Id": "47812",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "47814": {
     "ItemLevel": "232",
@@ -7411,7 +7411,7 @@
     "SocketBonus": "none",
     "Name": "Westfall Saber",
     "Id": "47814",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47815": {
     "ItemLevel": "232",
@@ -7438,7 +7438,7 @@
     },
     "Name": "Cold Convergence",
     "Id": "47815",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "47816": {
     "ItemLevel": "232",
@@ -7465,7 +7465,7 @@
     },
     "Name": "The Grinder",
     "Id": "47816",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47834": {
     "ItemLevel": "232",
@@ -7492,7 +7492,7 @@
     },
     "Name": "Fordragon Blades",
     "Id": "47834",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "47835": {
     "ItemLevel": "232",
@@ -7517,7 +7517,7 @@
     },
     "Name": "Bulwark of the Royal Guard",
     "Id": "47835",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "47871": {
     "ItemLevel": "232",
@@ -7544,7 +7544,7 @@
     },
     "Name": "Orcish Deathblade",
     "Id": "47871",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47874": {
     "ItemLevel": "232",
@@ -7572,7 +7572,7 @@
     },
     "Name": "Sunreaver Disciple's Blade",
     "Id": "47874",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "47884": {
     "ItemLevel": "232",
@@ -7599,7 +7599,7 @@
     },
     "Name": "Edge of Agony",
     "Id": "47884",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "47886": {
     "ItemLevel": "232",
@@ -7623,7 +7623,7 @@
     "SocketBonus": "none",
     "Name": "Nemesis Blade",
     "Id": "47886",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47892": {
     "ItemLevel": "232",
@@ -7651,7 +7651,7 @@
     },
     "Name": "Illumination",
     "Id": "47892",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "47894": {
     "ItemLevel": "232",
@@ -7675,7 +7675,7 @@
     "SocketBonus": "none",
     "Name": "Mace of the Earthborn Chieftain",
     "Id": "47894",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "47895": {
     "ItemLevel": "232",
@@ -7701,7 +7701,7 @@
     },
     "Name": "Pride of the Kor'kron",
     "Id": "47895",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "47898": {
     "ItemLevel": "232",
@@ -7725,7 +7725,7 @@
     "SocketBonus": "none",
     "Name": "Frostblade Hatchet",
     "Id": "47898",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47899": {
     "ItemLevel": "232",
@@ -7749,7 +7749,7 @@
     "SocketBonus": "none",
     "Name": "Ardent Guard",
     "Id": "47899",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47900": {
     "ItemLevel": "232",
@@ -7776,7 +7776,7 @@
     },
     "Name": "Perdition",
     "Id": "47900",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "47903": {
     "ItemLevel": "232",
@@ -7800,7 +7800,7 @@
     "SocketBonus": "none",
     "Name": "Forsaken Bonecarver",
     "Id": "47903",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47905": {
     "ItemLevel": "232",
@@ -7827,7 +7827,7 @@
     },
     "Name": "Blackhorn Bludgeon",
     "Id": "47905",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47910": {
     "ItemLevel": "232",
@@ -7852,7 +7852,7 @@
     },
     "Name": "Aegis of the Coliseum",
     "Id": "47910",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "47911": {
     "ItemLevel": "232",
@@ -7879,7 +7879,7 @@
     },
     "Name": "Anguish",
     "Id": "47911",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "47913": {
     "ItemLevel": "232",
@@ -7903,7 +7903,7 @@
     },
     "Name": "Lightbane Focus",
     "Id": "47913",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "47938": {
     "ItemLevel": "245",
@@ -7930,7 +7930,7 @@
     },
     "Name": "Dirk of the Night Watch",
     "Id": "47938",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47941": {
     "ItemLevel": "245",
@@ -7958,7 +7958,7 @@
     },
     "Name": "Blade of the Silver Disciple",
     "Id": "47941",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "47951": {
     "ItemLevel": "245",
@@ -7986,7 +7986,7 @@
     },
     "Name": "Reckoning",
     "Id": "47951",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "47953": {
     "ItemLevel": "245",
@@ -8013,7 +8013,7 @@
     },
     "Name": "Icefall Blade",
     "Id": "47953",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47958": {
     "ItemLevel": "245",
@@ -8037,7 +8037,7 @@
     },
     "Name": "Chalice of Benedictus",
     "Id": "47958",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "47960": {
     "ItemLevel": "245",
@@ -8066,7 +8066,7 @@
     },
     "Name": "Enlightenment",
     "Id": "47960",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "47962": {
     "ItemLevel": "245",
@@ -8093,7 +8093,7 @@
     },
     "Name": "Argent Resolve",
     "Id": "47962",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "47963": {
     "ItemLevel": "245",
@@ -8119,7 +8119,7 @@
     },
     "Name": "Vigilant Ward",
     "Id": "47963",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "47966": {
     "ItemLevel": "245",
@@ -8146,7 +8146,7 @@
     },
     "Name": "The Lion's Maw",
     "Id": "47966",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47967": {
     "ItemLevel": "245",
@@ -8173,7 +8173,7 @@
     },
     "Name": "Crusader's Glory",
     "Id": "47967",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47968": {
     "ItemLevel": "245",
@@ -8201,7 +8201,7 @@
     },
     "Name": "Cold Convergence",
     "Id": "47968",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "47971": {
     "ItemLevel": "245",
@@ -8228,7 +8228,7 @@
     },
     "Name": "Westfall Saber",
     "Id": "47971",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47973": {
     "ItemLevel": "245",
@@ -8255,7 +8255,7 @@
     },
     "Name": "The Grinder",
     "Id": "47973",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "47978": {
     "ItemLevel": "245",
@@ -8280,7 +8280,7 @@
     },
     "Name": "Bulwark of the Royal Guard",
     "Id": "47978",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "47979": {
     "ItemLevel": "245",
@@ -8308,7 +8308,7 @@
     },
     "Name": "Fordragon Blades",
     "Id": "47979",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "48010": {
     "ItemLevel": "245",
@@ -8335,7 +8335,7 @@
     },
     "Name": "Orcish Deathblade",
     "Id": "48010",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "48013": {
     "ItemLevel": "245",
@@ -8363,7 +8363,7 @@
     },
     "Name": "Sunreaver Disciple's Blade",
     "Id": "48013",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "48023": {
     "ItemLevel": "245",
@@ -8391,7 +8391,7 @@
     },
     "Name": "Edge of Agony",
     "Id": "48023",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "48025": {
     "ItemLevel": "245",
@@ -8418,7 +8418,7 @@
     },
     "Name": "Nemesis Blade",
     "Id": "48025",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "48032": {
     "ItemLevel": "245",
@@ -8442,7 +8442,7 @@
     },
     "Name": "Lightbane Focus",
     "Id": "48032",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "48036": {
     "ItemLevel": "245",
@@ -8471,7 +8471,7 @@
     },
     "Name": "Illumination",
     "Id": "48036",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "48039": {
     "ItemLevel": "245",
@@ -8498,7 +8498,7 @@
     },
     "Name": "Mace of the Earthborn Chieftain",
     "Id": "48039",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "48040": {
     "ItemLevel": "245",
@@ -8524,7 +8524,7 @@
     },
     "Name": "Pride of the Kor'kron",
     "Id": "48040",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "48043": {
     "ItemLevel": "245",
@@ -8551,7 +8551,7 @@
     },
     "Name": "Frostblade Hatchet",
     "Id": "48043",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "48044": {
     "ItemLevel": "245",
@@ -8578,7 +8578,7 @@
     },
     "Name": "Ardent Guard",
     "Id": "48044",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "48045": {
     "ItemLevel": "245",
@@ -8606,7 +8606,7 @@
     },
     "Name": "Perdition",
     "Id": "48045",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "48048": {
     "ItemLevel": "245",
@@ -8633,7 +8633,7 @@
     },
     "Name": "Forsaken Bonecarver",
     "Id": "48048",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "48050": {
     "ItemLevel": "245",
@@ -8660,7 +8660,7 @@
     },
     "Name": "Blackhorn Bludgeon",
     "Id": "48050",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "48055": {
     "ItemLevel": "245",
@@ -8685,7 +8685,7 @@
     },
     "Name": "Aegis of the Coliseum",
     "Id": "48055",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "48056": {
     "ItemLevel": "245",
@@ -8713,7 +8713,7 @@
     },
     "Name": "Anguish",
     "Id": "48056",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "48663": {
     "ItemLevel": "226",
@@ -8737,7 +8737,7 @@
     "SocketBonus": "none",
     "Name": "Tankard O' Terror",
     "Id": "48663",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "48693": {
     "ItemLevel": "245",
@@ -8764,7 +8764,7 @@
     },
     "Name": "Heartsmasher",
     "Id": "48693",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "48695": {
     "ItemLevel": "245",
@@ -8791,7 +8791,7 @@
     },
     "Name": "Mor'kosh, the Bloodreaver",
     "Id": "48695",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "48699": {
     "ItemLevel": "245",
@@ -8818,7 +8818,7 @@
     },
     "Name": "Blood and Glory",
     "Id": "48699",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "48701": {
     "ItemLevel": "245",
@@ -8846,7 +8846,7 @@
     },
     "Name": "Spellharvest",
     "Id": "48701",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "48703": {
     "ItemLevel": "245",
@@ -8873,7 +8873,7 @@
     },
     "Name": "The Facebreaker",
     "Id": "48703",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "48705": {
     "ItemLevel": "245",
@@ -8901,7 +8901,7 @@
     },
     "Name": "Attrition",
     "Id": "48705",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "48708": {
     "ItemLevel": "245",
@@ -8929,7 +8929,7 @@
     },
     "Name": "Spellstorm Blade",
     "Id": "48708",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "48709": {
     "ItemLevel": "245",
@@ -8956,7 +8956,7 @@
     },
     "Name": "Heartcrusher",
     "Id": "48709",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "48710": {
     "ItemLevel": "245",
@@ -8984,7 +8984,7 @@
     },
     "Name": "Paragon's Breadth",
     "Id": "48710",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "48712": {
     "ItemLevel": "245",
@@ -9011,7 +9011,7 @@
     },
     "Name": "The Spinebreaker",
     "Id": "48712",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "48713": {
     "ItemLevel": "245",
@@ -9038,7 +9038,7 @@
     },
     "Name": "Lothar's Edge",
     "Id": "48713",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "48714": {
     "ItemLevel": "245",
@@ -9065,7 +9065,7 @@
     },
     "Name": "Honor of the Fallen",
     "Id": "48714",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "49120": {
     "ItemLevel": "200",
@@ -9089,7 +9089,7 @@
     "SocketBonus": "none",
     "Name": "Direbrew's Bloody Shanker",
     "Id": "49120",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "49296": {
     "ItemLevel": "232",
@@ -9108,7 +9108,7 @@
     "SocketBonus": "none",
     "Name": "Singed Vis'kag the Bloodletter",
     "Id": "49296",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "49297": {
     "ItemLevel": "232",
@@ -9140,7 +9140,7 @@
     "SocketBonus": "none",
     "Name": "Empowered Deathbringer",
     "Id": "49297",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "49298": {
     "ItemLevel": "232",
@@ -9164,7 +9164,7 @@
     "SocketBonus": "none",
     "Name": "Glinting Azuresong Mageblade",
     "Id": "49298",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "49299": {
     "ItemLevel": "232",
@@ -9187,7 +9187,7 @@
     "SocketBonus": "none",
     "Name": "Keen Obsidian Edged Blade",
     "Id": "49299",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "49301": {
     "ItemLevel": "232",
@@ -9211,7 +9211,7 @@
     "SocketBonus": "none",
     "Name": "Reclaimed Thunderstrike",
     "Id": "49301",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "49302": {
     "ItemLevel": "232",
@@ -9249,7 +9249,7 @@
     "SocketBonus": "none",
     "Name": "Reclaimed Shadowstrike",
     "Id": "49302",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "49303": {
     "ItemLevel": "232",
@@ -9285,7 +9285,7 @@
     "SocketBonus": "none",
     "Name": "Gleaming Quel'Serrar",
     "Id": "49303",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "49304": {
     "ItemLevel": "232",
@@ -9309,7 +9309,7 @@
     "SocketBonus": "none",
     "Name": "Sharpened Fang of the Mystics",
     "Id": "49304",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "49308": {
     "ItemLevel": "232",
@@ -9329,7 +9329,7 @@
     "SocketBonus": "none",
     "Name": "Antique Cornerstone Grimoire",
     "Id": "49308",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "49437": {
     "ItemLevel": "232",
@@ -9347,7 +9347,7 @@
     "SocketBonus": "none",
     "Name": "Rusted Gutgore Ripper",
     "Id": "49437",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "49465": {
     "ItemLevel": "245",
@@ -9365,7 +9365,7 @@
     "SocketBonus": "none",
     "Name": "Tarnished Gutgore Ripper",
     "Id": "49465",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "49490": {
     "ItemLevel": "245",
@@ -9385,7 +9385,7 @@
     "SocketBonus": "none",
     "Name": "Antediluvian Cornerstone Grimoire",
     "Id": "49490",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "49494": {
     "ItemLevel": "245",
@@ -9409,7 +9409,7 @@
     "SocketBonus": "none",
     "Name": "Honed Fang of the Mystics",
     "Id": "49494",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "49495": {
     "ItemLevel": "245",
@@ -9445,7 +9445,7 @@
     "SocketBonus": "none",
     "Name": "Burnished Quel'Serrar",
     "Id": "49495",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "49496": {
     "ItemLevel": "245",
@@ -9483,7 +9483,7 @@
     "SocketBonus": "none",
     "Name": "Reinforced Shadowstrike",
     "Id": "49496",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "49497": {
     "ItemLevel": "245",
@@ -9507,7 +9507,7 @@
     "SocketBonus": "none",
     "Name": "Reinforced Thunderstrike",
     "Id": "49497",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "49498": {
     "ItemLevel": "245",
@@ -9530,7 +9530,7 @@
     "SocketBonus": "none",
     "Name": "Sharpened Obsidian Edged Blade",
     "Id": "49498",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "49499": {
     "ItemLevel": "245",
@@ -9554,7 +9554,7 @@
     "SocketBonus": "none",
     "Name": "Polished Azuresong Mageblade",
     "Id": "49499",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "49500": {
     "ItemLevel": "245",
@@ -9586,7 +9586,7 @@
     "SocketBonus": "none",
     "Name": "Raging Deathbringer",
     "Id": "49500",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "49501": {
     "ItemLevel": "245",
@@ -9605,7 +9605,7 @@
     "SocketBonus": "none",
     "Name": "Tempered Vis'kag the Bloodletter",
     "Id": "49501",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "49623": {
     "ItemLevel": "284",
@@ -9649,7 +9649,7 @@
     },
     "Name": "Shadowmourne",
     "Id": "49623",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "49682": {
     "ItemLevel": "219",
@@ -9673,7 +9673,7 @@
     "SocketBonus": "none",
     "Name": "Black Knight's Rondel",
     "Id": "49682",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "49783": {
     "ItemLevel": "219",
@@ -9697,7 +9697,7 @@
     "SocketBonus": "none",
     "Name": "Lucky Old Sun",
     "Id": "49783",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "49789": {
     "ItemLevel": "219",
@@ -9721,7 +9721,7 @@
     "SocketBonus": "none",
     "Name": "Heartshiver",
     "Id": "49789",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "49790": {
     "ItemLevel": "219",
@@ -9745,7 +9745,7 @@
     "SocketBonus": "none",
     "Name": "Blood Boil Lancet",
     "Id": "49790",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "49793": {
     "ItemLevel": "219",
@@ -9769,7 +9769,7 @@
     "SocketBonus": "none",
     "Name": "Tower of the Mouldering Corpse",
     "Id": "49793",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "49801": {
     "ItemLevel": "219",
@@ -9793,7 +9793,7 @@
     "SocketBonus": "none",
     "Name": "Unspeakable Secret",
     "Id": "49801",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "49802": {
     "ItemLevel": "219",
@@ -9819,7 +9819,7 @@
     },
     "Name": "Garfrost's Two-Ton Hammer",
     "Id": "49802",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "49807": {
     "ItemLevel": "219",
@@ -9843,7 +9843,7 @@
     "SocketBonus": "none",
     "Name": "Krick's Beetle Stabber",
     "Id": "49807",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "49821": {
     "ItemLevel": "219",
@@ -9866,7 +9866,7 @@
     "SocketBonus": "none",
     "Name": "Protector of Frigid Souls",
     "Id": "49821",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "49827": {
     "ItemLevel": "219",
@@ -9890,7 +9890,7 @@
     "SocketBonus": "none",
     "Name": "Ghoulslicer",
     "Id": "49827",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "49833": {
     "ItemLevel": "219",
@@ -9915,7 +9915,7 @@
     "SocketBonus": "none",
     "Name": "Splintered Icecrown Parapet",
     "Id": "49833",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "49835": {
     "ItemLevel": "219",
@@ -9938,7 +9938,7 @@
     "SocketBonus": "none",
     "Name": "Splintered Door of the Citadel",
     "Id": "49835",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "49839": {
     "ItemLevel": "219",
@@ -9961,7 +9961,7 @@
     "SocketBonus": "none",
     "Name": "Mourning Malice",
     "Id": "49839",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "49840": {
     "ItemLevel": "219",
@@ -9985,7 +9985,7 @@
     "SocketBonus": "none",
     "Name": "Hate-Forged Cleaver",
     "Id": "49840",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "49845": {
     "ItemLevel": "219",
@@ -10009,7 +10009,7 @@
     "SocketBonus": "none",
     "Name": "Bone Golem Scapula",
     "Id": "49845",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "49846": {
     "ItemLevel": "219",
@@ -10037,7 +10037,7 @@
     },
     "Name": "Chilled Heart of the Glacier",
     "Id": "49846",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "49888": {
     "ItemLevel": "264",
@@ -10066,7 +10066,7 @@
     },
     "Name": "Shadow's Edge",
     "Id": "49888",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "49919": {
     "ItemLevel": "264",
@@ -10093,7 +10093,7 @@
     },
     "Name": "Cryptmaker",
     "Id": "49919",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "49968": {
     "ItemLevel": "264",
@@ -10119,7 +10119,7 @@
     "UniqueId": "50608",
     "Name": "Frozen Bonespike",
     "Id": "49968",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "49976": {
     "ItemLevel": "264",
@@ -10142,7 +10142,7 @@
     "SocketBonus": "none",
     "Name": "Bulwark of Smouldering Steel",
     "Id": "49976",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "49982": {
     "ItemLevel": "264",
@@ -10163,7 +10163,7 @@
     "SocketBonus": "none",
     "Name": "Heartpierce",
     "Id": "49982",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "49992": {
     "ItemLevel": "264",
@@ -10202,7 +10202,7 @@
     },
     "Name": "Nibelung",
     "Id": "49992",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "49997": {
     "ItemLevel": "271",
@@ -10226,7 +10226,7 @@
     "SocketBonus": "none",
     "Name": "Mithrios, Bronzebeard's Legacy",
     "Id": "49997",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "50012": {
     "ItemLevel": "271",
@@ -10250,7 +10250,7 @@
     "SocketBonus": "none",
     "Name": "Havoc's Call, Blade of Lordaeron Kings",
     "Id": "50012",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "50016": {
     "ItemLevel": "264",
@@ -10274,7 +10274,7 @@
     "SocketBonus": "none",
     "Name": "Rib Spreader",
     "Id": "50016",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "50028": {
     "ItemLevel": "264",
@@ -10309,7 +10309,7 @@
     "SocketBonus": "none",
     "Name": "Trauma",
     "Id": "50028",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "50035": {
     "ItemLevel": "264",
@@ -10343,7 +10343,7 @@
     "SocketBonus": "none",
     "Name": "Black Bruise",
     "Id": "50035",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "50040": {
     "ItemLevel": "264",
@@ -10371,7 +10371,7 @@
     },
     "Name": "Distant Land",
     "Id": "50040",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "50046": {
     "ItemLevel": "251",
@@ -10396,7 +10396,7 @@
     "SocketBonus": "none",
     "Name": "Quel'Delar, Cunning of the Shadows",
     "Id": "50046",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "50047": {
     "ItemLevel": "251",
@@ -10421,7 +10421,7 @@
     "SocketBonus": "none",
     "Name": "Quel'Delar, Lens of the Mind",
     "Id": "50047",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "50048": {
     "ItemLevel": "251",
@@ -10445,7 +10445,7 @@
     "SocketBonus": "none",
     "Name": "Quel'Delar, Might of the Faithful",
     "Id": "50048",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "50049": {
     "ItemLevel": "251",
@@ -10470,7 +10470,7 @@
     "SocketBonus": "none",
     "Name": "Quel'Delar, Ferocity of the Scorned",
     "Id": "50049",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "50050": {
     "ItemLevel": "251",
@@ -10495,7 +10495,7 @@
     "SocketBonus": "none",
     "Name": "Cudgel of Furious Justice",
     "Id": "50050",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "50051": {
     "ItemLevel": "251",
@@ -10520,7 +10520,7 @@
     "SocketBonus": "none",
     "Name": "Hammer of Purified Flame",
     "Id": "50051",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "50052": {
     "ItemLevel": "251",
@@ -10545,7 +10545,7 @@
     "SocketBonus": "none",
     "Name": "Lightborn Spire",
     "Id": "50052",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "50065": {
     "ItemLevel": "264",
@@ -10567,7 +10567,7 @@
     "SocketBonus": "none",
     "Name": "Icecrown Glacial Wall",
     "Id": "50065",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "50068": {
     "ItemLevel": "264",
@@ -10593,7 +10593,7 @@
     "UniqueId": "50704",
     "Name": "Rigormortis",
     "Id": "50068",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "50070": {
     "ItemLevel": "271",
@@ -10620,7 +10620,7 @@
     },
     "Name": "Glorenzelg, High-Blade of the Silver Hand",
     "Id": "50070",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "50173": {
     "ItemLevel": "264",
@@ -10641,7 +10641,7 @@
     "SocketBonus": "none",
     "Name": "Shadow Silk Spindle",
     "Id": "50173",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "50178": {
     "ItemLevel": "264",
@@ -10669,7 +10669,7 @@
     },
     "Name": "Bloodfall",
     "Id": "50178",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "50179": {
     "ItemLevel": "264",
@@ -10703,7 +10703,7 @@
     "SocketBonus": "none",
     "Name": "Last Word",
     "Id": "50179",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "50181": {
     "ItemLevel": "264",
@@ -10731,7 +10731,7 @@
     },
     "Name": "Dying Light",
     "Id": "50181",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "50183": {
     "ItemLevel": "264",
@@ -10755,7 +10755,7 @@
     "SocketBonus": "none",
     "Name": "Lungbreaker",
     "Id": "50183",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "50184": {
     "ItemLevel": "264",
@@ -10779,7 +10779,7 @@
     "SocketBonus": "none",
     "Name": "Keleseth's Seducer",
     "Id": "50184",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "50191": {
     "ItemLevel": "232",
@@ -10803,7 +10803,7 @@
     "SocketBonus": "none",
     "Name": "Nighttime",
     "Id": "50191",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "50203": {
     "ItemLevel": "232",
@@ -10827,7 +10827,7 @@
     "SocketBonus": "none",
     "Name": "Blood Weeper",
     "Id": "50203",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "50210": {
     "ItemLevel": "232",
@@ -10851,7 +10851,7 @@
     "SocketBonus": "none",
     "Name": "Seethe",
     "Id": "50210",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "50227": {
     "ItemLevel": "232",
@@ -10876,7 +10876,7 @@
     "SocketBonus": "none",
     "Name": "Surgeon's Needle",
     "Id": "50227",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "50267": {
     "ItemLevel": "232",
@@ -10902,7 +10902,7 @@
     },
     "Name": "Tyrannical Beheader",
     "Id": "50267",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "50268": {
     "ItemLevel": "232",
@@ -10926,7 +10926,7 @@
     "SocketBonus": "none",
     "Name": "Rimefang's Claw",
     "Id": "50268",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "50273": {
     "ItemLevel": "232",
@@ -10950,7 +10950,7 @@
     "SocketBonus": "none",
     "Name": "Engraved Gargoyle Femur",
     "Id": "50273",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "50290": {
     "ItemLevel": "232",
@@ -10974,7 +10974,7 @@
     "SocketBonus": "none",
     "Name": "Falric's Wrist-Chopper",
     "Id": "50290",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "50296": {
     "ItemLevel": "232",
@@ -11001,7 +11001,7 @@
     },
     "Name": "Orca-Hunter's Harpoon",
     "Id": "50296",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "50302": {
     "ItemLevel": "232",
@@ -11025,7 +11025,7 @@
     "SocketBonus": "none",
     "Name": "Liar's Tongue",
     "Id": "50302",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "50303": {
     "ItemLevel": "232",
@@ -11049,7 +11049,7 @@
     "SocketBonus": "none",
     "Name": "Black Icicle",
     "Id": "50303",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "50309": {
     "ItemLevel": "232",
@@ -11070,7 +11070,7 @@
     "SocketBonus": "none",
     "Name": "Shriveled Heart",
     "Id": "50309",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "50315": {
     "ItemLevel": "232",
@@ -11094,7 +11094,7 @@
     "SocketBonus": "none",
     "Name": "Seven-Fingered Claws",
     "Id": "50315",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "50319": {
     "ItemLevel": "232",
@@ -11118,7 +11118,7 @@
     "SocketBonus": "none",
     "Name": "Unsharpened Ice Razor",
     "Id": "50319",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "50411": {
     "ItemLevel": "264",
@@ -11142,7 +11142,7 @@
     "SocketBonus": "none",
     "Name": "Scourgeborne Waraxe",
     "Id": "50411",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "50412": {
     "ItemLevel": "264",
@@ -11166,7 +11166,7 @@
     "SocketBonus": "none",
     "Name": "Bloodvenom Blade",
     "Id": "50412",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "50415": {
     "ItemLevel": "264",
@@ -11205,7 +11205,7 @@
     },
     "Name": "Bryntroll, the Bone Arbiter",
     "Id": "50415",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "50423": {
     "ItemLevel": "264",
@@ -11226,7 +11226,7 @@
     "SocketBonus": "none",
     "Name": "Sundial of Eternal Dusk",
     "Id": "50423",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "50425": {
     "ItemLevel": "271",
@@ -11254,7 +11254,7 @@
     },
     "Name": "Oathbinder, Charge of the Ranger-General",
     "Id": "50425",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "50426": {
     "ItemLevel": "271",
@@ -11278,7 +11278,7 @@
     "SocketBonus": "none",
     "Name": "Heaven's Fall, Kryss of a Thousand Lies",
     "Id": "50426",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "50427": {
     "ItemLevel": "271",
@@ -11303,7 +11303,7 @@
     "SocketBonus": "none",
     "Name": "Bloodsurge, Kel'Thuzad's Blade of Agony",
     "Id": "50427",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "50428": {
     "ItemLevel": "271",
@@ -11327,7 +11327,7 @@
     "SocketBonus": "none",
     "Name": "Royal Scepter of Terenas II",
     "Id": "50428",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "50429": {
     "ItemLevel": "271",
@@ -11355,7 +11355,7 @@
     },
     "Name": "Archus, Greatstaff of Antonidas",
     "Id": "50429",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "50603": {
     "ItemLevel": "277",
@@ -11383,7 +11383,7 @@
     },
     "Name": "Cryptmaker",
     "Id": "50603",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "50608": {
     "ItemLevel": "277",
@@ -11412,7 +11412,7 @@
     "UniqueId": "50608",
     "Name": "Frozen Bonespike",
     "Id": "50608",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "50616": {
     "ItemLevel": "277",
@@ -11438,7 +11438,7 @@
     },
     "Name": "Bulwark of Smouldering Steel",
     "Id": "50616",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "50621": {
     "ItemLevel": "277",
@@ -11465,7 +11465,7 @@
     },
     "Name": "Lungbreaker",
     "Id": "50621",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "50635": {
     "ItemLevel": "277",
@@ -11486,7 +11486,7 @@
     "SocketBonus": "none",
     "Name": "Sundial of Eternal Dusk",
     "Id": "50635",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "50641": {
     "ItemLevel": "277",
@@ -11510,7 +11510,7 @@
     },
     "Name": "Heartpierce",
     "Id": "50641",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "50648": {
     "ItemLevel": "277",
@@ -11550,7 +11550,7 @@
     },
     "Name": "Nibelung",
     "Id": "50648",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "50654": {
     "ItemLevel": "277",
@@ -11577,7 +11577,7 @@
     },
     "Name": "Scourgeborne Waraxe",
     "Id": "50654",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "50672": {
     "ItemLevel": "277",
@@ -11604,7 +11604,7 @@
     },
     "Name": "Bloodvenom Blade",
     "Id": "50672",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "50676": {
     "ItemLevel": "277",
@@ -11631,7 +11631,7 @@
     },
     "Name": "Rib Spreader",
     "Id": "50676",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "50685": {
     "ItemLevel": "277",
@@ -11669,7 +11669,7 @@
     },
     "Name": "Trauma",
     "Id": "50685",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "50692": {
     "ItemLevel": "277",
@@ -11706,7 +11706,7 @@
     },
     "Name": "Black Bruise",
     "Id": "50692",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "50695": {
     "ItemLevel": "277",
@@ -11735,7 +11735,7 @@
     },
     "Name": "Distant Land",
     "Id": "50695",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "50704": {
     "ItemLevel": "277",
@@ -11764,7 +11764,7 @@
     "UniqueId": "50704",
     "Name": "Rigormortis",
     "Id": "50704",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "50708": {
     "ItemLevel": "277",
@@ -11801,7 +11801,7 @@
     },
     "Name": "Last Word",
     "Id": "50708",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "50709": {
     "ItemLevel": "277",
@@ -11841,7 +11841,7 @@
     },
     "Name": "Bryntroll, the Bone Arbiter",
     "Id": "50709",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "50710": {
     "ItemLevel": "277",
@@ -11868,7 +11868,7 @@
     },
     "Name": "Keleseth's Seducer",
     "Id": "50710",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "50719": {
     "ItemLevel": "277",
@@ -11889,7 +11889,7 @@
     "SocketBonus": "none",
     "Name": "Shadow Silk Spindle",
     "Id": "50719",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "50725": {
     "ItemLevel": "277",
@@ -11918,7 +11918,7 @@
     },
     "Name": "Dying Light",
     "Id": "50725",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "50727": {
     "ItemLevel": "277",
@@ -11947,7 +11947,7 @@
     },
     "Name": "Bloodfall",
     "Id": "50727",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "50729": {
     "ItemLevel": "277",
@@ -11972,7 +11972,7 @@
     },
     "Name": "Icecrown Glacial Wall",
     "Id": "50729",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "50730": {
     "ItemLevel": "284",
@@ -12000,7 +12000,7 @@
     },
     "Name": "Glorenzelg, High-Blade of the Silver Hand",
     "Id": "50730",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "50731": {
     "ItemLevel": "284",
@@ -12029,7 +12029,7 @@
     },
     "Name": "Archus, Greatstaff of Antonidas",
     "Id": "50731",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "50732": {
     "ItemLevel": "284",
@@ -12057,7 +12057,7 @@
     },
     "Name": "Bloodsurge, Kel'Thuzad's Blade of Agony",
     "Id": "50732",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "50734": {
     "ItemLevel": "284",
@@ -12084,7 +12084,7 @@
     },
     "Name": "Royal Scepter of Terenas II",
     "Id": "50734",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "50735": {
     "ItemLevel": "284",
@@ -12113,7 +12113,7 @@
     },
     "Name": "Oathbinder, Charge of the Ranger-General",
     "Id": "50735",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "50736": {
     "ItemLevel": "284",
@@ -12140,7 +12140,7 @@
     },
     "Name": "Heaven's Fall, Kryss of a Thousand Lies",
     "Id": "50736",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "50737": {
     "ItemLevel": "284",
@@ -12167,7 +12167,7 @@
     },
     "Name": "Havoc's Call, Blade of Lordaeron Kings",
     "Id": "50737",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "50738": {
     "ItemLevel": "284",
@@ -12194,7 +12194,7 @@
     },
     "Name": "Mithrios, Bronzebeard's Legacy",
     "Id": "50738",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "50759": {
     "ItemLevel": "251",
@@ -12218,7 +12218,7 @@
     "SocketBonus": "none",
     "Name": "Bone Warden's Splitter",
     "Id": "50759",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "50760": {
     "ItemLevel": "251",
@@ -12242,7 +12242,7 @@
     "SocketBonus": "none",
     "Name": "Bonebreaker Scepter",
     "Id": "50760",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "50761": {
     "ItemLevel": "251",
@@ -12268,7 +12268,7 @@
     },
     "Name": "Citadel Enforcer's Claymore",
     "Id": "50761",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "50771": {
     "ItemLevel": "251",
@@ -12294,7 +12294,7 @@
     "UniqueId": "51932",
     "Name": "Frost Needle",
     "Id": "50771",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "50781": {
     "ItemLevel": "251",
@@ -12315,7 +12315,7 @@
     "SocketBonus": "none",
     "Name": "Scourgelord's Baton",
     "Id": "50781",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "50787": {
     "ItemLevel": "251",
@@ -12339,7 +12339,7 @@
     "SocketBonus": "none",
     "Name": "Frost Giant's Cleaver",
     "Id": "50787",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "50793": {
     "ItemLevel": "251",
@@ -12365,7 +12365,7 @@
     "UniqueId": "51910",
     "Name": "Midnight Sun",
     "Id": "50793",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "50794": {
     "ItemLevel": "251",
@@ -12388,7 +12388,7 @@
     "SocketBonus": "none",
     "Name": "Neverending Winter",
     "Id": "50794",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "50798": {
     "ItemLevel": "251",
@@ -12415,7 +12415,7 @@
     },
     "Name": "Ramaladni's Blade of Culling",
     "Id": "50798",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "50805": {
     "ItemLevel": "251",
@@ -12443,7 +12443,7 @@
     },
     "Name": "Mag'hari Chieftain's Staff",
     "Id": "50805",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "50810": {
     "ItemLevel": "251",
@@ -12467,7 +12467,7 @@
     "SocketBonus": "none",
     "Name": "Gutbuster",
     "Id": "50810",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "50966": {
     "ItemLevel": "251",
@@ -12495,7 +12495,7 @@
     },
     "Name": "Abracadaver",
     "Id": "50966",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "50998": {
     "ItemLevel": "251",
@@ -12522,7 +12522,7 @@
     },
     "Name": "Shaft of Glacial Ice",
     "Id": "50998",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51003": {
     "ItemLevel": "251",
@@ -12546,7 +12546,7 @@
     "SocketBonus": "none",
     "Name": "Abomination Knuckles",
     "Id": "51003",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "51004": {
     "ItemLevel": "251",
@@ -12570,7 +12570,7 @@
     "SocketBonus": "none",
     "Name": "Lockjaw",
     "Id": "51004",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "51010": {
     "ItemLevel": "251",
@@ -12594,7 +12594,7 @@
     "SocketBonus": "none",
     "Name": "The Facelifter",
     "Id": "51010",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "51011": {
     "ItemLevel": "251",
@@ -12618,7 +12618,7 @@
     "SocketBonus": "none",
     "Name": "Flesh-Carving Scalpel",
     "Id": "51011",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "51021": {
     "ItemLevel": "251",
@@ -12642,7 +12642,7 @@
     "SocketBonus": "none",
     "Name": "Soulbreaker",
     "Id": "51021",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "51022": {
     "ItemLevel": "251",
@@ -12670,7 +12670,7 @@
     },
     "Name": "Hersir's Greatspear",
     "Id": "51022",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51384": {
     "ItemLevel": "251",
@@ -12694,7 +12694,7 @@
     "SocketBonus": "none",
     "Name": "Bloodsipper",
     "Id": "51384",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "51388": {
     "ItemLevel": "264",
@@ -12721,7 +12721,7 @@
     },
     "Name": "Wrathful Gladiator's Decapitator",
     "Id": "51388",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51389": {
     "ItemLevel": "277",
@@ -12748,7 +12748,7 @@
     },
     "Name": "Wrathful Gladiator's Sunderer",
     "Id": "51389",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51390": {
     "ItemLevel": "264",
@@ -12775,7 +12775,7 @@
     },
     "Name": "Wrathful Gladiator's Bonegrinder",
     "Id": "51390",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51391": {
     "ItemLevel": "277",
@@ -12802,7 +12802,7 @@
     },
     "Name": "Wrathful Gladiator's Crusher",
     "Id": "51391",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51392": {
     "ItemLevel": "264",
@@ -12829,7 +12829,7 @@
     },
     "Name": "Wrathful Gladiator's Greatsword",
     "Id": "51392",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51393": {
     "ItemLevel": "277",
@@ -12856,7 +12856,7 @@
     },
     "Name": "Wrathful Gladiator's Claymore",
     "Id": "51393",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51396": {
     "ItemLevel": "270",
@@ -12877,7 +12877,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Endgame",
     "Id": "51396",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "51397": {
     "ItemLevel": "264",
@@ -12904,7 +12904,7 @@
     },
     "Name": "Wrathful Gladiator's Spellblade",
     "Id": "51397",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "51398": {
     "ItemLevel": "277",
@@ -12931,7 +12931,7 @@
     },
     "Name": "Wrathful Gladiator's Blade of Celerity",
     "Id": "51398",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "51399": {
     "ItemLevel": "277",
@@ -12958,7 +12958,7 @@
     },
     "Name": "Wrathful Gladiator's Mageblade",
     "Id": "51399",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "51400": {
     "ItemLevel": "264",
@@ -12986,7 +12986,7 @@
     },
     "Name": "Wrathful Gladiator's War Staff",
     "Id": "51400",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51401": {
     "ItemLevel": "277",
@@ -13014,7 +13014,7 @@
     },
     "Name": "Wrathful Gladiator's Combat Staff",
     "Id": "51401",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51402": {
     "ItemLevel": "264",
@@ -13042,7 +13042,7 @@
     },
     "Name": "Wrathful Gladiator's Focus Staff",
     "Id": "51402",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51403": {
     "ItemLevel": "277",
@@ -13070,7 +13070,7 @@
     },
     "Name": "Wrathful Gladiator's Acute Staff",
     "Id": "51403",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51404": {
     "ItemLevel": "264",
@@ -13098,7 +13098,7 @@
     },
     "Name": "Wrathful Gladiator's Battle Staff",
     "Id": "51404",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51405": {
     "ItemLevel": "277",
@@ -13126,7 +13126,7 @@
     },
     "Name": "Wrathful Gladiator's Skirmish Staff",
     "Id": "51405",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51406": {
     "ItemLevel": "264",
@@ -13153,7 +13153,7 @@
     },
     "Name": "Wrathful Gladiator's Blade of Alacrity",
     "Id": "51406",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "51407": {
     "ItemLevel": "270",
@@ -13174,7 +13174,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Compendium",
     "Id": "51407",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "51408": {
     "ItemLevel": "270",
@@ -13195,7 +13195,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Grimoire",
     "Id": "51408",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "51409": {
     "ItemLevel": "270",
@@ -13216,7 +13216,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Reprieve",
     "Id": "51409",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "51431": {
     "ItemLevel": "264",
@@ -13244,7 +13244,7 @@
     },
     "Name": "Wrathful Gladiator's Staff",
     "Id": "51431",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51432": {
     "ItemLevel": "277",
@@ -13272,7 +13272,7 @@
     },
     "Name": "Wrathful Gladiator's Greatstaff",
     "Id": "51432",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51439": {
     "ItemLevel": "264",
@@ -13298,7 +13298,7 @@
     },
     "Name": "Wrathful Gladiator's Hacker",
     "Id": "51439",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "51440": {
     "ItemLevel": "277",
@@ -13324,7 +13324,7 @@
     },
     "Name": "Wrathful Gladiator's Dicer",
     "Id": "51440",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "51441": {
     "ItemLevel": "264",
@@ -13350,7 +13350,7 @@
     },
     "Name": "Wrathful Gladiator's Shiv",
     "Id": "51441",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "51442": {
     "ItemLevel": "277",
@@ -13376,7 +13376,7 @@
     },
     "Name": "Wrathful Gladiator's Dirk",
     "Id": "51442",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "51443": {
     "ItemLevel": "264",
@@ -13402,7 +13402,7 @@
     },
     "Name": "Wrathful Gladiator's Left Ripper",
     "Id": "51443",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "51444": {
     "ItemLevel": "277",
@@ -13428,7 +13428,7 @@
     },
     "Name": "Wrathful Gladiator's Left Razor",
     "Id": "51444",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "51445": {
     "ItemLevel": "264",
@@ -13454,7 +13454,7 @@
     },
     "Name": "Wrathful Gladiator's Bonecracker",
     "Id": "51445",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "51446": {
     "ItemLevel": "277",
@@ -13480,7 +13480,7 @@
     },
     "Name": "Wrathful Gladiator's Punisher",
     "Id": "51446",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "51447": {
     "ItemLevel": "264",
@@ -13506,7 +13506,7 @@
     },
     "Name": "Wrathful Gladiator's Quickblade",
     "Id": "51447",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "51448": {
     "ItemLevel": "277",
@@ -13532,7 +13532,7 @@
     },
     "Name": "Wrathful Gladiator's Swiftblade",
     "Id": "51448",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "51452": {
     "ItemLevel": "270",
@@ -13555,7 +13555,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Barrier",
     "Id": "51452",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "51453": {
     "ItemLevel": "264",
@@ -13582,7 +13582,7 @@
     },
     "Name": "Wrathful Gladiator's Gavel",
     "Id": "51453",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "51454": {
     "ItemLevel": "277",
@@ -13609,7 +13609,7 @@
     },
     "Name": "Wrathful Gladiator's Salvation",
     "Id": "51454",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "51455": {
     "ItemLevel": "270",
@@ -13632,7 +13632,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Redoubt",
     "Id": "51455",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "51456": {
     "ItemLevel": "264",
@@ -13660,7 +13660,7 @@
     },
     "Name": "Wrathful Gladiator's Energy Staff",
     "Id": "51456",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51457": {
     "ItemLevel": "277",
@@ -13688,7 +13688,7 @@
     },
     "Name": "Wrathful Gladiator's Light Staff",
     "Id": "51457",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51480": {
     "ItemLevel": "264",
@@ -13715,7 +13715,7 @@
     },
     "Name": "Wrathful Gladiator's Pike",
     "Id": "51480",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51481": {
     "ItemLevel": "277",
@@ -13742,7 +13742,7 @@
     },
     "Name": "Wrathful Gladiator's Halberd",
     "Id": "51481",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51515": {
     "ItemLevel": "264",
@@ -13768,7 +13768,7 @@
     },
     "Name": "Wrathful Gladiator's Cleaver",
     "Id": "51515",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "51516": {
     "ItemLevel": "277",
@@ -13794,7 +13794,7 @@
     },
     "Name": "Wrathful Gladiator's Handaxe",
     "Id": "51516",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "51517": {
     "ItemLevel": "264",
@@ -13820,7 +13820,7 @@
     },
     "Name": "Wrathful Gladiator's Shanker",
     "Id": "51517",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "51518": {
     "ItemLevel": "277",
@@ -13846,7 +13846,7 @@
     },
     "Name": "Wrathful Gladiator's Spike",
     "Id": "51518",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "51519": {
     "ItemLevel": "264",
@@ -13872,7 +13872,7 @@
     },
     "Name": "Wrathful Gladiator's Pummeler",
     "Id": "51519",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "51520": {
     "ItemLevel": "277",
@@ -13898,7 +13898,7 @@
     },
     "Name": "Wrathful Gladiator's Truncheon",
     "Id": "51520",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "51521": {
     "ItemLevel": "264",
@@ -13924,7 +13924,7 @@
     },
     "Name": "Wrathful Gladiator's Slicer",
     "Id": "51521",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "51522": {
     "ItemLevel": "277",
@@ -13950,7 +13950,7 @@
     },
     "Name": "Wrathful Gladiator's Longblade",
     "Id": "51522",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "51523": {
     "ItemLevel": "264",
@@ -13976,7 +13976,7 @@
     },
     "Name": "Wrathful Gladiator's Right Ripper",
     "Id": "51523",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "51524": {
     "ItemLevel": "277",
@@ -14002,7 +14002,7 @@
     },
     "Name": "Wrathful Gladiator's Grasp",
     "Id": "51524",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "51525": {
     "ItemLevel": "264",
@@ -14028,7 +14028,7 @@
     },
     "Name": "Wrathful Gladiator's Chopper",
     "Id": "51525",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "51526": {
     "ItemLevel": "277",
@@ -14054,7 +14054,7 @@
     },
     "Name": "Wrathful Gladiator's Splitter",
     "Id": "51526",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "51527": {
     "ItemLevel": "264",
@@ -14080,7 +14080,7 @@
     },
     "Name": "Wrathful Gladiator's Mutilator",
     "Id": "51527",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "51528": {
     "ItemLevel": "277",
@@ -14106,7 +14106,7 @@
     },
     "Name": "Wrathful Gladiator's Eviscerator",
     "Id": "51528",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "51529": {
     "ItemLevel": "277",
@@ -14132,7 +14132,7 @@
     },
     "Name": "Wrathful Gladiator's Left Claw",
     "Id": "51529",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "51530": {
     "ItemLevel": "264",
@@ -14158,7 +14158,7 @@
     },
     "Name": "Wrathful Gladiator's Left Render",
     "Id": "51530",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "51533": {
     "ItemLevel": "270",
@@ -14178,7 +14178,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Shield Wall",
     "Id": "51533",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "51562": {
     "ItemLevel": "251",
@@ -14205,7 +14205,7 @@
     },
     "Name": "Oxheart",
     "Id": "51562",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51582": {
     "ItemLevel": "251",
@@ -14233,7 +14233,7 @@
     },
     "Name": "Sister Svalna's Aether Staff",
     "Id": "51582",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51784": {
     "ItemLevel": "251",
@@ -14257,7 +14257,7 @@
     "SocketBonus": "none",
     "Name": "Splintershard",
     "Id": "51784",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "51788": {
     "ItemLevel": "251",
@@ -14283,7 +14283,7 @@
     "UniqueId": "51815",
     "Name": "Bleak Coldarra Carver",
     "Id": "51788",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "51791": {
     "ItemLevel": "251",
@@ -14306,7 +14306,7 @@
     "SocketBonus": "none",
     "Name": "Lost Pavise of the Blue Flight",
     "Id": "51791",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "51795": {
     "ItemLevel": "258",
@@ -14330,7 +14330,7 @@
     "SocketBonus": "none",
     "Name": "Troggbane, Axe of the Frostborne King",
     "Id": "51795",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "51796": {
     "ItemLevel": "258",
@@ -14357,7 +14357,7 @@
     },
     "Name": "Warmace of Menethil",
     "Id": "51796",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51797": {
     "ItemLevel": "258",
@@ -14385,7 +14385,7 @@
     },
     "Name": "Tainted Twig of Nordrassil",
     "Id": "51797",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51798": {
     "ItemLevel": "258",
@@ -14409,7 +14409,7 @@
     "SocketBonus": "none",
     "Name": "Valius, Gavel of the Lightbringer",
     "Id": "51798",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "51799": {
     "ItemLevel": "258",
@@ -14437,7 +14437,7 @@
     },
     "Name": "Halion, Staff of Forgotten Love",
     "Id": "51799",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51800": {
     "ItemLevel": "258",
@@ -14461,7 +14461,7 @@
     "SocketBonus": "none",
     "Name": "Stormfury, Black Blade of the Betrayer",
     "Id": "51800",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "51801": {
     "ItemLevel": "258",
@@ -14485,7 +14485,7 @@
     "SocketBonus": "none",
     "Name": "Pugius, Fist of Defiance",
     "Id": "51801",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "51803": {
     "ItemLevel": "258",
@@ -14510,7 +14510,7 @@
     "SocketBonus": "none",
     "Name": "Tel'thas, Dagger of the Blood King",
     "Id": "51803",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "51812": {
     "ItemLevel": "264",
@@ -14536,7 +14536,7 @@
     },
     "Name": "Lost Pavise of the Blue Flight",
     "Id": "51812",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "51815": {
     "ItemLevel": "264",
@@ -14565,7 +14565,7 @@
     "UniqueId": "51815",
     "Name": "Bleak Coldarra Carver",
     "Id": "51815",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "51819": {
     "ItemLevel": "264",
@@ -14592,7 +14592,7 @@
     },
     "Name": "Splintershard",
     "Id": "51819",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "51828": {
     "ItemLevel": "264",
@@ -14621,7 +14621,7 @@
     },
     "Name": "Sister Svalna's Aether Staff",
     "Id": "51828",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51833": {
     "ItemLevel": "264",
@@ -14649,7 +14649,7 @@
     },
     "Name": "Oxheart",
     "Id": "51833",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51846": {
     "ItemLevel": "264",
@@ -14676,7 +14676,7 @@
     },
     "Name": "Bloodsipper",
     "Id": "51846",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "51857": {
     "ItemLevel": "264",
@@ -14705,7 +14705,7 @@
     },
     "Name": "Hersir's Greatspear",
     "Id": "51857",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51858": {
     "ItemLevel": "264",
@@ -14732,7 +14732,7 @@
     },
     "Name": "Soulbreaker",
     "Id": "51858",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "51868": {
     "ItemLevel": "264",
@@ -14759,7 +14759,7 @@
     },
     "Name": "Flesh-Carving Scalpel",
     "Id": "51868",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "51869": {
     "ItemLevel": "264",
@@ -14786,7 +14786,7 @@
     },
     "Name": "The Facelifter",
     "Id": "51869",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "51875": {
     "ItemLevel": "264",
@@ -14813,7 +14813,7 @@
     },
     "Name": "Lockjaw",
     "Id": "51875",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "51876": {
     "ItemLevel": "264",
@@ -14840,7 +14840,7 @@
     },
     "Name": "Abomination Knuckles",
     "Id": "51876",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "51881": {
     "ItemLevel": "264",
@@ -14868,7 +14868,7 @@
     },
     "Name": "Shaft of Glacial Ice",
     "Id": "51881",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51887": {
     "ItemLevel": "264",
@@ -14897,7 +14897,7 @@
     },
     "Name": "Abracadaver",
     "Id": "51887",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51893": {
     "ItemLevel": "264",
@@ -14924,7 +14924,7 @@
     },
     "Name": "Gutbuster",
     "Id": "51893",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "51898": {
     "ItemLevel": "264",
@@ -14953,7 +14953,7 @@
     },
     "Name": "Mag'hari Chieftain's Staff",
     "Id": "51898",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51905": {
     "ItemLevel": "264",
@@ -14981,7 +14981,7 @@
     },
     "Name": "Ramaladni's Blade of Culling",
     "Id": "51905",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51909": {
     "ItemLevel": "264",
@@ -15007,7 +15007,7 @@
     },
     "Name": "Neverending Winter",
     "Id": "51909",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "51910": {
     "ItemLevel": "264",
@@ -15036,7 +15036,7 @@
     "UniqueId": "51910",
     "Name": "Midnight Sun",
     "Id": "51910",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "51916": {
     "ItemLevel": "264",
@@ -15063,7 +15063,7 @@
     },
     "Name": "Frost Giant's Cleaver",
     "Id": "51916",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "51922": {
     "ItemLevel": "264",
@@ -15087,7 +15087,7 @@
     },
     "Name": "Scourgelord's Baton",
     "Id": "51922",
-    "Slot": "OffHand"
+    "Slot": 17
   },
   "51932": {
     "ItemLevel": "264",
@@ -15116,7 +15116,7 @@
     "UniqueId": "51932",
     "Name": "Frost Needle",
     "Id": "51932",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "51936": {
     "ItemLevel": "264",
@@ -15143,7 +15143,7 @@
     },
     "Name": "Citadel Enforcer's Claymore",
     "Id": "51936",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51937": {
     "ItemLevel": "264",
@@ -15170,7 +15170,7 @@
     },
     "Name": "Bonebreaker Scepter",
     "Id": "51937",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "51938": {
     "ItemLevel": "264",
@@ -15197,7 +15197,7 @@
     },
     "Name": "Bone Warden's Splitter",
     "Id": "51938",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "51939": {
     "ItemLevel": "271",
@@ -15225,7 +15225,7 @@
     },
     "Name": "Tel'thas, Dagger of the Blood King",
     "Id": "51939",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "51941": {
     "ItemLevel": "271",
@@ -15252,7 +15252,7 @@
     },
     "Name": "Pugius, Fist of Defiance",
     "Id": "51941",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "51942": {
     "ItemLevel": "271",
@@ -15279,7 +15279,7 @@
     },
     "Name": "Stormfury, Black Blade of the Betrayer",
     "Id": "51942",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "51943": {
     "ItemLevel": "271",
@@ -15308,7 +15308,7 @@
     },
     "Name": "Halion, Staff of Forgotten Love",
     "Id": "51943",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51944": {
     "ItemLevel": "271",
@@ -15335,7 +15335,7 @@
     },
     "Name": "Valius, Gavel of the Lightbringer",
     "Id": "51944",
-    "Slot": "MainHand"
+    "Slot": 16
   },
   "51945": {
     "ItemLevel": "271",
@@ -15364,7 +15364,7 @@
     },
     "Name": "Tainted Twig of Nordrassil",
     "Id": "51945",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51946": {
     "ItemLevel": "271",
@@ -15392,7 +15392,7 @@
     },
     "Name": "Warmace of Menethil",
     "Id": "51946",
-    "Slot": "TwoHand"
+    "Slot": 23
   },
   "51947": {
     "ItemLevel": "271",
@@ -15419,7 +15419,7 @@
     },
     "Name": "Troggbane, Axe of the Frostborne King",
     "Id": "51947",
-    "Slot": "OneHand"
+    "Slot": 22
   },
   "54806": {
     "ItemLevel": "232",
@@ -15444,6 +15444,6 @@
     "SocketBonus": "none",
     "Name": "Frostscythe of Lord Ahune",
     "Id": "54806",
-    "Slot": "TwoHand"
+    "Slot": 23
   }
 }

@@ -18,7 +18,7 @@
     "SocketBonus": "none",
     "Name": "Tattered Castle Drape",
     "Id": "37197",
-    "Slot": "Back"
+    "Slot": 15
   },
   "37291": {
     "ItemLevel": "200",
@@ -39,7 +39,7 @@
     "SocketBonus": "none",
     "Name": "Ancient Dragon Spirit Cape",
     "Id": "37291",
-    "Slot": "Back"
+    "Slot": 15
   },
   "37630": {
     "ItemLevel": "200",
@@ -60,7 +60,7 @@
     "SocketBonus": "none",
     "Name": "Shroud of Moorabi",
     "Id": "37630",
-    "Slot": "Back"
+    "Slot": 15
   },
   "37647": {
     "ItemLevel": "200",
@@ -80,7 +80,7 @@
     "SocketBonus": "none",
     "Name": "Cloak of Bloodied Waters",
     "Id": "37647",
-    "Slot": "Back"
+    "Slot": 15
   },
   "37728": {
     "ItemLevel": "200",
@@ -101,7 +101,7 @@
     "SocketBonus": "none",
     "Name": "Cloak of the Enemy",
     "Id": "37728",
-    "Slot": "Back"
+    "Slot": 15
   },
   "37799": {
     "ItemLevel": "200",
@@ -125,7 +125,7 @@
     },
     "Name": "Reanimator's Cloak",
     "Id": "37799",
-    "Slot": "Back"
+    "Slot": 15
   },
   "37840": {
     "ItemLevel": "200",
@@ -146,7 +146,7 @@
     "SocketBonus": "none",
     "Name": "Shroud of Reverberation",
     "Id": "37840",
-    "Slot": "Back"
+    "Slot": 15
   },
   "39225": {
     "ItemLevel": "200",
@@ -168,7 +168,7 @@
     "SocketBonus": "none",
     "Name": "Cloak of Armed Strife",
     "Id": "39225",
-    "Slot": "Back"
+    "Slot": 15
   },
   "39241": {
     "ItemLevel": "200",
@@ -190,7 +190,7 @@
     "SocketBonus": "none",
     "Name": "Dark Shroud of the Scourge",
     "Id": "39241",
-    "Slot": "Back"
+    "Slot": 15
   },
   "39272": {
     "ItemLevel": "200",
@@ -212,7 +212,7 @@
     "SocketBonus": "none",
     "Name": "Drape of Surgery",
     "Id": "39272",
-    "Slot": "Back"
+    "Slot": 15
   },
   "39297": {
     "ItemLevel": "200",
@@ -234,7 +234,7 @@
     "SocketBonus": "none",
     "Name": "Cloak of Darkening",
     "Id": "39297",
-    "Slot": "Back"
+    "Slot": 15
   },
   "39404": {
     "ItemLevel": "200",
@@ -256,7 +256,7 @@
     "SocketBonus": "none",
     "Name": "Cloak of Mastery",
     "Id": "39404",
-    "Slot": "Back"
+    "Slot": 15
   },
   "39415": {
     "ItemLevel": "200",
@@ -278,7 +278,7 @@
     "SocketBonus": "none",
     "Name": "Shroud of the Citadel",
     "Id": "39415",
-    "Slot": "Back"
+    "Slot": 15
   },
   "39425": {
     "ItemLevel": "213",
@@ -300,7 +300,7 @@
     "SocketBonus": "none",
     "Name": "Cloak of the Dying",
     "Id": "39425",
-    "Slot": "Back"
+    "Slot": 15
   },
   "40250": {
     "ItemLevel": "213",
@@ -322,7 +322,7 @@
     "SocketBonus": "none",
     "Name": "Aged Winter Cloak",
     "Id": "40250",
-    "Slot": "Back"
+    "Slot": 15
   },
   "40251": {
     "ItemLevel": "213",
@@ -344,7 +344,7 @@
     "SocketBonus": "none",
     "Name": "Shroud of Luminosity",
     "Id": "40251",
-    "Slot": "Back"
+    "Slot": 15
   },
   "40252": {
     "ItemLevel": "213",
@@ -366,7 +366,7 @@
     "SocketBonus": "none",
     "Name": "Cloak of the Shadowed Sun",
     "Id": "40252",
-    "Slot": "Back"
+    "Slot": 15
   },
   "40253": {
     "ItemLevel": "213",
@@ -388,7 +388,7 @@
     "SocketBonus": "none",
     "Name": "Shawl of the Old Maid",
     "Id": "40253",
-    "Slot": "Back"
+    "Slot": 15
   },
   "40254": {
     "ItemLevel": "213",
@@ -410,7 +410,7 @@
     "SocketBonus": "none",
     "Name": "Cloak of Averted Crisis",
     "Id": "40254",
-    "Slot": "Back"
+    "Slot": 15
   },
   "40403": {
     "ItemLevel": "226",
@@ -432,7 +432,7 @@
     "SocketBonus": "none",
     "Name": "Drape of the Deadly Foe",
     "Id": "40403",
-    "Slot": "Back"
+    "Slot": 15
   },
   "40405": {
     "ItemLevel": "226",
@@ -454,7 +454,7 @@
     "SocketBonus": "none",
     "Name": "Cape of the Unworthy Wizard",
     "Id": "40405",
-    "Slot": "Back"
+    "Slot": 15
   },
   "40410": {
     "ItemLevel": "213",
@@ -476,7 +476,7 @@
     "SocketBonus": "none",
     "Name": "Shadow of the Ghoul",
     "Id": "40410",
-    "Slot": "Back"
+    "Slot": 15
   },
   "40721": {
     "ItemLevel": "213",
@@ -498,7 +498,7 @@
     "SocketBonus": "none",
     "Name": "Hammerhead Sharkskin Cloak",
     "Id": "40721",
-    "Slot": "Back"
+    "Slot": 15
   },
   "40722": {
     "ItemLevel": "213",
@@ -520,7 +520,7 @@
     "SocketBonus": "none",
     "Name": "Platinum Mesh Cloak",
     "Id": "40722",
-    "Slot": "Back"
+    "Slot": 15
   },
   "40723": {
     "ItemLevel": "213",
@@ -542,7 +542,7 @@
     "SocketBonus": "none",
     "Name": "Disguise of the Kumiho",
     "Id": "40723",
-    "Slot": "Back"
+    "Slot": 15
   },
   "40724": {
     "ItemLevel": "213",
@@ -564,7 +564,7 @@
     "SocketBonus": "none",
     "Name": "Cloak of Kea Feathers",
     "Id": "40724",
-    "Slot": "Back"
+    "Slot": 15
   },
   "41609": {
     "ItemLevel": "200",
@@ -585,7 +585,7 @@
     "SocketBonus": "none",
     "Name": "Wispcloak",
     "Id": "41609",
-    "Slot": "Back"
+    "Slot": 15
   },
   "41610": {
     "ItemLevel": "200",
@@ -605,7 +605,7 @@
     "SocketBonus": "none",
     "Name": "Deathchill Cloak",
     "Id": "41610",
-    "Slot": "Back"
+    "Slot": 15
   },
   "42062": {
     "ItemLevel": "213",
@@ -628,7 +628,7 @@
     "SocketBonus": "none",
     "Name": "Deadly Gladiator's Cloak of Dominance",
     "Id": "42062",
-    "Slot": "Back"
+    "Slot": 15
   },
   "42063": {
     "ItemLevel": "213",
@@ -651,7 +651,7 @@
     "SocketBonus": "none",
     "Name": "Deadly Gladiator's Cloak of Subjugation",
     "Id": "42063",
-    "Slot": "Back"
+    "Slot": 15
   },
   "42064": {
     "ItemLevel": "213",
@@ -674,7 +674,7 @@
     "SocketBonus": "none",
     "Name": "Deadly Gladiator's Cloak of Ascendancy",
     "Id": "42064",
-    "Slot": "Back"
+    "Slot": 15
   },
   "42065": {
     "ItemLevel": "213",
@@ -697,7 +697,7 @@
     "SocketBonus": "none",
     "Name": "Deadly Gladiator's Cloak of Salvation",
     "Id": "42065",
-    "Slot": "Back"
+    "Slot": 15
   },
   "42066": {
     "ItemLevel": "213",
@@ -720,7 +720,7 @@
     "SocketBonus": "none",
     "Name": "Deadly Gladiator's Cloak of Deliverance",
     "Id": "42066",
-    "Slot": "Back"
+    "Slot": 15
   },
   "42067": {
     "ItemLevel": "213",
@@ -742,7 +742,7 @@
     "SocketBonus": "none",
     "Name": "Deadly Gladiator's Cloak of Triumph",
     "Id": "42067",
-    "Slot": "Back"
+    "Slot": 15
   },
   "42068": {
     "ItemLevel": "213",
@@ -764,7 +764,7 @@
     "SocketBonus": "none",
     "Name": "Deadly Gladiator's Cloak of Victory",
     "Id": "42068",
-    "Slot": "Back"
+    "Slot": 15
   },
   "42069": {
     "ItemLevel": "226",
@@ -787,7 +787,7 @@
     "SocketBonus": "none",
     "Name": "Furious Gladiator's Cloak of Dominance",
     "Id": "42069",
-    "Slot": "Back"
+    "Slot": 15
   },
   "42070": {
     "ItemLevel": "226",
@@ -810,7 +810,7 @@
     "SocketBonus": "none",
     "Name": "Furious Gladiator's Cloak of Subjugation",
     "Id": "42070",
-    "Slot": "Back"
+    "Slot": 15
   },
   "42071": {
     "ItemLevel": "226",
@@ -833,7 +833,7 @@
     "SocketBonus": "none",
     "Name": "Furious Gladiator's Cloak of Ascendancy",
     "Id": "42071",
-    "Slot": "Back"
+    "Slot": 15
   },
   "42072": {
     "ItemLevel": "226",
@@ -856,7 +856,7 @@
     "SocketBonus": "none",
     "Name": "Furious Gladiator's Cloak of Salvation",
     "Id": "42072",
-    "Slot": "Back"
+    "Slot": 15
   },
   "42073": {
     "ItemLevel": "226",
@@ -879,7 +879,7 @@
     "SocketBonus": "none",
     "Name": "Furious Gladiator's Cloak of Deliverance",
     "Id": "42073",
-    "Slot": "Back"
+    "Slot": 15
   },
   "42074": {
     "ItemLevel": "226",
@@ -901,7 +901,7 @@
     "SocketBonus": "none",
     "Name": "Furious Gladiator's Cloak of Triumph",
     "Id": "42074",
-    "Slot": "Back"
+    "Slot": 15
   },
   "42075": {
     "ItemLevel": "226",
@@ -923,7 +923,7 @@
     "SocketBonus": "none",
     "Name": "Furious Gladiator's Cloak of Victory",
     "Id": "42075",
-    "Slot": "Back"
+    "Slot": 15
   },
   "42076": {
     "ItemLevel": "245",
@@ -946,7 +946,7 @@
     "SocketBonus": "none",
     "Name": "Relentless Gladiator's Cloak of Dominance",
     "Id": "42076",
-    "Slot": "Back"
+    "Slot": 15
   },
   "42077": {
     "ItemLevel": "245",
@@ -969,7 +969,7 @@
     "SocketBonus": "none",
     "Name": "Relentless Gladiator's Cloak of Subjugation",
     "Id": "42077",
-    "Slot": "Back"
+    "Slot": 15
   },
   "42078": {
     "ItemLevel": "245",
@@ -992,7 +992,7 @@
     "SocketBonus": "none",
     "Name": "Relentless Gladiator's Cloak of Ascendancy",
     "Id": "42078",
-    "Slot": "Back"
+    "Slot": 15
   },
   "42079": {
     "ItemLevel": "245",
@@ -1015,7 +1015,7 @@
     "SocketBonus": "none",
     "Name": "Relentless Gladiator's Cloak of Salvation",
     "Id": "42079",
-    "Slot": "Back"
+    "Slot": 15
   },
   "42080": {
     "ItemLevel": "245",
@@ -1038,7 +1038,7 @@
     "SocketBonus": "none",
     "Name": "Relentless Gladiator's Cloak of Deliverance",
     "Id": "42080",
-    "Slot": "Back"
+    "Slot": 15
   },
   "42081": {
     "ItemLevel": "245",
@@ -1060,7 +1060,7 @@
     "SocketBonus": "none",
     "Name": "Relentless Gladiator's Cloak of Triumph",
     "Id": "42081",
-    "Slot": "Back"
+    "Slot": 15
   },
   "42082": {
     "ItemLevel": "245",
@@ -1082,7 +1082,7 @@
     "SocketBonus": "none",
     "Name": "Relentless Gladiator's Cloak of Victory",
     "Id": "42082",
-    "Slot": "Back"
+    "Slot": 15
   },
   "43283": {
     "ItemLevel": "200",
@@ -1103,7 +1103,7 @@
     "SocketBonus": "none",
     "Name": "Subterranean Waterfall Shroud",
     "Id": "43283",
-    "Slot": "Back"
+    "Slot": 15
   },
   "43406": {
     "ItemLevel": "200",
@@ -1124,7 +1124,7 @@
     "SocketBonus": "none",
     "Name": "Cloak of the Gushing Wound",
     "Id": "43406",
-    "Slot": "Back"
+    "Slot": 15
   },
   "43565": {
     "ItemLevel": "200",
@@ -1145,7 +1145,7 @@
     "SocketBonus": "none",
     "Name": "Durable Nerubhide Cape",
     "Id": "43565",
-    "Slot": "Back"
+    "Slot": 15
   },
   "43566": {
     "ItemLevel": "200",
@@ -1166,7 +1166,7 @@
     "SocketBonus": "none",
     "Name": "Ice Striker's Cloak",
     "Id": "43566",
-    "Slot": "Back"
+    "Slot": 15
   },
   "43988": {
     "ItemLevel": "200",
@@ -1191,7 +1191,7 @@
     },
     "Name": "Gale-Proof Cloak",
     "Id": "43988",
-    "Slot": "Back"
+    "Slot": 15
   },
   "44005": {
     "ItemLevel": "226",
@@ -1216,7 +1216,7 @@
     },
     "Name": "Pennant Cloak",
     "Id": "44005",
-    "Slot": "Back"
+    "Slot": 15
   },
   "45138": {
     "ItemLevel": "226",
@@ -1237,7 +1237,7 @@
     "SocketBonus": "none",
     "Name": "Drape of the Drakerider",
     "Id": "45138",
-    "Slot": "Back"
+    "Slot": 15
   },
   "45224": {
     "ItemLevel": "226",
@@ -1259,7 +1259,7 @@
     "SocketBonus": "none",
     "Name": "Drape of the Lithe",
     "Id": "45224",
-    "Slot": "Back"
+    "Slot": 15
   },
   "45242": {
     "ItemLevel": "239",
@@ -1284,7 +1284,7 @@
     },
     "Name": "Drape of Mortal Downfall",
     "Id": "45242",
-    "Slot": "Back"
+    "Slot": 15
   },
   "45317": {
     "ItemLevel": "219",
@@ -1306,7 +1306,7 @@
     "SocketBonus": "none",
     "Name": "Shawl of the Caretaker",
     "Id": "45317",
-    "Slot": "Back"
+    "Slot": 15
   },
   "45318": {
     "ItemLevel": "219",
@@ -1327,7 +1327,7 @@
     "SocketBonus": "none",
     "Name": "Drape of Fuming Anger",
     "Id": "45318",
-    "Slot": "Back"
+    "Slot": 15
   },
   "45319": {
     "ItemLevel": "226",
@@ -1349,7 +1349,7 @@
     "SocketBonus": "none",
     "Name": "Cloak of the Makers",
     "Id": "45319",
-    "Slot": "Back"
+    "Slot": 15
   },
   "45322": {
     "ItemLevel": "219",
@@ -1371,7 +1371,7 @@
     "SocketBonus": "none",
     "Name": "Cloak of the Iron Council",
     "Id": "45322",
-    "Slot": "Back"
+    "Slot": 15
   },
   "45461": {
     "ItemLevel": "239",
@@ -1396,7 +1396,7 @@
     },
     "Name": "Drape of Icy Intent",
     "Id": "45461",
-    "Slot": "Back"
+    "Slot": 15
   },
   "45486": {
     "ItemLevel": "239",
@@ -1421,7 +1421,7 @@
     },
     "Name": "Drape of the Sullen Goddess",
     "Id": "45486",
-    "Slot": "Back"
+    "Slot": 15
   },
   "45493": {
     "ItemLevel": "226",
@@ -1443,7 +1443,7 @@
     "SocketBonus": "none",
     "Name": "Asimov's Drape",
     "Id": "45493",
-    "Slot": "Back"
+    "Slot": 15
   },
   "45496": {
     "ItemLevel": "239",
@@ -1468,7 +1468,7 @@
     },
     "Name": "Titanskin Cloak",
     "Id": "45496",
-    "Slot": "Back"
+    "Slot": 15
   },
   "45529": {
     "ItemLevel": "226",
@@ -1490,7 +1490,7 @@
     "SocketBonus": "none",
     "Name": "Shawl of Haunted Memories",
     "Id": "45529",
-    "Slot": "Back"
+    "Slot": 15
   },
   "45541": {
     "ItemLevel": "226",
@@ -1512,7 +1512,7 @@
     "SocketBonus": "none",
     "Name": "Shroud of Alteration",
     "Id": "45541",
-    "Slot": "Back"
+    "Slot": 15
   },
   "45588": {
     "ItemLevel": "239",
@@ -1536,7 +1536,7 @@
     },
     "Name": "Drape of the Skyborn",
     "Id": "45588",
-    "Slot": "Back"
+    "Slot": 15
   },
   "45618": {
     "ItemLevel": "239",
@@ -1561,7 +1561,7 @@
     },
     "Name": "Sunglimmer Cloak",
     "Id": "45618",
-    "Slot": "Back"
+    "Slot": 15
   },
   "45704": {
     "ItemLevel": "219",
@@ -1583,7 +1583,7 @@
     "SocketBonus": "none",
     "Name": "Shawl of the Shattered Giant",
     "Id": "45704",
-    "Slot": "Back"
+    "Slot": 15
   },
   "45810": {
     "ItemLevel": "200",
@@ -1605,7 +1605,7 @@
     "SocketBonus": "none",
     "Name": "Cloak of Crimson Snow",
     "Id": "45810",
-    "Slot": "Back"
+    "Slot": 15
   },
   "45811": {
     "ItemLevel": "200",
@@ -1626,7 +1626,7 @@
     "SocketBonus": "none",
     "Name": "Frostguard Drape",
     "Id": "45811",
-    "Slot": "Back"
+    "Slot": 15
   },
   "45873": {
     "ItemLevel": "219",
@@ -1648,7 +1648,7 @@
     "SocketBonus": "none",
     "Name": "Winter's Frigid Embrace",
     "Id": "45873",
-    "Slot": "Back"
+    "Slot": 15
   },
   "45973": {
     "ItemLevel": "219",
@@ -1669,7 +1669,7 @@
     "SocketBonus": "none",
     "Name": "Stylish Power Cape",
     "Id": "45973",
-    "Slot": "Back"
+    "Slot": 15
   },
   "46014": {
     "ItemLevel": "219",
@@ -1691,7 +1691,7 @@
     "SocketBonus": "none",
     "Name": "Saronite Animus Cloak",
     "Id": "46014",
-    "Slot": "Back"
+    "Slot": 15
   },
   "46032": {
     "ItemLevel": "226",
@@ -1717,7 +1717,7 @@
     },
     "Name": "Drape of the Faceless General",
     "Id": "46032",
-    "Slot": "Back"
+    "Slot": 15
   },
   "46042": {
     "ItemLevel": "226",
@@ -1742,7 +1742,7 @@
     },
     "Name": "Drape of the Messenger",
     "Id": "46042",
-    "Slot": "Back"
+    "Slot": 15
   },
   "46320": {
     "ItemLevel": "226",
@@ -1766,7 +1766,7 @@
     },
     "Name": "Drape of the Skyherald",
     "Id": "46320",
-    "Slot": "Back"
+    "Slot": 15
   },
   "46321": {
     "ItemLevel": "226",
@@ -1791,7 +1791,7 @@
     },
     "Name": "Sunglimmer Drape",
     "Id": "46321",
-    "Slot": "Back"
+    "Slot": 15
   },
   "46341": {
     "ItemLevel": "219",
@@ -1813,7 +1813,7 @@
     "SocketBonus": "none",
     "Name": "Drape of the Spellweaver",
     "Id": "46341",
-    "Slot": "Back"
+    "Slot": 15
   },
   "46347": {
     "ItemLevel": "219",
@@ -1835,7 +1835,7 @@
     "SocketBonus": "none",
     "Name": "Cloak of the Dormant Blaze",
     "Id": "46347",
-    "Slot": "Back"
+    "Slot": 15
   },
   "46970": {
     "ItemLevel": "245",
@@ -1857,7 +1857,7 @@
     "SocketBonus": "none",
     "Name": "Drape of the Untamed Predator",
     "Id": "46970",
-    "Slot": "Back"
+    "Slot": 15
   },
   "46971": {
     "ItemLevel": "258",
@@ -1882,7 +1882,7 @@
     },
     "Name": "Drape of the Untamed Predator",
     "Id": "46971",
-    "Slot": "Back"
+    "Slot": 15
   },
   "46976": {
     "ItemLevel": "245",
@@ -1904,7 +1904,7 @@
     "SocketBonus": "none",
     "Name": "Shawl of the Refreshing Winds",
     "Id": "46976",
-    "Slot": "Back"
+    "Slot": 15
   },
   "46977": {
     "ItemLevel": "258",
@@ -1929,7 +1929,7 @@
     },
     "Name": "Shawl of the Refreshing Winds",
     "Id": "46977",
-    "Slot": "Back"
+    "Slot": 15
   },
   "47042": {
     "ItemLevel": "245",
@@ -1951,7 +1951,7 @@
     "SocketBonus": "none",
     "Name": "Pride of the Eredar",
     "Id": "47042",
-    "Slot": "Back"
+    "Slot": 15
   },
   "47063": {
     "ItemLevel": "258",
@@ -1976,7 +1976,7 @@
     },
     "Name": "Pride of the Eredar",
     "Id": "47063",
-    "Slot": "Back"
+    "Slot": 15
   },
   "47089": {
     "ItemLevel": "245",
@@ -1998,7 +1998,7 @@
     "SocketBonus": "none",
     "Name": "Cloak of Displacement",
     "Id": "47089",
-    "Slot": "Back"
+    "Slot": 15
   },
   "47095": {
     "ItemLevel": "258",
@@ -2023,7 +2023,7 @@
     },
     "Name": "Cloak of Displacement",
     "Id": "47095",
-    "Slot": "Back"
+    "Slot": 15
   },
   "47183": {
     "ItemLevel": "245",
@@ -2044,7 +2044,7 @@
     "SocketBonus": "none",
     "Name": "Strength of the Nerub",
     "Id": "47183",
-    "Slot": "Back"
+    "Slot": 15
   },
   "47192": {
     "ItemLevel": "258",
@@ -2068,7 +2068,7 @@
     },
     "Name": "Strength of the Nerub",
     "Id": "47192",
-    "Slot": "Back"
+    "Slot": 15
   },
   "47225": {
     "ItemLevel": "245",
@@ -2090,7 +2090,7 @@
     "SocketBonus": "none",
     "Name": "Maiden's Favor",
     "Id": "47225",
-    "Slot": "Back"
+    "Slot": 15
   },
   "47232": {
     "ItemLevel": "200",
@@ -2111,7 +2111,7 @@
     "SocketBonus": "none",
     "Name": "Drape of the Undefeated",
     "Id": "47232",
-    "Slot": "Back"
+    "Slot": 15
   },
   "47238": {
     "ItemLevel": "258",
@@ -2136,7 +2136,7 @@
     },
     "Name": "Maiden's Favor",
     "Id": "47238",
-    "Slot": "Back"
+    "Slot": 15
   },
   "47256": {
     "ItemLevel": "245",
@@ -2158,7 +2158,7 @@
     "SocketBonus": "none",
     "Name": "Drape of the Refreshing Winds",
     "Id": "47256",
-    "Slot": "Back"
+    "Slot": 15
   },
   "47257": {
     "ItemLevel": "245",
@@ -2180,7 +2180,7 @@
     "SocketBonus": "none",
     "Name": "Cloak of the Untamed Predator",
     "Id": "47257",
-    "Slot": "Back"
+    "Slot": 15
   },
   "47275": {
     "ItemLevel": "245",
@@ -2202,7 +2202,7 @@
     "SocketBonus": "none",
     "Name": "Pride of the Demon Lord",
     "Id": "47275",
-    "Slot": "Back"
+    "Slot": 15
   },
   "47291": {
     "ItemLevel": "245",
@@ -2224,7 +2224,7 @@
     "SocketBonus": "none",
     "Name": "Shroud of Displacement",
     "Id": "47291",
-    "Slot": "Back"
+    "Slot": 15
   },
   "47320": {
     "ItemLevel": "245",
@@ -2245,7 +2245,7 @@
     "SocketBonus": "none",
     "Name": "Might of the Nerub",
     "Id": "47320",
-    "Slot": "Back"
+    "Slot": 15
   },
   "47328": {
     "ItemLevel": "245",
@@ -2267,7 +2267,7 @@
     "SocketBonus": "none",
     "Name": "Maiden's Adoration",
     "Id": "47328",
-    "Slot": "Back"
+    "Slot": 15
   },
   "47417": {
     "ItemLevel": "258",
@@ -2292,7 +2292,7 @@
     },
     "Name": "Drape of the Refreshing Winds",
     "Id": "47417",
-    "Slot": "Back"
+    "Slot": 15
   },
   "47418": {
     "ItemLevel": "258",
@@ -2317,7 +2317,7 @@
     },
     "Name": "Cloak of the Untamed Predator",
     "Id": "47418",
-    "Slot": "Back"
+    "Slot": 15
   },
   "47436": {
     "ItemLevel": "258",
@@ -2342,7 +2342,7 @@
     },
     "Name": "Pride of the Demon Lord",
     "Id": "47436",
-    "Slot": "Back"
+    "Slot": 15
   },
   "47452": {
     "ItemLevel": "258",
@@ -2367,7 +2367,7 @@
     },
     "Name": "Shroud of Displacement",
     "Id": "47452",
-    "Slot": "Back"
+    "Slot": 15
   },
   "47481": {
     "ItemLevel": "258",
@@ -2391,7 +2391,7 @@
     },
     "Name": "Might of the Nerub",
     "Id": "47481",
-    "Slot": "Back"
+    "Slot": 15
   },
   "47490": {
     "ItemLevel": "258",
@@ -2416,7 +2416,7 @@
     },
     "Name": "Maiden's Adoration",
     "Id": "47490",
-    "Slot": "Back"
+    "Slot": 15
   },
   "47501": {
     "ItemLevel": "219",
@@ -2438,7 +2438,7 @@
     "SocketBonus": "none",
     "Name": "Kurisu's Indecision",
     "Id": "47501",
-    "Slot": "Back"
+    "Slot": 15
   },
   "47545": {
     "ItemLevel": "272",
@@ -2463,7 +2463,7 @@
     },
     "Name": "Vereesa's Dexterity",
     "Id": "47545",
-    "Slot": "Back"
+    "Slot": 15
   },
   "47546": {
     "ItemLevel": "272",
@@ -2488,7 +2488,7 @@
     },
     "Name": "Sylvanas' Cunning",
     "Id": "47546",
-    "Slot": "Back"
+    "Slot": 15
   },
   "47547": {
     "ItemLevel": "272",
@@ -2512,7 +2512,7 @@
     },
     "Name": "Varian's Furor",
     "Id": "47547",
-    "Slot": "Back"
+    "Slot": 15
   },
   "47548": {
     "ItemLevel": "272",
@@ -2536,7 +2536,7 @@
     },
     "Name": "Garrosh's Rage",
     "Id": "47548",
-    "Slot": "Back"
+    "Slot": 15
   },
   "47549": {
     "ItemLevel": "272",
@@ -2561,7 +2561,7 @@
     },
     "Name": "Magni's Resolution",
     "Id": "47549",
-    "Slot": "Back"
+    "Slot": 15
   },
   "47550": {
     "ItemLevel": "272",
@@ -2586,7 +2586,7 @@
     },
     "Name": "Cairne's Endurance",
     "Id": "47550",
-    "Slot": "Back"
+    "Slot": 15
   },
   "47551": {
     "ItemLevel": "272",
@@ -2611,7 +2611,7 @@
     },
     "Name": "Aethas' Intensity",
     "Id": "47551",
-    "Slot": "Back"
+    "Slot": 15
   },
   "47552": {
     "ItemLevel": "272",
@@ -2636,7 +2636,7 @@
     },
     "Name": "Jaina's Radiance",
     "Id": "47552",
-    "Slot": "Back"
+    "Slot": 15
   },
   "47553": {
     "ItemLevel": "272",
@@ -2661,7 +2661,7 @@
     },
     "Name": "Bolvar's Devotion",
     "Id": "47553",
-    "Slot": "Back"
+    "Slot": 15
   },
   "47554": {
     "ItemLevel": "272",
@@ -2686,7 +2686,7 @@
     },
     "Name": "Lady Liadrin's Conviction",
     "Id": "47554",
-    "Slot": "Back"
+    "Slot": 15
   },
   "48666": {
     "ItemLevel": "258",
@@ -2711,7 +2711,7 @@
     },
     "Name": "Drape of the Sunreavers",
     "Id": "48666",
-    "Slot": "Back"
+    "Slot": 15
   },
   "48667": {
     "ItemLevel": "258",
@@ -2736,7 +2736,7 @@
     },
     "Name": "Shawl of the Devout Crusader",
     "Id": "48667",
-    "Slot": "Back"
+    "Slot": 15
   },
   "48668": {
     "ItemLevel": "258",
@@ -2761,7 +2761,7 @@
     },
     "Name": "Cloak of Serrated Blades",
     "Id": "48668",
-    "Slot": "Back"
+    "Slot": 15
   },
   "48669": {
     "ItemLevel": "258",
@@ -2785,7 +2785,7 @@
     },
     "Name": "Cloak of the Triumphant Combatant",
     "Id": "48669",
-    "Slot": "Back"
+    "Slot": 15
   },
   "48670": {
     "ItemLevel": "258",
@@ -2810,7 +2810,7 @@
     },
     "Name": "Cloak of the Unflinching Guardian",
     "Id": "48670",
-    "Slot": "Back"
+    "Slot": 15
   },
   "48671": {
     "ItemLevel": "258",
@@ -2835,7 +2835,7 @@
     },
     "Name": "Drape of Bitter Incantation",
     "Id": "48671",
-    "Slot": "Back"
+    "Slot": 15
   },
   "48672": {
     "ItemLevel": "258",
@@ -2860,7 +2860,7 @@
     },
     "Name": "Shawl of Fervent Crusader",
     "Id": "48672",
-    "Slot": "Back"
+    "Slot": 15
   },
   "48673": {
     "ItemLevel": "258",
@@ -2885,7 +2885,7 @@
     },
     "Name": "Cloak of the Silver Covenant",
     "Id": "48673",
-    "Slot": "Back"
+    "Slot": 15
   },
   "48674": {
     "ItemLevel": "258",
@@ -2909,7 +2909,7 @@
     },
     "Name": "Cloak of the Victorious Combatant",
     "Id": "48674",
-    "Slot": "Back"
+    "Slot": 15
   },
   "48675": {
     "ItemLevel": "258",
@@ -2934,7 +2934,7 @@
     },
     "Name": "Cloak of the Unmoving Guardian",
     "Id": "48675",
-    "Slot": "Back"
+    "Slot": 15
   },
   "49307": {
     "ItemLevel": "232",
@@ -2958,7 +2958,7 @@
     "SocketBonus": "none",
     "Name": "Fluttering Sapphiron Drape",
     "Id": "49307",
-    "Slot": "Back"
+    "Slot": 15
   },
   "49491": {
     "ItemLevel": "245",
@@ -2982,7 +2982,7 @@
     "SocketBonus": "none",
     "Name": "Flowing Sapphiron Drape",
     "Id": "49491",
-    "Slot": "Back"
+    "Slot": 15
   },
   "49792": {
     "ItemLevel": "219",
@@ -3004,7 +3004,7 @@
     "SocketBonus": "none",
     "Name": "Accursed Crawling Cape",
     "Id": "49792",
-    "Slot": "Back"
+    "Slot": 15
   },
   "49823": {
     "ItemLevel": "219",
@@ -3026,7 +3026,7 @@
     "SocketBonus": "none",
     "Name": "Cloak of the Fallen Cardinal",
     "Id": "49823",
-    "Slot": "Back"
+    "Slot": 15
   },
   "49832": {
     "ItemLevel": "219",
@@ -3048,7 +3048,7 @@
     "SocketBonus": "none",
     "Name": "Eerie Runeblade Polisher",
     "Id": "49832",
-    "Slot": "Back"
+    "Slot": 15
   },
   "49842": {
     "ItemLevel": "219",
@@ -3069,7 +3069,7 @@
     "SocketBonus": "none",
     "Name": "Tapestry of the Frozen Throne",
     "Id": "49842",
-    "Slot": "Back"
+    "Slot": 15
   },
   "49998": {
     "ItemLevel": "264",
@@ -3094,7 +3094,7 @@
     },
     "Name": "Shadowvault Slayer's Cloak",
     "Id": "49998",
-    "Slot": "Back"
+    "Slot": 15
   },
   "50014": {
     "ItemLevel": "264",
@@ -3119,7 +3119,7 @@
     },
     "Name": "Greatcloak of the Turned Champion",
     "Id": "50014",
-    "Slot": "Back"
+    "Slot": 15
   },
   "50019": {
     "ItemLevel": "264",
@@ -3143,7 +3143,7 @@
     },
     "Name": "Winding Sheet",
     "Id": "50019",
-    "Slot": "Back"
+    "Slot": 15
   },
   "50074": {
     "ItemLevel": "264",
@@ -3168,7 +3168,7 @@
     },
     "Name": "Royal Crimson Cloak",
     "Id": "50074",
-    "Slot": "Back"
+    "Slot": 15
   },
   "50205": {
     "ItemLevel": "264",
@@ -3193,7 +3193,7 @@
     },
     "Name": "Frostbinder's Shredded Cape",
     "Id": "50205",
-    "Slot": "Back"
+    "Slot": 15
   },
   "50466": {
     "ItemLevel": "264",
@@ -3218,7 +3218,7 @@
     },
     "Name": "Sentinel's Winter Cloak",
     "Id": "50466",
-    "Slot": "Back"
+    "Slot": 15
   },
   "50467": {
     "ItemLevel": "264",
@@ -3242,7 +3242,7 @@
     },
     "Name": "Might of the Ocean Serpent",
     "Id": "50467",
-    "Slot": "Back"
+    "Slot": 15
   },
   "50468": {
     "ItemLevel": "264",
@@ -3267,7 +3267,7 @@
     },
     "Name": "Drape of the Violet Tower",
     "Id": "50468",
-    "Slot": "Back"
+    "Slot": 15
   },
   "50469": {
     "ItemLevel": "264",
@@ -3292,7 +3292,7 @@
     },
     "Name": "Volde's Cloak of the Night Sky",
     "Id": "50469",
-    "Slot": "Back"
+    "Slot": 15
   },
   "50470": {
     "ItemLevel": "264",
@@ -3317,7 +3317,7 @@
     },
     "Name": "Recovered Scarlet Onslaught Cape",
     "Id": "50470",
-    "Slot": "Back"
+    "Slot": 15
   },
   "50628": {
     "ItemLevel": "277",
@@ -3342,7 +3342,7 @@
     },
     "Name": "Frostbinder's Shredded Cape",
     "Id": "50628",
-    "Slot": "Back"
+    "Slot": 15
   },
   "50653": {
     "ItemLevel": "277",
@@ -3367,7 +3367,7 @@
     },
     "Name": "Shadowvault Slayer's Cloak",
     "Id": "50653",
-    "Slot": "Back"
+    "Slot": 15
   },
   "50668": {
     "ItemLevel": "277",
@@ -3392,7 +3392,7 @@
     },
     "Name": "Greatcloak of the Turned Champion",
     "Id": "50668",
-    "Slot": "Back"
+    "Slot": 15
   },
   "50677": {
     "ItemLevel": "277",
@@ -3416,7 +3416,7 @@
     },
     "Name": "Winding Sheet",
     "Id": "50677",
-    "Slot": "Back"
+    "Slot": 15
   },
   "50718": {
     "ItemLevel": "277",
@@ -3441,7 +3441,7 @@
     },
     "Name": "Royal Crimson Cloak",
     "Id": "50718",
-    "Slot": "Back"
+    "Slot": 15
   },
   "50764": {
     "ItemLevel": "251",
@@ -3466,7 +3466,7 @@
     },
     "Name": "Shawl of Nerubian Silk",
     "Id": "50764",
-    "Slot": "Back"
+    "Slot": 15
   },
   "50791": {
     "ItemLevel": "251",
@@ -3490,7 +3490,7 @@
     },
     "Name": "Saronite Gargoyle Cloak",
     "Id": "50791",
-    "Slot": "Back"
+    "Slot": 15
   },
   "50859": {
     "ItemLevel": "251",
@@ -3515,7 +3515,7 @@
     },
     "Name": "Cloak of Many Skins",
     "Id": "50859",
-    "Slot": "Back"
+    "Slot": 15
   },
   "51330": {
     "ItemLevel": "264",
@@ -3538,7 +3538,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Cloak of Dominance",
     "Id": "51330",
-    "Slot": "Back"
+    "Slot": 15
   },
   "51332": {
     "ItemLevel": "264",
@@ -3561,7 +3561,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Cloak of Subjugation",
     "Id": "51332",
-    "Slot": "Back"
+    "Slot": 15
   },
   "51334": {
     "ItemLevel": "264",
@@ -3584,7 +3584,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Cloak of Ascendancy",
     "Id": "51334",
-    "Slot": "Back"
+    "Slot": 15
   },
   "51346": {
     "ItemLevel": "264",
@@ -3607,7 +3607,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Cloak of Salvation",
     "Id": "51346",
-    "Slot": "Back"
+    "Slot": 15
   },
   "51348": {
     "ItemLevel": "264",
@@ -3630,7 +3630,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Cloak of Deliverance",
     "Id": "51348",
-    "Slot": "Back"
+    "Slot": 15
   },
   "51354": {
     "ItemLevel": "264",
@@ -3652,7 +3652,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Cloak of Triumph",
     "Id": "51354",
-    "Slot": "Back"
+    "Slot": 15
   },
   "51356": {
     "ItemLevel": "264",
@@ -3674,7 +3674,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Cloak of Victory",
     "Id": "51356",
-    "Slot": "Back"
+    "Slot": 15
   },
   "51382": {
     "ItemLevel": "251",
@@ -3699,7 +3699,7 @@
     },
     "Name": "Heartsick Mender's Cape",
     "Id": "51382",
-    "Slot": "Back"
+    "Slot": 15
   },
   "51570": {
     "ItemLevel": "245",
@@ -3725,7 +3725,7 @@
     },
     "Name": "Titan-Forged Cloak of Ascendancy",
     "Id": "51570",
-    "Slot": "Back"
+    "Slot": 15
   },
   "51571": {
     "ItemLevel": "245",
@@ -3750,7 +3750,7 @@
     },
     "Name": "Titan-Forged Cloak of Victory",
     "Id": "51571",
-    "Slot": "Back"
+    "Slot": 15
   },
   "51584": {
     "ItemLevel": "251",
@@ -3775,7 +3775,7 @@
     },
     "Name": "Lich Wrappings",
     "Id": "51584",
-    "Slot": "Back"
+    "Slot": 15
   },
   "51826": {
     "ItemLevel": "264",
@@ -3800,7 +3800,7 @@
     },
     "Name": "Lich Wrappings",
     "Id": "51826",
-    "Slot": "Back"
+    "Slot": 15
   },
   "51848": {
     "ItemLevel": "264",
@@ -3825,7 +3825,7 @@
     },
     "Name": "Heartsick Mender's Cape",
     "Id": "51848",
-    "Slot": "Back"
+    "Slot": 15
   },
   "51888": {
     "ItemLevel": "264",
@@ -3850,7 +3850,7 @@
     },
     "Name": "Cloak of Many Skins",
     "Id": "51888",
-    "Slot": "Back"
+    "Slot": 15
   },
   "51912": {
     "ItemLevel": "264",
@@ -3874,7 +3874,7 @@
     },
     "Name": "Saronite Gargoyle Cloak",
     "Id": "51912",
-    "Slot": "Back"
+    "Slot": 15
   },
   "51933": {
     "ItemLevel": "264",
@@ -3899,7 +3899,7 @@
     },
     "Name": "Shawl of Nerubian Silk",
     "Id": "51933",
-    "Slot": "Back"
+    "Slot": 15
   },
   "53115": {
     "ItemLevel": "258",
@@ -3924,7 +3924,7 @@
     },
     "Name": "Abduction's Cover",
     "Id": "53115",
-    "Slot": "Back"
+    "Slot": 15
   },
   "53489": {
     "ItemLevel": "271",
@@ -3949,7 +3949,7 @@
     },
     "Name": "Cloak of Burning Dusk",
     "Id": "53489",
-    "Slot": "Back"
+    "Slot": 15
   },
   "54556": {
     "ItemLevel": "271",
@@ -3974,7 +3974,7 @@
     },
     "Name": "Abduction's Cover",
     "Id": "54556",
-    "Slot": "Back"
+    "Slot": 15
   },
   "54583": {
     "ItemLevel": "284",
@@ -3999,7 +3999,7 @@
     },
     "Name": "Cloak of Burning Dusk",
     "Id": "54583",
-    "Slot": "Back"
+    "Slot": 15
   },
   "54801": {
     "ItemLevel": "232",
@@ -4020,7 +4020,7 @@
     "SocketBonus": "none",
     "Name": "Icebound Cloak",
     "Id": "54801",
-    "Slot": "Back"
+    "Slot": 15
   },
   "54802": {
     "ItemLevel": "232",
@@ -4042,7 +4042,7 @@
     "SocketBonus": "none",
     "Name": "The Frost Lord's War Cloak",
     "Id": "54802",
-    "Slot": "Back"
+    "Slot": 15
   },
   "54803": {
     "ItemLevel": "232",
@@ -4063,7 +4063,7 @@
     "SocketBonus": "none",
     "Name": "The Frost Lord's Battle Shroud",
     "Id": "54803",
-    "Slot": "Back"
+    "Slot": 15
   },
   "54804": {
     "ItemLevel": "232",
@@ -4085,7 +4085,7 @@
     "SocketBonus": "none",
     "Name": "Shroud of Winter's Chill",
     "Id": "54804",
-    "Slot": "Back"
+    "Slot": 15
   },
   "54805": {
     "ItemLevel": "232",
@@ -4107,6 +4107,6 @@
     "SocketBonus": "none",
     "Name": "Cloak of the Frigid Winds",
     "Id": "54805",
-    "Slot": "Back"
+    "Slot": 15
   }
 }

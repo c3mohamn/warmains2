@@ -17,7 +17,7 @@
     "SocketBonus": "none",
     "Name": "Band of Frosted Thorns",
     "Id": "37151",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "37186": {
     "ItemLevel": "200",
@@ -38,7 +38,7 @@
     "SocketBonus": "none",
     "Name": "Unsmashable Heavy Band",
     "Id": "37186",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "37192": {
     "ItemLevel": "200",
@@ -59,7 +59,7 @@
     "SocketBonus": "none",
     "Name": "Annhylde's Ring",
     "Id": "37192",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "37195": {
     "ItemLevel": "200",
@@ -80,7 +80,7 @@
     "SocketBonus": "none",
     "Name": "Band of Enchanted Growth",
     "Id": "37195",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "37232": {
     "ItemLevel": "200",
@@ -101,7 +101,7 @@
     "SocketBonus": "none",
     "Name": "Ring of the Traitor King",
     "Id": "37232",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "37257": {
     "ItemLevel": "200",
@@ -122,7 +122,7 @@
     "SocketBonus": "none",
     "Name": "Band of Torture",
     "Id": "37257",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "37371": {
     "ItemLevel": "200",
@@ -143,7 +143,7 @@
     "SocketBonus": "none",
     "Name": "Ring of the Frenzied Wolvar",
     "Id": "37371",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "37591": {
     "ItemLevel": "200",
@@ -164,7 +164,7 @@
     "SocketBonus": "none",
     "Name": "Nerubian Shield Ring",
     "Id": "37591",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "37624": {
     "ItemLevel": "200",
@@ -185,7 +185,7 @@
     "SocketBonus": "none",
     "Name": "Stained-Glass Shard Ring",
     "Id": "37624",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "37642": {
     "ItemLevel": "200",
@@ -206,7 +206,7 @@
     "SocketBonus": "none",
     "Name": "Hemorrhaging Circle",
     "Id": "37642",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "37651": {
     "ItemLevel": "200",
@@ -227,7 +227,7 @@
     "SocketBonus": "none",
     "Name": "The Prospector's Prize",
     "Id": "37651",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "37685": {
     "ItemLevel": "200",
@@ -248,7 +248,7 @@
     "SocketBonus": "none",
     "Name": "Mobius Band",
     "Id": "37685",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "37694": {
     "ItemLevel": "200",
@@ -269,7 +269,7 @@
     "SocketBonus": "none",
     "Name": "Band of Guile",
     "Id": "37694",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "37732": {
     "ItemLevel": "200",
@@ -290,7 +290,7 @@
     "SocketBonus": "none",
     "Name": "Spectral Seal of the Prophet",
     "Id": "37732",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "37784": {
     "ItemLevel": "200",
@@ -311,7 +311,7 @@
     "SocketBonus": "none",
     "Name": "Keystone Great-Ring",
     "Id": "37784",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "37869": {
     "ItemLevel": "200",
@@ -332,7 +332,7 @@
     "SocketBonus": "none",
     "Name": "Globule Signet",
     "Id": "37869",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "38617": {
     "ItemLevel": "200",
@@ -353,7 +353,7 @@
     "SocketBonus": "none",
     "Name": "Woeful Band",
     "Id": "38617",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "39141": {
     "ItemLevel": "200",
@@ -375,7 +375,7 @@
     "SocketBonus": "none",
     "Name": "Deflection Band",
     "Id": "39141",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "39193": {
     "ItemLevel": "200",
@@ -397,7 +397,7 @@
     "SocketBonus": "none",
     "Name": "Band of Neglected Pleas",
     "Id": "39193",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "39231": {
     "ItemLevel": "200",
@@ -419,7 +419,7 @@
     "SocketBonus": "none",
     "Name": "Timeworn Silken Band",
     "Id": "39231",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "39244": {
     "ItemLevel": "200",
@@ -441,7 +441,7 @@
     "SocketBonus": "none",
     "Name": "Ring of the Fated",
     "Id": "39244",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "39250": {
     "ItemLevel": "200",
@@ -463,7 +463,7 @@
     "SocketBonus": "none",
     "Name": "Ring of Holy Cleansing",
     "Id": "39250",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "39277": {
     "ItemLevel": "200",
@@ -485,7 +485,7 @@
     "SocketBonus": "none",
     "Name": "Sealing Ring of Grobbulus",
     "Id": "39277",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "39389": {
     "ItemLevel": "200",
@@ -507,7 +507,7 @@
     "SocketBonus": "none",
     "Name": "Signet of the Malevolent",
     "Id": "39389",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "39401": {
     "ItemLevel": "200",
@@ -528,7 +528,7 @@
     "SocketBonus": "none",
     "Name": "Circle of Death",
     "Id": "39401",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "39407": {
     "ItemLevel": "200",
@@ -550,7 +550,7 @@
     "SocketBonus": "none",
     "Name": "Circle of Life",
     "Id": "39407",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "40074": {
     "ItemLevel": "213",
@@ -572,7 +572,7 @@
     "SocketBonus": "none",
     "Name": "Strong-Handed Ring",
     "Id": "40074",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "40075": {
     "ItemLevel": "213",
@@ -593,7 +593,7 @@
     "SocketBonus": "none",
     "Name": "Ruthlessness",
     "Id": "40075",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "40080": {
     "ItemLevel": "213",
@@ -615,7 +615,7 @@
     "SocketBonus": "none",
     "Name": "Lost Jewel",
     "Id": "40080",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "40107": {
     "ItemLevel": "213",
@@ -637,7 +637,7 @@
     "SocketBonus": "none",
     "Name": "Sand-Worn Band",
     "Id": "40107",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "40108": {
     "ItemLevel": "213",
@@ -659,7 +659,7 @@
     "SocketBonus": "none",
     "Name": "Seized Beauty",
     "Id": "40108",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "40370": {
     "ItemLevel": "213",
@@ -681,7 +681,7 @@
     "SocketBonus": "none",
     "Name": "Gatekeeper",
     "Id": "40370",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "40375": {
     "ItemLevel": "213",
@@ -703,7 +703,7 @@
     "SocketBonus": "none",
     "Name": "Ring of Decaying Beauty",
     "Id": "40375",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "40399": {
     "ItemLevel": "226",
@@ -725,7 +725,7 @@
     "SocketBonus": "none",
     "Name": "Signet of Manifested Pain",
     "Id": "40399",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "40426": {
     "ItemLevel": "200",
@@ -747,7 +747,7 @@
     "SocketBonus": "none",
     "Name": "Signet of the Accord",
     "Id": "40426",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "40433": {
     "ItemLevel": "213",
@@ -769,7 +769,7 @@
     "SocketBonus": "none",
     "Name": "Wyrmrest Band",
     "Id": "40433",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "40474": {
     "ItemLevel": "213",
@@ -791,7 +791,7 @@
     "SocketBonus": "none",
     "Name": "Surge Needle Ring",
     "Id": "40474",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "40585": {
     "ItemLevel": "200",
@@ -813,7 +813,7 @@
     "SocketBonus": "none",
     "Name": "Signet of the Kirin Tor",
     "Id": "40585",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "40586": {
     "ItemLevel": "200",
@@ -835,7 +835,7 @@
     "SocketBonus": "none",
     "Name": "Band of the Kirin Tor",
     "Id": "40586",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "40717": {
     "ItemLevel": "213",
@@ -857,7 +857,7 @@
     "SocketBonus": "none",
     "Name": "Ring of Invincibility",
     "Id": "40717",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "40718": {
     "ItemLevel": "213",
@@ -879,7 +879,7 @@
     "SocketBonus": "none",
     "Name": "Signet of the Impregnable Fortress",
     "Id": "40718",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "40719": {
     "ItemLevel": "213",
@@ -901,7 +901,7 @@
     "SocketBonus": "none",
     "Name": "Band of Channeled Magic",
     "Id": "40719",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "40720": {
     "ItemLevel": "213",
@@ -923,7 +923,7 @@
     "SocketBonus": "none",
     "Name": "Renewal of Life",
     "Id": "40720",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "42114": {
     "ItemLevel": "213",
@@ -945,7 +945,7 @@
     "SocketBonus": "none",
     "Name": "Deadly Gladiator's Band of Ascendancy",
     "Id": "42114",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "42115": {
     "ItemLevel": "213",
@@ -966,7 +966,7 @@
     "SocketBonus": "none",
     "Name": "Deadly Gladiator's Band of Victory",
     "Id": "42115",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "42116": {
     "ItemLevel": "226",
@@ -988,7 +988,7 @@
     "SocketBonus": "none",
     "Name": "Furious Gladiator's Band of Dominance",
     "Id": "42116",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "42117": {
     "ItemLevel": "226",
@@ -1009,7 +1009,7 @@
     "SocketBonus": "none",
     "Name": "Furious Gladiator's Band of Triumph",
     "Id": "42117",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "42118": {
     "ItemLevel": "245",
@@ -1031,7 +1031,7 @@
     "SocketBonus": "none",
     "Name": "Relentless Gladiator's Band of Ascendancy",
     "Id": "42118",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "42119": {
     "ItemLevel": "245",
@@ -1052,7 +1052,7 @@
     "SocketBonus": "none",
     "Name": "Relentless Gladiator's Band of Victory",
     "Id": "42119",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "42642": {
     "ItemLevel": "200",
@@ -1076,7 +1076,7 @@
     },
     "Name": "Titanium Impact Band",
     "Id": "42642",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "42643": {
     "ItemLevel": "200",
@@ -1100,7 +1100,7 @@
     },
     "Name": "Titanium Earthguard Ring",
     "Id": "42643",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "42644": {
     "ItemLevel": "200",
@@ -1124,7 +1124,7 @@
     },
     "Name": "Titanium Spellshock Ring",
     "Id": "42644",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "43408": {
     "ItemLevel": "200",
@@ -1145,7 +1145,7 @@
     "SocketBonus": "none",
     "Name": "Solitaire of Reflecting Beams",
     "Id": "43408",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "43582": {
     "ItemLevel": "213",
@@ -1167,7 +1167,7 @@
     },
     "Name": "Titanium Frostguard Ring",
     "Id": "43582",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "43993": {
     "ItemLevel": "213",
@@ -1192,7 +1192,7 @@
     },
     "Name": "Greatring of Collision",
     "Id": "43993",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "44283": {
     "ItemLevel": "200",
@@ -1213,7 +1213,7 @@
     "SocketBonus": "none",
     "Name": "Signet of Hopeful Light",
     "Id": "44283",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "44308": {
     "ItemLevel": "200",
@@ -1247,7 +1247,7 @@
     "SocketBonus": "none",
     "Name": "Signet of Edward the Odd",
     "Id": "44308",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "44934": {
     "ItemLevel": "200",
@@ -1269,7 +1269,7 @@
     "SocketBonus": "none",
     "Name": "Loop of the Kirin Tor",
     "Id": "44934",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "44935": {
     "ItemLevel": "200",
@@ -1290,7 +1290,7 @@
     "SocketBonus": "none",
     "Name": "Ring of the Kirin Tor",
     "Id": "44935",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45106": {
     "ItemLevel": "226",
@@ -1311,7 +1311,7 @@
     "SocketBonus": "none",
     "Name": "Strength of the Automaton",
     "Id": "45106",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45112": {
     "ItemLevel": "226",
@@ -1333,7 +1333,7 @@
     "SocketBonus": "none",
     "Name": "The Leviathan's Coil",
     "Id": "45112",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45113": {
     "ItemLevel": "226",
@@ -1355,7 +1355,7 @@
     "SocketBonus": "none",
     "Name": "Glowing Ring of Reclamation",
     "Id": "45113",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45157": {
     "ItemLevel": "226",
@@ -1377,7 +1377,7 @@
     "SocketBonus": "none",
     "Name": "Cindershard Ring",
     "Id": "45157",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45168": {
     "ItemLevel": "226",
@@ -1399,7 +1399,7 @@
     "SocketBonus": "none",
     "Name": "Pyrelight Circle",
     "Id": "45168",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45235": {
     "ItemLevel": "226",
@@ -1421,7 +1421,7 @@
     "SocketBonus": "none",
     "Name": "Radiant Seal",
     "Id": "45235",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45247": {
     "ItemLevel": "226",
@@ -1443,7 +1443,7 @@
     "SocketBonus": "none",
     "Name": "Signet of the Earthshaker",
     "Id": "45247",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45250": {
     "ItemLevel": "226",
@@ -1464,7 +1464,7 @@
     "SocketBonus": "none",
     "Name": "Crazed Construct Ring",
     "Id": "45250",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45297": {
     "ItemLevel": "226",
@@ -1489,7 +1489,7 @@
     },
     "Name": "Shimmering Seal",
     "Id": "45297",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45303": {
     "ItemLevel": "219",
@@ -1511,7 +1511,7 @@
     "SocketBonus": "none",
     "Name": "Band of Draconic Guile",
     "Id": "45303",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45326": {
     "ItemLevel": "226",
@@ -1533,7 +1533,7 @@
     "SocketBonus": "none",
     "Name": "Platinum Band of the Aesir",
     "Id": "45326",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45418": {
     "ItemLevel": "219",
@@ -1555,7 +1555,7 @@
     "SocketBonus": "none",
     "Name": "Lady Maye's Sapphire Ring",
     "Id": "45418",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45438": {
     "ItemLevel": "226",
@@ -1577,7 +1577,7 @@
     "SocketBonus": "none",
     "Name": "Ring of the Faithful Servant",
     "Id": "45438",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45451": {
     "ItemLevel": "226",
@@ -1599,7 +1599,7 @@
     "SocketBonus": "none",
     "Name": "Frozen Loop",
     "Id": "45451",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45456": {
     "ItemLevel": "226",
@@ -1624,7 +1624,7 @@
     },
     "Name": "Loop of the Agile",
     "Id": "45456",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45469": {
     "ItemLevel": "226",
@@ -1645,7 +1645,7 @@
     "SocketBonus": "none",
     "Name": "Sif's Promise",
     "Id": "45469",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45471": {
     "ItemLevel": "239",
@@ -1670,7 +1670,7 @@
     },
     "Name": "Fate's Clutch",
     "Id": "45471",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45495": {
     "ItemLevel": "239",
@@ -1695,7 +1695,7 @@
     },
     "Name": "Conductive Seal",
     "Id": "45495",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45503": {
     "ItemLevel": "226",
@@ -1717,7 +1717,7 @@
     "SocketBonus": "none",
     "Name": "Metallic Loop of the Sufferer",
     "Id": "45503",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45515": {
     "ItemLevel": "226",
@@ -1739,7 +1739,7 @@
     "SocketBonus": "none",
     "Name": "Ring of the Vacant Eye",
     "Id": "45515",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45525": {
     "ItemLevel": "226",
@@ -1761,7 +1761,7 @@
     "SocketBonus": "none",
     "Name": "Godbane Signet",
     "Id": "45525",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45530": {
     "ItemLevel": "226",
@@ -1783,7 +1783,7 @@
     "SocketBonus": "none",
     "Name": "Sanity's Bond",
     "Id": "45530",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45534": {
     "ItemLevel": "239",
@@ -1807,7 +1807,7 @@
     },
     "Name": "Seal of the Betrayed King",
     "Id": "45534",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45540": {
     "ItemLevel": "226",
@@ -1828,7 +1828,7 @@
     "SocketBonus": "none",
     "Name": "Bladebearer's Signet",
     "Id": "45540",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45608": {
     "ItemLevel": "239",
@@ -1853,7 +1853,7 @@
     },
     "Name": "Brann's Signet Ring",
     "Id": "45608",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45614": {
     "ItemLevel": "239",
@@ -1878,7 +1878,7 @@
     },
     "Name": "Starshine Circle",
     "Id": "45614",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45675": {
     "ItemLevel": "219",
@@ -1899,7 +1899,7 @@
     "SocketBonus": "none",
     "Name": "Power Enhancing Loop",
     "Id": "45675",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45688": {
     "ItemLevel": "213",
@@ -1921,7 +1921,7 @@
     "SocketBonus": "none",
     "Name": "Inscribed Band of the Kirin Tor",
     "Id": "45688",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45689": {
     "ItemLevel": "213",
@@ -1943,7 +1943,7 @@
     "SocketBonus": "none",
     "Name": "Inscribed Loop of the Kirin Tor",
     "Id": "45689",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45690": {
     "ItemLevel": "213",
@@ -1964,7 +1964,7 @@
     "SocketBonus": "none",
     "Name": "Inscribed Ring of the Kirin Tor",
     "Id": "45690",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45691": {
     "ItemLevel": "213",
@@ -1986,7 +1986,7 @@
     "SocketBonus": "none",
     "Name": "Inscribed Signet of the Kirin Tor",
     "Id": "45691",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45702": {
     "ItemLevel": "219",
@@ -2008,7 +2008,7 @@
     "SocketBonus": "none",
     "Name": "Emerald Signet Ring",
     "Id": "45702",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45808": {
     "ItemLevel": "200",
@@ -2029,7 +2029,7 @@
     "SocketBonus": "none",
     "Name": "Runed Mana Band",
     "Id": "45808",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45809": {
     "ItemLevel": "200",
@@ -2049,7 +2049,7 @@
     "SocketBonus": "none",
     "Name": "Scarlet Signet",
     "Id": "45809",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45871": {
     "ItemLevel": "226",
@@ -2074,7 +2074,7 @@
     },
     "Name": "Seal of Ulduar",
     "Id": "45871",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45874": {
     "ItemLevel": "219",
@@ -2096,7 +2096,7 @@
     "SocketBonus": "none",
     "Name": "Signet of Winter",
     "Id": "45874",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45946": {
     "ItemLevel": "226",
@@ -2121,7 +2121,7 @@
     },
     "Name": "Fire Orchid Signet",
     "Id": "45946",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "45994": {
     "ItemLevel": "200",
@@ -2137,7 +2137,7 @@
     "SocketBonus": "none",
     "Name": "Lost Ring",
     "Id": "45994",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "46010": {
     "ItemLevel": "219",
@@ -2158,7 +2158,7 @@
     "SocketBonus": "none",
     "Name": "Darkstone Ring",
     "Id": "46010",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "46046": {
     "ItemLevel": "226",
@@ -2183,7 +2183,7 @@
     },
     "Name": "Nebula Band",
     "Id": "46046",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "46048": {
     "ItemLevel": "226",
@@ -2208,7 +2208,7 @@
     },
     "Name": "Band of Lights",
     "Id": "46048",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "46096": {
     "ItemLevel": "226",
@@ -2233,7 +2233,7 @@
     },
     "Name": "Signet of Soft Lament",
     "Id": "46096",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "46322": {
     "ItemLevel": "226",
@@ -2258,7 +2258,7 @@
     },
     "Name": "Brann's Sealing Ring",
     "Id": "46322",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "46323": {
     "ItemLevel": "226",
@@ -2283,7 +2283,7 @@
     },
     "Name": "Starshine Signet",
     "Id": "46323",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "46959": {
     "ItemLevel": "245",
@@ -2304,7 +2304,7 @@
     "SocketBonus": "none",
     "Name": "Band of the Violent Temperment",
     "Id": "46959",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "46966": {
     "ItemLevel": "258",
@@ -2328,7 +2328,7 @@
     },
     "Name": "Band of the Violent Temperment",
     "Id": "46966",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47054": {
     "ItemLevel": "245",
@@ -2350,7 +2350,7 @@
     "SocketBonus": "none",
     "Name": "Band of Deplorable Violence",
     "Id": "47054",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47070": {
     "ItemLevel": "245",
@@ -2372,7 +2372,7 @@
     "SocketBonus": "none",
     "Name": "Ring of Callous Aggression",
     "Id": "47070",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47075": {
     "ItemLevel": "258",
@@ -2397,7 +2397,7 @@
     },
     "Name": "Ring of Callous Aggression",
     "Id": "47075",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47149": {
     "ItemLevel": "245",
@@ -2419,7 +2419,7 @@
     "SocketBonus": "none",
     "Name": "Signet of the Traitor King",
     "Id": "47149",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47157": {
     "ItemLevel": "258",
@@ -2444,7 +2444,7 @@
     },
     "Name": "Signet of the Traitor King",
     "Id": "47157",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47200": {
     "ItemLevel": "200",
@@ -2466,7 +2466,7 @@
     "SocketBonus": "none",
     "Name": "Signet of Purity",
     "Id": "47200",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47222": {
     "ItemLevel": "200",
@@ -2488,7 +2488,7 @@
     "SocketBonus": "none",
     "Name": "Uruka's Band of Zeal",
     "Id": "47222",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47223": {
     "ItemLevel": "245",
@@ -2510,7 +2510,7 @@
     "SocketBonus": "none",
     "Name": "Ring of the Darkmender",
     "Id": "47223",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47224": {
     "ItemLevel": "258",
@@ -2535,7 +2535,7 @@
     },
     "Name": "Ring of the Darkmender",
     "Id": "47224",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47237": {
     "ItemLevel": "258",
@@ -2560,7 +2560,7 @@
     },
     "Name": "Band of Deplorable Violence",
     "Id": "47237",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47243": {
     "ItemLevel": "219",
@@ -2585,7 +2585,7 @@
     },
     "Name": "Mark of the Relentless",
     "Id": "47243",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47252": {
     "ItemLevel": "245",
@@ -2606,7 +2606,7 @@
     "SocketBonus": "none",
     "Name": "Ring of the Violent Temperament",
     "Id": "47252",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47278": {
     "ItemLevel": "245",
@@ -2628,7 +2628,7 @@
     "SocketBonus": "none",
     "Name": "Circle of the Darkmender",
     "Id": "47278",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47282": {
     "ItemLevel": "245",
@@ -2650,7 +2650,7 @@
     "SocketBonus": "none",
     "Name": "Band of Callous Aggression",
     "Id": "47282",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47315": {
     "ItemLevel": "245",
@@ -2672,7 +2672,7 @@
     "SocketBonus": "none",
     "Name": "Band of the Traitor King",
     "Id": "47315",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47327": {
     "ItemLevel": "245",
@@ -2694,7 +2694,7 @@
     "SocketBonus": "none",
     "Name": "Lurid Manifestation",
     "Id": "47327",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47413": {
     "ItemLevel": "258",
@@ -2718,7 +2718,7 @@
     },
     "Name": "Ring of the Violent Temperament",
     "Id": "47413",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47439": {
     "ItemLevel": "258",
@@ -2743,7 +2743,7 @@
     },
     "Name": "Circle of the Darkmender",
     "Id": "47439",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47443": {
     "ItemLevel": "258",
@@ -2768,7 +2768,7 @@
     },
     "Name": "Band of Callous Aggression",
     "Id": "47443",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47476": {
     "ItemLevel": "258",
@@ -2793,7 +2793,7 @@
     },
     "Name": "Band of the Traitor King",
     "Id": "47476",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47489": {
     "ItemLevel": "258",
@@ -2818,7 +2818,7 @@
     },
     "Name": "Lurid Manifestation",
     "Id": "47489",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47512": {
     "ItemLevel": "219",
@@ -2840,7 +2840,7 @@
     "SocketBonus": "none",
     "Name": "Sinner's Confession",
     "Id": "47512",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47578": {
     "ItemLevel": "232",
@@ -2864,7 +2864,7 @@
     },
     "Name": "Carnivorous Band",
     "Id": "47578",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47618": {
     "ItemLevel": "232",
@@ -2886,7 +2886,7 @@
     "SocketBonus": "none",
     "Name": "Firestorm Ring",
     "Id": "47618",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47700": {
     "ItemLevel": "232",
@@ -2908,7 +2908,7 @@
     "SocketBonus": "none",
     "Name": "Loop of the Twin Val'kyr",
     "Id": "47700",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47703": {
     "ItemLevel": "232",
@@ -2933,7 +2933,7 @@
     },
     "Name": "Planestalker Signet",
     "Id": "47703",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47729": {
     "ItemLevel": "245",
@@ -2954,7 +2954,7 @@
     "SocketBonus": "none",
     "Name": "Bloodshed Band",
     "Id": "47729",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47730": {
     "ItemLevel": "245",
@@ -2976,7 +2976,7 @@
     "SocketBonus": "none",
     "Name": "Dexterous Brightstone Ring",
     "Id": "47730",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47731": {
     "ItemLevel": "245",
@@ -2998,7 +2998,7 @@
     "SocketBonus": "none",
     "Name": "Clutch of Fortification",
     "Id": "47731",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47732": {
     "ItemLevel": "245",
@@ -3020,7 +3020,7 @@
     "SocketBonus": "none",
     "Name": "Band of the Invoker",
     "Id": "47732",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47733": {
     "ItemLevel": "245",
@@ -3042,7 +3042,7 @@
     "SocketBonus": "none",
     "Name": "Heartmender Circle",
     "Id": "47733",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47854": {
     "ItemLevel": "232",
@@ -3066,7 +3066,7 @@
     },
     "Name": "Gormok's Band",
     "Id": "47854",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47862": {
     "ItemLevel": "232",
@@ -3088,7 +3088,7 @@
     "SocketBonus": "none",
     "Name": "Firestorm Band",
     "Id": "47862",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47868": {
     "ItemLevel": "232",
@@ -3113,7 +3113,7 @@
     },
     "Name": "Planestalker Band",
     "Id": "47868",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47888": {
     "ItemLevel": "232",
@@ -3135,7 +3135,7 @@
     "SocketBonus": "none",
     "Name": "Band of the Twin Val'kyr",
     "Id": "47888",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47920": {
     "ItemLevel": "245",
@@ -3160,7 +3160,7 @@
     },
     "Name": "Carnivorous Band",
     "Id": "47920",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47928": {
     "ItemLevel": "245",
@@ -3185,7 +3185,7 @@
     },
     "Name": "Firestorm Ring",
     "Id": "47928",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47934": {
     "ItemLevel": "245",
@@ -3210,7 +3210,7 @@
     },
     "Name": "Planestalker Signet",
     "Id": "47934",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47955": {
     "ItemLevel": "245",
@@ -3235,7 +3235,7 @@
     },
     "Name": "Loop of the Twin Val'kyr",
     "Id": "47955",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "47993": {
     "ItemLevel": "245",
@@ -3260,7 +3260,7 @@
     },
     "Name": "Gormok's Band",
     "Id": "47993",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "48001": {
     "ItemLevel": "245",
@@ -3285,7 +3285,7 @@
     },
     "Name": "Firestorm Band",
     "Id": "48001",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "48007": {
     "ItemLevel": "245",
@@ -3310,7 +3310,7 @@
     },
     "Name": "Planestalker Band",
     "Id": "48007",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "48027": {
     "ItemLevel": "245",
@@ -3335,7 +3335,7 @@
     },
     "Name": "Band of the Twin Val'kyr",
     "Id": "48027",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "48954": {
     "ItemLevel": "226",
@@ -3357,7 +3357,7 @@
     "SocketBonus": "none",
     "Name": "Etched Band of the Kirin Tor",
     "Id": "48954",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "48955": {
     "ItemLevel": "226",
@@ -3379,7 +3379,7 @@
     "SocketBonus": "none",
     "Name": "Etched Loop of the Kirin Tor",
     "Id": "48955",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "48956": {
     "ItemLevel": "226",
@@ -3400,7 +3400,7 @@
     "SocketBonus": "none",
     "Name": "Etched Ring of the Kirin Tor",
     "Id": "48956",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "48957": {
     "ItemLevel": "226",
@@ -3422,7 +3422,7 @@
     "SocketBonus": "none",
     "Name": "Etched Signet of the Kirin Tor",
     "Id": "48957",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "48999": {
     "ItemLevel": "226",
@@ -3444,7 +3444,7 @@
     "SocketBonus": "none",
     "Name": "Titan-Forged Band of Ascendancy",
     "Id": "48999",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "49000": {
     "ItemLevel": "226",
@@ -3465,7 +3465,7 @@
     "SocketBonus": "none",
     "Name": "Titan-Forged Band of Victory",
     "Id": "49000",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "49309": {
     "ItemLevel": "232",
@@ -3490,7 +3490,7 @@
     "SocketBonus": "none",
     "Name": "Runed Ring of Binding",
     "Id": "49309",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "49486": {
     "ItemLevel": "245",
@@ -3512,7 +3512,7 @@
     "SocketBonus": "none",
     "Name": "Polished Dragonslayer's Signet",
     "Id": "49486",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "49489": {
     "ItemLevel": "245",
@@ -3537,7 +3537,7 @@
     "SocketBonus": "none",
     "Name": "Signified Ring of Binding",
     "Id": "49489",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "49800": {
     "ItemLevel": "219",
@@ -3559,7 +3559,7 @@
     "SocketBonus": "none",
     "Name": "Spiteful Signet",
     "Id": "49800",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "49803": {
     "ItemLevel": "219",
@@ -3581,7 +3581,7 @@
     "SocketBonus": "none",
     "Name": "Ring of Carnelian and Bone",
     "Id": "49803",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "49812": {
     "ItemLevel": "219",
@@ -3602,7 +3602,7 @@
     "SocketBonus": "none",
     "Name": "Purloined Wedding Ring",
     "Id": "49812",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "49949": {
     "ItemLevel": "264",
@@ -3628,7 +3628,7 @@
     "UniqueId": "50604",
     "Name": "Band of the Bone Colossus",
     "Id": "49949",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "49967": {
     "ItemLevel": "264",
@@ -3654,7 +3654,7 @@
     "UniqueId": "50610",
     "Name": "Marrowgar's Frigid Eye",
     "Id": "49967",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "49977": {
     "ItemLevel": "264",
@@ -3680,7 +3680,7 @@
     "UniqueId": "50614",
     "Name": "Loop of the Endless Labyrinth",
     "Id": "49977",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "49985": {
     "ItemLevel": "264",
@@ -3706,7 +3706,7 @@
     "UniqueId": "50642",
     "Name": "Juggernaut Band",
     "Id": "49985",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "49990": {
     "ItemLevel": "264",
@@ -3732,7 +3732,7 @@
     "UniqueId": "50644",
     "Name": "Ring of Maddening Whispers",
     "Id": "49990",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "49999": {
     "ItemLevel": "264",
@@ -3757,7 +3757,7 @@
     "UniqueId": "50657",
     "Name": "Skeleton Lord's Circle",
     "Id": "49999",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50008": {
     "ItemLevel": "264",
@@ -3783,7 +3783,7 @@
     "UniqueId": "50664",
     "Name": "Ring of Rapid Ascent",
     "Id": "50008",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50025": {
     "ItemLevel": "264",
@@ -3809,7 +3809,7 @@
     "UniqueId": "50678",
     "Name": "Seal of Many Mouths",
     "Id": "50025",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50170": {
     "ItemLevel": "264",
@@ -3835,7 +3835,7 @@
     "UniqueId": "50714",
     "Name": "Valanar's Other Signet Ring",
     "Id": "50170",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50174": {
     "ItemLevel": "264",
@@ -3861,7 +3861,7 @@
     "UniqueId": "50720",
     "Name": "Incarnadine Band of Mending",
     "Id": "50174",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50185": {
     "ItemLevel": "264",
@@ -3887,7 +3887,7 @@
     "UniqueId": "50622",
     "Name": "Devium's Eternally Cold Ring",
     "Id": "50185",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50186": {
     "ItemLevel": "264",
@@ -3913,7 +3913,7 @@
     "UniqueId": "50618",
     "Name": "Frostbrood Sapphire Ring",
     "Id": "50186",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50271": {
     "ItemLevel": "232",
@@ -3935,7 +3935,7 @@
     "SocketBonus": "none",
     "Name": "Band of Stained Souls",
     "Id": "50271",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50306": {
     "ItemLevel": "232",
@@ -3956,7 +3956,7 @@
     "SocketBonus": "none",
     "Name": "The Lady's Promise",
     "Id": "50306",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50313": {
     "ItemLevel": "232",
@@ -3978,7 +3978,7 @@
     "SocketBonus": "none",
     "Name": "Oath of Empress Zoe",
     "Id": "50313",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50375": {
     "ItemLevel": "251",
@@ -4001,7 +4001,7 @@
     "UniqueId": "50403",
     "Name": "Ashen Band of Courage",
     "Id": "50375",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50376": {
     "ItemLevel": "251",
@@ -4024,7 +4024,7 @@
     "UniqueId": "50376",
     "Name": "Ashen Band of Vengeance",
     "Id": "50376",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50377": {
     "ItemLevel": "251",
@@ -4047,7 +4047,7 @@
     "UniqueId": "50397",
     "Name": "Ashen Band of Destruction",
     "Id": "50377",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50378": {
     "ItemLevel": "251",
@@ -4070,7 +4070,7 @@
     "UniqueId": "50378",
     "Name": "Ashen Band of Wisdom",
     "Id": "50378",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50384": {
     "ItemLevel": "259",
@@ -4093,7 +4093,7 @@
     "UniqueId": "50397",
     "Name": "Ashen Band of Greater Destruction",
     "Id": "50384",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50386": {
     "ItemLevel": "259",
@@ -4116,7 +4116,7 @@
     "UniqueId": "50378",
     "Name": "Ashen Band of Greater Wisdom",
     "Id": "50386",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50387": {
     "ItemLevel": "259",
@@ -4139,7 +4139,7 @@
     "UniqueId": "50376",
     "Name": "Ashen Band of Greater Vengeance",
     "Id": "50387",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50388": {
     "ItemLevel": "259",
@@ -4162,7 +4162,7 @@
     "UniqueId": "50403",
     "Name": "Ashen Band of Greater Courage",
     "Id": "50388",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50397": {
     "ItemLevel": "268",
@@ -4198,7 +4198,7 @@
     "UniqueId": "50397",
     "Name": "Ashen Band of Unmatched Destruction",
     "Id": "50397",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50398": {
     "ItemLevel": "277",
@@ -4237,7 +4237,7 @@
     "UniqueId": "50397",
     "Name": "Ashen Band of Endless Destruction",
     "Id": "50398",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50399": {
     "ItemLevel": "268",
@@ -4273,7 +4273,7 @@
     "UniqueId": "50378",
     "Name": "Ashen Band of Unmatched Wisdom",
     "Id": "50399",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50400": {
     "ItemLevel": "277",
@@ -4312,7 +4312,7 @@
     "UniqueId": "50378",
     "Name": "Ashen Band of Endless Wisdom",
     "Id": "50400",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50401": {
     "ItemLevel": "268",
@@ -4348,7 +4348,7 @@
     "UniqueId": "50376",
     "Name": "Ashen Band of Unmatched Vengeance",
     "Id": "50401",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50402": {
     "ItemLevel": "277",
@@ -4387,7 +4387,7 @@
     "UniqueId": "50376",
     "Name": "Ashen Band of Endless Vengeance",
     "Id": "50402",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50403": {
     "ItemLevel": "268",
@@ -4423,7 +4423,7 @@
     "UniqueId": "50403",
     "Name": "Ashen Band of Unmatched Courage",
     "Id": "50403",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50404": {
     "ItemLevel": "277",
@@ -4462,7 +4462,7 @@
     "UniqueId": "50403",
     "Name": "Ashen Band of Endless Courage",
     "Id": "50404",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50414": {
     "ItemLevel": "264",
@@ -4487,7 +4487,7 @@
     "UniqueId": "50693",
     "Name": "Might of Blight",
     "Id": "50414",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50424": {
     "ItemLevel": "264",
@@ -4513,7 +4513,7 @@
     "UniqueId": "50636",
     "Name": "Memory of Malygos",
     "Id": "50424",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50447": {
     "ItemLevel": "264",
@@ -4538,7 +4538,7 @@
     },
     "Name": "Harbinger's Bone Band",
     "Id": "50447",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50453": {
     "ItemLevel": "264",
@@ -4562,7 +4562,7 @@
     },
     "Name": "Ring of Rotting Sinew",
     "Id": "50453",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50604": {
     "ItemLevel": "277",
@@ -4588,7 +4588,7 @@
     "UniqueId": "50604",
     "Name": "Band of the Bone Colossus",
     "Id": "50604",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50610": {
     "ItemLevel": "277",
@@ -4614,7 +4614,7 @@
     "UniqueId": "50610",
     "Name": "Marrowgar's Frigid Eye",
     "Id": "50610",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50614": {
     "ItemLevel": "277",
@@ -4640,7 +4640,7 @@
     "UniqueId": "50614",
     "Name": "Loop of the Endless Labyrinth",
     "Id": "50614",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50618": {
     "ItemLevel": "277",
@@ -4666,7 +4666,7 @@
     "UniqueId": "50618",
     "Name": "Frostbrood Sapphire Ring",
     "Id": "50618",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50622": {
     "ItemLevel": "277",
@@ -4692,7 +4692,7 @@
     "UniqueId": "50622",
     "Name": "Devium's Eternally Cold Ring",
     "Id": "50622",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50636": {
     "ItemLevel": "277",
@@ -4718,7 +4718,7 @@
     "UniqueId": "50636",
     "Name": "Memory of Malygos",
     "Id": "50636",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50642": {
     "ItemLevel": "277",
@@ -4744,7 +4744,7 @@
     "UniqueId": "50642",
     "Name": "Juggernaut Band",
     "Id": "50642",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50644": {
     "ItemLevel": "277",
@@ -4770,7 +4770,7 @@
     "UniqueId": "50644",
     "Name": "Ring of Maddening Whispers",
     "Id": "50644",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50657": {
     "ItemLevel": "277",
@@ -4795,7 +4795,7 @@
     "UniqueId": "50657",
     "Name": "Skeleton Lord's Circle",
     "Id": "50657",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50664": {
     "ItemLevel": "277",
@@ -4821,7 +4821,7 @@
     "UniqueId": "50664",
     "Name": "Ring of Rapid Ascent",
     "Id": "50664",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50678": {
     "ItemLevel": "277",
@@ -4847,7 +4847,7 @@
     "UniqueId": "50678",
     "Name": "Seal of Many Mouths",
     "Id": "50678",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50693": {
     "ItemLevel": "277",
@@ -4872,7 +4872,7 @@
     "UniqueId": "50693",
     "Name": "Might of Blight",
     "Id": "50693",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50714": {
     "ItemLevel": "277",
@@ -4898,7 +4898,7 @@
     "UniqueId": "50714",
     "Name": "Valanar's Other Signet Ring",
     "Id": "50714",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50720": {
     "ItemLevel": "277",
@@ -4924,7 +4924,7 @@
     "UniqueId": "50720",
     "Name": "Incarnadine Band of Mending",
     "Id": "50720",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50790": {
     "ItemLevel": "251",
@@ -4950,7 +4950,7 @@
     "UniqueId": "51913",
     "Name": "Abomination's Bloody Ring",
     "Id": "50790",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50803": {
     "ItemLevel": "251",
@@ -4976,7 +4976,7 @@
     "UniqueId": "51900",
     "Name": "Saurfang's Cold-Forged Band",
     "Id": "50803",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "50986": {
     "ItemLevel": "251",
@@ -5002,7 +5002,7 @@
     "UniqueId": "51884",
     "Name": "Signet of Putrefaction",
     "Id": "50986",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "51001": {
     "ItemLevel": "251",
@@ -5027,7 +5027,7 @@
     "UniqueId": "51878",
     "Name": "Rotface's Rupturing Ring",
     "Id": "51001",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "51024": {
     "ItemLevel": "251",
@@ -5052,7 +5052,7 @@
     "UniqueId": "51855",
     "Name": "Thrice Fanged Signet",
     "Id": "51024",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "51336": {
     "ItemLevel": "264",
@@ -5074,7 +5074,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Band of Dominance",
     "Id": "51336",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "51358": {
     "ItemLevel": "264",
@@ -5095,7 +5095,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Band of Triumph",
     "Id": "51358",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "51381": {
     "ItemLevel": "251",
@@ -5121,7 +5121,7 @@
     "UniqueId": "51849",
     "Name": "Cerise Coiled Ring",
     "Id": "51381",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "51387": {
     "ItemLevel": "251",
@@ -5147,7 +5147,7 @@
     "UniqueId": "51843",
     "Name": "Seal of the Twilight Queen",
     "Id": "51387",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "51557": {
     "ItemLevel": "251",
@@ -5169,7 +5169,7 @@
     "SocketBonus": "none",
     "Name": "Runed Signet of the Kirin Tor",
     "Id": "51557",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "51558": {
     "ItemLevel": "251",
@@ -5191,7 +5191,7 @@
     "SocketBonus": "none",
     "Name": "Runed Loop of the Kirin Tor",
     "Id": "51558",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "51559": {
     "ItemLevel": "251",
@@ -5212,7 +5212,7 @@
     "SocketBonus": "none",
     "Name": "Runed Ring of the Kirin Tor",
     "Id": "51559",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "51560": {
     "ItemLevel": "251",
@@ -5234,7 +5234,7 @@
     "SocketBonus": "none",
     "Name": "Runed Band of the Kirin Tor",
     "Id": "51560",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "51843": {
     "ItemLevel": "264",
@@ -5258,7 +5258,7 @@
     "UniqueId": "51843",
     "Name": "Seal of the Twilight Queen",
     "Id": "51843",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "51849": {
     "ItemLevel": "264",
@@ -5284,7 +5284,7 @@
     "UniqueId": "51849",
     "Name": "Cerise Coiled Ring",
     "Id": "51849",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "51855": {
     "ItemLevel": "264",
@@ -5309,7 +5309,7 @@
     "UniqueId": "51855",
     "Name": "Thrice Fanged Signet",
     "Id": "51855",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "51878": {
     "ItemLevel": "264",
@@ -5334,7 +5334,7 @@
     "UniqueId": "51878",
     "Name": "Rotface's Rupturing Ring",
     "Id": "51878",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "51884": {
     "ItemLevel": "264",
@@ -5360,7 +5360,7 @@
     "UniqueId": "51884",
     "Name": "Signet of Putrefaction",
     "Id": "51884",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "51900": {
     "ItemLevel": "264",
@@ -5386,7 +5386,7 @@
     "UniqueId": "51900",
     "Name": "Saurfang's Cold-Forged Band",
     "Id": "51900",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "51913": {
     "ItemLevel": "264",
@@ -5412,7 +5412,7 @@
     "UniqueId": "51913",
     "Name": "Abomination's Bloody Ring",
     "Id": "51913",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "52569": {
     "ItemLevel": "251",
@@ -5434,7 +5434,7 @@
     "UniqueId": "52571",
     "Name": "Ashen Band of Might",
     "Id": "52569",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "52570": {
     "ItemLevel": "259",
@@ -5456,7 +5456,7 @@
     "UniqueId": "52571",
     "Name": "Ashen Band of Greater Might",
     "Id": "52570",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "52571": {
     "ItemLevel": "268",
@@ -5491,7 +5491,7 @@
     "UniqueId": "52571",
     "Name": "Ashen Band of Unmatched Might",
     "Id": "52571",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "52572": {
     "ItemLevel": "277",
@@ -5529,7 +5529,7 @@
     "UniqueId": "52571",
     "Name": "Ashen Band of Endless Might",
     "Id": "52572",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "53110": {
     "ItemLevel": "258",
@@ -5553,7 +5553,7 @@
     },
     "Name": "Zarithrian's Offering",
     "Id": "53110",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "53116": {
     "ItemLevel": "258",
@@ -5577,7 +5577,7 @@
     },
     "Name": "Saviana's Tribute",
     "Id": "53116",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "53133": {
     "ItemLevel": "271",
@@ -5602,7 +5602,7 @@
     },
     "Name": "Signet of Twilight",
     "Id": "53133",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "53490": {
     "ItemLevel": "271",
@@ -5627,7 +5627,7 @@
     },
     "Name": "Ring of Phased Regeneration",
     "Id": "53490",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "54563": {
     "ItemLevel": "271",
@@ -5652,7 +5652,7 @@
     },
     "Name": "Saviana's Tribute",
     "Id": "54563",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "54567": {
     "ItemLevel": "271",
@@ -5676,7 +5676,7 @@
     },
     "Name": "Zarithrian's Offering",
     "Id": "54567",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "54576": {
     "ItemLevel": "284",
@@ -5701,7 +5701,7 @@
     },
     "Name": "Signet of Twilight",
     "Id": "54576",
-    "Slot": "Finger"
+    "Slot": 20
   },
   "54585": {
     "ItemLevel": "284",
@@ -5726,6 +5726,6 @@
     },
     "Name": "Ring of Phased Regeneration",
     "Id": "54585",
-    "Slot": "Finger"
+    "Slot": 20
   }
 }

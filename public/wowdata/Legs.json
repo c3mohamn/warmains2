@@ -22,7 +22,7 @@
     },
     "Name": "Frozen Forest Kilt",
     "Id": "37155",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "37189": {
     "ItemLevel": "200",
@@ -47,7 +47,7 @@
     },
     "Name": "Breeches of the Caller",
     "Id": "37189",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "37193": {
     "ItemLevel": "200",
@@ -71,7 +71,7 @@
     },
     "Name": "Staggering Legplates",
     "Id": "37193",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "37221": {
     "ItemLevel": "200",
@@ -97,7 +97,7 @@
     },
     "Name": "Hollowed Mandible Legplates",
     "Id": "37221",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "37262": {
     "ItemLevel": "200",
@@ -119,7 +119,7 @@
     "SocketBonus": "none",
     "Name": "Azure Ringmail Leggings",
     "Id": "37262",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "37263": {
     "ItemLevel": "200",
@@ -140,7 +140,7 @@
     "SocketBonus": "none",
     "Name": "Legplates of the Oculus Guardian",
     "Id": "37263",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "37292": {
     "ItemLevel": "200",
@@ -164,7 +164,7 @@
     },
     "Name": "Ley-Guardian's Legguards",
     "Id": "37292",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "37362": {
     "ItemLevel": "200",
@@ -189,7 +189,7 @@
     },
     "Name": "Leggings of Protective Auras",
     "Id": "37362",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "37369": {
     "ItemLevel": "200",
@@ -213,7 +213,7 @@
     },
     "Name": "Sorrowgrave's Breeches",
     "Id": "37369",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "37374": {
     "ItemLevel": "200",
@@ -238,7 +238,7 @@
     },
     "Name": "Ravenous Leggings of the Furbolg",
     "Id": "37374",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "37389": {
     "ItemLevel": "200",
@@ -263,7 +263,7 @@
     },
     "Name": "Crenelation Leggings",
     "Id": "37389",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "37616": {
     "ItemLevel": "200",
@@ -285,7 +285,7 @@
     "SocketBonus": "none",
     "Name": "Kilt of the Forgotten One",
     "Id": "37616",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "37622": {
     "ItemLevel": "200",
@@ -306,7 +306,7 @@
     "SocketBonus": "none",
     "Name": "Skirt of the Old Kingdom",
     "Id": "37622",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "37644": {
     "ItemLevel": "200",
@@ -327,7 +327,7 @@
     "SocketBonus": "none",
     "Name": "Gored Hide Legguards",
     "Id": "37644",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "37650": {
     "ItemLevel": "200",
@@ -351,7 +351,7 @@
     },
     "Name": "Shardling Legguards",
     "Id": "37650",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "37669": {
     "ItemLevel": "200",
@@ -373,7 +373,7 @@
     "SocketBonus": "none",
     "Name": "Leggings of the Stone Halls",
     "Id": "37669",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "37675": {
     "ItemLevel": "200",
@@ -397,7 +397,7 @@
     },
     "Name": "Legplates of Steel Implants",
     "Id": "37675",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "37688": {
     "ItemLevel": "200",
@@ -418,7 +418,7 @@
     "SocketBonus": "none",
     "Name": "Legplates of the Infinite Drakonid",
     "Id": "37688",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "37695": {
     "ItemLevel": "200",
@@ -439,7 +439,7 @@
     "SocketBonus": "none",
     "Name": "Legguards of Nature's Power",
     "Id": "37695",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "37717": {
     "ItemLevel": "200",
@@ -460,7 +460,7 @@
     "SocketBonus": "none",
     "Name": "Legs of Physical Regeneration",
     "Id": "37717",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "37731": {
     "ItemLevel": "200",
@@ -481,7 +481,7 @@
     "SocketBonus": "none",
     "Name": "Opposed Stasis Leggings",
     "Id": "37731",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "37791": {
     "ItemLevel": "200",
@@ -503,7 +503,7 @@
     "SocketBonus": "none",
     "Name": "Leggings of the Winged Serpent",
     "Id": "37791",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "37818": {
     "ItemLevel": "200",
@@ -527,7 +527,7 @@
     },
     "Name": "Patroller's War-Kilt",
     "Id": "37818",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "37854": {
     "ItemLevel": "200",
@@ -548,7 +548,7 @@
     "SocketBonus": "none",
     "Name": "Woven Bracae Leggings",
     "Id": "37854",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "37876": {
     "ItemLevel": "200",
@@ -569,7 +569,7 @@
     "SocketBonus": "none",
     "Name": "Cyanigosa's Leggings",
     "Id": "37876",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "37890": {
     "ItemLevel": "200",
@@ -590,7 +590,7 @@
     "SocketBonus": "none",
     "Name": "Chain Gang Legguards",
     "Id": "37890",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "39191": {
     "ItemLevel": "200",
@@ -616,7 +616,7 @@
     },
     "Name": "Splint-Bound Leggings",
     "Id": "39191",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "39217": {
     "ItemLevel": "200",
@@ -642,7 +642,7 @@
     },
     "Name": "Avenging Combat Leggings",
     "Id": "39217",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "39224": {
     "ItemLevel": "200",
@@ -664,7 +664,7 @@
     "SocketBonus": "none",
     "Name": "Leggings of Discord",
     "Id": "39224",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "39258": {
     "ItemLevel": "200",
@@ -690,7 +690,7 @@
     },
     "Name": "Legplates of Inescapable Death",
     "Id": "39258",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "39280": {
     "ItemLevel": "200",
@@ -715,7 +715,7 @@
     },
     "Name": "Leggings of Innumerable Barbs",
     "Id": "39280",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "39293": {
     "ItemLevel": "200",
@@ -737,7 +737,7 @@
     "SocketBonus": "none",
     "Name": "Blackened Legplates of Feugen",
     "Id": "39293",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "39309": {
     "ItemLevel": "200",
@@ -763,7 +763,7 @@
     },
     "Name": "Leggings of the Instructor",
     "Id": "39309",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "39408": {
     "ItemLevel": "200",
@@ -789,7 +789,7 @@
     },
     "Name": "Leggings of Sapphiron",
     "Id": "39408",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "39493": {
     "ItemLevel": "200",
@@ -817,7 +817,7 @@
     },
     "Name": "Heroes' Frostfire Leggings",
     "Id": "39493",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "39498": {
     "ItemLevel": "200",
@@ -845,7 +845,7 @@
     },
     "Name": "Heroes' Plagueheart Leggings",
     "Id": "39498",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "39517": {
     "ItemLevel": "200",
@@ -873,7 +873,7 @@
     },
     "Name": "Heroes' Leggings of Faith",
     "Id": "39517",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "39528": {
     "ItemLevel": "200",
@@ -901,7 +901,7 @@
     },
     "Name": "Heroes' Pants of Faith",
     "Id": "39528",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "39539": {
     "ItemLevel": "200",
@@ -929,7 +929,7 @@
     },
     "Name": "Heroes' Dreamwalker Leggings",
     "Id": "39539",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "39546": {
     "ItemLevel": "200",
@@ -957,7 +957,7 @@
     },
     "Name": "Heroes' Dreamwalker Trousers",
     "Id": "39546",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "39555": {
     "ItemLevel": "200",
@@ -985,7 +985,7 @@
     },
     "Name": "Heroes' Dreamwalker Legguards",
     "Id": "39555",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "39564": {
     "ItemLevel": "200",
@@ -1013,7 +1013,7 @@
     },
     "Name": "Heroes' Bonescythe Legplates",
     "Id": "39564",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "39580": {
     "ItemLevel": "200",
@@ -1042,7 +1042,7 @@
     },
     "Name": "Heroes' Cryptstalker Legguards",
     "Id": "39580",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "39589": {
     "ItemLevel": "200",
@@ -1070,7 +1070,7 @@
     },
     "Name": "Heroes' Earthshatter Legguards",
     "Id": "39589",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "39595": {
     "ItemLevel": "200",
@@ -1098,7 +1098,7 @@
     },
     "Name": "Heroes' Earthshatter Kilt",
     "Id": "39595",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "39603": {
     "ItemLevel": "200",
@@ -1127,7 +1127,7 @@
     },
     "Name": "Heroes' Earthshatter War-Kilt",
     "Id": "39603",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "39607": {
     "ItemLevel": "200",
@@ -1154,7 +1154,7 @@
     },
     "Name": "Heroes' Dreadnaught Legplates",
     "Id": "39607",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "39612": {
     "ItemLevel": "200",
@@ -1182,7 +1182,7 @@
     },
     "Name": "Heroes' Dreadnaught Legguards",
     "Id": "39612",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "39620": {
     "ItemLevel": "200",
@@ -1209,7 +1209,7 @@
     },
     "Name": "Heroes' Scourgeborne Legplates",
     "Id": "39620",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "39626": {
     "ItemLevel": "200",
@@ -1237,7 +1237,7 @@
     },
     "Name": "Heroes' Scourgeborne Legguards",
     "Id": "39626",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "39630": {
     "ItemLevel": "200",
@@ -1265,7 +1265,7 @@
     },
     "Name": "Heroes' Redemption Greaves",
     "Id": "39630",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "39636": {
     "ItemLevel": "200",
@@ -1292,7 +1292,7 @@
     },
     "Name": "Heroes' Redemption Legplates",
     "Id": "39636",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "39641": {
     "ItemLevel": "200",
@@ -1320,7 +1320,7 @@
     },
     "Name": "Heroes' Redemption Legguards",
     "Id": "39641",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "39720": {
     "ItemLevel": "213",
@@ -1342,7 +1342,7 @@
     "SocketBonus": "none",
     "Name": "Leggings of Atrophy",
     "Id": "39720",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "39761": {
     "ItemLevel": "213",
@@ -1364,7 +1364,7 @@
     "SocketBonus": "none",
     "Name": "Infectious Skitterer Leggings",
     "Id": "39761",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40060": {
     "ItemLevel": "213",
@@ -1386,7 +1386,7 @@
     "SocketBonus": "none",
     "Name": "Distorted Limbs",
     "Id": "40060",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40196": {
     "ItemLevel": "213",
@@ -1408,7 +1408,7 @@
     "SocketBonus": "none",
     "Name": "Legguards of the Undisturbed",
     "Id": "40196",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40201": {
     "ItemLevel": "213",
@@ -1431,7 +1431,7 @@
     "SocketBonus": "none",
     "Name": "Leggings of Colossal Strides",
     "Id": "40201",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40204": {
     "ItemLevel": "213",
@@ -1453,7 +1453,7 @@
     "SocketBonus": "none",
     "Name": "Legguards of the Apostle",
     "Id": "40204",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40240": {
     "ItemLevel": "213",
@@ -1475,7 +1475,7 @@
     "SocketBonus": "none",
     "Name": "Greaves of Turbulence",
     "Id": "40240",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40285": {
     "ItemLevel": "213",
@@ -1497,7 +1497,7 @@
     "SocketBonus": "none",
     "Name": "Desecrated Past",
     "Id": "40285",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40294": {
     "ItemLevel": "213",
@@ -1518,7 +1518,7 @@
     "SocketBonus": "none",
     "Name": "Riveted Abomination Leggings",
     "Id": "40294",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40318": {
     "ItemLevel": "213",
@@ -1543,7 +1543,7 @@
     },
     "Name": "Legplates of Double Strikes",
     "Id": "40318",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40331": {
     "ItemLevel": "213",
@@ -1570,7 +1570,7 @@
     },
     "Name": "Leggings of Failed Escape",
     "Id": "40331",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40333": {
     "ItemLevel": "213",
@@ -1592,7 +1592,7 @@
     "SocketBonus": "none",
     "Name": "Leggings of Fleeting Moments",
     "Id": "40333",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40352": {
     "ItemLevel": "213",
@@ -1618,7 +1618,7 @@
     },
     "Name": "Leggings of Voracious Shadows",
     "Id": "40352",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40363": {
     "ItemLevel": "213",
@@ -1644,7 +1644,7 @@
     },
     "Name": "Bone-Inlaid Legguards",
     "Id": "40363",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40376": {
     "ItemLevel": "213",
@@ -1670,7 +1670,7 @@
     },
     "Name": "Legwraps of the Defeated Dragon",
     "Id": "40376",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40379": {
     "ItemLevel": "213",
@@ -1696,7 +1696,7 @@
     },
     "Name": "Legguards of the Boneyard",
     "Id": "40379",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40398": {
     "ItemLevel": "226",
@@ -1722,7 +1722,7 @@
     },
     "Name": "Leggings of Mortal Arrogance",
     "Id": "40398",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40417": {
     "ItemLevel": "213",
@@ -1750,7 +1750,7 @@
     },
     "Name": "Valorous Frostfire Leggings",
     "Id": "40417",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40422": {
     "ItemLevel": "213",
@@ -1778,7 +1778,7 @@
     },
     "Name": "Valorous Plagueheart Leggings",
     "Id": "40422",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40446": {
     "ItemLevel": "213",
@@ -1800,7 +1800,7 @@
     "SocketBonus": "none",
     "Name": "Dragon Brood Legguards",
     "Id": "40446",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40448": {
     "ItemLevel": "213",
@@ -1828,7 +1828,7 @@
     },
     "Name": "Valorous Leggings of Faith",
     "Id": "40448",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40457": {
     "ItemLevel": "213",
@@ -1856,7 +1856,7 @@
     },
     "Name": "Valorous Pants of Faith",
     "Id": "40457",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40462": {
     "ItemLevel": "213",
@@ -1884,7 +1884,7 @@
     },
     "Name": "Valorous Dreamwalker Leggings",
     "Id": "40462",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40468": {
     "ItemLevel": "213",
@@ -1912,7 +1912,7 @@
     },
     "Name": "Valorous Dreamwalker Trousers",
     "Id": "40468",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40493": {
     "ItemLevel": "213",
@@ -1940,7 +1940,7 @@
     },
     "Name": "Valorous Dreamwalker Legguards",
     "Id": "40493",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40500": {
     "ItemLevel": "213",
@@ -1968,7 +1968,7 @@
     },
     "Name": "Valorous Bonescythe Legplates",
     "Id": "40500",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40506": {
     "ItemLevel": "213",
@@ -1997,7 +1997,7 @@
     },
     "Name": "Valorous Cryptstalker Legguards",
     "Id": "40506",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40512": {
     "ItemLevel": "213",
@@ -2025,7 +2025,7 @@
     },
     "Name": "Valorous Earthshatter Legguards",
     "Id": "40512",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40517": {
     "ItemLevel": "213",
@@ -2053,7 +2053,7 @@
     },
     "Name": "Valorous Earthshatter Kilt",
     "Id": "40517",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40522": {
     "ItemLevel": "213",
@@ -2082,7 +2082,7 @@
     },
     "Name": "Valorous Earthshatter War-Kilt",
     "Id": "40522",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40529": {
     "ItemLevel": "213",
@@ -2109,7 +2109,7 @@
     },
     "Name": "Valorous Dreadnaught Legplates",
     "Id": "40529",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40547": {
     "ItemLevel": "213",
@@ -2137,7 +2137,7 @@
     },
     "Name": "Valorous Dreadnaught Legguards",
     "Id": "40547",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40556": {
     "ItemLevel": "213",
@@ -2164,7 +2164,7 @@
     },
     "Name": "Valorous Scourgeborne Legplates",
     "Id": "40556",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40560": {
     "ItemLevel": "226",
@@ -2186,7 +2186,7 @@
     "SocketBonus": "none",
     "Name": "Leggings of the Wanton Spellcaster",
     "Id": "40560",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40567": {
     "ItemLevel": "213",
@@ -2214,7 +2214,7 @@
     },
     "Name": "Valorous Scourgeborne Legguards",
     "Id": "40567",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40572": {
     "ItemLevel": "213",
@@ -2242,7 +2242,7 @@
     },
     "Name": "Valorous Redemption Greaves",
     "Id": "40572",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40577": {
     "ItemLevel": "213",
@@ -2269,7 +2269,7 @@
     },
     "Name": "Valorous Redemption Legplates",
     "Id": "40577",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40583": {
     "ItemLevel": "213",
@@ -2297,7 +2297,7 @@
     },
     "Name": "Valorous Redemption Legguards",
     "Id": "40583",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40589": {
     "ItemLevel": "226",
@@ -2319,7 +2319,7 @@
     "SocketBonus": "none",
     "Name": "Legplates of Sovereignty",
     "Id": "40589",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40836": {
     "ItemLevel": "200",
@@ -2346,7 +2346,7 @@
     },
     "Name": "Savage Gladiator's Plate Legguards",
     "Id": "40836",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40837": {
     "ItemLevel": "200",
@@ -2373,7 +2373,7 @@
     },
     "Name": "Savage Gladiator's Dreadplate Legguards",
     "Id": "40837",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40838": {
     "ItemLevel": "200",
@@ -2400,7 +2400,7 @@
     },
     "Name": "Savage Gladiator's Scaled Legguards",
     "Id": "40838",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40840": {
     "ItemLevel": "200",
@@ -2427,7 +2427,7 @@
     },
     "Name": "Hateful Gladiator's Plate Legguards",
     "Id": "40840",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40841": {
     "ItemLevel": "200",
@@ -2454,7 +2454,7 @@
     },
     "Name": "Hateful Gladiator's Dreadplate Legguards",
     "Id": "40841",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40842": {
     "ItemLevel": "200",
@@ -2481,7 +2481,7 @@
     },
     "Name": "Hateful Gladiator's Scaled Legguards",
     "Id": "40842",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40844": {
     "ItemLevel": "213",
@@ -2508,7 +2508,7 @@
     },
     "Name": "Deadly Gladiator's Plate Legguards",
     "Id": "40844",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40845": {
     "ItemLevel": "213",
@@ -2535,7 +2535,7 @@
     },
     "Name": "Deadly Gladiator's Dreadplate Legguards",
     "Id": "40845",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40846": {
     "ItemLevel": "213",
@@ -2562,7 +2562,7 @@
     },
     "Name": "Deadly Gladiator's Scaled Legguards",
     "Id": "40846",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40847": {
     "ItemLevel": "232",
@@ -2589,7 +2589,7 @@
     },
     "Name": "Furious Gladiator's Plate Legguards",
     "Id": "40847",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40848": {
     "ItemLevel": "232",
@@ -2616,7 +2616,7 @@
     },
     "Name": "Furious Gladiator's Dreadplate Legguards",
     "Id": "40848",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40849": {
     "ItemLevel": "232",
@@ -2643,7 +2643,7 @@
     },
     "Name": "Furious Gladiator's Scaled Legguards",
     "Id": "40849",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40850": {
     "ItemLevel": "251",
@@ -2670,7 +2670,7 @@
     },
     "Name": "Relentless Gladiator's Plate Legguards",
     "Id": "40850",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40851": {
     "ItemLevel": "251",
@@ -2697,7 +2697,7 @@
     },
     "Name": "Relentless Gladiator's Dreadplate Legguards",
     "Id": "40851",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40852": {
     "ItemLevel": "251",
@@ -2724,7 +2724,7 @@
     },
     "Name": "Relentless Gladiator's Scaled Legguards",
     "Id": "40852",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40936": {
     "ItemLevel": "200",
@@ -2752,7 +2752,7 @@
     },
     "Name": "Savage Gladiator's Ornamented Legplates",
     "Id": "40936",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40937": {
     "ItemLevel": "200",
@@ -2780,7 +2780,7 @@
     },
     "Name": "Hateful Gladiator's Ornamented Legplates",
     "Id": "40937",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40938": {
     "ItemLevel": "213",
@@ -2808,7 +2808,7 @@
     },
     "Name": "Deadly Gladiator's Ornamented Legplates",
     "Id": "40938",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40939": {
     "ItemLevel": "232",
@@ -2836,7 +2836,7 @@
     },
     "Name": "Furious Gladiator's Ornamented Legplates",
     "Id": "40939",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "40940": {
     "ItemLevel": "251",
@@ -2864,7 +2864,7 @@
     },
     "Name": "Relentless Gladiator's Ornamented Legplates",
     "Id": "40940",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41023": {
     "ItemLevel": "200",
@@ -2892,7 +2892,7 @@
     },
     "Name": "Savage Gladiator's Ringmail Leggings",
     "Id": "41023",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41025": {
     "ItemLevel": "200",
@@ -2920,7 +2920,7 @@
     },
     "Name": "Hateful Gladiator's Ringmail Leggings",
     "Id": "41025",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41026": {
     "ItemLevel": "213",
@@ -2948,7 +2948,7 @@
     },
     "Name": "Deadly Gladiator's Ringmail Leggings",
     "Id": "41026",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41027": {
     "ItemLevel": "232",
@@ -2976,7 +2976,7 @@
     },
     "Name": "Furious Gladiator's Ringmail Leggings",
     "Id": "41027",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41028": {
     "ItemLevel": "251",
@@ -3004,7 +3004,7 @@
     },
     "Name": "Relentless Gladiator's Ringmail Leggings",
     "Id": "41028",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41030": {
     "ItemLevel": "200",
@@ -3032,7 +3032,7 @@
     },
     "Name": "Savage Gladiator's Mail Leggings",
     "Id": "41030",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41031": {
     "ItemLevel": "200",
@@ -3060,7 +3060,7 @@
     },
     "Name": "Hateful Gladiator's Mail Leggings",
     "Id": "41031",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41032": {
     "ItemLevel": "213",
@@ -3088,7 +3088,7 @@
     },
     "Name": "Deadly Gladiator's Mail Leggings",
     "Id": "41032",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41033": {
     "ItemLevel": "232",
@@ -3116,7 +3116,7 @@
     },
     "Name": "Furious Gladiator's Mail Leggings",
     "Id": "41033",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41034": {
     "ItemLevel": "251",
@@ -3144,7 +3144,7 @@
     },
     "Name": "Relentless Gladiator's Mail Leggings",
     "Id": "41034",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41160": {
     "ItemLevel": "200",
@@ -3173,7 +3173,7 @@
     },
     "Name": "Savage Gladiator's Linked Leggings",
     "Id": "41160",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41162": {
     "ItemLevel": "200",
@@ -3202,7 +3202,7 @@
     },
     "Name": "Hateful Gladiator's Linked Leggings",
     "Id": "41162",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41198": {
     "ItemLevel": "213",
@@ -3231,7 +3231,7 @@
     },
     "Name": "Deadly Gladiator's Linked Leggings",
     "Id": "41198",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41199": {
     "ItemLevel": "232",
@@ -3260,7 +3260,7 @@
     },
     "Name": "Furious Gladiator's Linked Leggings",
     "Id": "41199",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41200": {
     "ItemLevel": "251",
@@ -3289,7 +3289,7 @@
     },
     "Name": "Relentless Gladiator's Linked Leggings",
     "Id": "41200",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41202": {
     "ItemLevel": "200",
@@ -3318,7 +3318,7 @@
     },
     "Name": "Savage Gladiator's Chain Leggings",
     "Id": "41202",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41203": {
     "ItemLevel": "200",
@@ -3347,7 +3347,7 @@
     },
     "Name": "Hateful Gladiator's Chain Leggings",
     "Id": "41203",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41204": {
     "ItemLevel": "213",
@@ -3376,7 +3376,7 @@
     },
     "Name": "Deadly Gladiator's Chain Leggings",
     "Id": "41204",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41205": {
     "ItemLevel": "232",
@@ -3405,7 +3405,7 @@
     },
     "Name": "Furious Gladiator's Chain Leggings",
     "Id": "41205",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41206": {
     "ItemLevel": "251",
@@ -3434,7 +3434,7 @@
     },
     "Name": "Relentless Gladiator's Chain Leggings",
     "Id": "41206",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41270": {
     "ItemLevel": "200",
@@ -3462,7 +3462,7 @@
     },
     "Name": "Savage Gladiator's Kodohide Legguards",
     "Id": "41270",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41296": {
     "ItemLevel": "200",
@@ -3490,7 +3490,7 @@
     },
     "Name": "Hateful Gladiator's Kodohide Legguards",
     "Id": "41296",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41297": {
     "ItemLevel": "213",
@@ -3518,7 +3518,7 @@
     },
     "Name": "Deadly Gladiator's Kodohide Legguards",
     "Id": "41297",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41298": {
     "ItemLevel": "232",
@@ -3546,7 +3546,7 @@
     },
     "Name": "Furious Gladiator's Kodohide Legguards",
     "Id": "41298",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41299": {
     "ItemLevel": "251",
@@ -3574,7 +3574,7 @@
     },
     "Name": "Relentless Gladiator's Kodohide Legguards",
     "Id": "41299",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41301": {
     "ItemLevel": "200",
@@ -3602,7 +3602,7 @@
     },
     "Name": "Savage Gladiator's Wyrmhide Legguards",
     "Id": "41301",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41302": {
     "ItemLevel": "200",
@@ -3630,7 +3630,7 @@
     },
     "Name": "Hateful Gladiator's Wyrmhide Legguards",
     "Id": "41302",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41303": {
     "ItemLevel": "213",
@@ -3658,7 +3658,7 @@
     },
     "Name": "Deadly Gladiator's Wyrmhide Legguards",
     "Id": "41303",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41304": {
     "ItemLevel": "232",
@@ -3686,7 +3686,7 @@
     },
     "Name": "Furious Gladiator's Wyrmhide Legguards",
     "Id": "41304",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41305": {
     "ItemLevel": "251",
@@ -3714,7 +3714,7 @@
     },
     "Name": "Relentless Gladiator's Wyrmhide Legguards",
     "Id": "41305",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41645": {
     "ItemLevel": "200",
@@ -3742,7 +3742,7 @@
     },
     "Name": "Savage Gladiator's Leather Legguards",
     "Id": "41645",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41653": {
     "ItemLevel": "200",
@@ -3770,7 +3770,7 @@
     },
     "Name": "Hateful Gladiator's Leather Legguards",
     "Id": "41653",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41654": {
     "ItemLevel": "213",
@@ -3798,7 +3798,7 @@
     },
     "Name": "Deadly Gladiator's Leather Legguards",
     "Id": "41654",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41655": {
     "ItemLevel": "232",
@@ -3826,7 +3826,7 @@
     },
     "Name": "Furious Gladiator's Leather Legguards",
     "Id": "41655",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41656": {
     "ItemLevel": "251",
@@ -3854,7 +3854,7 @@
     },
     "Name": "Relentless Gladiator's Leather Legguards",
     "Id": "41656",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41664": {
     "ItemLevel": "200",
@@ -3882,7 +3882,7 @@
     },
     "Name": "Savage Gladiator's Dragonhide Legguards",
     "Id": "41664",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41665": {
     "ItemLevel": "200",
@@ -3910,7 +3910,7 @@
     },
     "Name": "Hateful Gladiator's Dragonhide Legguards",
     "Id": "41665",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41666": {
     "ItemLevel": "213",
@@ -3938,7 +3938,7 @@
     },
     "Name": "Deadly Gladiator's Dragonhide Legguards",
     "Id": "41666",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41667": {
     "ItemLevel": "232",
@@ -3966,7 +3966,7 @@
     },
     "Name": "Furious Gladiator's Dragonhide Legguards",
     "Id": "41667",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41668": {
     "ItemLevel": "251",
@@ -3994,7 +3994,7 @@
     },
     "Name": "Relentless Gladiator's Dragonhide Legguards",
     "Id": "41668",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41849": {
     "ItemLevel": "200",
@@ -4022,7 +4022,7 @@
     },
     "Name": "Savage Gladiator's Mooncloth Leggings",
     "Id": "41849",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41862": {
     "ItemLevel": "200",
@@ -4050,7 +4050,7 @@
     },
     "Name": "Hateful Gladiator's Mooncloth Leggings",
     "Id": "41862",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41863": {
     "ItemLevel": "213",
@@ -4078,7 +4078,7 @@
     },
     "Name": "Deadly Gladiator's Mooncloth Leggings",
     "Id": "41863",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41864": {
     "ItemLevel": "232",
@@ -4106,7 +4106,7 @@
     },
     "Name": "Furious Gladiator's Mooncloth Leggings",
     "Id": "41864",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41865": {
     "ItemLevel": "251",
@@ -4134,7 +4134,7 @@
     },
     "Name": "Relentless Gladiator's Mooncloth Leggings",
     "Id": "41865",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41924": {
     "ItemLevel": "200",
@@ -4162,7 +4162,7 @@
     },
     "Name": "Savage Gladiator's Satin Leggings",
     "Id": "41924",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41925": {
     "ItemLevel": "200",
@@ -4190,7 +4190,7 @@
     },
     "Name": "Hateful Gladiator's Satin Leggings",
     "Id": "41925",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41926": {
     "ItemLevel": "213",
@@ -4218,7 +4218,7 @@
     },
     "Name": "Deadly Gladiator's Satin Leggings",
     "Id": "41926",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41927": {
     "ItemLevel": "232",
@@ -4246,7 +4246,7 @@
     },
     "Name": "Furious Gladiator's Satin Leggings",
     "Id": "41927",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41928": {
     "ItemLevel": "251",
@@ -4274,7 +4274,7 @@
     },
     "Name": "Relentless Gladiator's Satin Leggings",
     "Id": "41928",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41956": {
     "ItemLevel": "200",
@@ -4302,7 +4302,7 @@
     },
     "Name": "Savage Gladiator's Silk Trousers",
     "Id": "41956",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41957": {
     "ItemLevel": "200",
@@ -4330,7 +4330,7 @@
     },
     "Name": "Hateful Gladiator's Silk Trousers",
     "Id": "41957",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41958": {
     "ItemLevel": "213",
@@ -4358,7 +4358,7 @@
     },
     "Name": "Deadly Gladiator's Silk Trousers",
     "Id": "41958",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41959": {
     "ItemLevel": "232",
@@ -4386,7 +4386,7 @@
     },
     "Name": "Furious Gladiator's Silk Trousers",
     "Id": "41959",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "41960": {
     "ItemLevel": "251",
@@ -4414,7 +4414,7 @@
     },
     "Name": "Relentless Gladiator's Silk Trousers",
     "Id": "41960",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "42002": {
     "ItemLevel": "200",
@@ -4442,7 +4442,7 @@
     },
     "Name": "Savage Gladiator's Felweave Trousers",
     "Id": "42002",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "42003": {
     "ItemLevel": "200",
@@ -4470,7 +4470,7 @@
     },
     "Name": "Hateful Gladiator's Felweave Trousers",
     "Id": "42003",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "42004": {
     "ItemLevel": "213",
@@ -4498,7 +4498,7 @@
     },
     "Name": "Deadly Gladiator's Felweave Trousers",
     "Id": "42004",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "42005": {
     "ItemLevel": "232",
@@ -4526,7 +4526,7 @@
     },
     "Name": "Furious Gladiator's Felweave Trousers",
     "Id": "42005",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "42006": {
     "ItemLevel": "251",
@@ -4554,7 +4554,7 @@
     },
     "Name": "Relentless Gladiator's Felweave Trousers",
     "Id": "42006",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "43286": {
     "ItemLevel": "200",
@@ -4578,7 +4578,7 @@
     },
     "Name": "Legguards of Swarming Attacks",
     "Id": "43286",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "43313": {
     "ItemLevel": "200",
@@ -4603,7 +4603,7 @@
     },
     "Name": "Leggings of the Ruins Dweller",
     "Id": "43313",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "43458": {
     "ItemLevel": "200",
@@ -4625,7 +4625,7 @@
     "SocketBonus": "none",
     "Name": "Giantmaim Legguards",
     "Id": "43458",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "43495": {
     "ItemLevel": "200",
@@ -4646,7 +4646,7 @@
     "SocketBonus": "none",
     "Name": "Earthgiving Legguards",
     "Id": "43495",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "43500": {
     "ItemLevel": "200",
@@ -4670,7 +4670,7 @@
     },
     "Name": "Bolstered Legplates",
     "Id": "43500",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "43991": {
     "ItemLevel": "200",
@@ -4696,7 +4696,7 @@
     },
     "Name": "Legguards of Composure",
     "Id": "43991",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "43994": {
     "ItemLevel": "213",
@@ -4721,7 +4721,7 @@
     },
     "Name": "Belabored Legplates",
     "Id": "43994",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "44011": {
     "ItemLevel": "226",
@@ -4747,7 +4747,7 @@
     },
     "Name": "Leggings of the Honored",
     "Id": "44011",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "44179": {
     "ItemLevel": "200",
@@ -4771,7 +4771,7 @@
     },
     "Name": "Mind-Expanding Leggings",
     "Id": "44179",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "44194": {
     "ItemLevel": "200",
@@ -4792,7 +4792,7 @@
     "SocketBonus": "none",
     "Name": "Giant-Friend Kilt",
     "Id": "44194",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "44205": {
     "ItemLevel": "200",
@@ -4812,7 +4812,7 @@
     "SocketBonus": "none",
     "Name": "Legplates of Bloody Reprisal",
     "Id": "44205",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "44305": {
     "ItemLevel": "200",
@@ -4836,7 +4836,7 @@
     },
     "Name": "Kilt of Dark Mercy",
     "Id": "44305",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "44931": {
     "ItemLevel": "200",
@@ -4857,7 +4857,7 @@
     "SocketBonus": "none",
     "Name": "Windripper Leggings",
     "Id": "44931",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45134": {
     "ItemLevel": "239",
@@ -4883,7 +4883,7 @@
     },
     "Name": "Plated Leggings of Ruination",
     "Id": "45134",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45141": {
     "ItemLevel": "226",
@@ -4908,7 +4908,7 @@
     },
     "Name": "Proto-hide Leggings",
     "Id": "45141",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45143": {
     "ItemLevel": "226",
@@ -4935,7 +4935,7 @@
     },
     "Name": "Saronite Mesh Legguards",
     "Id": "45143",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45238": {
     "ItemLevel": "226",
@@ -4957,7 +4957,7 @@
     "SocketBonus": "none",
     "Name": "Overload Legwraps",
     "Id": "45238",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45248": {
     "ItemLevel": "226",
@@ -4981,7 +4981,7 @@
     },
     "Name": "Clockwork Legplates",
     "Id": "45248",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45267": {
     "ItemLevel": "226",
@@ -5007,7 +5007,7 @@
     },
     "Name": "Saronite Plated Legguards",
     "Id": "45267",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45274": {
     "ItemLevel": "226",
@@ -5032,7 +5032,7 @@
     },
     "Name": "Leggings of the Stoneweaver",
     "Id": "45274",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45295": {
     "ItemLevel": "226",
@@ -5057,7 +5057,7 @@
     },
     "Name": "Gilded Steel Legplates",
     "Id": "45295",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45307": {
     "ItemLevel": "219",
@@ -5079,7 +5079,7 @@
     "SocketBonus": "none",
     "Name": "Ironscale Leggings",
     "Id": "45307",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45324": {
     "ItemLevel": "219",
@@ -5101,7 +5101,7 @@
     "SocketBonus": "none",
     "Name": "Leggings of Swift Reflexes",
     "Id": "45324",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45338": {
     "ItemLevel": "219",
@@ -5129,7 +5129,7 @@
     },
     "Name": "Valorous Darkruned Legguards",
     "Id": "45338",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45343": {
     "ItemLevel": "219",
@@ -5156,7 +5156,7 @@
     },
     "Name": "Valorous Darkruned Legplates",
     "Id": "45343",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45347": {
     "ItemLevel": "219",
@@ -5184,7 +5184,7 @@
     },
     "Name": "Valorous Nightsong Leggings",
     "Id": "45347",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45353": {
     "ItemLevel": "219",
@@ -5212,7 +5212,7 @@
     },
     "Name": "Valorous Nightsong Trousers",
     "Id": "45353",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45357": {
     "ItemLevel": "219",
@@ -5240,7 +5240,7 @@
     },
     "Name": "Valorous Nightsong Legguards",
     "Id": "45357",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45362": {
     "ItemLevel": "219",
@@ -5269,7 +5269,7 @@
     },
     "Name": "Valorous Scourgestalker Legguards",
     "Id": "45362",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45367": {
     "ItemLevel": "219",
@@ -5297,7 +5297,7 @@
     },
     "Name": "Valorous Kirin Tor Leggings",
     "Id": "45367",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45371": {
     "ItemLevel": "219",
@@ -5325,7 +5325,7 @@
     },
     "Name": "Valorous Aegis Greaves",
     "Id": "45371",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45379": {
     "ItemLevel": "219",
@@ -5352,7 +5352,7 @@
     },
     "Name": "Valorous Aegis Legplates",
     "Id": "45379",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45384": {
     "ItemLevel": "219",
@@ -5380,7 +5380,7 @@
     },
     "Name": "Valorous Aegis Legguards",
     "Id": "45384",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45388": {
     "ItemLevel": "219",
@@ -5408,7 +5408,7 @@
     },
     "Name": "Valorous Leggings of Sanctification",
     "Id": "45388",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45394": {
     "ItemLevel": "219",
@@ -5436,7 +5436,7 @@
     },
     "Name": "Valorous Pants of Sanctification",
     "Id": "45394",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45399": {
     "ItemLevel": "219",
@@ -5464,7 +5464,7 @@
     },
     "Name": "Valorous Terrorblade Legplates",
     "Id": "45399",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45403": {
     "ItemLevel": "219",
@@ -5492,7 +5492,7 @@
     },
     "Name": "Valorous Worldbreaker Legguards",
     "Id": "45403",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45409": {
     "ItemLevel": "219",
@@ -5520,7 +5520,7 @@
     },
     "Name": "Valorous Worldbreaker Kilt",
     "Id": "45409",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45416": {
     "ItemLevel": "219",
@@ -5549,7 +5549,7 @@
     },
     "Name": "Valorous Worldbreaker War-Kilt",
     "Id": "45416",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45420": {
     "ItemLevel": "219",
@@ -5577,7 +5577,7 @@
     },
     "Name": "Valorous Deathbringer Leggings",
     "Id": "45420",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45427": {
     "ItemLevel": "219",
@@ -5605,7 +5605,7 @@
     },
     "Name": "Valorous Siegebreaker Legguards",
     "Id": "45427",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45432": {
     "ItemLevel": "219",
@@ -5632,7 +5632,7 @@
     },
     "Name": "Valorous Siegebreaker Legplates",
     "Id": "45432",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45452": {
     "ItemLevel": "226",
@@ -5657,7 +5657,7 @@
     },
     "Name": "Frostplate Greaves",
     "Id": "45452",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45468": {
     "ItemLevel": "226",
@@ -5683,7 +5683,7 @@
     },
     "Name": "Leggings of Lost Love",
     "Id": "45468",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45482": {
     "ItemLevel": "226",
@@ -5709,7 +5709,7 @@
     },
     "Name": "Leggings of the Lifetender",
     "Id": "45482",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45488": {
     "ItemLevel": "239",
@@ -5736,7 +5736,7 @@
     },
     "Name": "Leggings of the Enslaved Idol",
     "Id": "45488",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45504": {
     "ItemLevel": "226",
@@ -5763,7 +5763,7 @@
     },
     "Name": "Darkcore Leggings",
     "Id": "45504",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45536": {
     "ItemLevel": "239",
@@ -5790,7 +5790,7 @@
     },
     "Name": "Legguards of Cunning Deception",
     "Id": "45536",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45544": {
     "ItemLevel": "226",
@@ -5812,7 +5812,7 @@
     "SocketBonus": "none",
     "Name": "Leggings of the Tortured Earth",
     "Id": "45544",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45594": {
     "ItemLevel": "239",
@@ -5839,7 +5839,7 @@
     },
     "Name": "Legplates of the Endless Void",
     "Id": "45594",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45708": {
     "ItemLevel": "219",
@@ -5864,7 +5864,7 @@
     },
     "Name": "Archaedas' Lost Legplates",
     "Id": "45708",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45841": {
     "ItemLevel": "226",
@@ -5889,7 +5889,7 @@
     },
     "Name": "Legplates of the Violet Champion",
     "Id": "45841",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45842": {
     "ItemLevel": "226",
@@ -5915,7 +5915,7 @@
     },
     "Name": "Wyrmguard Legplates",
     "Id": "45842",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45843": {
     "ItemLevel": "226",
@@ -5941,7 +5941,7 @@
     },
     "Name": "Legguards of the Peaceful Covenant",
     "Id": "45843",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45844": {
     "ItemLevel": "226",
@@ -5968,7 +5968,7 @@
     },
     "Name": "Leggings of the Tireless Sentry",
     "Id": "45844",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45845": {
     "ItemLevel": "226",
@@ -5994,7 +5994,7 @@
     },
     "Name": "Leggings of the Weary Mystic",
     "Id": "45845",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45846": {
     "ItemLevel": "226",
@@ -6020,7 +6020,7 @@
     },
     "Name": "Leggings of Wavering Shadow",
     "Id": "45846",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45847": {
     "ItemLevel": "226",
@@ -6046,7 +6046,7 @@
     },
     "Name": "Wildstrider Legguards",
     "Id": "45847",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45848": {
     "ItemLevel": "226",
@@ -6072,7 +6072,7 @@
     },
     "Name": "Legwraps of the Master Conjurer",
     "Id": "45848",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45894": {
     "ItemLevel": "219",
@@ -6094,7 +6094,7 @@
     "SocketBonus": "none",
     "Name": "Leggings of Unstable Discharge",
     "Id": "45894",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45936": {
     "ItemLevel": "219",
@@ -6119,7 +6119,7 @@
     },
     "Name": "Legplates of Flourishing Resolve",
     "Id": "45936",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "45982": {
     "ItemLevel": "226",
@@ -6144,7 +6144,7 @@
     },
     "Name": "Fused Alloy Legplates",
     "Id": "45982",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "46019": {
     "ItemLevel": "219",
@@ -6167,7 +6167,7 @@
     "SocketBonus": "none",
     "Name": "Leggings of the Insatiable",
     "Id": "46019",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "46034": {
     "ItemLevel": "226",
@@ -6193,7 +6193,7 @@
     },
     "Name": "Leggings of Profound Darkness",
     "Id": "46034",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "46049": {
     "ItemLevel": "226",
@@ -6219,7 +6219,7 @@
     },
     "Name": "Zodiac Leggings",
     "Id": "46049",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "46116": {
     "ItemLevel": "226",
@@ -6246,7 +6246,7 @@
     },
     "Name": "Conqueror's Darkruned Legplates",
     "Id": "46116",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "46121": {
     "ItemLevel": "226",
@@ -6274,7 +6274,7 @@
     },
     "Name": "Conqueror's Darkruned Legguards",
     "Id": "46121",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "46126": {
     "ItemLevel": "226",
@@ -6302,7 +6302,7 @@
     },
     "Name": "Conqueror's Terrorblade Legplates",
     "Id": "46126",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "46133": {
     "ItemLevel": "226",
@@ -6330,7 +6330,7 @@
     },
     "Name": "Conqueror's Kirin Tor Leggings",
     "Id": "46133",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "46139": {
     "ItemLevel": "226",
@@ -6358,7 +6358,7 @@
     },
     "Name": "Conqueror's Deathbringer Leggings",
     "Id": "46139",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "46144": {
     "ItemLevel": "226",
@@ -6387,7 +6387,7 @@
     },
     "Name": "Conqueror's Scourgestalker Legguards",
     "Id": "46144",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "46150": {
     "ItemLevel": "226",
@@ -6414,7 +6414,7 @@
     },
     "Name": "Conqueror's Siegebreaker Legplates",
     "Id": "46150",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "46153": {
     "ItemLevel": "226",
@@ -6441,7 +6441,7 @@
     },
     "Name": "Conqueror's Aegis Legplates",
     "Id": "46153",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "46160": {
     "ItemLevel": "226",
@@ -6469,7 +6469,7 @@
     },
     "Name": "Conqueror's Nightsong Legguards",
     "Id": "46160",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "46169": {
     "ItemLevel": "226",
@@ -6497,7 +6497,7 @@
     },
     "Name": "Conqueror's Siegebreaker Legguards",
     "Id": "46169",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "46170": {
     "ItemLevel": "226",
@@ -6525,7 +6525,7 @@
     },
     "Name": "Conqueror's Pants of Sanctification",
     "Id": "46170",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "46176": {
     "ItemLevel": "226",
@@ -6553,7 +6553,7 @@
     },
     "Name": "Conqueror's Aegis Legguards",
     "Id": "46176",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "46181": {
     "ItemLevel": "226",
@@ -6581,7 +6581,7 @@
     },
     "Name": "Conqueror's Aegis Greaves",
     "Id": "46181",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "46185": {
     "ItemLevel": "226",
@@ -6609,7 +6609,7 @@
     },
     "Name": "Conqueror's Nightsong Leggings",
     "Id": "46185",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "46192": {
     "ItemLevel": "226",
@@ -6637,7 +6637,7 @@
     },
     "Name": "Conqueror's Nightsong Trousers",
     "Id": "46192",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "46195": {
     "ItemLevel": "226",
@@ -6665,7 +6665,7 @@
     },
     "Name": "Conqueror's Leggings of Sanctification",
     "Id": "46195",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "46202": {
     "ItemLevel": "226",
@@ -6693,7 +6693,7 @@
     },
     "Name": "Conqueror's Worldbreaker Legguards",
     "Id": "46202",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "46208": {
     "ItemLevel": "226",
@@ -6722,7 +6722,7 @@
     },
     "Name": "Conqueror's Worldbreaker War-Kilt",
     "Id": "46208",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "46210": {
     "ItemLevel": "226",
@@ -6750,7 +6750,7 @@
     },
     "Name": "Conqueror's Worldbreaker Kilt",
     "Id": "46210",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "46974": {
     "ItemLevel": "245",
@@ -6776,7 +6776,7 @@
     },
     "Name": "Leggings of the Broken Beast",
     "Id": "46974",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "46975": {
     "ItemLevel": "258",
@@ -6803,7 +6803,7 @@
     },
     "Name": "Leggings of the Broken Beast",
     "Id": "46975",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47051": {
     "ItemLevel": "245",
@@ -6829,7 +6829,7 @@
     },
     "Name": "Leggings of the Soothing Touch",
     "Id": "47051",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47052": {
     "ItemLevel": "245",
@@ -6855,7 +6855,7 @@
     },
     "Name": "Legguards of Feverish Dedication",
     "Id": "47052",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47057": {
     "ItemLevel": "245",
@@ -6881,7 +6881,7 @@
     },
     "Name": "Legplates of Failing Light",
     "Id": "47057",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47061": {
     "ItemLevel": "258",
@@ -6908,7 +6908,7 @@
     },
     "Name": "Legguards of Feverish Dedication",
     "Id": "47061",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47062": {
     "ItemLevel": "258",
@@ -6935,7 +6935,7 @@
     },
     "Name": "Leggings of the Soothing Touch",
     "Id": "47062",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47067": {
     "ItemLevel": "258",
@@ -6962,7 +6962,7 @@
     },
     "Name": "Legplates of Failing Light",
     "Id": "47067",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47083": {
     "ItemLevel": "245",
@@ -6988,7 +6988,7 @@
     },
     "Name": "Legguards of Concealed Hatred",
     "Id": "47083",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47087": {
     "ItemLevel": "258",
@@ -7015,7 +7015,7 @@
     },
     "Name": "Legguards of Concealed Hatred",
     "Id": "47087",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47121": {
     "ItemLevel": "245",
@@ -7040,7 +7040,7 @@
     },
     "Name": "Legguards of Ascension",
     "Id": "47121",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47132": {
     "ItemLevel": "258",
@@ -7066,7 +7066,7 @@
     },
     "Name": "Legguards of Ascension",
     "Id": "47132",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47171": {
     "ItemLevel": "200",
@@ -7091,7 +7091,7 @@
     },
     "Name": "Legguards of Abandoned Fealty",
     "Id": "47171",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47184": {
     "ItemLevel": "245",
@@ -7118,7 +7118,7 @@
     },
     "Name": "Legguards of the Lurking Threat",
     "Id": "47184",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47185": {
     "ItemLevel": "200",
@@ -7144,7 +7144,7 @@
     },
     "Name": "Leggings of the Haggard Apprentice",
     "Id": "47185",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47186": {
     "ItemLevel": "245",
@@ -7170,7 +7170,7 @@
     },
     "Name": "Legwraps of the Awakening",
     "Id": "47186",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47187": {
     "ItemLevel": "245",
@@ -7196,7 +7196,7 @@
     },
     "Name": "Leggings of the Deepening Void",
     "Id": "47187",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47189": {
     "ItemLevel": "258",
@@ -7223,7 +7223,7 @@
     },
     "Name": "Leggings of the Deepening Void",
     "Id": "47189",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47190": {
     "ItemLevel": "258",
@@ -7250,7 +7250,7 @@
     },
     "Name": "Legwraps of the Awakening",
     "Id": "47190",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47191": {
     "ItemLevel": "258",
@@ -7278,7 +7278,7 @@
     },
     "Name": "Legguards of the Lurking Threat",
     "Id": "47191",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47202": {
     "ItemLevel": "200",
@@ -7303,7 +7303,7 @@
     },
     "Name": "Leggings of Brazen Trespass",
     "Id": "47202",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47228": {
     "ItemLevel": "200",
@@ -7328,7 +7328,7 @@
     },
     "Name": "Leggings of the Bloodless Knight",
     "Id": "47228",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47249": {
     "ItemLevel": "219",
@@ -7353,7 +7353,7 @@
     },
     "Name": "Leggings of the Snowy Bramble",
     "Id": "47249",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47259": {
     "ItemLevel": "245",
@@ -7379,7 +7379,7 @@
     },
     "Name": "Legwraps of the Broken Beast",
     "Id": "47259",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47273": {
     "ItemLevel": "245",
@@ -7405,7 +7405,7 @@
     },
     "Name": "Legplates of Feverish Dedication",
     "Id": "47273",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47274": {
     "ItemLevel": "245",
@@ -7431,7 +7431,7 @@
     },
     "Name": "Pants of the Soothing Touch",
     "Id": "47274",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47279": {
     "ItemLevel": "245",
@@ -7457,7 +7457,7 @@
     },
     "Name": "Leggings of Failing Light",
     "Id": "47279",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47289": {
     "ItemLevel": "245",
@@ -7483,7 +7483,7 @@
     },
     "Name": "Leggings of Concealed Hatred",
     "Id": "47289",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47304": {
     "ItemLevel": "245",
@@ -7508,7 +7508,7 @@
     },
     "Name": "Legplates of Ascension",
     "Id": "47304",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47317": {
     "ItemLevel": "245",
@@ -7534,7 +7534,7 @@
     },
     "Name": "Breeches of the Deepening Void",
     "Id": "47317",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47318": {
     "ItemLevel": "245",
@@ -7560,7 +7560,7 @@
     },
     "Name": "Leggings of the Awakening",
     "Id": "47318",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47319": {
     "ItemLevel": "245",
@@ -7587,7 +7587,7 @@
     },
     "Name": "Leggings of the Lurking Threat",
     "Id": "47319",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47420": {
     "ItemLevel": "258",
@@ -7614,7 +7614,7 @@
     },
     "Name": "Legwraps of the Broken Beast",
     "Id": "47420",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47434": {
     "ItemLevel": "258",
@@ -7641,7 +7641,7 @@
     },
     "Name": "Legplates of Feverish Dedication",
     "Id": "47434",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47435": {
     "ItemLevel": "258",
@@ -7668,7 +7668,7 @@
     },
     "Name": "Pants of the Soothing Touch",
     "Id": "47435",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47440": {
     "ItemLevel": "258",
@@ -7695,7 +7695,7 @@
     },
     "Name": "Leggings of Failing Light",
     "Id": "47440",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47450": {
     "ItemLevel": "258",
@@ -7722,7 +7722,7 @@
     },
     "Name": "Leggings of Concealed Hatred",
     "Id": "47450",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47465": {
     "ItemLevel": "258",
@@ -7748,7 +7748,7 @@
     },
     "Name": "Legplates of Ascension",
     "Id": "47465",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47478": {
     "ItemLevel": "258",
@@ -7775,7 +7775,7 @@
     },
     "Name": "Breeches of the Deepening Void",
     "Id": "47478",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47479": {
     "ItemLevel": "258",
@@ -7802,7 +7802,7 @@
     },
     "Name": "Leggings of the Awakening",
     "Id": "47479",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47480": {
     "ItemLevel": "258",
@@ -7830,7 +7830,7 @@
     },
     "Name": "Leggings of the Lurking Threat",
     "Id": "47480",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47495": {
     "ItemLevel": "219",
@@ -7854,7 +7854,7 @@
     },
     "Name": "Legplates of Relentless Onslaught",
     "Id": "47495",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47503": {
     "ItemLevel": "219",
@@ -7879,7 +7879,7 @@
     },
     "Name": "Legplates of the Argent Armistice",
     "Id": "47503",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47620": {
     "ItemLevel": "232",
@@ -7904,7 +7904,7 @@
     },
     "Name": "Leggings of the Demonic Messenger",
     "Id": "47620",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47750": {
     "ItemLevel": "232",
@@ -7932,7 +7932,7 @@
     },
     "Name": "Khadgar's Leggings of Conquest",
     "Id": "47750",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47755": {
     "ItemLevel": "245",
@@ -7960,7 +7960,7 @@
     },
     "Name": "Khadgar's Leggings of Triumph",
     "Id": "47755",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47760": {
     "ItemLevel": "258",
@@ -7988,7 +7988,7 @@
     },
     "Name": "Khadgar's Leggings of Triumph",
     "Id": "47760",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47765": {
     "ItemLevel": "258",
@@ -8016,7 +8016,7 @@
     },
     "Name": "Sunstrider's Leggings of Triumph",
     "Id": "47765",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47770": {
     "ItemLevel": "245",
@@ -8044,7 +8044,7 @@
     },
     "Name": "Sunstrider's Leggings of Triumph",
     "Id": "47770",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47775": {
     "ItemLevel": "232",
@@ -8072,7 +8072,7 @@
     },
     "Name": "Sunstrider's Leggings of Conquest",
     "Id": "47775",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47780": {
     "ItemLevel": "245",
@@ -8100,7 +8100,7 @@
     },
     "Name": "Kel'Thuzad's Leggings of Triumph",
     "Id": "47780",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47785": {
     "ItemLevel": "232",
@@ -8128,7 +8128,7 @@
     },
     "Name": "Kel'Thuzad's Leggings of Conquest",
     "Id": "47785",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47790": {
     "ItemLevel": "258",
@@ -8156,7 +8156,7 @@
     },
     "Name": "Kel'Thuzad's Leggings of Triumph",
     "Id": "47790",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47795": {
     "ItemLevel": "258",
@@ -8184,7 +8184,7 @@
     },
     "Name": "Gul'dan's Leggings of Triumph",
     "Id": "47795",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47800": {
     "ItemLevel": "232",
@@ -8212,7 +8212,7 @@
     },
     "Name": "Gul'dan's Leggings of Conquest",
     "Id": "47800",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47805": {
     "ItemLevel": "245",
@@ -8240,7 +8240,7 @@
     },
     "Name": "Gul'dan's Leggings of Triumph",
     "Id": "47805",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47830": {
     "ItemLevel": "232",
@@ -8265,7 +8265,7 @@
     },
     "Name": "Legplates of the Silver Hand",
     "Id": "47830",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47836": {
     "ItemLevel": "232",
@@ -8291,7 +8291,7 @@
     },
     "Name": "Legplates of the Immortal Spider",
     "Id": "47836",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47865": {
     "ItemLevel": "232",
@@ -8316,7 +8316,7 @@
     },
     "Name": "Legwraps of the Demonic Messenger",
     "Id": "47865",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47902": {
     "ItemLevel": "232",
@@ -8341,7 +8341,7 @@
     },
     "Name": "Legplates of Redeemed Blood",
     "Id": "47902",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47908": {
     "ItemLevel": "232",
@@ -8367,7 +8367,7 @@
     },
     "Name": "Sunwalker Legguards",
     "Id": "47908",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47931": {
     "ItemLevel": "245",
@@ -8393,7 +8393,7 @@
     },
     "Name": "Leggings of the Demonic Messenger",
     "Id": "47931",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47970": {
     "ItemLevel": "245",
@@ -8418,7 +8418,7 @@
     },
     "Name": "Legplates of the Silver Hand",
     "Id": "47970",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47976": {
     "ItemLevel": "245",
@@ -8444,7 +8444,7 @@
     },
     "Name": "Legplates of the Immortal Spider",
     "Id": "47976",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47980": {
     "ItemLevel": "232",
@@ -8472,7 +8472,7 @@
     },
     "Name": "Velen's Leggings of Conquest",
     "Id": "47980",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "47985": {
     "ItemLevel": "245",
@@ -8500,7 +8500,7 @@
     },
     "Name": "Velen's Leggings of Triumph",
     "Id": "47985",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48004": {
     "ItemLevel": "245",
@@ -8526,7 +8526,7 @@
     },
     "Name": "Legwraps of the Demonic Messenger",
     "Id": "48004",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48033": {
     "ItemLevel": "258",
@@ -8554,7 +8554,7 @@
     },
     "Name": "Velen's Leggings of Triumph",
     "Id": "48033",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48047": {
     "ItemLevel": "245",
@@ -8579,7 +8579,7 @@
     },
     "Name": "Legplates of the Redeemed Blood Knight",
     "Id": "48047",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48053": {
     "ItemLevel": "245",
@@ -8605,7 +8605,7 @@
     },
     "Name": "Sunwalker Legguards",
     "Id": "48053",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48059": {
     "ItemLevel": "258",
@@ -8633,7 +8633,7 @@
     },
     "Name": "Zabra's Leggings of Triumph",
     "Id": "48059",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48064": {
     "ItemLevel": "245",
@@ -8661,7 +8661,7 @@
     },
     "Name": "Zabra's Leggings of Triumph",
     "Id": "48064",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48069": {
     "ItemLevel": "232",
@@ -8689,7 +8689,7 @@
     },
     "Name": "Zabra's Leggings of Conquest",
     "Id": "48069",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48074": {
     "ItemLevel": "232",
@@ -8717,7 +8717,7 @@
     },
     "Name": "Velen's Pants of Conquest",
     "Id": "48074",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48079": {
     "ItemLevel": "245",
@@ -8745,7 +8745,7 @@
     },
     "Name": "Velen's Pants of Triumph",
     "Id": "48079",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48084": {
     "ItemLevel": "258",
@@ -8773,7 +8773,7 @@
     },
     "Name": "Velen's Pants of Triumph",
     "Id": "48084",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48089": {
     "ItemLevel": "258",
@@ -8801,7 +8801,7 @@
     },
     "Name": "Zabra's Pants of Triumph",
     "Id": "48089",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48094": {
     "ItemLevel": "245",
@@ -8829,7 +8829,7 @@
     },
     "Name": "Zabra's Pants of Triumph",
     "Id": "48094",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48099": {
     "ItemLevel": "232",
@@ -8857,7 +8857,7 @@
     },
     "Name": "Zabra's Pants of Conquest",
     "Id": "48099",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48130": {
     "ItemLevel": "232",
@@ -8885,7 +8885,7 @@
     },
     "Name": "Malfurion's Leggings of Conquest",
     "Id": "48130",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48135": {
     "ItemLevel": "245",
@@ -8913,7 +8913,7 @@
     },
     "Name": "Malfurion's Leggings of Triumph",
     "Id": "48135",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48140": {
     "ItemLevel": "258",
@@ -8941,7 +8941,7 @@
     },
     "Name": "Malfurion's Leggings of Triumph",
     "Id": "48140",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48145": {
     "ItemLevel": "258",
@@ -8969,7 +8969,7 @@
     },
     "Name": "Runetotem's Leggings of Triumph",
     "Id": "48145",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48150": {
     "ItemLevel": "245",
@@ -8997,7 +8997,7 @@
     },
     "Name": "Runetotem's Leggings of Triumph",
     "Id": "48150",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48155": {
     "ItemLevel": "232",
@@ -9025,7 +9025,7 @@
     },
     "Name": "Runetotem's Leggings of Conquest",
     "Id": "48155",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48160": {
     "ItemLevel": "232",
@@ -9053,7 +9053,7 @@
     },
     "Name": "Malfurion's Trousers of Conquest",
     "Id": "48160",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48165": {
     "ItemLevel": "245",
@@ -9081,7 +9081,7 @@
     },
     "Name": "Malfurion's Trousers of Triumph",
     "Id": "48165",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48170": {
     "ItemLevel": "258",
@@ -9109,7 +9109,7 @@
     },
     "Name": "Malfurion's Trousers of Triumph",
     "Id": "48170",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48175": {
     "ItemLevel": "258",
@@ -9137,7 +9137,7 @@
     },
     "Name": "Runetotem's Trousers of Triumph",
     "Id": "48175",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48180": {
     "ItemLevel": "245",
@@ -9165,7 +9165,7 @@
     },
     "Name": "Runetotem's Trousers of Triumph",
     "Id": "48180",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48185": {
     "ItemLevel": "232",
@@ -9193,7 +9193,7 @@
     },
     "Name": "Runetotem's Trousers of Conquest",
     "Id": "48185",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48190": {
     "ItemLevel": "232",
@@ -9221,7 +9221,7 @@
     },
     "Name": "Runetotem's Legguards of Conquest",
     "Id": "48190",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48195": {
     "ItemLevel": "245",
@@ -9249,7 +9249,7 @@
     },
     "Name": "Runetotem's Legguards of Triumph",
     "Id": "48195",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48200": {
     "ItemLevel": "258",
@@ -9277,7 +9277,7 @@
     },
     "Name": "Runetotem's Legguards of Triumph",
     "Id": "48200",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48205": {
     "ItemLevel": "258",
@@ -9305,7 +9305,7 @@
     },
     "Name": "Malfurion's Legguards of Triumph",
     "Id": "48205",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48210": {
     "ItemLevel": "245",
@@ -9333,7 +9333,7 @@
     },
     "Name": "Malfurion's Legguards of Triumph",
     "Id": "48210",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48215": {
     "ItemLevel": "232",
@@ -9361,7 +9361,7 @@
     },
     "Name": "Malfurion's Legguards of Conquest",
     "Id": "48215",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48220": {
     "ItemLevel": "232",
@@ -9389,7 +9389,7 @@
     },
     "Name": "VanCleef's Legplates of Conquest",
     "Id": "48220",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48226": {
     "ItemLevel": "245",
@@ -9417,7 +9417,7 @@
     },
     "Name": "VanCleef's Legplates of Triumph",
     "Id": "48226",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48229": {
     "ItemLevel": "258",
@@ -9445,7 +9445,7 @@
     },
     "Name": "VanCleef's Legplates of Triumph",
     "Id": "48229",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48236": {
     "ItemLevel": "258",
@@ -9473,7 +9473,7 @@
     },
     "Name": "Garona's Legplates of Triumph",
     "Id": "48236",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48239": {
     "ItemLevel": "245",
@@ -9501,7 +9501,7 @@
     },
     "Name": "Garona's Legplates of Triumph",
     "Id": "48239",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48246": {
     "ItemLevel": "232",
@@ -9529,7 +9529,7 @@
     },
     "Name": "Garona's Legplates of Conquest",
     "Id": "48246",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48252": {
     "ItemLevel": "232",
@@ -9558,7 +9558,7 @@
     },
     "Name": "Windrunner's Legguards of Conquest",
     "Id": "48252",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48258": {
     "ItemLevel": "245",
@@ -9587,7 +9587,7 @@
     },
     "Name": "Windrunner's Legguards of Triumph",
     "Id": "48258",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48261": {
     "ItemLevel": "258",
@@ -9616,7 +9616,7 @@
     },
     "Name": "Windrunner's Legguards of Triumph",
     "Id": "48261",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48268": {
     "ItemLevel": "258",
@@ -9645,7 +9645,7 @@
     },
     "Name": "Windrunner's Legguards of Triumph",
     "Id": "48268",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48271": {
     "ItemLevel": "245",
@@ -9674,7 +9674,7 @@
     },
     "Name": "Windrunner's Legguards of Triumph",
     "Id": "48271",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48278": {
     "ItemLevel": "232",
@@ -9703,7 +9703,7 @@
     },
     "Name": "Windrunner's Legguards of Conquest",
     "Id": "48278",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48282": {
     "ItemLevel": "232",
@@ -9731,7 +9731,7 @@
     },
     "Name": "Nobundo's Legguards of Conquest",
     "Id": "48282",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48288": {
     "ItemLevel": "245",
@@ -9759,7 +9759,7 @@
     },
     "Name": "Nobundo's Legguards of Triumph",
     "Id": "48288",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48291": {
     "ItemLevel": "258",
@@ -9787,7 +9787,7 @@
     },
     "Name": "Nobundo's Legguards of Triumph",
     "Id": "48291",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48298": {
     "ItemLevel": "232",
@@ -9815,7 +9815,7 @@
     },
     "Name": "Thrall's Legguards of Conquest",
     "Id": "48298",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48303": {
     "ItemLevel": "245",
@@ -9843,7 +9843,7 @@
     },
     "Name": "Thrall's Legguards of Triumph",
     "Id": "48303",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48308": {
     "ItemLevel": "258",
@@ -9871,7 +9871,7 @@
     },
     "Name": "Thrall's Legguards of Triumph",
     "Id": "48308",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48314": {
     "ItemLevel": "232",
@@ -9899,7 +9899,7 @@
     },
     "Name": "Nobundo's Kilt of Conquest",
     "Id": "48314",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48319": {
     "ItemLevel": "245",
@@ -9927,7 +9927,7 @@
     },
     "Name": "Nobundo's Kilt of Triumph",
     "Id": "48319",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48322": {
     "ItemLevel": "258",
@@ -9955,7 +9955,7 @@
     },
     "Name": "Nobundo's Kilt of Triumph",
     "Id": "48322",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48329": {
     "ItemLevel": "258",
@@ -9983,7 +9983,7 @@
     },
     "Name": "Thrall's Kilt of Triumph",
     "Id": "48329",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48332": {
     "ItemLevel": "245",
@@ -10011,7 +10011,7 @@
     },
     "Name": "Thrall's Kilt of Triumph",
     "Id": "48332",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48339": {
     "ItemLevel": "232",
@@ -10039,7 +10039,7 @@
     },
     "Name": "Thrall's Kilt of Conquest",
     "Id": "48339",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48344": {
     "ItemLevel": "232",
@@ -10068,7 +10068,7 @@
     },
     "Name": "Nobundo's War-Kilt of Conquest",
     "Id": "48344",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48349": {
     "ItemLevel": "245",
@@ -10097,7 +10097,7 @@
     },
     "Name": "Nobundo's War-Kilt of Triumph",
     "Id": "48349",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48352": {
     "ItemLevel": "258",
@@ -10126,7 +10126,7 @@
     },
     "Name": "Nobundo's War-Kilt of Triumph",
     "Id": "48352",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48359": {
     "ItemLevel": "258",
@@ -10155,7 +10155,7 @@
     },
     "Name": "Thrall's War-Kilt of Triumph",
     "Id": "48359",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48362": {
     "ItemLevel": "245",
@@ -10184,7 +10184,7 @@
     },
     "Name": "Thrall's War-Kilt of Triumph",
     "Id": "48362",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48369": {
     "ItemLevel": "232",
@@ -10213,7 +10213,7 @@
     },
     "Name": "Thrall's War-Kilt of Conquest",
     "Id": "48369",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48373": {
     "ItemLevel": "232",
@@ -10240,7 +10240,7 @@
     },
     "Name": "Wrynn's Legplates of Conquest",
     "Id": "48373",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48379": {
     "ItemLevel": "245",
@@ -10267,7 +10267,7 @@
     },
     "Name": "Wrynn's Legplates of Triumph",
     "Id": "48379",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48382": {
     "ItemLevel": "258",
@@ -10294,7 +10294,7 @@
     },
     "Name": "Wrynn's Legplates of Triumph",
     "Id": "48382",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48389": {
     "ItemLevel": "232",
@@ -10321,7 +10321,7 @@
     },
     "Name": "Hellscream's Legplates of Conquest",
     "Id": "48389",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48394": {
     "ItemLevel": "245",
@@ -10348,7 +10348,7 @@
     },
     "Name": "Hellscream's Legplates of Triumph",
     "Id": "48394",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48399": {
     "ItemLevel": "258",
@@ -10375,7 +10375,7 @@
     },
     "Name": "Hellscream's Legplates of Triumph",
     "Id": "48399",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48445": {
     "ItemLevel": "232",
@@ -10403,7 +10403,7 @@
     },
     "Name": "Wrynn's Legguards of Conquest",
     "Id": "48445",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48446": {
     "ItemLevel": "245",
@@ -10431,7 +10431,7 @@
     },
     "Name": "Wrynn's Legguards of Triumph",
     "Id": "48446",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48447": {
     "ItemLevel": "258",
@@ -10459,7 +10459,7 @@
     },
     "Name": "Wrynn's Legguards of Triumph",
     "Id": "48447",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48459": {
     "ItemLevel": "232",
@@ -10487,7 +10487,7 @@
     },
     "Name": "Hellscream's Legguards of Conquest",
     "Id": "48459",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48464": {
     "ItemLevel": "245",
@@ -10515,7 +10515,7 @@
     },
     "Name": "Hellscream's Legguards of Triumph",
     "Id": "48464",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48469": {
     "ItemLevel": "258",
@@ -10543,7 +10543,7 @@
     },
     "Name": "Hellscream's Legguards of Triumph",
     "Id": "48469",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48476": {
     "ItemLevel": "232",
@@ -10570,7 +10570,7 @@
     },
     "Name": "Thassarian's Legplates of Conquest",
     "Id": "48476",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48484": {
     "ItemLevel": "245",
@@ -10597,7 +10597,7 @@
     },
     "Name": "Thassarian's Legplates of Triumph",
     "Id": "48484",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48487": {
     "ItemLevel": "258",
@@ -10624,7 +10624,7 @@
     },
     "Name": "Thassarian's Legplates of Triumph",
     "Id": "48487",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48494": {
     "ItemLevel": "258",
@@ -10651,7 +10651,7 @@
     },
     "Name": "Koltira's Legplates of Triumph",
     "Id": "48494",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48497": {
     "ItemLevel": "245",
@@ -10678,7 +10678,7 @@
     },
     "Name": "Koltira's Legplates of Triumph",
     "Id": "48497",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48504": {
     "ItemLevel": "232",
@@ -10705,7 +10705,7 @@
     },
     "Name": "Koltira's Legplates of Conquest",
     "Id": "48504",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48533": {
     "ItemLevel": "232",
@@ -10733,7 +10733,7 @@
     },
     "Name": "Thassarian's Legguards of Conquest",
     "Id": "48533",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48541": {
     "ItemLevel": "245",
@@ -10761,7 +10761,7 @@
     },
     "Name": "Thassarian's Legguards of Triumph",
     "Id": "48541",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48544": {
     "ItemLevel": "258",
@@ -10789,7 +10789,7 @@
     },
     "Name": "Thassarian's Legguards of Triumph",
     "Id": "48544",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48551": {
     "ItemLevel": "258",
@@ -10817,7 +10817,7 @@
     },
     "Name": "Koltira's Legguards of Triumph",
     "Id": "48551",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48554": {
     "ItemLevel": "245",
@@ -10845,7 +10845,7 @@
     },
     "Name": "Koltira's Legguards of Triumph",
     "Id": "48554",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48561": {
     "ItemLevel": "232",
@@ -10873,7 +10873,7 @@
     },
     "Name": "Koltira's Legguards of Conquest",
     "Id": "48561",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48568": {
     "ItemLevel": "232",
@@ -10901,7 +10901,7 @@
     },
     "Name": "Turalyon's Greaves of Conquest",
     "Id": "48568",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48578": {
     "ItemLevel": "245",
@@ -10929,7 +10929,7 @@
     },
     "Name": "Turalyon's Greaves of Triumph",
     "Id": "48578",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48581": {
     "ItemLevel": "258",
@@ -10957,7 +10957,7 @@
     },
     "Name": "Turalyon's Greaves of Triumph",
     "Id": "48581",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48586": {
     "ItemLevel": "258",
@@ -10985,7 +10985,7 @@
     },
     "Name": "Liadrin's Greaves of Triumph",
     "Id": "48586",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48591": {
     "ItemLevel": "245",
@@ -11013,7 +11013,7 @@
     },
     "Name": "Liadrin's Greaves of Triumph",
     "Id": "48591",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48596": {
     "ItemLevel": "232",
@@ -11041,7 +11041,7 @@
     },
     "Name": "Liadrin's Greaves of Conquest",
     "Id": "48596",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48605": {
     "ItemLevel": "232",
@@ -11068,7 +11068,7 @@
     },
     "Name": "Turalyon's Legplates of Conquest",
     "Id": "48605",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48610": {
     "ItemLevel": "245",
@@ -11095,7 +11095,7 @@
     },
     "Name": "Turalyon's Legplates of Triumph",
     "Id": "48610",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48613": {
     "ItemLevel": "258",
@@ -11122,7 +11122,7 @@
     },
     "Name": "Turalyon's Legplates of Triumph",
     "Id": "48613",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48620": {
     "ItemLevel": "258",
@@ -11149,7 +11149,7 @@
     },
     "Name": "Liadrin's Legplates of Triumph",
     "Id": "48620",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48623": {
     "ItemLevel": "245",
@@ -11176,7 +11176,7 @@
     },
     "Name": "Liadrin's Legplates of Triumph",
     "Id": "48623",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48628": {
     "ItemLevel": "232",
@@ -11203,7 +11203,7 @@
     },
     "Name": "Liadrin's Legplates of Conquest",
     "Id": "48628",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48635": {
     "ItemLevel": "232",
@@ -11231,7 +11231,7 @@
     },
     "Name": "Turalyon's Legguards of Conquest",
     "Id": "48635",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48638": {
     "ItemLevel": "245",
@@ -11259,7 +11259,7 @@
     },
     "Name": "Turalyon's Legguards of Triumph",
     "Id": "48638",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48645": {
     "ItemLevel": "258",
@@ -11287,7 +11287,7 @@
     },
     "Name": "Turalyon's Legguards of Triumph",
     "Id": "48645",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48648": {
     "ItemLevel": "258",
@@ -11315,7 +11315,7 @@
     },
     "Name": "Liadrin's Legguards of Triumph",
     "Id": "48648",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48655": {
     "ItemLevel": "232",
@@ -11343,7 +11343,7 @@
     },
     "Name": "Liadrin's Legguards of Conquest",
     "Id": "48655",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48660": {
     "ItemLevel": "245",
@@ -11371,7 +11371,7 @@
     },
     "Name": "Liadrin's Legguards of Triumph",
     "Id": "48660",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48983": {
     "ItemLevel": "232",
@@ -11399,7 +11399,7 @@
     },
     "Name": "Titan-Forged Chain Leggings of Triumph",
     "Id": "48983",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48987": {
     "ItemLevel": "232",
@@ -11426,7 +11426,7 @@
     },
     "Name": "Titan-Forged Leather Legguards of Salvation",
     "Id": "48987",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48988": {
     "ItemLevel": "232",
@@ -11453,7 +11453,7 @@
     },
     "Name": "Titan-Forged Leather Legguards of Triumph",
     "Id": "48988",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48990": {
     "ItemLevel": "232",
@@ -11480,7 +11480,7 @@
     },
     "Name": "Titan-Forged Mail Leggings of Dominance",
     "Id": "48990",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48991": {
     "ItemLevel": "232",
@@ -11507,7 +11507,7 @@
     },
     "Name": "Titan-Forged Cloth Leggings of Salvation",
     "Id": "48991",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48992": {
     "ItemLevel": "232",
@@ -11534,7 +11534,7 @@
     },
     "Name": "Titan-Forged Plate Legguards of Salvation",
     "Id": "48992",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48993": {
     "ItemLevel": "232",
@@ -11560,7 +11560,7 @@
     },
     "Name": "Titan-Forged Plate Legguards of Triumph",
     "Id": "48993",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48994": {
     "ItemLevel": "232",
@@ -11587,7 +11587,7 @@
     },
     "Name": "Titan-Forged Ringmail Leggings of Salvation",
     "Id": "48994",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48997": {
     "ItemLevel": "232",
@@ -11614,7 +11614,7 @@
     },
     "Name": "Titan-Forged Cloth Trousers of Domination",
     "Id": "48997",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "48998": {
     "ItemLevel": "232",
@@ -11641,7 +11641,7 @@
     },
     "Name": "Titan-Forged Leather Legguards of Dominance",
     "Id": "48998",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "49784": {
     "ItemLevel": "219",
@@ -11662,7 +11662,7 @@
     "SocketBonus": "none",
     "Name": "Minister's Number One Legplates",
     "Id": "49784",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "49794": {
     "ItemLevel": "219",
@@ -11687,7 +11687,7 @@
     },
     "Name": "Legplates of Frozen Granite",
     "Id": "49794",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "49811": {
     "ItemLevel": "219",
@@ -11709,7 +11709,7 @@
     "SocketBonus": "none",
     "Name": "Black Dragonskin Breeches",
     "Id": "49811",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "49817": {
     "ItemLevel": "219",
@@ -11731,7 +11731,7 @@
     "SocketBonus": "none",
     "Name": "Shaggy Wyrmleather Leggings",
     "Id": "49817",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "49822": {
     "ItemLevel": "219",
@@ -11756,7 +11756,7 @@
     },
     "Name": "Rimewoven Silks",
     "Id": "49822",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "49836": {
     "ItemLevel": "219",
@@ -11779,7 +11779,7 @@
     "SocketBonus": "none",
     "Name": "Frostsworn Bone Leggings",
     "Id": "49836",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "49847": {
     "ItemLevel": "219",
@@ -11801,7 +11801,7 @@
     "SocketBonus": "none",
     "Name": "Legguards of Untimely Demise",
     "Id": "49847",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "49891": {
     "ItemLevel": "264",
@@ -11828,7 +11828,7 @@
     },
     "Name": "Leggings of Woven Death",
     "Id": "49891",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "49892": {
     "ItemLevel": "264",
@@ -11855,7 +11855,7 @@
     },
     "Name": "Lightweave Leggings",
     "Id": "49892",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "49898": {
     "ItemLevel": "264",
@@ -11882,7 +11882,7 @@
     },
     "Name": "Legwraps of Unleashed Nature",
     "Id": "49898",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "49899": {
     "ItemLevel": "264",
@@ -11909,7 +11909,7 @@
     },
     "Name": "Bladeborn Leggings",
     "Id": "49899",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "49900": {
     "ItemLevel": "264",
@@ -11936,7 +11936,7 @@
     },
     "Name": "Lightning-Infused Leggings",
     "Id": "49900",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "49901": {
     "ItemLevel": "264",
@@ -11964,7 +11964,7 @@
     },
     "Name": "Draconic Bonesplinter Legguards",
     "Id": "49901",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "49902": {
     "ItemLevel": "264",
@@ -11991,7 +11991,7 @@
     },
     "Name": "Puresteel Legplates",
     "Id": "49902",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "49903": {
     "ItemLevel": "264",
@@ -12017,7 +12017,7 @@
     },
     "Name": "Legplates of Painful Death",
     "Id": "49903",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "49904": {
     "ItemLevel": "264",
@@ -12044,7 +12044,7 @@
     },
     "Name": "Pillars of Might",
     "Id": "49904",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "49964": {
     "ItemLevel": "264",
@@ -12071,7 +12071,7 @@
     },
     "Name": "Legguards of Lost Hope",
     "Id": "49964",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "49988": {
     "ItemLevel": "264",
@@ -12099,7 +12099,7 @@
     },
     "Name": "Leggings of Northern Lights",
     "Id": "49988",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50041": {
     "ItemLevel": "264",
@@ -12126,7 +12126,7 @@
     },
     "Name": "Leather of Stitched Scourge Parts",
     "Id": "50041",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50042": {
     "ItemLevel": "264",
@@ -12153,7 +12153,7 @@
     },
     "Name": "Gangrenous Leggings",
     "Id": "50042",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50056": {
     "ItemLevel": "264",
@@ -12179,7 +12179,7 @@
     },
     "Name": "Plaguebringer's Stained Pants",
     "Id": "50056",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50081": {
     "ItemLevel": "251",
@@ -12206,7 +12206,7 @@
     },
     "Name": "Ymirjar Lord's Legplates",
     "Id": "50081",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50090": {
     "ItemLevel": "251",
@@ -12234,7 +12234,7 @@
     },
     "Name": "Shadowblade Legplates",
     "Id": "50090",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50097": {
     "ItemLevel": "251",
@@ -12261,7 +12261,7 @@
     },
     "Name": "Scourgelord Legplates",
     "Id": "50097",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50109": {
     "ItemLevel": "251",
@@ -12289,7 +12289,7 @@
     },
     "Name": "Lasherweave Legplates",
     "Id": "50109",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50116": {
     "ItemLevel": "251",
@@ -12318,7 +12318,7 @@
     },
     "Name": "Ahn'Kahar Blood Hunter's Legguards",
     "Id": "50116",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50192": {
     "ItemLevel": "264",
@@ -12344,7 +12344,7 @@
     },
     "Name": "Scourge Reaver's Legplates",
     "Id": "50192",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50199": {
     "ItemLevel": "264",
@@ -12371,7 +12371,7 @@
     },
     "Name": "Leggings of Dying Candles",
     "Id": "50199",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50229": {
     "ItemLevel": "232",
@@ -12396,7 +12396,7 @@
     },
     "Name": "Legguards of the Frosty Depths",
     "Id": "50229",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50242": {
     "ItemLevel": "251",
@@ -12424,7 +12424,7 @@
     },
     "Name": "Dark Coven Leggings",
     "Id": "50242",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50265": {
     "ItemLevel": "232",
@@ -12446,7 +12446,7 @@
     "SocketBonus": "none",
     "Name": "Blackened Ghoul Skin Leggings",
     "Id": "50265",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50269": {
     "ItemLevel": "232",
@@ -12468,7 +12468,7 @@
     "SocketBonus": "none",
     "Name": "Fleshwerk Leggings",
     "Id": "50269",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50277": {
     "ItemLevel": "251",
@@ -12496,7 +12496,7 @@
     },
     "Name": "Bloodmage Leggings",
     "Id": "50277",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50325": {
     "ItemLevel": "251",
@@ -12523,7 +12523,7 @@
     },
     "Name": "Lightsworn Legplates",
     "Id": "50325",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50393": {
     "ItemLevel": "251",
@@ -12551,7 +12551,7 @@
     },
     "Name": "Crimson Acolyte Pants",
     "Id": "50393",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50450": {
     "ItemLevel": "264",
@@ -12578,7 +12578,7 @@
     },
     "Name": "Leggings of Dubious Charms",
     "Id": "50450",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50612": {
     "ItemLevel": "277",
@@ -12605,7 +12605,7 @@
     },
     "Name": "Legguards of Lost Hope",
     "Id": "50612",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50623": {
     "ItemLevel": "277",
@@ -12632,7 +12632,7 @@
     },
     "Name": "Leggings of Dying Candles",
     "Id": "50623",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50624": {
     "ItemLevel": "277",
@@ -12658,7 +12658,7 @@
     },
     "Name": "Scourge Reaver's Legplates",
     "Id": "50624",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50645": {
     "ItemLevel": "277",
@@ -12686,7 +12686,7 @@
     },
     "Name": "Leggings of Northern Lights",
     "Id": "50645",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50694": {
     "ItemLevel": "277",
@@ -12713,7 +12713,7 @@
     },
     "Name": "Plaguebringer's Stained Pants",
     "Id": "50694",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50696": {
     "ItemLevel": "277",
@@ -12740,7 +12740,7 @@
     },
     "Name": "Leather of Stitched Scourge Parts",
     "Id": "50696",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50697": {
     "ItemLevel": "277",
@@ -12767,7 +12767,7 @@
     },
     "Name": "Gangrenous Leggings",
     "Id": "50697",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50769": {
     "ItemLevel": "251",
@@ -12795,7 +12795,7 @@
     },
     "Name": "Crimson Acolyte Leggings",
     "Id": "50769",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50775": {
     "ItemLevel": "251",
@@ -12822,7 +12822,7 @@
     },
     "Name": "Corrupted Silverplate Leggings",
     "Id": "50775",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50806": {
     "ItemLevel": "251",
@@ -12849,7 +12849,7 @@
     },
     "Name": "Leggings of Unrelenting Blood",
     "Id": "50806",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50808": {
     "ItemLevel": "251",
@@ -12876,7 +12876,7 @@
     },
     "Name": "Deathforged Legplates",
     "Id": "50808",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50820": {
     "ItemLevel": "251",
@@ -12904,7 +12904,7 @@
     },
     "Name": "Lasherweave Trousers",
     "Id": "50820",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50825": {
     "ItemLevel": "251",
@@ -12932,7 +12932,7 @@
     },
     "Name": "Lasherweave Legguards",
     "Id": "50825",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50833": {
     "ItemLevel": "251",
@@ -12961,7 +12961,7 @@
     },
     "Name": "Frost Witch's War-Kilt",
     "Id": "50833",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50838": {
     "ItemLevel": "251",
@@ -12989,7 +12989,7 @@
     },
     "Name": "Frost Witch's Legguards",
     "Id": "50838",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50844": {
     "ItemLevel": "251",
@@ -13017,7 +13017,7 @@
     },
     "Name": "Frost Witch's Kilt",
     "Id": "50844",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50847": {
     "ItemLevel": "251",
@@ -13045,7 +13045,7 @@
     },
     "Name": "Ymirjar Lord's Legguards",
     "Id": "50847",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50854": {
     "ItemLevel": "251",
@@ -13073,7 +13073,7 @@
     },
     "Name": "Scourgelord Legguards",
     "Id": "50854",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50858": {
     "ItemLevel": "251",
@@ -13100,7 +13100,7 @@
     },
     "Name": "Plague-Soaked Leather Leggings",
     "Id": "50858",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50861": {
     "ItemLevel": "251",
@@ -13128,7 +13128,7 @@
     },
     "Name": "Lightsworn Legguards",
     "Id": "50861",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50866": {
     "ItemLevel": "251",
@@ -13156,7 +13156,7 @@
     },
     "Name": "Lightsworn Greaves",
     "Id": "50866",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "50990": {
     "ItemLevel": "251",
@@ -13183,7 +13183,7 @@
     },
     "Name": "Kilt of Untreated Wounds",
     "Id": "50990",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51019": {
     "ItemLevel": "251",
@@ -13210,7 +13210,7 @@
     },
     "Name": "Rippling Flesh Kilt",
     "Id": "51019",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51025": {
     "ItemLevel": "251",
@@ -13236,7 +13236,7 @@
     },
     "Name": "Battle-Maiden's Legguards",
     "Id": "51025",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51126": {
     "ItemLevel": "264",
@@ -13263,7 +13263,7 @@
     },
     "Name": "Sanctified Scourgelord Legplates",
     "Id": "51126",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51131": {
     "ItemLevel": "264",
@@ -13291,7 +13291,7 @@
     },
     "Name": "Sanctified Scourgelord Legguards",
     "Id": "51131",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51136": {
     "ItemLevel": "264",
@@ -13319,7 +13319,7 @@
     },
     "Name": "Sanctified Lasherweave Legplates",
     "Id": "51136",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51142": {
     "ItemLevel": "264",
@@ -13347,7 +13347,7 @@
     },
     "Name": "Sanctified Lasherweave Legguards",
     "Id": "51142",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51146": {
     "ItemLevel": "264",
@@ -13375,7 +13375,7 @@
     },
     "Name": "Sanctified Lasherweave Trousers",
     "Id": "51146",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51152": {
     "ItemLevel": "264",
@@ -13404,7 +13404,7 @@
     },
     "Name": "Sanctified Ahn'Kahar Blood Hunter's Legguards",
     "Id": "51152",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51157": {
     "ItemLevel": "264",
@@ -13432,7 +13432,7 @@
     },
     "Name": "Sanctified Bloodmage Leggings",
     "Id": "51157",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51161": {
     "ItemLevel": "264",
@@ -13459,7 +13459,7 @@
     },
     "Name": "Sanctified Lightsworn Legplates",
     "Id": "51161",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51168": {
     "ItemLevel": "264",
@@ -13487,7 +13487,7 @@
     },
     "Name": "Sanctified Lightsworn Greaves",
     "Id": "51168",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51171": {
     "ItemLevel": "264",
@@ -13515,7 +13515,7 @@
     },
     "Name": "Sanctified Lightsworn Legguards",
     "Id": "51171",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51177": {
     "ItemLevel": "264",
@@ -13543,7 +13543,7 @@
     },
     "Name": "Sanctified Crimson Acolyte Leggings",
     "Id": "51177",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51181": {
     "ItemLevel": "264",
@@ -13571,7 +13571,7 @@
     },
     "Name": "Sanctified Crimson Acolyte Pants",
     "Id": "51181",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51186": {
     "ItemLevel": "264",
@@ -13599,7 +13599,7 @@
     },
     "Name": "Sanctified Shadowblade Legplates",
     "Id": "51186",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51193": {
     "ItemLevel": "264",
@@ -13627,7 +13627,7 @@
     },
     "Name": "Sanctified Frost Witch's Legguards",
     "Id": "51193",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51198": {
     "ItemLevel": "264",
@@ -13656,7 +13656,7 @@
     },
     "Name": "Sanctified Frost Witch's War-Kilt",
     "Id": "51198",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51203": {
     "ItemLevel": "264",
@@ -13684,7 +13684,7 @@
     },
     "Name": "Sanctified Frost Witch's Kilt",
     "Id": "51203",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51207": {
     "ItemLevel": "264",
@@ -13712,7 +13712,7 @@
     },
     "Name": "Sanctified Dark Coven Leggings",
     "Id": "51207",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51211": {
     "ItemLevel": "264",
@@ -13739,7 +13739,7 @@
     },
     "Name": "Sanctified Ymirjar Lord's Legplates",
     "Id": "51211",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51216": {
     "ItemLevel": "264",
@@ -13767,7 +13767,7 @@
     },
     "Name": "Sanctified Ymirjar Lord's Legguards",
     "Id": "51216",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51223": {
     "ItemLevel": "277",
@@ -13795,7 +13795,7 @@
     },
     "Name": "Sanctified Ymirjar Lord's Legguards",
     "Id": "51223",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51228": {
     "ItemLevel": "277",
@@ -13822,7 +13822,7 @@
     },
     "Name": "Sanctified Ymirjar Lord's Legplates",
     "Id": "51228",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51232": {
     "ItemLevel": "277",
@@ -13850,7 +13850,7 @@
     },
     "Name": "Sanctified Dark Coven Leggings",
     "Id": "51232",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51236": {
     "ItemLevel": "277",
@@ -13878,7 +13878,7 @@
     },
     "Name": "Sanctified Frost Witch's Kilt",
     "Id": "51236",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51241": {
     "ItemLevel": "277",
@@ -13907,7 +13907,7 @@
     },
     "Name": "Sanctified Frost Witch's War-Kilt",
     "Id": "51241",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51246": {
     "ItemLevel": "277",
@@ -13935,7 +13935,7 @@
     },
     "Name": "Sanctified Frost Witch's Legguards",
     "Id": "51246",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51253": {
     "ItemLevel": "277",
@@ -13963,7 +13963,7 @@
     },
     "Name": "Sanctified Shadowblade Legplates",
     "Id": "51253",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51258": {
     "ItemLevel": "277",
@@ -13991,7 +13991,7 @@
     },
     "Name": "Sanctified Crimson Acolyte Pants",
     "Id": "51258",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51262": {
     "ItemLevel": "277",
@@ -14019,7 +14019,7 @@
     },
     "Name": "Sanctified Crimson Acolyte Leggings",
     "Id": "51262",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51268": {
     "ItemLevel": "277",
@@ -14047,7 +14047,7 @@
     },
     "Name": "Sanctified Lightsworn Legguards",
     "Id": "51268",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51271": {
     "ItemLevel": "277",
@@ -14075,7 +14075,7 @@
     },
     "Name": "Sanctified Lightsworn Greaves",
     "Id": "51271",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51278": {
     "ItemLevel": "277",
@@ -14102,7 +14102,7 @@
     },
     "Name": "Sanctified Lightsworn Legplates",
     "Id": "51278",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51282": {
     "ItemLevel": "277",
@@ -14130,7 +14130,7 @@
     },
     "Name": "Sanctified Bloodmage Leggings",
     "Id": "51282",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51287": {
     "ItemLevel": "277",
@@ -14159,7 +14159,7 @@
     },
     "Name": "Sanctified Ahn'Kahar Blood Hunter's Legguards",
     "Id": "51287",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51293": {
     "ItemLevel": "277",
@@ -14187,7 +14187,7 @@
     },
     "Name": "Sanctified Lasherweave Trousers",
     "Id": "51293",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51297": {
     "ItemLevel": "277",
@@ -14215,7 +14215,7 @@
     },
     "Name": "Sanctified Lasherweave Legguards",
     "Id": "51297",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51303": {
     "ItemLevel": "277",
@@ -14243,7 +14243,7 @@
     },
     "Name": "Sanctified Lasherweave Legplates",
     "Id": "51303",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51308": {
     "ItemLevel": "277",
@@ -14271,7 +14271,7 @@
     },
     "Name": "Sanctified Scourgelord Legguards",
     "Id": "51308",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51313": {
     "ItemLevel": "277",
@@ -14298,7 +14298,7 @@
     },
     "Name": "Sanctified Scourgelord Legplates",
     "Id": "51313",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51416": {
     "ItemLevel": "270",
@@ -14325,7 +14325,7 @@
     },
     "Name": "Wrathful Gladiator's Dreadplate Legguards",
     "Id": "51416",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51422": {
     "ItemLevel": "270",
@@ -14353,7 +14353,7 @@
     },
     "Name": "Wrathful Gladiator's Kodohide Legguards",
     "Id": "51422",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51428": {
     "ItemLevel": "270",
@@ -14381,7 +14381,7 @@
     },
     "Name": "Wrathful Gladiator's Dragonhide Legguards",
     "Id": "51428",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51436": {
     "ItemLevel": "270",
@@ -14409,7 +14409,7 @@
     },
     "Name": "Wrathful Gladiator's Wyrmhide Legguards",
     "Id": "51436",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51461": {
     "ItemLevel": "270",
@@ -14438,7 +14438,7 @@
     },
     "Name": "Wrathful Gladiator's Chain Leggings",
     "Id": "51461",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51466": {
     "ItemLevel": "270",
@@ -14466,7 +14466,7 @@
     },
     "Name": "Wrathful Gladiator's Silk Trousers",
     "Id": "51466",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51471": {
     "ItemLevel": "270",
@@ -14494,7 +14494,7 @@
     },
     "Name": "Wrathful Gladiator's Ornamented Legplates",
     "Id": "51471",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51477": {
     "ItemLevel": "270",
@@ -14521,7 +14521,7 @@
     },
     "Name": "Wrathful Gladiator's Scaled Legguards",
     "Id": "51477",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51485": {
     "ItemLevel": "270",
@@ -14549,7 +14549,7 @@
     },
     "Name": "Wrathful Gladiator's Mooncloth Leggings",
     "Id": "51485",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51490": {
     "ItemLevel": "270",
@@ -14577,7 +14577,7 @@
     },
     "Name": "Wrathful Gladiator's Satin Leggings",
     "Id": "51490",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51495": {
     "ItemLevel": "270",
@@ -14605,7 +14605,7 @@
     },
     "Name": "Wrathful Gladiator's Leather Legguards",
     "Id": "51495",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51500": {
     "ItemLevel": "270",
@@ -14633,7 +14633,7 @@
     },
     "Name": "Wrathful Gladiator's Ringmail Leggings",
     "Id": "51500",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51506": {
     "ItemLevel": "270",
@@ -14662,7 +14662,7 @@
     },
     "Name": "Wrathful Gladiator's Linked Leggings",
     "Id": "51506",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51512": {
     "ItemLevel": "270",
@@ -14690,7 +14690,7 @@
     },
     "Name": "Wrathful Gladiator's Mail Leggings",
     "Id": "51512",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51539": {
     "ItemLevel": "270",
@@ -14718,7 +14718,7 @@
     },
     "Name": "Wrathful Gladiator's Felweave Trousers",
     "Id": "51539",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51544": {
     "ItemLevel": "270",
@@ -14745,7 +14745,7 @@
     },
     "Name": "Wrathful Gladiator's Plate Legguards",
     "Id": "51544",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51550": {
     "ItemLevel": "251",
@@ -14772,7 +14772,7 @@
     },
     "Name": "Ivory-Inlaid Leggings",
     "Id": "51550",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51566": {
     "ItemLevel": "251",
@@ -14800,7 +14800,7 @@
     },
     "Name": "Legguards of the Twisted Dream",
     "Id": "51566",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51777": {
     "ItemLevel": "251",
@@ -14827,7 +14827,7 @@
     },
     "Name": "Leggings of the Refracted Mind",
     "Id": "51777",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51786": {
     "ItemLevel": "251",
@@ -14853,7 +14853,7 @@
     },
     "Name": "Legplates of Aetheric Strife",
     "Id": "51786",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51817": {
     "ItemLevel": "264",
@@ -14879,7 +14879,7 @@
     },
     "Name": "Legplates of Aetheric Strife",
     "Id": "51817",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51823": {
     "ItemLevel": "264",
@@ -14906,7 +14906,7 @@
     },
     "Name": "Leggings of the Refracted Mind",
     "Id": "51823",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51829": {
     "ItemLevel": "264",
@@ -14934,7 +14934,7 @@
     },
     "Name": "Legguards of the Twisted Dream",
     "Id": "51829",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51841": {
     "ItemLevel": "264",
@@ -14961,7 +14961,7 @@
     },
     "Name": "Ivory-Inlaid Leggings",
     "Id": "51841",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51854": {
     "ItemLevel": "264",
@@ -14987,7 +14987,7 @@
     },
     "Name": "Battle-Maiden's Legguards",
     "Id": "51854",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51860": {
     "ItemLevel": "264",
@@ -15014,7 +15014,7 @@
     },
     "Name": "Rippling Flesh Kilt",
     "Id": "51860",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51882": {
     "ItemLevel": "264",
@@ -15041,7 +15041,7 @@
     },
     "Name": "Kilt of Untreated Wounds",
     "Id": "51882",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51889": {
     "ItemLevel": "264",
@@ -15068,7 +15068,7 @@
     },
     "Name": "Plague-Soaked Leather Leggings",
     "Id": "51889",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51895": {
     "ItemLevel": "264",
@@ -15095,7 +15095,7 @@
     },
     "Name": "Deathforged Legplates",
     "Id": "51895",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51897": {
     "ItemLevel": "264",
@@ -15122,7 +15122,7 @@
     },
     "Name": "Leggings of Unrelenting Blood",
     "Id": "51897",
-    "Slot": "Legs"
+    "Slot": 7
   },
   "51928": {
     "ItemLevel": "264",
@@ -15149,6 +15149,6 @@
     },
     "Name": "Corrupted Silverplate Leggings",
     "Id": "51928",
-    "Slot": "Legs"
+    "Slot": 7
   }
 }

@@ -22,7 +22,7 @@
     },
     "Name": "Hauberk of the Arcane Wraith",
     "Id": "37144",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "37165": {
     "ItemLevel": "200",
@@ -47,7 +47,7 @@
     },
     "Name": "Crystal-Infused Tunic",
     "Id": "37165",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "37184": {
     "ItemLevel": "200",
@@ -71,7 +71,7 @@
     },
     "Name": "Dalronn's Jerkin",
     "Id": "37184",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "37219": {
     "ItemLevel": "200",
@@ -92,7 +92,7 @@
     "SocketBonus": "none",
     "Name": "Custodian's Chestpiece",
     "Id": "37219",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "37222": {
     "ItemLevel": "200",
@@ -117,7 +117,7 @@
     },
     "Name": "Egg Sac Robes",
     "Id": "37222",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "37236": {
     "ItemLevel": "200",
@@ -142,7 +142,7 @@
     },
     "Name": "Insect Vestments",
     "Id": "37236",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "37256": {
     "ItemLevel": "200",
@@ -163,7 +163,7 @@
     "SocketBonus": "none",
     "Name": "Scaled Armor of Drakos",
     "Id": "37256",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "37258": {
     "ItemLevel": "200",
@@ -188,7 +188,7 @@
     },
     "Name": "Drakewing Raiments",
     "Id": "37258",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "37395": {
     "ItemLevel": "200",
@@ -213,7 +213,7 @@
     },
     "Name": "Ornamented Plate Regalia",
     "Id": "37395",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "37587": {
     "ItemLevel": "200",
@@ -234,7 +234,7 @@
     "SocketBonus": "none",
     "Name": "Ymirjar Physician's Robe",
     "Id": "37587",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "37612": {
     "ItemLevel": "200",
@@ -258,7 +258,7 @@
     },
     "Name": "Bonegrinder Breastplate",
     "Id": "37612",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "37641": {
     "ItemLevel": "200",
@@ -279,7 +279,7 @@
     "SocketBonus": "none",
     "Name": "Arcane Flame Altar-Garb",
     "Id": "37641",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "37658": {
     "ItemLevel": "200",
@@ -303,7 +303,7 @@
     },
     "Name": "Sun-Emblazoned Chestplate",
     "Id": "37658",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "37672": {
     "ItemLevel": "200",
@@ -324,7 +324,7 @@
     "SocketBonus": "none",
     "Name": "Patina-Coated Breastplate",
     "Id": "37672",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "37722": {
     "ItemLevel": "200",
@@ -345,7 +345,7 @@
     "SocketBonus": "none",
     "Name": "Breastplate of Undeath",
     "Id": "37722",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "37735": {
     "ItemLevel": "200",
@@ -366,7 +366,7 @@
     "SocketBonus": "none",
     "Name": "Ziggurat Imprinted Chestguard",
     "Id": "37735",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "37800": {
     "ItemLevel": "200",
@@ -392,7 +392,7 @@
     },
     "Name": "Aviary Guardsman's Hauberk",
     "Id": "37800",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "37851": {
     "ItemLevel": "200",
@@ -413,7 +413,7 @@
     "SocketBonus": "none",
     "Name": "Ornate Woolen Stola",
     "Id": "37851",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "39188": {
     "ItemLevel": "200",
@@ -439,7 +439,7 @@
     },
     "Name": "Chivalric Chestguard",
     "Id": "39188",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "39239": {
     "ItemLevel": "200",
@@ -460,7 +460,7 @@
     "SocketBonus": "none",
     "Name": "Chestplate of the Risen Soldier",
     "Id": "39239",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "39242": {
     "ItemLevel": "200",
@@ -482,7 +482,7 @@
     "SocketBonus": "none",
     "Name": "Robes of Hoarse Breaths",
     "Id": "39242",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "39248": {
     "ItemLevel": "200",
@@ -505,7 +505,7 @@
     "SocketBonus": "none",
     "Name": "Tunic of the Lost Pack",
     "Id": "39248",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "39259": {
     "ItemLevel": "200",
@@ -531,7 +531,7 @@
     },
     "Name": "Fungi-Stained Coverings",
     "Id": "39259",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "39386": {
     "ItemLevel": "200",
@@ -557,7 +557,7 @@
     },
     "Name": "Tunic of Dislocation",
     "Id": "39386",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "39391": {
     "ItemLevel": "200",
@@ -583,7 +583,7 @@
     },
     "Name": "Heinous Mail Chestguard",
     "Id": "39391",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "39396": {
     "ItemLevel": "200",
@@ -605,7 +605,7 @@
     "SocketBonus": "none",
     "Name": "Gown of Blaumeux",
     "Id": "39396",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "39398": {
     "ItemLevel": "200",
@@ -627,7 +627,7 @@
     "SocketBonus": "none",
     "Name": "Massive Skeletal Ribcage",
     "Id": "39398",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "39492": {
     "ItemLevel": "200",
@@ -655,7 +655,7 @@
     },
     "Name": "Heroes' Frostfire Robe",
     "Id": "39492",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "39497": {
     "ItemLevel": "200",
@@ -683,7 +683,7 @@
     },
     "Name": "Heroes' Plagueheart Robe",
     "Id": "39497",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "39515": {
     "ItemLevel": "200",
@@ -711,7 +711,7 @@
     },
     "Name": "Heroes' Robe of Faith",
     "Id": "39515",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "39523": {
     "ItemLevel": "200",
@@ -739,7 +739,7 @@
     },
     "Name": "Heroes' Raiments of Faith",
     "Id": "39523",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "39538": {
     "ItemLevel": "200",
@@ -767,7 +767,7 @@
     },
     "Name": "Heroes' Dreamwalker Robe",
     "Id": "39538",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "39547": {
     "ItemLevel": "200",
@@ -795,7 +795,7 @@
     },
     "Name": "Heroes' Dreamwalker Vestments",
     "Id": "39547",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "39554": {
     "ItemLevel": "200",
@@ -823,7 +823,7 @@
     },
     "Name": "Heroes' Dreamwalker Raiments",
     "Id": "39554",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "39558": {
     "ItemLevel": "200",
@@ -851,7 +851,7 @@
     },
     "Name": "Heroes' Bonescythe Breastplate",
     "Id": "39558",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "39579": {
     "ItemLevel": "200",
@@ -880,7 +880,7 @@
     },
     "Name": "Heroes' Cryptstalker Tunic",
     "Id": "39579",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "39588": {
     "ItemLevel": "200",
@@ -908,7 +908,7 @@
     },
     "Name": "Heroes' Earthshatter Tunic",
     "Id": "39588",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "39592": {
     "ItemLevel": "200",
@@ -936,7 +936,7 @@
     },
     "Name": "Heroes' Earthshatter Hauberk",
     "Id": "39592",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "39597": {
     "ItemLevel": "200",
@@ -965,7 +965,7 @@
     },
     "Name": "Heroes' Earthshatter Chestguard",
     "Id": "39597",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "39606": {
     "ItemLevel": "200",
@@ -992,7 +992,7 @@
     },
     "Name": "Heroes' Dreadnaught Battleplate",
     "Id": "39606",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "39611": {
     "ItemLevel": "200",
@@ -1020,7 +1020,7 @@
     },
     "Name": "Heroes' Dreadnaught Breastplate",
     "Id": "39611",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "39617": {
     "ItemLevel": "200",
@@ -1047,7 +1047,7 @@
     },
     "Name": "Heroes' Scourgeborne Battleplate",
     "Id": "39617",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "39623": {
     "ItemLevel": "200",
@@ -1075,7 +1075,7 @@
     },
     "Name": "Heroes' Scourgeborne Chestguard",
     "Id": "39623",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "39629": {
     "ItemLevel": "200",
@@ -1103,7 +1103,7 @@
     },
     "Name": "Heroes' Redemption Tunic",
     "Id": "39629",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "39633": {
     "ItemLevel": "200",
@@ -1130,7 +1130,7 @@
     },
     "Name": "Heroes' Redemption Chestpiece",
     "Id": "39633",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "39638": {
     "ItemLevel": "200",
@@ -1158,7 +1158,7 @@
     },
     "Name": "Heroes' Redemption Breastplate",
     "Id": "39638",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "39724": {
     "ItemLevel": "213",
@@ -1181,7 +1181,7 @@
     "SocketBonus": "none",
     "Name": "Cult's Chestguard",
     "Id": "39724",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "39756": {
     "ItemLevel": "213",
@@ -1203,7 +1203,7 @@
     "SocketBonus": "none",
     "Name": "Tunic of Prejudice",
     "Id": "39756",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "39767": {
     "ItemLevel": "213",
@@ -1224,7 +1224,7 @@
     "SocketBonus": "none",
     "Name": "Undiminished Battleplate",
     "Id": "39767",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40061": {
     "ItemLevel": "213",
@@ -1246,7 +1246,7 @@
     "SocketBonus": "none",
     "Name": "Quivering Tunic",
     "Id": "40061",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40062": {
     "ItemLevel": "213",
@@ -1268,7 +1268,7 @@
     "SocketBonus": "none",
     "Name": "Digested Silken Robes",
     "Id": "40062",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40193": {
     "ItemLevel": "213",
@@ -1291,7 +1291,7 @@
     "SocketBonus": "none",
     "Name": "Tunic of Masked Suffering",
     "Id": "40193",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40194": {
     "ItemLevel": "226",
@@ -1316,7 +1316,7 @@
     },
     "Name": "Blanketing Robes of Snow",
     "Id": "40194",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40203": {
     "ItemLevel": "213",
@@ -1338,7 +1338,7 @@
     "SocketBonus": "none",
     "Name": "Breastplate of Tormented Rage",
     "Id": "40203",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40210": {
     "ItemLevel": "213",
@@ -1360,7 +1360,7 @@
     "SocketBonus": "none",
     "Name": "Chestguard of Bitter Charms",
     "Id": "40210",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40234": {
     "ItemLevel": "213",
@@ -1386,7 +1386,7 @@
     },
     "Name": "Heigan's Putrid Vestments",
     "Id": "40234",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40249": {
     "ItemLevel": "213",
@@ -1412,7 +1412,7 @@
     },
     "Name": "Vest of Vitality",
     "Id": "40249",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40277": {
     "ItemLevel": "213",
@@ -1438,7 +1438,7 @@
     },
     "Name": "Tunic of Indulgence",
     "Id": "40277",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40279": {
     "ItemLevel": "213",
@@ -1464,7 +1464,7 @@
     },
     "Name": "Chestguard of the Exhausted",
     "Id": "40279",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40283": {
     "ItemLevel": "213",
@@ -1490,7 +1490,7 @@
     },
     "Name": "Fallout Impervious Tunic",
     "Id": "40283",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40319": {
     "ItemLevel": "213",
@@ -1512,7 +1512,7 @@
     "SocketBonus": "none",
     "Name": "Chestpiece of Suspicion",
     "Id": "40319",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40365": {
     "ItemLevel": "213",
@@ -1537,7 +1537,7 @@
     },
     "Name": "Breastplate of Frozen Pain",
     "Id": "40365",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40381": {
     "ItemLevel": "213",
@@ -1563,7 +1563,7 @@
     },
     "Name": "Sympathy",
     "Id": "40381",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40418": {
     "ItemLevel": "213",
@@ -1591,7 +1591,7 @@
     },
     "Name": "Valorous Frostfire Robe",
     "Id": "40418",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40423": {
     "ItemLevel": "213",
@@ -1619,7 +1619,7 @@
     },
     "Name": "Valorous Plagueheart Robe",
     "Id": "40423",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40449": {
     "ItemLevel": "213",
@@ -1647,7 +1647,7 @@
     },
     "Name": "Valorous Robe of Faith",
     "Id": "40449",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40453": {
     "ItemLevel": "213",
@@ -1672,7 +1672,7 @@
     },
     "Name": "Chestplate of the Great Aspects",
     "Id": "40453",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40458": {
     "ItemLevel": "213",
@@ -1700,7 +1700,7 @@
     },
     "Name": "Valorous Raiments of Faith",
     "Id": "40458",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40463": {
     "ItemLevel": "213",
@@ -1728,7 +1728,7 @@
     },
     "Name": "Valorous Dreamwalker Robe",
     "Id": "40463",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40469": {
     "ItemLevel": "213",
@@ -1756,7 +1756,7 @@
     },
     "Name": "Valorous Dreamwalker Vestments",
     "Id": "40469",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40471": {
     "ItemLevel": "213",
@@ -1784,7 +1784,7 @@
     },
     "Name": "Valorous Dreamwalker Raiments",
     "Id": "40471",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40495": {
     "ItemLevel": "213",
@@ -1812,7 +1812,7 @@
     },
     "Name": "Valorous Bonescythe Breastplate",
     "Id": "40495",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40503": {
     "ItemLevel": "213",
@@ -1841,7 +1841,7 @@
     },
     "Name": "Valorous Cryptstalker Tunic",
     "Id": "40503",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40508": {
     "ItemLevel": "213",
@@ -1869,7 +1869,7 @@
     },
     "Name": "Valorous Earthshatter Tunic",
     "Id": "40508",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40514": {
     "ItemLevel": "213",
@@ -1897,7 +1897,7 @@
     },
     "Name": "Valorous Earthshatter Hauberk",
     "Id": "40514",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40523": {
     "ItemLevel": "213",
@@ -1926,7 +1926,7 @@
     },
     "Name": "Valorous Earthshatter Chestguard",
     "Id": "40523",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40525": {
     "ItemLevel": "213",
@@ -1953,7 +1953,7 @@
     },
     "Name": "Valorous Dreadnaught Battleplate",
     "Id": "40525",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40526": {
     "ItemLevel": "213",
@@ -1978,7 +1978,7 @@
     },
     "Name": "Gown of the Spell-Weaver",
     "Id": "40526",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40539": {
     "ItemLevel": "226",
@@ -2003,7 +2003,7 @@
     },
     "Name": "Chestguard of the Recluse",
     "Id": "40539",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40544": {
     "ItemLevel": "213",
@@ -2031,7 +2031,7 @@
     },
     "Name": "Valorous Dreadnaught Breastplate",
     "Id": "40544",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40550": {
     "ItemLevel": "213",
@@ -2058,7 +2058,7 @@
     },
     "Name": "Valorous Scourgeborne Battleplate",
     "Id": "40550",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40559": {
     "ItemLevel": "213",
@@ -2086,7 +2086,7 @@
     },
     "Name": "Valorous Scourgeborne Chestguard",
     "Id": "40559",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40569": {
     "ItemLevel": "213",
@@ -2114,7 +2114,7 @@
     },
     "Name": "Valorous Redemption Tunic",
     "Id": "40569",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40574": {
     "ItemLevel": "213",
@@ -2141,7 +2141,7 @@
     },
     "Name": "Valorous Redemption Chestpiece",
     "Id": "40574",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40579": {
     "ItemLevel": "213",
@@ -2169,7 +2169,7 @@
     },
     "Name": "Valorous Redemption Breastplate",
     "Id": "40579",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40588": {
     "ItemLevel": "226",
@@ -2194,7 +2194,7 @@
     },
     "Name": "Tunic of the Artifact Guardian",
     "Id": "40588",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40602": {
     "ItemLevel": "213",
@@ -2220,7 +2220,7 @@
     },
     "Name": "Robes of Mutation",
     "Id": "40602",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40778": {
     "ItemLevel": "200",
@@ -2247,7 +2247,7 @@
     },
     "Name": "Savage Gladiator's Plate Chestpiece",
     "Id": "40778",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40779": {
     "ItemLevel": "200",
@@ -2274,7 +2274,7 @@
     },
     "Name": "Savage Gladiator's Dreadplate Chestpiece",
     "Id": "40779",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40780": {
     "ItemLevel": "200",
@@ -2301,7 +2301,7 @@
     },
     "Name": "Savage Gladiator's Scaled Chestpiece",
     "Id": "40780",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40781": {
     "ItemLevel": "200",
@@ -2328,7 +2328,7 @@
     },
     "Name": "Hateful Gladiator's Dreadplate Chestpiece",
     "Id": "40781",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40782": {
     "ItemLevel": "200",
@@ -2355,7 +2355,7 @@
     },
     "Name": "Hateful Gladiator's Scaled Chestpiece",
     "Id": "40782",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40783": {
     "ItemLevel": "200",
@@ -2382,7 +2382,7 @@
     },
     "Name": "Hateful Gladiator's Plate Chestpiece",
     "Id": "40783",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40784": {
     "ItemLevel": "213",
@@ -2409,7 +2409,7 @@
     },
     "Name": "Deadly Gladiator's Dreadplate Chestpiece",
     "Id": "40784",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40785": {
     "ItemLevel": "213",
@@ -2436,7 +2436,7 @@
     },
     "Name": "Deadly Gladiator's Scaled Chestpiece",
     "Id": "40785",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40786": {
     "ItemLevel": "213",
@@ -2463,7 +2463,7 @@
     },
     "Name": "Deadly Gladiator's Plate Chestpiece",
     "Id": "40786",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40787": {
     "ItemLevel": "232",
@@ -2490,7 +2490,7 @@
     },
     "Name": "Furious Gladiator's Dreadplate Chestpiece",
     "Id": "40787",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40788": {
     "ItemLevel": "232",
@@ -2517,7 +2517,7 @@
     },
     "Name": "Furious Gladiator's Scaled Chestpiece",
     "Id": "40788",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40789": {
     "ItemLevel": "232",
@@ -2544,7 +2544,7 @@
     },
     "Name": "Furious Gladiator's Plate Chestpiece",
     "Id": "40789",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40790": {
     "ItemLevel": "251",
@@ -2571,7 +2571,7 @@
     },
     "Name": "Relentless Gladiator's Plate Chestpiece",
     "Id": "40790",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40791": {
     "ItemLevel": "251",
@@ -2598,7 +2598,7 @@
     },
     "Name": "Relentless Gladiator's Dreadplate Chestpiece",
     "Id": "40791",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40792": {
     "ItemLevel": "251",
@@ -2625,7 +2625,7 @@
     },
     "Name": "Relentless Gladiator's Scaled Chestpiece",
     "Id": "40792",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40898": {
     "ItemLevel": "200",
@@ -2653,7 +2653,7 @@
     },
     "Name": "Savage Gladiator's Ornamented Chestguard",
     "Id": "40898",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40904": {
     "ItemLevel": "200",
@@ -2681,7 +2681,7 @@
     },
     "Name": "Hateful Gladiator's Ornamented Chestguard",
     "Id": "40904",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40905": {
     "ItemLevel": "213",
@@ -2709,7 +2709,7 @@
     },
     "Name": "Deadly Gladiator's Ornamented Chestguard",
     "Id": "40905",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40907": {
     "ItemLevel": "232",
@@ -2737,7 +2737,7 @@
     },
     "Name": "Furious Gladiator's Ornamented Chestguard",
     "Id": "40907",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40910": {
     "ItemLevel": "251",
@@ -2765,7 +2765,7 @@
     },
     "Name": "Relentless Gladiator's Ornamented Chestguard",
     "Id": "40910",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40986": {
     "ItemLevel": "200",
@@ -2793,7 +2793,7 @@
     },
     "Name": "Savage Gladiator's Ringmail Armor",
     "Id": "40986",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40987": {
     "ItemLevel": "200",
@@ -2821,7 +2821,7 @@
     },
     "Name": "Savage Gladiator's Mail Armor",
     "Id": "40987",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40988": {
     "ItemLevel": "200",
@@ -2849,7 +2849,7 @@
     },
     "Name": "Hateful Gladiator's Ringmail Armor",
     "Id": "40988",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40989": {
     "ItemLevel": "200",
@@ -2877,7 +2877,7 @@
     },
     "Name": "Hateful Gladiator's Mail Armor",
     "Id": "40989",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40990": {
     "ItemLevel": "213",
@@ -2905,7 +2905,7 @@
     },
     "Name": "Deadly Gladiator's Ringmail Armor",
     "Id": "40990",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40991": {
     "ItemLevel": "213",
@@ -2933,7 +2933,7 @@
     },
     "Name": "Deadly Gladiator's Mail Armor",
     "Id": "40991",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40992": {
     "ItemLevel": "232",
@@ -2961,7 +2961,7 @@
     },
     "Name": "Furious Gladiator's Ringmail Armor",
     "Id": "40992",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40993": {
     "ItemLevel": "232",
@@ -2989,7 +2989,7 @@
     },
     "Name": "Furious Gladiator's Mail Armor",
     "Id": "40993",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40994": {
     "ItemLevel": "251",
@@ -3017,7 +3017,7 @@
     },
     "Name": "Relentless Gladiator's Ringmail Armor",
     "Id": "40994",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "40995": {
     "ItemLevel": "251",
@@ -3045,7 +3045,7 @@
     },
     "Name": "Relentless Gladiator's Mail Armor",
     "Id": "40995",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41078": {
     "ItemLevel": "200",
@@ -3074,7 +3074,7 @@
     },
     "Name": "Savage Gladiator's Linked Armor",
     "Id": "41078",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41079": {
     "ItemLevel": "200",
@@ -3103,7 +3103,7 @@
     },
     "Name": "Hateful Gladiator's Linked Armor",
     "Id": "41079",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41080": {
     "ItemLevel": "213",
@@ -3132,7 +3132,7 @@
     },
     "Name": "Deadly Gladiator's Linked Armor",
     "Id": "41080",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41081": {
     "ItemLevel": "232",
@@ -3161,7 +3161,7 @@
     },
     "Name": "Furious Gladiator's Linked Armor",
     "Id": "41081",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41082": {
     "ItemLevel": "251",
@@ -3190,7 +3190,7 @@
     },
     "Name": "Relentless Gladiator's Linked Armor",
     "Id": "41082",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41084": {
     "ItemLevel": "200",
@@ -3219,7 +3219,7 @@
     },
     "Name": "Savage Gladiator's Chain Armor",
     "Id": "41084",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41085": {
     "ItemLevel": "200",
@@ -3248,7 +3248,7 @@
     },
     "Name": "Hateful Gladiator's Chain Armor",
     "Id": "41085",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41086": {
     "ItemLevel": "213",
@@ -3277,7 +3277,7 @@
     },
     "Name": "Deadly Gladiator's Chain Armor",
     "Id": "41086",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41087": {
     "ItemLevel": "232",
@@ -3306,7 +3306,7 @@
     },
     "Name": "Furious Gladiator's Chain Armor",
     "Id": "41087",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41088": {
     "ItemLevel": "251",
@@ -3335,7 +3335,7 @@
     },
     "Name": "Relentless Gladiator's Chain Armor",
     "Id": "41088",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41272": {
     "ItemLevel": "200",
@@ -3363,7 +3363,7 @@
     },
     "Name": "Savage Gladiator's Kodohide Robes",
     "Id": "41272",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41308": {
     "ItemLevel": "200",
@@ -3391,7 +3391,7 @@
     },
     "Name": "Hateful Gladiator's Kodohide Robes",
     "Id": "41308",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41309": {
     "ItemLevel": "213",
@@ -3419,7 +3419,7 @@
     },
     "Name": "Deadly Gladiator's Kodohide Robes",
     "Id": "41309",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41310": {
     "ItemLevel": "232",
@@ -3447,7 +3447,7 @@
     },
     "Name": "Furious Gladiator's Kodohide Robes",
     "Id": "41310",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41311": {
     "ItemLevel": "251",
@@ -3475,7 +3475,7 @@
     },
     "Name": "Relentless Gladiator's Kodohide Robes",
     "Id": "41311",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41313": {
     "ItemLevel": "200",
@@ -3503,7 +3503,7 @@
     },
     "Name": "Savage Gladiator's Wyrmhide Robes",
     "Id": "41313",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41314": {
     "ItemLevel": "200",
@@ -3531,7 +3531,7 @@
     },
     "Name": "Hateful Gladiator's Wyrmhide Robes",
     "Id": "41314",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41315": {
     "ItemLevel": "213",
@@ -3559,7 +3559,7 @@
     },
     "Name": "Deadly Gladiator's Wyrmhide Robes",
     "Id": "41315",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41316": {
     "ItemLevel": "232",
@@ -3587,7 +3587,7 @@
     },
     "Name": "Furious Gladiator's Wyrmhide Robes",
     "Id": "41316",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41317": {
     "ItemLevel": "251",
@@ -3615,7 +3615,7 @@
     },
     "Name": "Relentless Gladiator's Wyrmhide Robes",
     "Id": "41317",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41647": {
     "ItemLevel": "200",
@@ -3643,7 +3643,7 @@
     },
     "Name": "Savage Gladiator's Leather Tunic",
     "Id": "41647",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41648": {
     "ItemLevel": "200",
@@ -3671,7 +3671,7 @@
     },
     "Name": "Hateful Gladiator's Leather Tunic",
     "Id": "41648",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41649": {
     "ItemLevel": "213",
@@ -3699,7 +3699,7 @@
     },
     "Name": "Deadly Gladiator's Leather Tunic",
     "Id": "41649",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41650": {
     "ItemLevel": "232",
@@ -3727,7 +3727,7 @@
     },
     "Name": "Furious Gladiator's Leather Tunic",
     "Id": "41650",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41651": {
     "ItemLevel": "251",
@@ -3755,7 +3755,7 @@
     },
     "Name": "Relentless Gladiator's Leather Tunic",
     "Id": "41651",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41658": {
     "ItemLevel": "200",
@@ -3783,7 +3783,7 @@
     },
     "Name": "Savage Gladiator's Dragonhide Robes",
     "Id": "41658",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41659": {
     "ItemLevel": "200",
@@ -3811,7 +3811,7 @@
     },
     "Name": "Hateful Gladiator's Dragonhide Robes",
     "Id": "41659",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41660": {
     "ItemLevel": "213",
@@ -3839,7 +3839,7 @@
     },
     "Name": "Deadly Gladiator's Dragonhide Robes",
     "Id": "41660",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41661": {
     "ItemLevel": "232",
@@ -3867,7 +3867,7 @@
     },
     "Name": "Furious Gladiator's Dragonhide Robes",
     "Id": "41661",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41662": {
     "ItemLevel": "251",
@@ -3895,7 +3895,7 @@
     },
     "Name": "Relentless Gladiator's Dragonhide Robes",
     "Id": "41662",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41851": {
     "ItemLevel": "200",
@@ -3923,7 +3923,7 @@
     },
     "Name": "Savage Gladiator's Mooncloth Robe",
     "Id": "41851",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41857": {
     "ItemLevel": "200",
@@ -3951,7 +3951,7 @@
     },
     "Name": "Hateful Gladiator's Mooncloth Robe",
     "Id": "41857",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41858": {
     "ItemLevel": "213",
@@ -3979,7 +3979,7 @@
     },
     "Name": "Deadly Gladiator's Mooncloth Robe",
     "Id": "41858",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41859": {
     "ItemLevel": "232",
@@ -4007,7 +4007,7 @@
     },
     "Name": "Furious Gladiator's Mooncloth Robe",
     "Id": "41859",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41860": {
     "ItemLevel": "251",
@@ -4035,7 +4035,7 @@
     },
     "Name": "Relentless Gladiator's Mooncloth Robe",
     "Id": "41860",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41918": {
     "ItemLevel": "200",
@@ -4063,7 +4063,7 @@
     },
     "Name": "Savage Gladiator's Satin Robe",
     "Id": "41918",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41919": {
     "ItemLevel": "200",
@@ -4091,7 +4091,7 @@
     },
     "Name": "Hateful Gladiator's Satin Robe",
     "Id": "41919",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41920": {
     "ItemLevel": "213",
@@ -4119,7 +4119,7 @@
     },
     "Name": "Deadly Gladiator's Satin Robe",
     "Id": "41920",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41921": {
     "ItemLevel": "232",
@@ -4147,7 +4147,7 @@
     },
     "Name": "Furious Gladiator's Satin Robe",
     "Id": "41921",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41922": {
     "ItemLevel": "251",
@@ -4175,7 +4175,7 @@
     },
     "Name": "Relentless Gladiator's Satin Robe",
     "Id": "41922",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41949": {
     "ItemLevel": "200",
@@ -4203,7 +4203,7 @@
     },
     "Name": "Savage Gladiator's Silk Raiment",
     "Id": "41949",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41950": {
     "ItemLevel": "200",
@@ -4231,7 +4231,7 @@
     },
     "Name": "Hateful Gladiator's Silk Raiment",
     "Id": "41950",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41951": {
     "ItemLevel": "213",
@@ -4259,7 +4259,7 @@
     },
     "Name": "Deadly Gladiator's Silk Raiment",
     "Id": "41951",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41953": {
     "ItemLevel": "232",
@@ -4287,7 +4287,7 @@
     },
     "Name": "Furious Gladiator's Silk Raiment",
     "Id": "41953",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41954": {
     "ItemLevel": "251",
@@ -4315,7 +4315,7 @@
     },
     "Name": "Relentless Gladiator's Silk Raiment",
     "Id": "41954",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41996": {
     "ItemLevel": "200",
@@ -4343,7 +4343,7 @@
     },
     "Name": "Savage Gladiator's Felweave Raiment",
     "Id": "41996",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41997": {
     "ItemLevel": "213",
@@ -4371,7 +4371,7 @@
     },
     "Name": "Deadly Gladiator's Felweave Raiment",
     "Id": "41997",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41998": {
     "ItemLevel": "232",
@@ -4399,7 +4399,7 @@
     },
     "Name": "Furious Gladiator's Felweave Raiment",
     "Id": "41998",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "41999": {
     "ItemLevel": "251",
@@ -4427,7 +4427,7 @@
     },
     "Name": "Relentless Gladiator's Felweave Raiment",
     "Id": "41999",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "42001": {
     "ItemLevel": "200",
@@ -4455,7 +4455,7 @@
     },
     "Name": "Hateful Gladiator's Felweave Raiment",
     "Id": "42001",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "42100": {
     "ItemLevel": "200",
@@ -4476,7 +4476,7 @@
     "SocketBonus": "none",
     "Name": "Moonshroud Robe",
     "Id": "42100",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "42101": {
     "ItemLevel": "200",
@@ -4497,7 +4497,7 @@
     "SocketBonus": "none",
     "Name": "Ebonweave Robe",
     "Id": "42101",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "42102": {
     "ItemLevel": "200",
@@ -4518,7 +4518,7 @@
     "SocketBonus": "none",
     "Name": "Spellweave Robe",
     "Id": "42102",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "43310": {
     "ItemLevel": "200",
@@ -4542,7 +4542,7 @@
     },
     "Name": "Engraved Chestplate of Eck",
     "Id": "43310",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "43401": {
     "ItemLevel": "200",
@@ -4567,7 +4567,7 @@
     },
     "Name": "Water-Drenched Robe",
     "Id": "43401",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "43410": {
     "ItemLevel": "200",
@@ -4592,7 +4592,7 @@
     },
     "Name": "Moragg's Chestguard",
     "Id": "43410",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "43461": {
     "ItemLevel": "200",
@@ -4613,7 +4613,7 @@
     "SocketBonus": "none",
     "Name": "Revenant's Breastplate",
     "Id": "43461",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "43583": {
     "ItemLevel": "213",
@@ -4637,7 +4637,7 @@
     },
     "Name": "Glacial Robe",
     "Id": "43583",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "43586": {
     "ItemLevel": "213",
@@ -4661,7 +4661,7 @@
     },
     "Name": "Icebane Chestguard",
     "Id": "43586",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "43590": {
     "ItemLevel": "213",
@@ -4685,7 +4685,7 @@
     },
     "Name": "Polar Vest",
     "Id": "43590",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "43593": {
     "ItemLevel": "213",
@@ -4709,7 +4709,7 @@
     },
     "Name": "Icy Scale Chestguard",
     "Id": "43593",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "43767": {
     "ItemLevel": "200",
@@ -4737,7 +4737,7 @@
     },
     "Name": "Earthshatter Hauberk",
     "Id": "43767",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "43990": {
     "ItemLevel": "200",
@@ -4763,7 +4763,7 @@
     },
     "Name": "Blade-Scarred Tunic",
     "Id": "43990",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "43998": {
     "ItemLevel": "213",
@@ -4790,7 +4790,7 @@
     },
     "Name": "Chestguard of Flagrant Prowess",
     "Id": "43998",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "44000": {
     "ItemLevel": "213",
@@ -4816,7 +4816,7 @@
     },
     "Name": "Dragonstorm Breastplate",
     "Id": "44000",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "44002": {
     "ItemLevel": "213",
@@ -4842,7 +4842,7 @@
     },
     "Name": "The Sanctum's Flowing Vestments",
     "Id": "44002",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "44180": {
     "ItemLevel": "200",
@@ -4864,7 +4864,7 @@
     "SocketBonus": "none",
     "Name": "Robes of Crackling Flame",
     "Id": "44180",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "44198": {
     "ItemLevel": "200",
@@ -4885,7 +4885,7 @@
     "SocketBonus": "none",
     "Name": "Breastplate of the Solemn Council",
     "Id": "44198",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "44295": {
     "ItemLevel": "200",
@@ -4910,7 +4910,7 @@
     },
     "Name": "Polished Regimental Hauberk",
     "Id": "44295",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "44303": {
     "ItemLevel": "200",
@@ -4931,7 +4931,7 @@
     "SocketBonus": "none",
     "Name": "Darkheart Chestguard",
     "Id": "44303",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45167": {
     "ItemLevel": "226",
@@ -4956,7 +4956,7 @@
     },
     "Name": "Lifeforge Breastplate",
     "Id": "45167",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45225": {
     "ItemLevel": "226",
@@ -4980,7 +4980,7 @@
     },
     "Name": "Steelbreaker's Embrace",
     "Id": "45225",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45237": {
     "ItemLevel": "226",
@@ -5005,7 +5005,7 @@
     },
     "Name": "Phaelia's Vestments of the Sprouting Seed",
     "Id": "45237",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45240": {
     "ItemLevel": "226",
@@ -5031,7 +5031,7 @@
     },
     "Name": "Raiments of the Iron Council",
     "Id": "45240",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45259": {
     "ItemLevel": "226",
@@ -5057,7 +5057,7 @@
     },
     "Name": "Quartz-studded Harness",
     "Id": "45259",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45272": {
     "ItemLevel": "226",
@@ -5082,7 +5082,7 @@
     },
     "Name": "Robes of the Umbral Brute",
     "Id": "45272",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45288": {
     "ItemLevel": "219",
@@ -5104,7 +5104,7 @@
     "SocketBonus": "none",
     "Name": "Firestrider Chestguard",
     "Id": "45288",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45305": {
     "ItemLevel": "219",
@@ -5129,7 +5129,7 @@
     },
     "Name": "Breastplate of the Afterlife",
     "Id": "45305",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45334": {
     "ItemLevel": "226",
@@ -5155,7 +5155,7 @@
     },
     "Name": "Unbreakable Chestguard",
     "Id": "45334",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45335": {
     "ItemLevel": "219",
@@ -5183,7 +5183,7 @@
     },
     "Name": "Valorous Darkruned Chestguard",
     "Id": "45335",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45340": {
     "ItemLevel": "219",
@@ -5210,7 +5210,7 @@
     },
     "Name": "Valorous Darkruned Battleplate",
     "Id": "45340",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45348": {
     "ItemLevel": "219",
@@ -5238,7 +5238,7 @@
     },
     "Name": "Valorous Nightsong Robe",
     "Id": "45348",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45354": {
     "ItemLevel": "219",
@@ -5266,7 +5266,7 @@
     },
     "Name": "Valorous Nightsong Vestments",
     "Id": "45354",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45358": {
     "ItemLevel": "219",
@@ -5294,7 +5294,7 @@
     },
     "Name": "Valorous Nightsong Raiments",
     "Id": "45358",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45364": {
     "ItemLevel": "219",
@@ -5323,7 +5323,7 @@
     },
     "Name": "Valorous Scourgestalker Tunic",
     "Id": "45364",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45368": {
     "ItemLevel": "219",
@@ -5351,7 +5351,7 @@
     },
     "Name": "Valorous Kirin Tor Tunic",
     "Id": "45368",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45374": {
     "ItemLevel": "219",
@@ -5379,7 +5379,7 @@
     },
     "Name": "Valorous Aegis Tunic",
     "Id": "45374",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45375": {
     "ItemLevel": "219",
@@ -5406,7 +5406,7 @@
     },
     "Name": "Valorous Aegis Battleplate",
     "Id": "45375",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45381": {
     "ItemLevel": "219",
@@ -5434,7 +5434,7 @@
     },
     "Name": "Valorous Aegis Breastplate",
     "Id": "45381",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45389": {
     "ItemLevel": "219",
@@ -5462,7 +5462,7 @@
     },
     "Name": "Valorous Robe of Sanctification",
     "Id": "45389",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45395": {
     "ItemLevel": "219",
@@ -5490,7 +5490,7 @@
     },
     "Name": "Valorous Raiments of Sanctification",
     "Id": "45395",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45396": {
     "ItemLevel": "219",
@@ -5518,7 +5518,7 @@
     },
     "Name": "Valorous Terrorblade Breastplate",
     "Id": "45396",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45405": {
     "ItemLevel": "219",
@@ -5546,7 +5546,7 @@
     },
     "Name": "Valorous Worldbreaker Tunic",
     "Id": "45405",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45411": {
     "ItemLevel": "219",
@@ -5574,7 +5574,7 @@
     },
     "Name": "Valorous Worldbreaker Hauberk",
     "Id": "45411",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45413": {
     "ItemLevel": "219",
@@ -5603,7 +5603,7 @@
     },
     "Name": "Valorous Worldbreaker Chestguard",
     "Id": "45413",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45421": {
     "ItemLevel": "219",
@@ -5631,7 +5631,7 @@
     },
     "Name": "Valorous Deathbringer Robe",
     "Id": "45421",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45424": {
     "ItemLevel": "219",
@@ -5659,7 +5659,7 @@
     },
     "Name": "Valorous Siegebreaker Breastplate",
     "Id": "45424",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45429": {
     "ItemLevel": "219",
@@ -5686,7 +5686,7 @@
     },
     "Name": "Valorous Siegebreaker Battleplate",
     "Id": "45429",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45445": {
     "ItemLevel": "239",
@@ -5713,7 +5713,7 @@
     },
     "Name": "Breastplate of the Devoted",
     "Id": "45445",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45453": {
     "ItemLevel": "226",
@@ -5739,7 +5739,7 @@
     },
     "Name": "Winter's Icy Embrace",
     "Id": "45453",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45473": {
     "ItemLevel": "239",
@@ -5766,7 +5766,7 @@
     },
     "Name": "Embrace of the Gladiator",
     "Id": "45473",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45519": {
     "ItemLevel": "239",
@@ -5793,7 +5793,7 @@
     },
     "Name": "Vestments of the Blind Denizen",
     "Id": "45519",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45524": {
     "ItemLevel": "226",
@@ -5820,7 +5820,7 @@
     },
     "Name": "Chestguard of Insidious Intent",
     "Id": "45524",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45531": {
     "ItemLevel": "226",
@@ -5845,7 +5845,7 @@
     },
     "Name": "Chestguard of the Fallen God",
     "Id": "45531",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45676": {
     "ItemLevel": "219",
@@ -5869,7 +5869,7 @@
     },
     "Name": "Chestplate of Vicious Potency",
     "Id": "45676",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45686": {
     "ItemLevel": "219",
@@ -5894,7 +5894,7 @@
     },
     "Name": "Vest of the Glowing Crescent",
     "Id": "45686",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45712": {
     "ItemLevel": "219",
@@ -5918,7 +5918,7 @@
     },
     "Name": "Chestplate of Titanic Fury",
     "Id": "45712",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45865": {
     "ItemLevel": "219",
@@ -5943,7 +5943,7 @@
     },
     "Name": "Raiments of the Corrupted",
     "Id": "45865",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45867": {
     "ItemLevel": "226",
@@ -5969,7 +5969,7 @@
     },
     "Name": "Breastplate of the Stoneshaper",
     "Id": "45867",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45940": {
     "ItemLevel": "219",
@@ -5994,7 +5994,7 @@
     },
     "Name": "Tunic of the Limber Stalker",
     "Id": "45940",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "45941": {
     "ItemLevel": "219",
@@ -6017,7 +6017,7 @@
     "SocketBonus": "none",
     "Name": "Chestguard of the Lasher",
     "Id": "45941",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46012": {
     "ItemLevel": "219",
@@ -6039,7 +6039,7 @@
     "SocketBonus": "none",
     "Name": "Vestments of the Piercing Light",
     "Id": "46012",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46039": {
     "ItemLevel": "226",
@@ -6065,7 +6065,7 @@
     },
     "Name": "Breastplate of the Timeless",
     "Id": "46039",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46057": {
     "ItemLevel": "213",
@@ -6092,7 +6092,7 @@
     },
     "Name": "Titan-Forged Chestguard of Salvation",
     "Id": "46057",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46058": {
     "ItemLevel": "213",
@@ -6118,7 +6118,7 @@
     },
     "Name": "Titan-Forged Breastplate of Triumph",
     "Id": "46058",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46059": {
     "ItemLevel": "213",
@@ -6146,7 +6146,7 @@
     },
     "Name": "Titan-Forged Chain Armor of Triumph",
     "Id": "46059",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46060": {
     "ItemLevel": "213",
@@ -6173,7 +6173,7 @@
     },
     "Name": "Titan-Forged Ringmail of Salvation",
     "Id": "46060",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46061": {
     "ItemLevel": "213",
@@ -6200,7 +6200,7 @@
     },
     "Name": "Titan-Forged Mail Armor of Domination",
     "Id": "46061",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46062": {
     "ItemLevel": "213",
@@ -6227,7 +6227,7 @@
     },
     "Name": "Titan-Forged Leather Tunic of Triumph",
     "Id": "46062",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46063": {
     "ItemLevel": "213",
@@ -6254,7 +6254,7 @@
     },
     "Name": "Titan-Forged Leather Chestguard of Salvation",
     "Id": "46063",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46064": {
     "ItemLevel": "213",
@@ -6281,7 +6281,7 @@
     },
     "Name": "Titan-Forged Leather Chestguard of Dominance",
     "Id": "46064",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46065": {
     "ItemLevel": "213",
@@ -6308,7 +6308,7 @@
     },
     "Name": "Titan-Forged Raiment of Dominance",
     "Id": "46065",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46066": {
     "ItemLevel": "213",
@@ -6335,7 +6335,7 @@
     },
     "Name": "Titan-Forged Raiment of Salvation",
     "Id": "46066",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46111": {
     "ItemLevel": "226",
@@ -6362,7 +6362,7 @@
     },
     "Name": "Conqueror's Darkruned Battleplate",
     "Id": "46111",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46118": {
     "ItemLevel": "226",
@@ -6390,7 +6390,7 @@
     },
     "Name": "Conqueror's Darkruned Chestguard",
     "Id": "46118",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46123": {
     "ItemLevel": "226",
@@ -6418,7 +6418,7 @@
     },
     "Name": "Conqueror's Terrorblade Breastplate",
     "Id": "46123",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46130": {
     "ItemLevel": "226",
@@ -6446,7 +6446,7 @@
     },
     "Name": "Conqueror's Kirin Tor Tunic",
     "Id": "46130",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46137": {
     "ItemLevel": "226",
@@ -6474,7 +6474,7 @@
     },
     "Name": "Conqueror's Deathbringer Robe",
     "Id": "46137",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46141": {
     "ItemLevel": "226",
@@ -6503,7 +6503,7 @@
     },
     "Name": "Conqueror's Scourgestalker Tunic",
     "Id": "46141",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46146": {
     "ItemLevel": "226",
@@ -6530,7 +6530,7 @@
     },
     "Name": "Conqueror's Siegebreaker Battleplate",
     "Id": "46146",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46154": {
     "ItemLevel": "226",
@@ -6557,7 +6557,7 @@
     },
     "Name": "Conqueror's Aegis Battleplate",
     "Id": "46154",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46159": {
     "ItemLevel": "226",
@@ -6585,7 +6585,7 @@
     },
     "Name": "Conqueror's Nightsong Raiments",
     "Id": "46159",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46162": {
     "ItemLevel": "226",
@@ -6613,7 +6613,7 @@
     },
     "Name": "Conqueror's Siegebreaker Breastplate",
     "Id": "46162",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46168": {
     "ItemLevel": "226",
@@ -6641,7 +6641,7 @@
     },
     "Name": "Conqueror's Raiments of Sanctification",
     "Id": "46168",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46173": {
     "ItemLevel": "226",
@@ -6669,7 +6669,7 @@
     },
     "Name": "Conqueror's Aegis Breastplate",
     "Id": "46173",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46178": {
     "ItemLevel": "226",
@@ -6697,7 +6697,7 @@
     },
     "Name": "Conqueror's Aegis Tunic",
     "Id": "46178",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46186": {
     "ItemLevel": "226",
@@ -6725,7 +6725,7 @@
     },
     "Name": "Conqueror's Nightsong Robe",
     "Id": "46186",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46193": {
     "ItemLevel": "226",
@@ -6753,7 +6753,7 @@
     },
     "Name": "Conqueror's Robe of Sanctification",
     "Id": "46193",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46194": {
     "ItemLevel": "226",
@@ -6781,7 +6781,7 @@
     },
     "Name": "Conqueror's Nightsong Vestments",
     "Id": "46194",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46198": {
     "ItemLevel": "226",
@@ -6809,7 +6809,7 @@
     },
     "Name": "Conqueror's Worldbreaker Tunic",
     "Id": "46198",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46205": {
     "ItemLevel": "226",
@@ -6838,7 +6838,7 @@
     },
     "Name": "Conqueror's Worldbreaker Chestguard",
     "Id": "46205",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46206": {
     "ItemLevel": "226",
@@ -6866,7 +6866,7 @@
     },
     "Name": "Conqueror's Worldbreaker Hauberk",
     "Id": "46206",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46960": {
     "ItemLevel": "245",
@@ -6893,7 +6893,7 @@
     },
     "Name": "Breastplate of Cruel Intent",
     "Id": "46960",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46962": {
     "ItemLevel": "245",
@@ -6919,7 +6919,7 @@
     },
     "Name": "Chestplate of the Towering Monstrosity",
     "Id": "46962",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46965": {
     "ItemLevel": "258",
@@ -6947,7 +6947,7 @@
     },
     "Name": "Breastplate of Cruel Intent",
     "Id": "46965",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46968": {
     "ItemLevel": "258",
@@ -6974,7 +6974,7 @@
     },
     "Name": "Chestplate of the Towering Monstrosity",
     "Id": "46968",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46992": {
     "ItemLevel": "245",
@@ -7000,7 +7000,7 @@
     },
     "Name": "Flowing Vestments of Ascent",
     "Id": "46992",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "46993": {
     "ItemLevel": "258",
@@ -7027,7 +7027,7 @@
     },
     "Name": "Flowing Vestments of Ascent",
     "Id": "46993",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47000": {
     "ItemLevel": "245",
@@ -7053,7 +7053,7 @@
     },
     "Name": "Cuirass of Calamitous Fate",
     "Id": "47000",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47004": {
     "ItemLevel": "258",
@@ -7080,7 +7080,7 @@
     },
     "Name": "Cuirass of Calamitous Fate",
     "Id": "47004",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47082": {
     "ItemLevel": "245",
@@ -7105,7 +7105,7 @@
     },
     "Name": "Chestplate of the Frostborn Hero",
     "Id": "47082",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47086": {
     "ItemLevel": "258",
@@ -7131,7 +7131,7 @@
     },
     "Name": "Chestplate of the Frostborn Hero",
     "Id": "47086",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47094": {
     "ItemLevel": "245",
@@ -7157,7 +7157,7 @@
     },
     "Name": "Vestments of the Shattered Fellowship",
     "Id": "47094",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47096": {
     "ItemLevel": "258",
@@ -7184,7 +7184,7 @@
     },
     "Name": "Vestments of the Shattered Fellowship",
     "Id": "47096",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47126": {
     "ItemLevel": "245",
@@ -7210,7 +7210,7 @@
     },
     "Name": "Skyweaver Robes",
     "Id": "47126",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47129": {
     "ItemLevel": "258",
@@ -7237,7 +7237,7 @@
     },
     "Name": "Skyweaver Robes",
     "Id": "47129",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47142": {
     "ItemLevel": "245",
@@ -7263,7 +7263,7 @@
     },
     "Name": "Breastplate of the Frozen Lake",
     "Id": "47142",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47147": {
     "ItemLevel": "258",
@@ -7290,7 +7290,7 @@
     },
     "Name": "Breastplate of the Frozen Lake",
     "Id": "47147",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47176": {
     "ItemLevel": "200",
@@ -7315,7 +7315,7 @@
     },
     "Name": "Breastplate of the Imperial Joust",
     "Id": "47176",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47178": {
     "ItemLevel": "200",
@@ -7340,7 +7340,7 @@
     },
     "Name": "Carapace of Grim Visions",
     "Id": "47178",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47204": {
     "ItemLevel": "245",
@@ -7366,7 +7366,7 @@
     },
     "Name": "Chestguard of Flowing Elements",
     "Id": "47204",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47209": {
     "ItemLevel": "258",
@@ -7393,7 +7393,7 @@
     },
     "Name": "Chestguard of Flowing Elements",
     "Id": "47209",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47244": {
     "ItemLevel": "219",
@@ -7419,7 +7419,7 @@
     },
     "Name": "Chestguard of the Ravenous Fiend",
     "Id": "47244",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47251": {
     "ItemLevel": "245",
@@ -7446,7 +7446,7 @@
     },
     "Name": "Cuirass of Cruel Intent",
     "Id": "47251",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47254": {
     "ItemLevel": "245",
@@ -7472,7 +7472,7 @@
     },
     "Name": "Hauberk of the Towering Monstrosity",
     "Id": "47254",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47264": {
     "ItemLevel": "245",
@@ -7498,7 +7498,7 @@
     },
     "Name": "Flowing Robes of Ascent",
     "Id": "47264",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47270": {
     "ItemLevel": "245",
@@ -7524,7 +7524,7 @@
     },
     "Name": "Vest of Calamitous Fate",
     "Id": "47270",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47288": {
     "ItemLevel": "245",
@@ -7549,7 +7549,7 @@
     },
     "Name": "Chestplate of the Frostwolf Hero",
     "Id": "47288",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47292": {
     "ItemLevel": "245",
@@ -7575,7 +7575,7 @@
     },
     "Name": "Robes of the Shattered Fellowship",
     "Id": "47292",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47301": {
     "ItemLevel": "245",
@@ -7601,7 +7601,7 @@
     },
     "Name": "Skyweaver Vestments",
     "Id": "47301",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47310": {
     "ItemLevel": "245",
@@ -7627,7 +7627,7 @@
     },
     "Name": "Chestplate of the Frozen Lake",
     "Id": "47310",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47325": {
     "ItemLevel": "245",
@@ -7653,7 +7653,7 @@
     },
     "Name": "Cuirass of Flowing Elements",
     "Id": "47325",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47412": {
     "ItemLevel": "258",
@@ -7681,7 +7681,7 @@
     },
     "Name": "Cuirass of Cruel Intent",
     "Id": "47412",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47415": {
     "ItemLevel": "258",
@@ -7708,7 +7708,7 @@
     },
     "Name": "Hauberk of the Towering Monstrosity",
     "Id": "47415",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47425": {
     "ItemLevel": "258",
@@ -7735,7 +7735,7 @@
     },
     "Name": "Flowing Robes of Ascent",
     "Id": "47425",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47431": {
     "ItemLevel": "258",
@@ -7762,7 +7762,7 @@
     },
     "Name": "Vest of Calamitous Fate",
     "Id": "47431",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47449": {
     "ItemLevel": "258",
@@ -7788,7 +7788,7 @@
     },
     "Name": "Chestplate of the Frostwolf Hero",
     "Id": "47449",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47453": {
     "ItemLevel": "258",
@@ -7815,7 +7815,7 @@
     },
     "Name": "Robes of the Shattered Fellowship",
     "Id": "47453",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47462": {
     "ItemLevel": "258",
@@ -7842,7 +7842,7 @@
     },
     "Name": "Skyweaver Vestments",
     "Id": "47462",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47471": {
     "ItemLevel": "258",
@@ -7869,7 +7869,7 @@
     },
     "Name": "Chestplate of the Frozen Lake",
     "Id": "47471",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47486": {
     "ItemLevel": "258",
@@ -7896,7 +7896,7 @@
     },
     "Name": "Cuirass of Flowing Elements",
     "Id": "47486",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47527": {
     "ItemLevel": "219",
@@ -7922,7 +7922,7 @@
     },
     "Name": "Embrace of Madness",
     "Id": "47527",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47589": {
     "ItemLevel": "245",
@@ -7948,7 +7948,7 @@
     },
     "Name": "Titanium Razorplate",
     "Id": "47589",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47590": {
     "ItemLevel": "245",
@@ -7974,7 +7974,7 @@
     },
     "Name": "Titanium Razorplate",
     "Id": "47590",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47591": {
     "ItemLevel": "245",
@@ -8001,7 +8001,7 @@
     },
     "Name": "Breastplate of the White Knight",
     "Id": "47591",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47592": {
     "ItemLevel": "245",
@@ -8028,7 +8028,7 @@
     },
     "Name": "Breastplate of the White Knight",
     "Id": "47592",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47593": {
     "ItemLevel": "245",
@@ -8055,7 +8055,7 @@
     },
     "Name": "Sunforged Breastplate",
     "Id": "47593",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47594": {
     "ItemLevel": "245",
@@ -8082,7 +8082,7 @@
     },
     "Name": "Sunforged Breastplate",
     "Id": "47594",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47595": {
     "ItemLevel": "245",
@@ -8110,7 +8110,7 @@
     },
     "Name": "Crusader's Dragonscale Breastplate",
     "Id": "47595",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47596": {
     "ItemLevel": "245",
@@ -8138,7 +8138,7 @@
     },
     "Name": "Crusader's Dragonscale Breastplate",
     "Id": "47596",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47597": {
     "ItemLevel": "245",
@@ -8165,7 +8165,7 @@
     },
     "Name": "Ensorcelled Nerubian Breastplate",
     "Id": "47597",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47598": {
     "ItemLevel": "245",
@@ -8192,7 +8192,7 @@
     },
     "Name": "Ensorcelled Nerubian Breastplate",
     "Id": "47598",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47599": {
     "ItemLevel": "245",
@@ -8219,7 +8219,7 @@
     },
     "Name": "Knightbane Carapace",
     "Id": "47599",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47600": {
     "ItemLevel": "245",
@@ -8246,7 +8246,7 @@
     },
     "Name": "Knightbane Carapace",
     "Id": "47600",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47601": {
     "ItemLevel": "245",
@@ -8273,7 +8273,7 @@
     },
     "Name": "Lunar Eclipse Robes",
     "Id": "47601",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47602": {
     "ItemLevel": "245",
@@ -8300,7 +8300,7 @@
     },
     "Name": "Lunar Eclipse Robes",
     "Id": "47602",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47603": {
     "ItemLevel": "245",
@@ -8327,7 +8327,7 @@
     },
     "Name": "Merlin's Robe",
     "Id": "47603",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47604": {
     "ItemLevel": "245",
@@ -8354,7 +8354,7 @@
     },
     "Name": "Merlin's Robe",
     "Id": "47604",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47605": {
     "ItemLevel": "245",
@@ -8381,7 +8381,7 @@
     },
     "Name": "Royal Moonshroud Robe",
     "Id": "47605",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47606": {
     "ItemLevel": "245",
@@ -8408,7 +8408,7 @@
     },
     "Name": "Royal Moonshroud Robe",
     "Id": "47606",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47739": {
     "ItemLevel": "232",
@@ -8434,7 +8434,7 @@
     },
     "Name": "Armor of Shifting Shadows",
     "Id": "47739",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47749": {
     "ItemLevel": "232",
@@ -8462,7 +8462,7 @@
     },
     "Name": "Khadgar's Robe of Conquest",
     "Id": "47749",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47756": {
     "ItemLevel": "245",
@@ -8490,7 +8490,7 @@
     },
     "Name": "Khadgar's Robe of Triumph",
     "Id": "47756",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47759": {
     "ItemLevel": "258",
@@ -8518,7 +8518,7 @@
     },
     "Name": "Khadgar's Robe of Triumph",
     "Id": "47759",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47766": {
     "ItemLevel": "258",
@@ -8546,7 +8546,7 @@
     },
     "Name": "Sunstrider's Robe of Triumph",
     "Id": "47766",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47769": {
     "ItemLevel": "245",
@@ -8574,7 +8574,7 @@
     },
     "Name": "Sunstrider's Robe of Triumph",
     "Id": "47769",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47776": {
     "ItemLevel": "232",
@@ -8602,7 +8602,7 @@
     },
     "Name": "Sunstrider's Robe of Conquest",
     "Id": "47776",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47779": {
     "ItemLevel": "245",
@@ -8630,7 +8630,7 @@
     },
     "Name": "Kel'Thuzad's Robe of Triumph",
     "Id": "47779",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47786": {
     "ItemLevel": "232",
@@ -8658,7 +8658,7 @@
     },
     "Name": "Kel'Thuzad's Robe of Conquest",
     "Id": "47786",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47791": {
     "ItemLevel": "258",
@@ -8686,7 +8686,7 @@
     },
     "Name": "Kel'Thuzad's Robe of Triumph",
     "Id": "47791",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47794": {
     "ItemLevel": "258",
@@ -8714,7 +8714,7 @@
     },
     "Name": "Gul'dan's Robe of Triumph",
     "Id": "47794",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47799": {
     "ItemLevel": "232",
@@ -8742,7 +8742,7 @@
     },
     "Name": "Gul'dan's Robe of Conquest",
     "Id": "47799",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47806": {
     "ItemLevel": "245",
@@ -8770,7 +8770,7 @@
     },
     "Name": "Gul'dan's Robe of Triumph",
     "Id": "47806",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47811": {
     "ItemLevel": "232",
@@ -8795,7 +8795,7 @@
     },
     "Name": "Chestguard of the Warden",
     "Id": "47811",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47838": {
     "ItemLevel": "232",
@@ -8820,7 +8820,7 @@
     },
     "Name": "Vestments of the Sleepless",
     "Id": "47838",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47887": {
     "ItemLevel": "232",
@@ -8846,7 +8846,7 @@
     },
     "Name": "Vest of Shifting Shadows",
     "Id": "47887",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47896": {
     "ItemLevel": "232",
@@ -8871,7 +8871,7 @@
     },
     "Name": "Stoneskin Chestplate",
     "Id": "47896",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47906": {
     "ItemLevel": "232",
@@ -8896,7 +8896,7 @@
     },
     "Name": "Robes of the Sleepless",
     "Id": "47906",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47936": {
     "ItemLevel": "232",
@@ -8924,7 +8924,7 @@
     },
     "Name": "Velen's Robe of Conquest",
     "Id": "47936",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47954": {
     "ItemLevel": "245",
@@ -8951,7 +8951,7 @@
     },
     "Name": "Armor of Shifting Shadows",
     "Id": "47954",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47964": {
     "ItemLevel": "245",
@@ -8977,7 +8977,7 @@
     },
     "Name": "Chestguard of the Warden",
     "Id": "47964",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47974": {
     "ItemLevel": "245",
@@ -9003,7 +9003,7 @@
     },
     "Name": "Vestments of the Sleepless",
     "Id": "47974",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "47986": {
     "ItemLevel": "245",
@@ -9031,7 +9031,7 @@
     },
     "Name": "Velen's Robe of Triumph",
     "Id": "47986",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48026": {
     "ItemLevel": "245",
@@ -9058,7 +9058,7 @@
     },
     "Name": "Vest of Shifting Shadows",
     "Id": "48026",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48031": {
     "ItemLevel": "258",
@@ -9086,7 +9086,7 @@
     },
     "Name": "Velen's Robe of Triumph",
     "Id": "48031",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48041": {
     "ItemLevel": "245",
@@ -9112,7 +9112,7 @@
     },
     "Name": "Stoneskin Chestplate",
     "Id": "48041",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48051": {
     "ItemLevel": "245",
@@ -9138,7 +9138,7 @@
     },
     "Name": "Robes of the Sleepless",
     "Id": "48051",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48060": {
     "ItemLevel": "258",
@@ -9166,7 +9166,7 @@
     },
     "Name": "Zabra's Robe of Triumph",
     "Id": "48060",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48063": {
     "ItemLevel": "245",
@@ -9194,7 +9194,7 @@
     },
     "Name": "Zabra's Robe of Triumph",
     "Id": "48063",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48070": {
     "ItemLevel": "232",
@@ -9222,7 +9222,7 @@
     },
     "Name": "Zabra's Robe of Conquest",
     "Id": "48070",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48075": {
     "ItemLevel": "232",
@@ -9250,7 +9250,7 @@
     },
     "Name": "Velen's Raiments of Conquest",
     "Id": "48075",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48080": {
     "ItemLevel": "245",
@@ -9278,7 +9278,7 @@
     },
     "Name": "Velen's Raiments of Triumph",
     "Id": "48080",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48083": {
     "ItemLevel": "258",
@@ -9306,7 +9306,7 @@
     },
     "Name": "Velen's Raiments of Triumph",
     "Id": "48083",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48090": {
     "ItemLevel": "258",
@@ -9334,7 +9334,7 @@
     },
     "Name": "Zabra's Raiments of Triumph",
     "Id": "48090",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48093": {
     "ItemLevel": "245",
@@ -9362,7 +9362,7 @@
     },
     "Name": "Zabra's Raiments of Triumph",
     "Id": "48093",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48100": {
     "ItemLevel": "232",
@@ -9390,7 +9390,7 @@
     },
     "Name": "Zabra's Raiments of Conquest",
     "Id": "48100",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48129": {
     "ItemLevel": "232",
@@ -9418,7 +9418,7 @@
     },
     "Name": "Malfurion's Robe of Conquest",
     "Id": "48129",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48136": {
     "ItemLevel": "245",
@@ -9446,7 +9446,7 @@
     },
     "Name": "Malfurion's Robe of Triumph",
     "Id": "48136",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48139": {
     "ItemLevel": "258",
@@ -9474,7 +9474,7 @@
     },
     "Name": "Malfurion's Robe of Triumph",
     "Id": "48139",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48146": {
     "ItemLevel": "258",
@@ -9502,7 +9502,7 @@
     },
     "Name": "Runetotem's Robe of Triumph",
     "Id": "48146",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48149": {
     "ItemLevel": "245",
@@ -9530,7 +9530,7 @@
     },
     "Name": "Runetotem's Robe of Triumph",
     "Id": "48149",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48156": {
     "ItemLevel": "232",
@@ -9558,7 +9558,7 @@
     },
     "Name": "Runetotem's Robe of Conquest",
     "Id": "48156",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48159": {
     "ItemLevel": "232",
@@ -9586,7 +9586,7 @@
     },
     "Name": "Malfurion's Vestments of Conquest",
     "Id": "48159",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48166": {
     "ItemLevel": "245",
@@ -9614,7 +9614,7 @@
     },
     "Name": "Malfurion's Vestments of Triumph",
     "Id": "48166",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48169": {
     "ItemLevel": "258",
@@ -9642,7 +9642,7 @@
     },
     "Name": "Malfurion's Vestments of Triumph",
     "Id": "48169",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48176": {
     "ItemLevel": "258",
@@ -9670,7 +9670,7 @@
     },
     "Name": "Runetotem's Vestments of Triumph",
     "Id": "48176",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48179": {
     "ItemLevel": "245",
@@ -9698,7 +9698,7 @@
     },
     "Name": "Runetotem's Vestments of Triumph",
     "Id": "48179",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48186": {
     "ItemLevel": "232",
@@ -9726,7 +9726,7 @@
     },
     "Name": "Runetotem's Vestments of Conquest",
     "Id": "48186",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48189": {
     "ItemLevel": "232",
@@ -9754,7 +9754,7 @@
     },
     "Name": "Runetotem's Raiments of Conquest",
     "Id": "48189",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48196": {
     "ItemLevel": "245",
@@ -9782,7 +9782,7 @@
     },
     "Name": "Runetotem's Raiments of Triumph",
     "Id": "48196",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48199": {
     "ItemLevel": "258",
@@ -9810,7 +9810,7 @@
     },
     "Name": "Runetotem's Raiments of Triumph",
     "Id": "48199",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48206": {
     "ItemLevel": "258",
@@ -9838,7 +9838,7 @@
     },
     "Name": "Malfurion's Raiments of Triumph",
     "Id": "48206",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48209": {
     "ItemLevel": "245",
@@ -9866,7 +9866,7 @@
     },
     "Name": "Malfurion's Raiments of Triumph",
     "Id": "48209",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48216": {
     "ItemLevel": "232",
@@ -9894,7 +9894,7 @@
     },
     "Name": "Malfurion's Raiments of Conquest",
     "Id": "48216",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48219": {
     "ItemLevel": "232",
@@ -9922,7 +9922,7 @@
     },
     "Name": "VanCleef's Breastplate of Conquest",
     "Id": "48219",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48223": {
     "ItemLevel": "245",
@@ -9950,7 +9950,7 @@
     },
     "Name": "VanCleef's Breastplate of Triumph",
     "Id": "48223",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48232": {
     "ItemLevel": "258",
@@ -9978,7 +9978,7 @@
     },
     "Name": "VanCleef's Breastplate of Triumph",
     "Id": "48232",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48233": {
     "ItemLevel": "258",
@@ -10006,7 +10006,7 @@
     },
     "Name": "Garona's Breastplate of Triumph",
     "Id": "48233",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48242": {
     "ItemLevel": "245",
@@ -10034,7 +10034,7 @@
     },
     "Name": "Garona's Breastplate of Triumph",
     "Id": "48242",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48243": {
     "ItemLevel": "232",
@@ -10062,7 +10062,7 @@
     },
     "Name": "Garona's Breastplate of Conquest",
     "Id": "48243",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48251": {
     "ItemLevel": "232",
@@ -10091,7 +10091,7 @@
     },
     "Name": "Windrunner's Tunic of Conquest",
     "Id": "48251",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48255": {
     "ItemLevel": "245",
@@ -10120,7 +10120,7 @@
     },
     "Name": "Windrunner's Tunic of Triumph",
     "Id": "48255",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48264": {
     "ItemLevel": "258",
@@ -10149,7 +10149,7 @@
     },
     "Name": "Windrunner's Tunic of Triumph",
     "Id": "48264",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48265": {
     "ItemLevel": "258",
@@ -10178,7 +10178,7 @@
     },
     "Name": "Windrunner's Tunic of Triumph",
     "Id": "48265",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48274": {
     "ItemLevel": "245",
@@ -10207,7 +10207,7 @@
     },
     "Name": "Windrunner's Tunic of Triumph",
     "Id": "48274",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48275": {
     "ItemLevel": "232",
@@ -10236,7 +10236,7 @@
     },
     "Name": "Windrunner's Tunic of Conquest",
     "Id": "48275",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48281": {
     "ItemLevel": "232",
@@ -10264,7 +10264,7 @@
     },
     "Name": "Nobundo's Tunic of Conquest",
     "Id": "48281",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48285": {
     "ItemLevel": "245",
@@ -10292,7 +10292,7 @@
     },
     "Name": "Nobundo's Tunic of Triumph",
     "Id": "48285",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48294": {
     "ItemLevel": "258",
@@ -10320,7 +10320,7 @@
     },
     "Name": "Nobundo's Tunic of Triumph",
     "Id": "48294",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48295": {
     "ItemLevel": "232",
@@ -10348,7 +10348,7 @@
     },
     "Name": "Thrall's Tunic of Conquest",
     "Id": "48295",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48300": {
     "ItemLevel": "245",
@@ -10376,7 +10376,7 @@
     },
     "Name": "Thrall's Tunic of Triumph",
     "Id": "48300",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48305": {
     "ItemLevel": "258",
@@ -10404,7 +10404,7 @@
     },
     "Name": "Thrall's Tunic of Triumph",
     "Id": "48305",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48310": {
     "ItemLevel": "232",
@@ -10432,7 +10432,7 @@
     },
     "Name": "Nobundo's Hauberk of Conquest",
     "Id": "48310",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48316": {
     "ItemLevel": "245",
@@ -10460,7 +10460,7 @@
     },
     "Name": "Nobundo's Hauberk of Triumph",
     "Id": "48316",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48325": {
     "ItemLevel": "258",
@@ -10488,7 +10488,7 @@
     },
     "Name": "Nobundo's Hauberk of Triumph",
     "Id": "48325",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48326": {
     "ItemLevel": "258",
@@ -10516,7 +10516,7 @@
     },
     "Name": "Thrall's Hauberk of Triumph",
     "Id": "48326",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48335": {
     "ItemLevel": "245",
@@ -10544,7 +10544,7 @@
     },
     "Name": "Thrall's Hauberk of Triumph",
     "Id": "48335",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48336": {
     "ItemLevel": "232",
@@ -10572,7 +10572,7 @@
     },
     "Name": "Thrall's Hauberk of Conquest",
     "Id": "48336",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48341": {
     "ItemLevel": "232",
@@ -10601,7 +10601,7 @@
     },
     "Name": "Nobundo's Chestguard of Conquest",
     "Id": "48341",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48346": {
     "ItemLevel": "245",
@@ -10630,7 +10630,7 @@
     },
     "Name": "Nobundo's Chestguard of Triumph",
     "Id": "48346",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48355": {
     "ItemLevel": "258",
@@ -10659,7 +10659,7 @@
     },
     "Name": "Nobundo's Chestguard of Triumph",
     "Id": "48355",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48356": {
     "ItemLevel": "258",
@@ -10688,7 +10688,7 @@
     },
     "Name": "Thrall's Chestguard of Triumph",
     "Id": "48356",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48365": {
     "ItemLevel": "245",
@@ -10717,7 +10717,7 @@
     },
     "Name": "Thrall's Chestguard of Triumph",
     "Id": "48365",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48366": {
     "ItemLevel": "232",
@@ -10746,7 +10746,7 @@
     },
     "Name": "Thrall's Chestguard of Conquest",
     "Id": "48366",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48372": {
     "ItemLevel": "232",
@@ -10773,7 +10773,7 @@
     },
     "Name": "Wrynn's Battleplate of Conquest",
     "Id": "48372",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48376": {
     "ItemLevel": "245",
@@ -10800,7 +10800,7 @@
     },
     "Name": "Wrynn's Battleplate of Triumph",
     "Id": "48376",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48385": {
     "ItemLevel": "258",
@@ -10827,7 +10827,7 @@
     },
     "Name": "Wrynn's Battleplate of Triumph",
     "Id": "48385",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48386": {
     "ItemLevel": "232",
@@ -10854,7 +10854,7 @@
     },
     "Name": "Hellscream's Battleplate of Conquest",
     "Id": "48386",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48391": {
     "ItemLevel": "245",
@@ -10881,7 +10881,7 @@
     },
     "Name": "Hellscream's Battleplate of Triumph",
     "Id": "48391",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48396": {
     "ItemLevel": "258",
@@ -10908,7 +10908,7 @@
     },
     "Name": "Hellscream's Battleplate of Triumph",
     "Id": "48396",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48436": {
     "ItemLevel": "232",
@@ -10936,7 +10936,7 @@
     },
     "Name": "Wrynn's Breastplate of Conquest",
     "Id": "48436",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48450": {
     "ItemLevel": "245",
@@ -10964,7 +10964,7 @@
     },
     "Name": "Wrynn's Breastplate of Triumph",
     "Id": "48450",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48451": {
     "ItemLevel": "258",
@@ -10992,7 +10992,7 @@
     },
     "Name": "Wrynn's Breastplate of Triumph",
     "Id": "48451",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48456": {
     "ItemLevel": "232",
@@ -11020,7 +11020,7 @@
     },
     "Name": "Hellscream's Breastplate of Conquest",
     "Id": "48456",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48461": {
     "ItemLevel": "245",
@@ -11048,7 +11048,7 @@
     },
     "Name": "Hellscream's Breastplate of Triumph",
     "Id": "48461",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48466": {
     "ItemLevel": "258",
@@ -11076,7 +11076,7 @@
     },
     "Name": "Hellscream's Breastplate of Triumph",
     "Id": "48466",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48474": {
     "ItemLevel": "232",
@@ -11103,7 +11103,7 @@
     },
     "Name": "Thassarian's Battleplate of Conquest",
     "Id": "48474",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48481": {
     "ItemLevel": "245",
@@ -11130,7 +11130,7 @@
     },
     "Name": "Thassarian's Battleplate of Triumph",
     "Id": "48481",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48490": {
     "ItemLevel": "258",
@@ -11157,7 +11157,7 @@
     },
     "Name": "Thassarian's Battleplate of Triumph",
     "Id": "48490",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48491": {
     "ItemLevel": "258",
@@ -11184,7 +11184,7 @@
     },
     "Name": "Koltira's Battleplate of Triumph",
     "Id": "48491",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48500": {
     "ItemLevel": "245",
@@ -11211,7 +11211,7 @@
     },
     "Name": "Koltira's Battleplate of Triumph",
     "Id": "48500",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48501": {
     "ItemLevel": "232",
@@ -11238,7 +11238,7 @@
     },
     "Name": "Koltira's Battleplate of Conquest",
     "Id": "48501",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48531": {
     "ItemLevel": "232",
@@ -11266,7 +11266,7 @@
     },
     "Name": "Thassarian's Chestguard of Conquest",
     "Id": "48531",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48538": {
     "ItemLevel": "245",
@@ -11294,7 +11294,7 @@
     },
     "Name": "Thassarian's Chestguard of Triumph",
     "Id": "48538",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48547": {
     "ItemLevel": "258",
@@ -11322,7 +11322,7 @@
     },
     "Name": "Thassarian's Chestguard of Triumph",
     "Id": "48547",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48548": {
     "ItemLevel": "258",
@@ -11350,7 +11350,7 @@
     },
     "Name": "Koltira's Chestguard of Triumph",
     "Id": "48548",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48557": {
     "ItemLevel": "245",
@@ -11378,7 +11378,7 @@
     },
     "Name": "Koltira's Chestguard of Triumph",
     "Id": "48557",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48558": {
     "ItemLevel": "232",
@@ -11406,7 +11406,7 @@
     },
     "Name": "Koltira's Chestguard of Conquest",
     "Id": "48558",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48566": {
     "ItemLevel": "232",
@@ -11434,7 +11434,7 @@
     },
     "Name": "Turalyon's Tunic of Conquest",
     "Id": "48566",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48575": {
     "ItemLevel": "245",
@@ -11462,7 +11462,7 @@
     },
     "Name": "Turalyon's Tunic of Triumph",
     "Id": "48575",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48584": {
     "ItemLevel": "258",
@@ -11490,7 +11490,7 @@
     },
     "Name": "Turalyon's Tunic of Triumph",
     "Id": "48584",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48589": {
     "ItemLevel": "258",
@@ -11518,7 +11518,7 @@
     },
     "Name": "Liadrin's Tunic of Triumph",
     "Id": "48589",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48594": {
     "ItemLevel": "245",
@@ -11546,7 +11546,7 @@
     },
     "Name": "Liadrin's Tunic of Triumph",
     "Id": "48594",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48599": {
     "ItemLevel": "232",
@@ -11574,7 +11574,7 @@
     },
     "Name": "Liadrin's Tunic of Conquest",
     "Id": "48599",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48602": {
     "ItemLevel": "232",
@@ -11601,7 +11601,7 @@
     },
     "Name": "Turalyon's Battleplate of Conquest",
     "Id": "48602",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48607": {
     "ItemLevel": "245",
@@ -11628,7 +11628,7 @@
     },
     "Name": "Turalyon's Battleplate of Triumph",
     "Id": "48607",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48616": {
     "ItemLevel": "258",
@@ -11655,7 +11655,7 @@
     },
     "Name": "Turalyon's Battleplate of Triumph",
     "Id": "48616",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48617": {
     "ItemLevel": "258",
@@ -11682,7 +11682,7 @@
     },
     "Name": "Liadrin's Battleplate of Triumph",
     "Id": "48617",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48626": {
     "ItemLevel": "245",
@@ -11709,7 +11709,7 @@
     },
     "Name": "Liadrin's Battleplate of Triumph",
     "Id": "48626",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48631": {
     "ItemLevel": "232",
@@ -11736,7 +11736,7 @@
     },
     "Name": "Liadrin's Battleplate of Conquest",
     "Id": "48631",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48632": {
     "ItemLevel": "232",
@@ -11764,7 +11764,7 @@
     },
     "Name": "Turalyon's Breastplate of Conquest",
     "Id": "48632",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48641": {
     "ItemLevel": "245",
@@ -11792,7 +11792,7 @@
     },
     "Name": "Turalyon's Breastplate of Triumph",
     "Id": "48641",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48642": {
     "ItemLevel": "258",
@@ -11820,7 +11820,7 @@
     },
     "Name": "Turalyon's Breastplate of Triumph",
     "Id": "48642",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48651": {
     "ItemLevel": "258",
@@ -11848,7 +11848,7 @@
     },
     "Name": "Liadrin's Breastplate of Triumph",
     "Id": "48651",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48652": {
     "ItemLevel": "232",
@@ -11876,7 +11876,7 @@
     },
     "Name": "Liadrin's Breastplate of Conquest",
     "Id": "48652",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "48657": {
     "ItemLevel": "245",
@@ -11904,7 +11904,7 @@
     },
     "Name": "Liadrin's Breastplate of Triumph",
     "Id": "48657",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "49786": {
     "ItemLevel": "219",
@@ -11926,7 +11926,7 @@
     "SocketBonus": "none",
     "Name": "Robes of the Cheating Heart",
     "Id": "49786",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "49791": {
     "ItemLevel": "219",
@@ -11947,7 +11947,7 @@
     "SocketBonus": "none",
     "Name": "Lost Reliquary Chestguard",
     "Id": "49791",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "49816": {
     "ItemLevel": "219",
@@ -11972,7 +11972,7 @@
     },
     "Name": "Scourgelord's Frigid Chestplate",
     "Id": "49816",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "49825": {
     "ItemLevel": "219",
@@ -11994,7 +11994,7 @@
     "SocketBonus": "none",
     "Name": "Palebone Robes",
     "Id": "49825",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "49826": {
     "ItemLevel": "219",
@@ -12016,7 +12016,7 @@
     "SocketBonus": "none",
     "Name": "Shroud of Rime",
     "Id": "49826",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "49841": {
     "ItemLevel": "219",
@@ -12041,7 +12041,7 @@
     },
     "Name": "Blackened Geist Ribs",
     "Id": "49841",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "49951": {
     "ItemLevel": "264",
@@ -12067,7 +12067,7 @@
     },
     "Name": "Gendarme's Cuirass",
     "Id": "49951",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "49996": {
     "ItemLevel": "264",
@@ -12094,7 +12094,7 @@
     },
     "Name": "Deathwhisper Raiment",
     "Id": "49996",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50001": {
     "ItemLevel": "264",
@@ -12121,7 +12121,7 @@
     },
     "Name": "Ikfirus's Sack of Wonder",
     "Id": "50001",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50024": {
     "ItemLevel": "264",
@@ -12148,7 +12148,7 @@
     },
     "Name": "Blightborne Warplate",
     "Id": "50024",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50027": {
     "ItemLevel": "264",
@@ -12175,7 +12175,7 @@
     },
     "Name": "Rot-Resistant Breastplate",
     "Id": "50027",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50038": {
     "ItemLevel": "264",
@@ -12203,7 +12203,7 @@
     },
     "Name": "Carapace of Forgotten Kings",
     "Id": "50038",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50078": {
     "ItemLevel": "251",
@@ -12230,7 +12230,7 @@
     },
     "Name": "Ymirjar Lord's Battleplate",
     "Id": "50078",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50087": {
     "ItemLevel": "251",
@@ -12258,7 +12258,7 @@
     },
     "Name": "Shadowblade Breastplate",
     "Id": "50087",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50094": {
     "ItemLevel": "251",
@@ -12285,7 +12285,7 @@
     },
     "Name": "Scourgelord Battleplate",
     "Id": "50094",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50106": {
     "ItemLevel": "251",
@@ -12313,7 +12313,7 @@
     },
     "Name": "Lasherweave Robes",
     "Id": "50106",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50118": {
     "ItemLevel": "251",
@@ -12342,7 +12342,7 @@
     },
     "Name": "Ahn'Kahar Blood Hunter's Tunic",
     "Id": "50118",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50172": {
     "ItemLevel": "264",
@@ -12369,7 +12369,7 @@
     },
     "Name": "Sanguine Silk Robes",
     "Id": "50172",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50177": {
     "ItemLevel": "264",
@@ -12396,7 +12396,7 @@
     },
     "Name": "Mail of Crimson Coins",
     "Id": "50177",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50213": {
     "ItemLevel": "232",
@@ -12418,7 +12418,7 @@
     "SocketBonus": "none",
     "Name": "Mord'rethar Robes",
     "Id": "50213",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50243": {
     "ItemLevel": "251",
@@ -12446,7 +12446,7 @@
     },
     "Name": "Dark Coven Robe",
     "Id": "50243",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50266": {
     "ItemLevel": "232",
@@ -12468,7 +12468,7 @@
     "SocketBonus": "none",
     "Name": "Ancient Polar Bear Hide",
     "Id": "50266",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50272": {
     "ItemLevel": "232",
@@ -12489,7 +12489,7 @@
     "SocketBonus": "none",
     "Name": "Frost Wyrm Ribcage",
     "Id": "50272",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50278": {
     "ItemLevel": "251",
@@ -12517,7 +12517,7 @@
     },
     "Name": "Bloodmage Robe",
     "Id": "50278",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50285": {
     "ItemLevel": "232",
@@ -12539,7 +12539,7 @@
     "SocketBonus": "none",
     "Name": "Icebound Bronze Cuirass",
     "Id": "50285",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50294": {
     "ItemLevel": "232",
@@ -12564,7 +12564,7 @@
     },
     "Name": "Chestpiece of High Treason",
     "Id": "50294",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50297": {
     "ItemLevel": "232",
@@ -12590,7 +12590,7 @@
     },
     "Name": "Frostsworn Bone Chestpiece",
     "Id": "50297",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50300": {
     "ItemLevel": "232",
@@ -12615,7 +12615,7 @@
     },
     "Name": "Choking Hauberk",
     "Id": "50300",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50312": {
     "ItemLevel": "232",
@@ -12640,7 +12640,7 @@
     },
     "Name": "Chestguard of Broken Branches",
     "Id": "50312",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50328": {
     "ItemLevel": "251",
@@ -12667,7 +12667,7 @@
     },
     "Name": "Lightsworn Battleplate",
     "Id": "50328",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50394": {
     "ItemLevel": "251",
@@ -12695,7 +12695,7 @@
     },
     "Name": "Crimson Acolyte Raiments",
     "Id": "50394",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50418": {
     "ItemLevel": "264",
@@ -12722,7 +12722,7 @@
     },
     "Name": "Robe of the Waking Nightmare",
     "Id": "50418",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50606": {
     "ItemLevel": "277",
@@ -12748,7 +12748,7 @@
     },
     "Name": "Gendarme's Cuirass",
     "Id": "50606",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50629": {
     "ItemLevel": "277",
@@ -12775,7 +12775,7 @@
     },
     "Name": "Robe of the Waking Nightmare",
     "Id": "50629",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50649": {
     "ItemLevel": "277",
@@ -12802,7 +12802,7 @@
     },
     "Name": "Deathwhisper Raiment",
     "Id": "50649",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50656": {
     "ItemLevel": "277",
@@ -12829,7 +12829,7 @@
     },
     "Name": "Ikfirus's Sack of Wonder",
     "Id": "50656",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50680": {
     "ItemLevel": "277",
@@ -12856,7 +12856,7 @@
     },
     "Name": "Rot-Resistant Breastplate",
     "Id": "50680",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50681": {
     "ItemLevel": "277",
@@ -12883,7 +12883,7 @@
     },
     "Name": "Blightborne Warplate",
     "Id": "50681",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50689": {
     "ItemLevel": "277",
@@ -12911,7 +12911,7 @@
     },
     "Name": "Carapace of Forgotten Kings",
     "Id": "50689",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50717": {
     "ItemLevel": "277",
@@ -12938,7 +12938,7 @@
     },
     "Name": "Sanguine Silk Robes",
     "Id": "50717",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50723": {
     "ItemLevel": "277",
@@ -12965,7 +12965,7 @@
     },
     "Name": "Mail of Crimson Coins",
     "Id": "50723",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50768": {
     "ItemLevel": "251",
@@ -12993,7 +12993,7 @@
     },
     "Name": "Crimson Acolyte Robe",
     "Id": "50768",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50780": {
     "ItemLevel": "251",
@@ -13020,7 +13020,7 @@
     },
     "Name": "Chestguard of the Frigid Noose",
     "Id": "50780",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50786": {
     "ItemLevel": "251",
@@ -13047,7 +13047,7 @@
     },
     "Name": "Ghoul Commander's Cuirass",
     "Id": "50786",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50800": {
     "ItemLevel": "251",
@@ -13075,7 +13075,7 @@
     },
     "Name": "Hauberk of a Thousand Cuts",
     "Id": "50800",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50801": {
     "ItemLevel": "251",
@@ -13101,7 +13101,7 @@
     },
     "Name": "Blade-Scored Carapace",
     "Id": "50801",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50823": {
     "ItemLevel": "251",
@@ -13129,7 +13129,7 @@
     },
     "Name": "Lasherweave Vestment",
     "Id": "50823",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50828": {
     "ItemLevel": "251",
@@ -13157,7 +13157,7 @@
     },
     "Name": "Lasherweave Raiment",
     "Id": "50828",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50830": {
     "ItemLevel": "251",
@@ -13186,7 +13186,7 @@
     },
     "Name": "Frost Witch's Chestguard",
     "Id": "50830",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50835": {
     "ItemLevel": "251",
@@ -13214,7 +13214,7 @@
     },
     "Name": "Frost Witch's Tunic",
     "Id": "50835",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50841": {
     "ItemLevel": "251",
@@ -13242,7 +13242,7 @@
     },
     "Name": "Frost Witch's Hauberk",
     "Id": "50841",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50850": {
     "ItemLevel": "251",
@@ -13270,7 +13270,7 @@
     },
     "Name": "Ymirjar Lord's Breastplate",
     "Id": "50850",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50857": {
     "ItemLevel": "251",
@@ -13298,7 +13298,7 @@
     },
     "Name": "Scourgelord Chestguard",
     "Id": "50857",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50864": {
     "ItemLevel": "251",
@@ -13326,7 +13326,7 @@
     },
     "Name": "Lightsworn Chestguard",
     "Id": "50864",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50869": {
     "ItemLevel": "251",
@@ -13354,7 +13354,7 @@
     },
     "Name": "Lightsworn Tunic",
     "Id": "50869",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50965": {
     "ItemLevel": "264",
@@ -13380,7 +13380,7 @@
     },
     "Name": "Castle Breaker's Battleplate",
     "Id": "50965",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50968": {
     "ItemLevel": "264",
@@ -13407,7 +13407,7 @@
     },
     "Name": "Cataclysmic Chestguard",
     "Id": "50968",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50969": {
     "ItemLevel": "264",
@@ -13434,7 +13434,7 @@
     },
     "Name": "Chestplate of Unspoken Truths",
     "Id": "50969",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50970": {
     "ItemLevel": "264",
@@ -13462,7 +13462,7 @@
     },
     "Name": "Longstrider's Vest",
     "Id": "50970",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50971": {
     "ItemLevel": "264",
@@ -13489,7 +13489,7 @@
     },
     "Name": "Mail of the Geyser",
     "Id": "50971",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50972": {
     "ItemLevel": "264",
@@ -13516,7 +13516,7 @@
     },
     "Name": "Shadow Seeker's Tunic",
     "Id": "50972",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50973": {
     "ItemLevel": "264",
@@ -13543,7 +13543,7 @@
     },
     "Name": "Vestments of Spruce and Fir",
     "Id": "50973",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50974": {
     "ItemLevel": "264",
@@ -13570,7 +13570,7 @@
     },
     "Name": "Meteor Chaser's Raiment",
     "Id": "50974",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "50975": {
     "ItemLevel": "264",
@@ -13597,7 +13597,7 @@
     },
     "Name": "Ermine Coronation Robes",
     "Id": "50975",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51009": {
     "ItemLevel": "251",
@@ -13624,7 +13624,7 @@
     },
     "Name": "Chestguard of the Failed Experiment",
     "Id": "51009",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51018": {
     "ItemLevel": "251",
@@ -13651,7 +13651,7 @@
     },
     "Name": "Chestplate of Septic Stitches",
     "Id": "51018",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51129": {
     "ItemLevel": "264",
@@ -13678,7 +13678,7 @@
     },
     "Name": "Sanctified Scourgelord Battleplate",
     "Id": "51129",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51134": {
     "ItemLevel": "264",
@@ -13706,7 +13706,7 @@
     },
     "Name": "Sanctified Scourgelord Chestguard",
     "Id": "51134",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51139": {
     "ItemLevel": "264",
@@ -13734,7 +13734,7 @@
     },
     "Name": "Sanctified Lasherweave Robes",
     "Id": "51139",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51141": {
     "ItemLevel": "264",
@@ -13762,7 +13762,7 @@
     },
     "Name": "Sanctified Lasherweave Raiment",
     "Id": "51141",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51145": {
     "ItemLevel": "264",
@@ -13790,7 +13790,7 @@
     },
     "Name": "Sanctified Lasherweave Vestment",
     "Id": "51145",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51150": {
     "ItemLevel": "264",
@@ -13819,7 +13819,7 @@
     },
     "Name": "Sanctified Ahn'Kahar Blood Hunter's Tunic",
     "Id": "51150",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51156": {
     "ItemLevel": "264",
@@ -13847,7 +13847,7 @@
     },
     "Name": "Sanctified Bloodmage Robe",
     "Id": "51156",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51164": {
     "ItemLevel": "264",
@@ -13874,7 +13874,7 @@
     },
     "Name": "Sanctified Lightsworn Battleplate",
     "Id": "51164",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51165": {
     "ItemLevel": "264",
@@ -13902,7 +13902,7 @@
     },
     "Name": "Sanctified Lightsworn Tunic",
     "Id": "51165",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51174": {
     "ItemLevel": "264",
@@ -13930,7 +13930,7 @@
     },
     "Name": "Sanctified Lightsworn Chestguard",
     "Id": "51174",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51176": {
     "ItemLevel": "264",
@@ -13958,7 +13958,7 @@
     },
     "Name": "Sanctified Crimson Acolyte Robe",
     "Id": "51176",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51180": {
     "ItemLevel": "264",
@@ -13986,7 +13986,7 @@
     },
     "Name": "Sanctified Crimson Acolyte Raiments",
     "Id": "51180",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51189": {
     "ItemLevel": "264",
@@ -14014,7 +14014,7 @@
     },
     "Name": "Sanctified Shadowblade Breastplate",
     "Id": "51189",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51190": {
     "ItemLevel": "264",
@@ -14042,7 +14042,7 @@
     },
     "Name": "Sanctified Frost Witch's Tunic",
     "Id": "51190",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51195": {
     "ItemLevel": "264",
@@ -14071,7 +14071,7 @@
     },
     "Name": "Sanctified Frost Witch's Chestguard",
     "Id": "51195",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51200": {
     "ItemLevel": "264",
@@ -14099,7 +14099,7 @@
     },
     "Name": "Sanctified Frost Witch's Hauberk",
     "Id": "51200",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51206": {
     "ItemLevel": "264",
@@ -14127,7 +14127,7 @@
     },
     "Name": "Sanctified Dark Coven Robe",
     "Id": "51206",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51214": {
     "ItemLevel": "264",
@@ -14154,7 +14154,7 @@
     },
     "Name": "Sanctified Ymirjar Lord's Battleplate",
     "Id": "51214",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51219": {
     "ItemLevel": "264",
@@ -14182,7 +14182,7 @@
     },
     "Name": "Sanctified Ymirjar Lord's Breastplate",
     "Id": "51219",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51220": {
     "ItemLevel": "277",
@@ -14210,7 +14210,7 @@
     },
     "Name": "Sanctified Ymirjar Lord's Breastplate",
     "Id": "51220",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51225": {
     "ItemLevel": "277",
@@ -14237,7 +14237,7 @@
     },
     "Name": "Sanctified Ymirjar Lord's Battleplate",
     "Id": "51225",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51233": {
     "ItemLevel": "277",
@@ -14265,7 +14265,7 @@
     },
     "Name": "Sanctified Dark Coven Robe",
     "Id": "51233",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51239": {
     "ItemLevel": "277",
@@ -14293,7 +14293,7 @@
     },
     "Name": "Sanctified Frost Witch's Hauberk",
     "Id": "51239",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51244": {
     "ItemLevel": "277",
@@ -14322,7 +14322,7 @@
     },
     "Name": "Sanctified Frost Witch's Chestguard",
     "Id": "51244",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51249": {
     "ItemLevel": "277",
@@ -14350,7 +14350,7 @@
     },
     "Name": "Sanctified Frost Witch's Tunic",
     "Id": "51249",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51250": {
     "ItemLevel": "277",
@@ -14378,7 +14378,7 @@
     },
     "Name": "Sanctified Shadowblade Breastplate",
     "Id": "51250",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51259": {
     "ItemLevel": "277",
@@ -14406,7 +14406,7 @@
     },
     "Name": "Sanctified Crimson Acolyte Raiments",
     "Id": "51259",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51263": {
     "ItemLevel": "277",
@@ -14434,7 +14434,7 @@
     },
     "Name": "Sanctified Crimson Acolyte Robe",
     "Id": "51263",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51265": {
     "ItemLevel": "277",
@@ -14462,7 +14462,7 @@
     },
     "Name": "Sanctified Lightsworn Chestguard",
     "Id": "51265",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51274": {
     "ItemLevel": "277",
@@ -14490,7 +14490,7 @@
     },
     "Name": "Sanctified Lightsworn Tunic",
     "Id": "51274",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51275": {
     "ItemLevel": "277",
@@ -14517,7 +14517,7 @@
     },
     "Name": "Sanctified Lightsworn Battleplate",
     "Id": "51275",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51283": {
     "ItemLevel": "277",
@@ -14545,7 +14545,7 @@
     },
     "Name": "Sanctified Bloodmage Robe",
     "Id": "51283",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51289": {
     "ItemLevel": "277",
@@ -14574,7 +14574,7 @@
     },
     "Name": "Sanctified Ahn'Kahar Blood Hunter's Tunic",
     "Id": "51289",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51294": {
     "ItemLevel": "277",
@@ -14602,7 +14602,7 @@
     },
     "Name": "Sanctified Lasherweave Vestment",
     "Id": "51294",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51298": {
     "ItemLevel": "277",
@@ -14630,7 +14630,7 @@
     },
     "Name": "Sanctified Lasherweave Raiment",
     "Id": "51298",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51300": {
     "ItemLevel": "277",
@@ -14658,7 +14658,7 @@
     },
     "Name": "Sanctified Lasherweave Robes",
     "Id": "51300",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51305": {
     "ItemLevel": "277",
@@ -14686,7 +14686,7 @@
     },
     "Name": "Sanctified Scourgelord Chestguard",
     "Id": "51305",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51310": {
     "ItemLevel": "277",
@@ -14713,7 +14713,7 @@
     },
     "Name": "Sanctified Scourgelord Battleplate",
     "Id": "51310",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51379": {
     "ItemLevel": "251",
@@ -14740,7 +14740,7 @@
     },
     "Name": "Bloodsoul Raiment",
     "Id": "51379",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51413": {
     "ItemLevel": "270",
@@ -14767,7 +14767,7 @@
     },
     "Name": "Wrathful Gladiator's Dreadplate Chestpiece",
     "Id": "51413",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51419": {
     "ItemLevel": "270",
@@ -14795,7 +14795,7 @@
     },
     "Name": "Wrathful Gladiator's Kodohide Robes",
     "Id": "51419",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51425": {
     "ItemLevel": "270",
@@ -14823,7 +14823,7 @@
     },
     "Name": "Wrathful Gladiator's Dragonhide Robes",
     "Id": "51425",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51433": {
     "ItemLevel": "270",
@@ -14851,7 +14851,7 @@
     },
     "Name": "Wrathful Gladiator's Wyrmhide Robes",
     "Id": "51433",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51458": {
     "ItemLevel": "270",
@@ -14880,7 +14880,7 @@
     },
     "Name": "Wrathful Gladiator's Chain Armor",
     "Id": "51458",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51463": {
     "ItemLevel": "270",
@@ -14908,7 +14908,7 @@
     },
     "Name": "Wrathful Gladiator's Silk Raiment",
     "Id": "51463",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51468": {
     "ItemLevel": "270",
@@ -14936,7 +14936,7 @@
     },
     "Name": "Wrathful Gladiator's Ornamented Chestguard",
     "Id": "51468",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51474": {
     "ItemLevel": "270",
@@ -14963,7 +14963,7 @@
     },
     "Name": "Wrathful Gladiator's Scaled Chestpiece",
     "Id": "51474",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51482": {
     "ItemLevel": "270",
@@ -14991,7 +14991,7 @@
     },
     "Name": "Wrathful Gladiator's Mooncloth Robe",
     "Id": "51482",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51487": {
     "ItemLevel": "270",
@@ -15019,7 +15019,7 @@
     },
     "Name": "Wrathful Gladiator's Satin Robe",
     "Id": "51487",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51492": {
     "ItemLevel": "270",
@@ -15047,7 +15047,7 @@
     },
     "Name": "Wrathful Gladiator's Leather Tunic",
     "Id": "51492",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51497": {
     "ItemLevel": "270",
@@ -15075,7 +15075,7 @@
     },
     "Name": "Wrathful Gladiator's Ringmail Armor",
     "Id": "51497",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51503": {
     "ItemLevel": "270",
@@ -15104,7 +15104,7 @@
     },
     "Name": "Wrathful Gladiator's Linked Armor",
     "Id": "51503",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51509": {
     "ItemLevel": "270",
@@ -15132,7 +15132,7 @@
     },
     "Name": "Wrathful Gladiator's Mail Armor",
     "Id": "51509",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51536": {
     "ItemLevel": "270",
@@ -15160,7 +15160,7 @@
     },
     "Name": "Wrathful Gladiator's Felweave Raiment",
     "Id": "51536",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51541": {
     "ItemLevel": "270",
@@ -15187,7 +15187,7 @@
     },
     "Name": "Wrathful Gladiator's Plate Chestpiece",
     "Id": "51541",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51551": {
     "ItemLevel": "251",
@@ -15214,7 +15214,7 @@
     },
     "Name": "Chestguard of Siphoned Elements",
     "Id": "51551",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51790": {
     "ItemLevel": "251",
@@ -15241,7 +15241,7 @@
     },
     "Name": "Robes of Azure Downfall",
     "Id": "51790",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51813": {
     "ItemLevel": "264",
@@ -15268,7 +15268,7 @@
     },
     "Name": "Robes of Azure Downfall",
     "Id": "51813",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51840": {
     "ItemLevel": "264",
@@ -15295,7 +15295,7 @@
     },
     "Name": "Chestguard of Siphoned Elements",
     "Id": "51840",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51851": {
     "ItemLevel": "264",
@@ -15322,7 +15322,7 @@
     },
     "Name": "Bloodsoul Raiment",
     "Id": "51851",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51861": {
     "ItemLevel": "264",
@@ -15349,7 +15349,7 @@
     },
     "Name": "Chestplate of Septic Stitches",
     "Id": "51861",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51870": {
     "ItemLevel": "264",
@@ -15376,7 +15376,7 @@
     },
     "Name": "Chestguard of the Failed Experiment",
     "Id": "51870",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51902": {
     "ItemLevel": "264",
@@ -15402,7 +15402,7 @@
     },
     "Name": "Blade-Scored Carapace",
     "Id": "51902",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51903": {
     "ItemLevel": "264",
@@ -15430,7 +15430,7 @@
     },
     "Name": "Hauberk of a Thousand Cuts",
     "Id": "51903",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51917": {
     "ItemLevel": "264",
@@ -15457,7 +15457,7 @@
     },
     "Name": "Ghoul Commander's Cuirass",
     "Id": "51917",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "51923": {
     "ItemLevel": "264",
@@ -15484,7 +15484,7 @@
     },
     "Name": "Chestguard of the Frigid Noose",
     "Id": "51923",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "53114": {
     "ItemLevel": "258",
@@ -15511,7 +15511,7 @@
     },
     "Name": "Gloaming Sark",
     "Id": "53114",
-    "Slot": "Chest"
+    "Slot": 5
   },
   "54561": {
     "ItemLevel": "271",
@@ -15538,6 +15538,6 @@
     },
     "Name": "Gloaming Sark",
     "Id": "54561",
-    "Slot": "Chest"
+    "Slot": 5
   }
 }

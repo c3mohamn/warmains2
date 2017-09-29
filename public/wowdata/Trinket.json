@@ -28,7 +28,7 @@
     "SocketBonus": "none",
     "Name": "Sphere of Red Dragon's Blood",
     "Id": "37166",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "37220": {
     "ItemLevel": "200",
@@ -59,7 +59,7 @@
     "SocketBonus": "none",
     "Name": "Essence of Gossamer",
     "Id": "37220",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "37254": {
     "ItemLevel": "200",
@@ -75,7 +75,7 @@
     "SocketBonus": "none",
     "Name": "Super Simian Sphere",
     "Id": "37254",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "37264": {
     "ItemLevel": "200",
@@ -106,7 +106,7 @@
     "SocketBonus": "none",
     "Name": "Pendulum of Telluric Currents",
     "Id": "37264",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "37390": {
     "ItemLevel": "200",
@@ -137,7 +137,7 @@
     "SocketBonus": "none",
     "Name": "Meteorite Whetstone",
     "Id": "37390",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "37638": {
     "ItemLevel": "200",
@@ -168,7 +168,7 @@
     "SocketBonus": "none",
     "Name": "Offering of Sacrifice",
     "Id": "37638",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "37657": {
     "ItemLevel": "200",
@@ -186,7 +186,7 @@
     "SocketBonus": "none",
     "Name": "Spark of Life",
     "Id": "37657",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "37660": {
     "ItemLevel": "200",
@@ -217,7 +217,7 @@
     "SocketBonus": "none",
     "Name": "Forge Ember",
     "Id": "37660",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "37723": {
     "ItemLevel": "200",
@@ -248,7 +248,7 @@
     "SocketBonus": "none",
     "Name": "Incisor Fragment",
     "Id": "37723",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "37734": {
     "ItemLevel": "200",
@@ -279,7 +279,7 @@
     "SocketBonus": "none",
     "Name": "Talisman of Troll Divinity",
     "Id": "37734",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "37835": {
     "ItemLevel": "200",
@@ -310,7 +310,7 @@
     "SocketBonus": "none",
     "Name": "Je'Tze's Bell",
     "Id": "37835",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "37844": {
     "ItemLevel": "200",
@@ -341,7 +341,7 @@
     "SocketBonus": "none",
     "Name": "Winged Talisman",
     "Id": "37844",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "37872": {
     "ItemLevel": "200",
@@ -372,7 +372,7 @@
     "SocketBonus": "none",
     "Name": "Lavanthor's Talisman",
     "Id": "37872",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "37873": {
     "ItemLevel": "200",
@@ -403,7 +403,7 @@
     "SocketBonus": "none",
     "Name": "Mark of the War Prisoner",
     "Id": "37873",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "39229": {
     "ItemLevel": "200",
@@ -434,7 +434,7 @@
     "SocketBonus": "none",
     "Name": "Embrace of the Spider",
     "Id": "39229",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "39257": {
     "ItemLevel": "200",
@@ -465,7 +465,7 @@
     "SocketBonus": "none",
     "Name": "Loatheb's Shadow",
     "Id": "39257",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "39292": {
     "ItemLevel": "200",
@@ -496,7 +496,7 @@
     "SocketBonus": "none",
     "Name": "Repelling Charge",
     "Id": "39292",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "39388": {
     "ItemLevel": "200",
@@ -527,7 +527,7 @@
     "SocketBonus": "none",
     "Name": "Spirit-World Glass",
     "Id": "39388",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "40255": {
     "ItemLevel": "213",
@@ -558,7 +558,7 @@
     "SocketBonus": "none",
     "Name": "Dying Curse",
     "Id": "40255",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "40256": {
     "ItemLevel": "213",
@@ -589,7 +589,7 @@
     "SocketBonus": "none",
     "Name": "Grim Toll",
     "Id": "40256",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "40257": {
     "ItemLevel": "213",
@@ -620,7 +620,7 @@
     "SocketBonus": "none",
     "Name": "Defender's Code",
     "Id": "40257",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "40258": {
     "ItemLevel": "213",
@@ -651,7 +651,7 @@
     "SocketBonus": "none",
     "Name": "Forethought Talisman",
     "Id": "40258",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "40371": {
     "ItemLevel": "213",
@@ -682,7 +682,7 @@
     "SocketBonus": "none",
     "Name": "Bandit's Insignia",
     "Id": "40371",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "40372": {
     "ItemLevel": "213",
@@ -713,7 +713,7 @@
     "SocketBonus": "none",
     "Name": "Rune of Repulsion",
     "Id": "40372",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "40373": {
     "ItemLevel": "213",
@@ -745,7 +745,7 @@
     "SocketBonus": "none",
     "Name": "Extract of Necromantic Power",
     "Id": "40373",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "40382": {
     "ItemLevel": "213",
@@ -776,7 +776,7 @@
     "SocketBonus": "none",
     "Name": "Soul of the Dead",
     "Id": "40382",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "40430": {
     "ItemLevel": "200",
@@ -806,7 +806,7 @@
     "SocketBonus": "none",
     "Name": "Majestic Dragon Figurine",
     "Id": "40430",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "40431": {
     "ItemLevel": "213",
@@ -836,7 +836,7 @@
     "SocketBonus": "none",
     "Name": "Fury of the Five Flights",
     "Id": "40431",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "40432": {
     "ItemLevel": "213",
@@ -866,7 +866,7 @@
     "SocketBonus": "none",
     "Name": "Illustration of the Dragon Soul",
     "Id": "40432",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "40531": {
     "ItemLevel": "226",
@@ -897,7 +897,7 @@
     "SocketBonus": "none",
     "Name": "Mark of Norgannon",
     "Id": "40531",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "40532": {
     "ItemLevel": "226",
@@ -928,7 +928,7 @@
     "SocketBonus": "none",
     "Name": "Living Ice Crystals",
     "Id": "40532",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "40682": {
     "ItemLevel": "200",
@@ -959,7 +959,7 @@
     "SocketBonus": "none",
     "Name": "Sundial of the Exiled",
     "Id": "40682",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "40683": {
     "ItemLevel": "200",
@@ -990,7 +990,7 @@
     "SocketBonus": "none",
     "Name": "Valor Medal of the First War",
     "Id": "40683",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "40684": {
     "ItemLevel": "200",
@@ -1021,7 +1021,7 @@
     "SocketBonus": "none",
     "Name": "Mirror of Truth",
     "Id": "40684",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "40685": {
     "ItemLevel": "200",
@@ -1052,7 +1052,7 @@
     "SocketBonus": "none",
     "Name": "The Egg of Mortal Essence",
     "Id": "40685",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "41121": {
     "ItemLevel": "200",
@@ -1069,7 +1069,7 @@
     "SocketBonus": "none",
     "Name": "Gnomish Lightning Generator",
     "Id": "41121",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "42124": {
     "ItemLevel": "226",
@@ -1088,7 +1088,7 @@
     "SocketBonus": "none",
     "Name": "Medallion of the Alliance",
     "Id": "42124",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "42126": {
     "ItemLevel": "226",
@@ -1107,7 +1107,7 @@
     "SocketBonus": "none",
     "Name": "Medallion of the Horde",
     "Id": "42126",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "42128": {
     "ItemLevel": "213",
@@ -1137,7 +1137,7 @@
     "SocketBonus": "none",
     "Name": "Battlemaster's Hostility",
     "Id": "42128",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "42129": {
     "ItemLevel": "213",
@@ -1167,7 +1167,7 @@
     "SocketBonus": "none",
     "Name": "Battlemaster's Accuracy",
     "Id": "42129",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "42130": {
     "ItemLevel": "213",
@@ -1197,7 +1197,7 @@
     "SocketBonus": "none",
     "Name": "Battlemaster's Avidity",
     "Id": "42130",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "42131": {
     "ItemLevel": "213",
@@ -1227,7 +1227,7 @@
     "SocketBonus": "none",
     "Name": "Battlemaster's Conviction",
     "Id": "42131",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "42132": {
     "ItemLevel": "213",
@@ -1257,7 +1257,7 @@
     "SocketBonus": "none",
     "Name": "Battlemaster's Bravery",
     "Id": "42132",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "42133": {
     "ItemLevel": "245",
@@ -1287,7 +1287,7 @@
     "SocketBonus": "none",
     "Name": "Battlemaster's Fury",
     "Id": "42133",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "42134": {
     "ItemLevel": "245",
@@ -1317,7 +1317,7 @@
     "SocketBonus": "none",
     "Name": "Battlemaster's Precision",
     "Id": "42134",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "42135": {
     "ItemLevel": "245",
@@ -1347,7 +1347,7 @@
     "SocketBonus": "none",
     "Name": "Battlemaster's Vivacity",
     "Id": "42135",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "42136": {
     "ItemLevel": "245",
@@ -1377,7 +1377,7 @@
     "SocketBonus": "none",
     "Name": "Battlemaster's Rage",
     "Id": "42136",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "42137": {
     "ItemLevel": "245",
@@ -1407,7 +1407,7 @@
     "SocketBonus": "none",
     "Name": "Battlemaster's Ruination",
     "Id": "42137",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "42341": {
     "ItemLevel": "200",
@@ -1442,7 +1442,7 @@
     },
     "Name": "Figurine - Ruby Hare",
     "Id": "42341",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "42395": {
     "ItemLevel": "200",
@@ -1477,7 +1477,7 @@
     },
     "Name": "Figurine - Twilight Serpent",
     "Id": "42395",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "42413": {
     "ItemLevel": "200",
@@ -1512,7 +1512,7 @@
     },
     "Name": "Figurine - Sapphire Owl",
     "Id": "42413",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "42418": {
     "ItemLevel": "200",
@@ -1534,7 +1534,7 @@
     },
     "Name": "Figurine - Emerald Boar",
     "Id": "42418",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "42987": {
     "ItemLevel": "200",
@@ -1565,7 +1565,7 @@
     "SocketBonus": "none",
     "Name": "Darkmoon Card: Greatness",
     "Id": "42987",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "42988": {
     "ItemLevel": "200",
@@ -1596,7 +1596,7 @@
     "SocketBonus": "none",
     "Name": "Darkmoon Card: Illusion",
     "Id": "42988",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "42989": {
     "ItemLevel": "200",
@@ -1614,7 +1614,7 @@
     "SocketBonus": "none",
     "Name": "Darkmoon Card: Berserker!",
     "Id": "42989",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "42990": {
     "ItemLevel": "200",
@@ -1646,7 +1646,7 @@
     "SocketBonus": "none",
     "Name": "Darkmoon Card: Death",
     "Id": "42990",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "43555": {
     "ItemLevel": "200",
@@ -1662,7 +1662,7 @@
     "SocketBonus": "none",
     "Name": "Deputy Pa'trolla Badge",
     "Id": "43555",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "43573": {
     "ItemLevel": "200",
@@ -1693,7 +1693,7 @@
     "SocketBonus": "none",
     "Name": "Tears of Bitter Anguish",
     "Id": "43573",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "44063": {
     "ItemLevel": "200",
@@ -1728,7 +1728,7 @@
     },
     "Name": "Figurine - Monarch Crab",
     "Id": "44063",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "44073": {
     "ItemLevel": "200",
@@ -1745,7 +1745,7 @@
     "SocketBonus": "none",
     "Name": "Frenzyheart Insignia of Fury",
     "Id": "44073",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "44074": {
     "ItemLevel": "200",
@@ -1762,7 +1762,7 @@
     "SocketBonus": "none",
     "Name": "Oracle Talisman of Ablution",
     "Id": "44074",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "44253": {
     "ItemLevel": "200",
@@ -1793,7 +1793,7 @@
     "SocketBonus": "none",
     "Name": "Darkmoon Card: Greatness",
     "Id": "44253",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "44254": {
     "ItemLevel": "200",
@@ -1824,7 +1824,7 @@
     "SocketBonus": "none",
     "Name": "Darkmoon Card: Greatness",
     "Id": "44254",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "44255": {
     "ItemLevel": "200",
@@ -1855,7 +1855,7 @@
     "SocketBonus": "none",
     "Name": "Darkmoon Card: Greatness",
     "Id": "44255",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "44322": {
     "ItemLevel": "200",
@@ -1876,7 +1876,7 @@
     "SocketBonus": "none",
     "Name": "Mercurial Alchemist Stone",
     "Id": "44322",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "44323": {
     "ItemLevel": "200",
@@ -1897,7 +1897,7 @@
     "SocketBonus": "none",
     "Name": "Indestructible Alchemist's Stone",
     "Id": "44323",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "44324": {
     "ItemLevel": "200",
@@ -1918,7 +1918,7 @@
     "SocketBonus": "none",
     "Name": "Mighty Alchemist's Stone",
     "Id": "44324",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "44912": {
     "ItemLevel": "200",
@@ -1949,7 +1949,7 @@
     "SocketBonus": "none",
     "Name": "Flow of Knowledge",
     "Id": "44912",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "44914": {
     "ItemLevel": "200",
@@ -1980,7 +1980,7 @@
     "SocketBonus": "none",
     "Name": "Anvil of Titans",
     "Id": "44914",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "45131": {
     "ItemLevel": "200",
@@ -2011,7 +2011,7 @@
     "SocketBonus": "none",
     "Name": "Jouster's Fury",
     "Id": "45131",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "45148": {
     "ItemLevel": "226",
@@ -2042,7 +2042,7 @@
     "SocketBonus": "none",
     "Name": "Living Flame",
     "Id": "45148",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "45158": {
     "ItemLevel": "226",
@@ -2073,7 +2073,7 @@
     "SocketBonus": "none",
     "Name": "Heart of Iron",
     "Id": "45158",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "45219": {
     "ItemLevel": "200",
@@ -2104,7 +2104,7 @@
     "SocketBonus": "none",
     "Name": "Jouster's Fury",
     "Id": "45219",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "45263": {
     "ItemLevel": "226",
@@ -2135,7 +2135,7 @@
     "SocketBonus": "none",
     "Name": "Wrathstone",
     "Id": "45263",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "45286": {
     "ItemLevel": "219",
@@ -2166,7 +2166,7 @@
     "SocketBonus": "none",
     "Name": "Pyrite Infuser",
     "Id": "45286",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "45292": {
     "ItemLevel": "219",
@@ -2197,7 +2197,7 @@
     "SocketBonus": "none",
     "Name": "Energy Siphon",
     "Id": "45292",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "45308": {
     "ItemLevel": "219",
@@ -2228,7 +2228,7 @@
     "SocketBonus": "none",
     "Name": "Eye of the Broodmother",
     "Id": "45308",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "45313": {
     "ItemLevel": "219",
@@ -2259,7 +2259,7 @@
     "SocketBonus": "none",
     "Name": "Furnace Stone",
     "Id": "45313",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "45466": {
     "ItemLevel": "226",
@@ -2290,7 +2290,7 @@
     "SocketBonus": "none",
     "Name": "Scale of Fates",
     "Id": "45466",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "45490": {
     "ItemLevel": "226",
@@ -2321,7 +2321,7 @@
     "SocketBonus": "none",
     "Name": "Pandora's Plea",
     "Id": "45490",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "45507": {
     "ItemLevel": "226",
@@ -2339,7 +2339,7 @@
     "SocketBonus": "none",
     "Name": "The General's Heart",
     "Id": "45507",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "45518": {
     "ItemLevel": "239",
@@ -2370,7 +2370,7 @@
     "SocketBonus": "none",
     "Name": "Flare of the Heavens",
     "Id": "45518",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "45522": {
     "ItemLevel": "226",
@@ -2401,7 +2401,7 @@
     "SocketBonus": "none",
     "Name": "Blood of the Old God",
     "Id": "45522",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "45535": {
     "ItemLevel": "239",
@@ -2432,7 +2432,7 @@
     "SocketBonus": "none",
     "Name": "Show of Faith",
     "Id": "45535",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "45609": {
     "ItemLevel": "239",
@@ -2463,7 +2463,7 @@
     "SocketBonus": "none",
     "Name": "Comet's Trail",
     "Id": "45609",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "45703": {
     "ItemLevel": "219",
@@ -2482,7 +2482,7 @@
     "SocketBonus": "none",
     "Name": "Spark of Hope",
     "Id": "45703",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "45866": {
     "ItemLevel": "219",
@@ -2513,7 +2513,7 @@
     "SocketBonus": "none",
     "Name": "Elemental Focus Stone",
     "Id": "45866",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "45929": {
     "ItemLevel": "226",
@@ -2544,7 +2544,7 @@
     "SocketBonus": "none",
     "Name": "Sif's Remembrance",
     "Id": "45929",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "45931": {
     "ItemLevel": "226",
@@ -2575,7 +2575,7 @@
     "SocketBonus": "none",
     "Name": "Mjolnir Runestone",
     "Id": "45931",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "46021": {
     "ItemLevel": "219",
@@ -2606,7 +2606,7 @@
     "SocketBonus": "none",
     "Name": "Royal Seal of King Llane",
     "Id": "46021",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "46038": {
     "ItemLevel": "226",
@@ -2637,7 +2637,7 @@
     "SocketBonus": "none",
     "Name": "Dark Matter",
     "Id": "46038",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "46051": {
     "ItemLevel": "226",
@@ -2655,7 +2655,7 @@
     "SocketBonus": "none",
     "Name": "Meteorite Crystal",
     "Id": "46051",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "46081": {
     "ItemLevel": "213",
@@ -2674,7 +2674,7 @@
     "SocketBonus": "none",
     "Name": "Titan-Forged Rune of Audacity",
     "Id": "46081",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "46082": {
     "ItemLevel": "213",
@@ -2693,7 +2693,7 @@
     "SocketBonus": "none",
     "Name": "Titan-Forged Rune of Determination",
     "Id": "46082",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "46083": {
     "ItemLevel": "213",
@@ -2712,7 +2712,7 @@
     "SocketBonus": "none",
     "Name": "Titan-Forged Rune of Accuracy",
     "Id": "46083",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "46084": {
     "ItemLevel": "213",
@@ -2731,7 +2731,7 @@
     "SocketBonus": "none",
     "Name": "Titan-Forged Rune of Cruelty",
     "Id": "46084",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "46085": {
     "ItemLevel": "213",
@@ -2750,7 +2750,7 @@
     "SocketBonus": "none",
     "Name": "Titan-Forged Rune of Alacrity",
     "Id": "46085",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "46086": {
     "ItemLevel": "213",
@@ -2781,7 +2781,7 @@
     "SocketBonus": "none",
     "Name": "Platinum Disks of Battle",
     "Id": "46086",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "46087": {
     "ItemLevel": "213",
@@ -2799,7 +2799,7 @@
     "SocketBonus": "none",
     "Name": "Platinum Disks of Sorcery",
     "Id": "46087",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "46088": {
     "ItemLevel": "213",
@@ -2830,7 +2830,7 @@
     "SocketBonus": "none",
     "Name": "Platinum Disks of Swiftness",
     "Id": "46088",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "46312": {
     "ItemLevel": "226",
@@ -2848,7 +2848,7 @@
     "SocketBonus": "none",
     "Name": "Vanquished Clutches of Yogg-Saron",
     "Id": "46312",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47041": {
     "ItemLevel": "245",
@@ -2879,7 +2879,7 @@
     "SocketBonus": "none",
     "Name": "Solace of the Defeated",
     "Id": "47041",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47059": {
     "ItemLevel": "258",
@@ -2910,7 +2910,7 @@
     "SocketBonus": "none",
     "Name": "Solace of the Defeated",
     "Id": "47059",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47080": {
     "ItemLevel": "245",
@@ -2941,7 +2941,7 @@
     "SocketBonus": "none",
     "Name": "Satrina's Impeding Scarab",
     "Id": "47080",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47088": {
     "ItemLevel": "258",
@@ -2972,7 +2972,7 @@
     "SocketBonus": "none",
     "Name": "Satrina's Impeding Scarab",
     "Id": "47088",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47115": {
     "ItemLevel": "245",
@@ -3003,7 +3003,7 @@
     "SocketBonus": "none",
     "Name": "Death's Verdict",
     "Id": "47115",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47131": {
     "ItemLevel": "258",
@@ -3034,7 +3034,7 @@
     "SocketBonus": "none",
     "Name": "Death's Verdict",
     "Id": "47131",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47182": {
     "ItemLevel": "245",
@@ -3065,7 +3065,7 @@
     "SocketBonus": "none",
     "Name": "Reign of the Unliving",
     "Id": "47182",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47188": {
     "ItemLevel": "258",
@@ -3096,7 +3096,7 @@
     "SocketBonus": "none",
     "Name": "Reign of the Unliving",
     "Id": "47188",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47213": {
     "ItemLevel": "200",
@@ -3127,7 +3127,7 @@
     "SocketBonus": "none",
     "Name": "Abyssal Rune",
     "Id": "47213",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47214": {
     "ItemLevel": "200",
@@ -3158,7 +3158,7 @@
     "SocketBonus": "none",
     "Name": "Banner of Victory",
     "Id": "47214",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47215": {
     "ItemLevel": "200",
@@ -3189,7 +3189,7 @@
     "SocketBonus": "none",
     "Name": "Tears of the Vanquished",
     "Id": "47215",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47216": {
     "ItemLevel": "200",
@@ -3220,7 +3220,7 @@
     "SocketBonus": "none",
     "Name": "The Black Heart",
     "Id": "47216",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47271": {
     "ItemLevel": "245",
@@ -3251,7 +3251,7 @@
     "SocketBonus": "none",
     "Name": "Solace of the Fallen",
     "Id": "47271",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47290": {
     "ItemLevel": "245",
@@ -3282,7 +3282,7 @@
     "SocketBonus": "none",
     "Name": "Juggernaut's Vitality",
     "Id": "47290",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47303": {
     "ItemLevel": "245",
@@ -3313,7 +3313,7 @@
     "SocketBonus": "none",
     "Name": "Death's Choice",
     "Id": "47303",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47316": {
     "ItemLevel": "245",
@@ -3344,7 +3344,7 @@
     "SocketBonus": "none",
     "Name": "Reign of the Dead",
     "Id": "47316",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47432": {
     "ItemLevel": "258",
@@ -3375,7 +3375,7 @@
     "SocketBonus": "none",
     "Name": "Solace of the Fallen",
     "Id": "47432",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47451": {
     "ItemLevel": "258",
@@ -3406,7 +3406,7 @@
     "SocketBonus": "none",
     "Name": "Juggernaut's Vitality",
     "Id": "47451",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47464": {
     "ItemLevel": "258",
@@ -3437,7 +3437,7 @@
     "SocketBonus": "none",
     "Name": "Death's Choice",
     "Id": "47464",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47477": {
     "ItemLevel": "258",
@@ -3468,7 +3468,7 @@
     "SocketBonus": "none",
     "Name": "Reign of the Dead",
     "Id": "47477",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47725": {
     "ItemLevel": "232",
@@ -3511,7 +3511,7 @@
     "SocketBonus": "none",
     "Name": "Victor's Call",
     "Id": "47725",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47726": {
     "ItemLevel": "232",
@@ -3529,7 +3529,7 @@
     "SocketBonus": "none",
     "Name": "Talisman of Volatile Power",
     "Id": "47726",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47727": {
     "ItemLevel": "232",
@@ -3572,7 +3572,7 @@
     "SocketBonus": "none",
     "Name": "Fervor of the Frostborn",
     "Id": "47727",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47728": {
     "ItemLevel": "232",
@@ -3615,7 +3615,7 @@
     "SocketBonus": "none",
     "Name": "Binding Light",
     "Id": "47728",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47734": {
     "ItemLevel": "245",
@@ -3646,7 +3646,7 @@
     "SocketBonus": "none",
     "Name": "Mark of Supremacy",
     "Id": "47734",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47735": {
     "ItemLevel": "245",
@@ -3677,7 +3677,7 @@
     "SocketBonus": "none",
     "Name": "Glyph of Indomitability",
     "Id": "47735",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47879": {
     "ItemLevel": "232",
@@ -3695,7 +3695,7 @@
     "SocketBonus": "none",
     "Name": "Fetish of Volatile Power",
     "Id": "47879",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47880": {
     "ItemLevel": "232",
@@ -3738,7 +3738,7 @@
     "SocketBonus": "none",
     "Name": "Binding Stone",
     "Id": "47880",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47881": {
     "ItemLevel": "232",
@@ -3781,7 +3781,7 @@
     "SocketBonus": "none",
     "Name": "Vengeance of the Forsaken",
     "Id": "47881",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47882": {
     "ItemLevel": "232",
@@ -3824,7 +3824,7 @@
     "SocketBonus": "none",
     "Name": "Eitrigg's Oath",
     "Id": "47882",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47946": {
     "ItemLevel": "245",
@@ -3842,7 +3842,7 @@
     "SocketBonus": "none",
     "Name": "Talisman of Volatile Power",
     "Id": "47946",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47947": {
     "ItemLevel": "245",
@@ -3885,7 +3885,7 @@
     "SocketBonus": "none",
     "Name": "Binding Light",
     "Id": "47947",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47948": {
     "ItemLevel": "245",
@@ -3928,7 +3928,7 @@
     "SocketBonus": "none",
     "Name": "Victor's Call",
     "Id": "47948",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "47949": {
     "ItemLevel": "245",
@@ -3971,7 +3971,7 @@
     "SocketBonus": "none",
     "Name": "Fervor of the Frostborn",
     "Id": "47949",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "48018": {
     "ItemLevel": "245",
@@ -3989,7 +3989,7 @@
     "SocketBonus": "none",
     "Name": "Fetish of Volatile Power",
     "Id": "48018",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "48019": {
     "ItemLevel": "245",
@@ -4032,7 +4032,7 @@
     "SocketBonus": "none",
     "Name": "Binding Stone",
     "Id": "48019",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "48020": {
     "ItemLevel": "245",
@@ -4075,7 +4075,7 @@
     "SocketBonus": "none",
     "Name": "Vengeance of the Forsaken",
     "Id": "48020",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "48021": {
     "ItemLevel": "245",
@@ -4118,7 +4118,7 @@
     "SocketBonus": "none",
     "Name": "Eitrigg's Oath",
     "Id": "48021",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "48722": {
     "ItemLevel": "245",
@@ -4149,7 +4149,7 @@
     "SocketBonus": "none",
     "Name": "Shard of the Crystal Heart",
     "Id": "48722",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "48724": {
     "ItemLevel": "245",
@@ -4180,7 +4180,7 @@
     "SocketBonus": "none",
     "Name": "Talisman of Resurgence",
     "Id": "48724",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "49074": {
     "ItemLevel": "200",
@@ -4211,7 +4211,7 @@
     "SocketBonus": "none",
     "Name": "Coren's Chromium Coaster",
     "Id": "49074",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "49076": {
     "ItemLevel": "200",
@@ -4242,7 +4242,7 @@
     "SocketBonus": "none",
     "Name": "Mithril Pocketwatch",
     "Id": "49076",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "49078": {
     "ItemLevel": "200",
@@ -4273,7 +4273,7 @@
     "SocketBonus": "none",
     "Name": "Ancient Pickled Egg",
     "Id": "49078",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "49080": {
     "ItemLevel": "200",
@@ -4304,7 +4304,7 @@
     "SocketBonus": "none",
     "Name": "Brawler's Souvenir",
     "Id": "49080",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "49116": {
     "ItemLevel": "200",
@@ -4322,7 +4322,7 @@
     "SocketBonus": "none",
     "Name": "Bitter Balebrew Charm",
     "Id": "49116",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "49118": {
     "ItemLevel": "200",
@@ -4340,7 +4340,7 @@
     "SocketBonus": "none",
     "Name": "Bubbling Brightbrew Charm",
     "Id": "49118",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "49310": {
     "ItemLevel": "232",
@@ -4359,7 +4359,7 @@
     "SocketBonus": "none",
     "Name": "Purified Shard of the Scale",
     "Id": "49310",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "49312": {
     "ItemLevel": "232",
@@ -4379,7 +4379,7 @@
     "SocketBonus": "none",
     "Name": "Purified Onyxia Blood Talisman",
     "Id": "49312",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "49463": {
     "ItemLevel": "232",
@@ -4398,7 +4398,7 @@
     "SocketBonus": "none",
     "Name": "Purified Shard of the Flame",
     "Id": "49463",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "49464": {
     "ItemLevel": "245",
@@ -4417,7 +4417,7 @@
     "SocketBonus": "none",
     "Name": "Shiny Shard of the Flame",
     "Id": "49464",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "49488": {
     "ItemLevel": "245",
@@ -4436,7 +4436,7 @@
     "SocketBonus": "none",
     "Name": "Shiny Shard of the Scale",
     "Id": "49488",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "50198": {
     "ItemLevel": "232",
@@ -4467,7 +4467,7 @@
     "SocketBonus": "none",
     "Name": "Needle-Encrusted Scorpion",
     "Id": "50198",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "50235": {
     "ItemLevel": "232",
@@ -4498,7 +4498,7 @@
     "SocketBonus": "none",
     "Name": "Ick's Rotting Thumb",
     "Id": "50235",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "50259": {
     "ItemLevel": "232",
@@ -4542,7 +4542,7 @@
     "SocketBonus": "none",
     "Name": "Nevermelting Ice Crystal",
     "Id": "50259",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "50260": {
     "ItemLevel": "232",
@@ -4572,7 +4572,7 @@
     "SocketBonus": "none",
     "Name": "Ephemeral Snowflake",
     "Id": "50260",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "50339": {
     "ItemLevel": "251",
@@ -4604,7 +4604,7 @@
     "UniqueId": "50346",
     "Name": "Sliver of Pure Ice",
     "Id": "50339",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "50340": {
     "ItemLevel": "251",
@@ -4636,7 +4636,7 @@
     "UniqueId": "50345",
     "Name": "Muradin's Spyglass",
     "Id": "50340",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "50341": {
     "ItemLevel": "251",
@@ -4668,7 +4668,7 @@
     "UniqueId": "50344",
     "Name": "Unidentifiable Organ",
     "Id": "50341",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "50342": {
     "ItemLevel": "251",
@@ -4700,7 +4700,7 @@
     "UniqueId": "50343",
     "Name": "Whispering Fanged Skull",
     "Id": "50342",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "50343": {
     "ItemLevel": "264",
@@ -4732,7 +4732,7 @@
     "UniqueId": "50343",
     "Name": "Whispering Fanged Skull",
     "Id": "50343",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "50344": {
     "ItemLevel": "264",
@@ -4764,7 +4764,7 @@
     "UniqueId": "50344",
     "Name": "Unidentifiable Organ",
     "Id": "50344",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "50345": {
     "ItemLevel": "264",
@@ -4796,7 +4796,7 @@
     "UniqueId": "50345",
     "Name": "Muradin's Spyglass",
     "Id": "50345",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "50346": {
     "ItemLevel": "264",
@@ -4828,7 +4828,7 @@
     "UniqueId": "50346",
     "Name": "Sliver of Pure Ice",
     "Id": "50346",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "50348": {
     "ItemLevel": "277",
@@ -4860,7 +4860,7 @@
     "UniqueId": "50348",
     "Name": "Dislodged Foreign Object",
     "Id": "50348",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "50349": {
     "ItemLevel": "277",
@@ -4892,7 +4892,7 @@
     "UniqueId": "50349",
     "Name": "Corpse Tongue Coin",
     "Id": "50349",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "50351": {
     "ItemLevel": "264",
@@ -4924,7 +4924,7 @@
     "UniqueId": "50706",
     "Name": "Tiny Abomination in a Jar",
     "Id": "50351",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "50352": {
     "ItemLevel": "264",
@@ -4956,7 +4956,7 @@
     "UniqueId": "50349",
     "Name": "Corpse Tongue Coin",
     "Id": "50352",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "50353": {
     "ItemLevel": "264",
@@ -4988,7 +4988,7 @@
     "UniqueId": "50348",
     "Name": "Dislodged Foreign Object",
     "Id": "50353",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "50354": {
     "ItemLevel": "264",
@@ -5007,7 +5007,7 @@
     "UniqueId": "50726",
     "Name": "Bauble of True Blood",
     "Id": "50354",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "50355": {
     "ItemLevel": "264",
@@ -5038,7 +5038,7 @@
     "SocketBonus": "none",
     "Name": "Herkuml War Token",
     "Id": "50355",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "50356": {
     "ItemLevel": "264",
@@ -5069,7 +5069,7 @@
     "SocketBonus": "none",
     "Name": "Corroded Skeleton Key",
     "Id": "50356",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "50357": {
     "ItemLevel": "264",
@@ -5100,7 +5100,7 @@
     "SocketBonus": "none",
     "Name": "Maghia's Misguided Quill",
     "Id": "50357",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "50358": {
     "ItemLevel": "264",
@@ -5131,7 +5131,7 @@
     "SocketBonus": "none",
     "Name": "Purified Lunar Dust",
     "Id": "50358",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "50359": {
     "ItemLevel": "264",
@@ -5163,7 +5163,7 @@
     "UniqueId": "50366",
     "Name": "Althor's Abacus",
     "Id": "50359",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "50360": {
     "ItemLevel": "264",
@@ -5195,7 +5195,7 @@
     "UniqueId": "50365",
     "Name": "Phylactery of the Nameless Lich",
     "Id": "50360",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "50361": {
     "ItemLevel": "264",
@@ -5231,7 +5231,7 @@
     "UniqueId": "50364",
     "Name": "Sindragosa's Flawless Fang",
     "Id": "50361",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "50362": {
     "ItemLevel": "264",
@@ -5263,7 +5263,7 @@
     "UniqueId": "50363",
     "Name": "Deathbringer's Will",
     "Id": "50362",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "50363": {
     "ItemLevel": "277",
@@ -5295,7 +5295,7 @@
     "UniqueId": "50363",
     "Name": "Deathbringer's Will",
     "Id": "50363",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "50364": {
     "ItemLevel": "277",
@@ -5331,7 +5331,7 @@
     "UniqueId": "50364",
     "Name": "Sindragosa's Flawless Fang",
     "Id": "50364",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "50365": {
     "ItemLevel": "277",
@@ -5363,7 +5363,7 @@
     "UniqueId": "50365",
     "Name": "Phylactery of the Nameless Lich",
     "Id": "50365",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "50366": {
     "ItemLevel": "277",
@@ -5395,7 +5395,7 @@
     "UniqueId": "50366",
     "Name": "Althor's Abacus",
     "Id": "50366",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "50706": {
     "ItemLevel": "277",
@@ -5427,7 +5427,7 @@
     "UniqueId": "50706",
     "Name": "Tiny Abomination in a Jar",
     "Id": "50706",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "50726": {
     "ItemLevel": "277",
@@ -5446,7 +5446,7 @@
     "UniqueId": "50726",
     "Name": "Bauble of True Blood",
     "Id": "50726",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "51377": {
     "ItemLevel": "264",
@@ -5465,7 +5465,7 @@
     "SocketBonus": "none",
     "Name": "Medallion of the Alliance",
     "Id": "51377",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "51378": {
     "ItemLevel": "264",
@@ -5484,7 +5484,7 @@
     "SocketBonus": "none",
     "Name": "Medallion of the Horde",
     "Id": "51378",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "54569": {
     "ItemLevel": "271",
@@ -5516,7 +5516,7 @@
     "UniqueId": "54569",
     "Name": "Sharpened Twilight Scale",
     "Id": "54569",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "54571": {
     "ItemLevel": "271",
@@ -5548,7 +5548,7 @@
     "UniqueId": "54571",
     "Name": "Petrified Twilight Scale",
     "Id": "54571",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "54572": {
     "ItemLevel": "271",
@@ -5580,7 +5580,7 @@
     "UniqueId": "54572",
     "Name": "Charred Twilight Scale",
     "Id": "54572",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "54573": {
     "ItemLevel": "271",
@@ -5623,7 +5623,7 @@
     "SocketBonus": "none",
     "Name": "Glowing Twilight Scale",
     "Id": "54573",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "54588": {
     "ItemLevel": "284",
@@ -5655,7 +5655,7 @@
     "UniqueId": "54572",
     "Name": "Charred Twilight Scale",
     "Id": "54588",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "54589": {
     "ItemLevel": "284",
@@ -5698,7 +5698,7 @@
     "SocketBonus": "none",
     "Name": "Glowing Twilight Scale",
     "Id": "54589",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "54590": {
     "ItemLevel": "284",
@@ -5730,7 +5730,7 @@
     "UniqueId": "54569",
     "Name": "Sharpened Twilight Scale",
     "Id": "54590",
-    "Slot": "Trinket"
+    "Slot": 21
   },
   "54591": {
     "ItemLevel": "284",
@@ -5762,6 +5762,6 @@
     "UniqueId": "54571",
     "Name": "Petrified Twilight Scale",
     "Id": "54591",
-    "Slot": "Trinket"
+    "Slot": 21
   }
 }

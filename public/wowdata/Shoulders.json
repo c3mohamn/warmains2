@@ -21,7 +21,7 @@
     },
     "Name": "Spaulders of the Careless Thief",
     "Id": "37139",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "37196": {
     "ItemLevel": "200",
@@ -45,7 +45,7 @@
     },
     "Name": "Runecaster's Mantle",
     "Id": "37196",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "37368": {
     "ItemLevel": "200",
@@ -69,7 +69,7 @@
     },
     "Name": "Silent Spectator Shoulderpads",
     "Id": "37368",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "37373": {
     "ItemLevel": "200",
@@ -91,7 +91,7 @@
     "SocketBonus": "none",
     "Name": "Massive Spaulders of the Jormungar",
     "Id": "37373",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "37376": {
     "ItemLevel": "200",
@@ -115,7 +115,7 @@
     },
     "Name": "Ferocious Pauldrons of the Rhino",
     "Id": "37376",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "37398": {
     "ItemLevel": "200",
@@ -136,7 +136,7 @@
     "SocketBonus": "none",
     "Name": "Mantle of Discarded Ways",
     "Id": "37398",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "37593": {
     "ItemLevel": "200",
@@ -157,7 +157,7 @@
     "SocketBonus": "none",
     "Name": "Sprinting Shoulderpads",
     "Id": "37593",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "37627": {
     "ItemLevel": "200",
@@ -180,7 +180,7 @@
     },
     "Name": "Snake Den Spaulders",
     "Id": "37627",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "37635": {
     "ItemLevel": "200",
@@ -204,7 +204,7 @@
     },
     "Name": "Pauldrons of the Colossus",
     "Id": "37635",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "37652": {
     "ItemLevel": "200",
@@ -225,7 +225,7 @@
     "SocketBonus": "none",
     "Name": "Spaulders of Krystallus",
     "Id": "37652",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "37655": {
     "ItemLevel": "200",
@@ -246,7 +246,7 @@
     "SocketBonus": "none",
     "Name": "Mantle of the Tribunal",
     "Id": "37655",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "37673": {
     "ItemLevel": "200",
@@ -270,7 +270,7 @@
     },
     "Name": "Dark Runic Mantle",
     "Id": "37673",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "37679": {
     "ItemLevel": "200",
@@ -295,7 +295,7 @@
     },
     "Name": "Spaulders of the Abomination",
     "Id": "37679",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "37690": {
     "ItemLevel": "200",
@@ -316,7 +316,7 @@
     "SocketBonus": "none",
     "Name": "Pauldrons of Destiny",
     "Id": "37690",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "37691": {
     "ItemLevel": "200",
@@ -337,7 +337,7 @@
     "SocketBonus": "none",
     "Name": "Mantle of Deceit",
     "Id": "37691",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "37814": {
     "ItemLevel": "200",
@@ -358,7 +358,7 @@
     "SocketBonus": "none",
     "Name": "Iron Dwarf Smith Pauldrons",
     "Id": "37814",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "37875": {
     "ItemLevel": "200",
@@ -382,7 +382,7 @@
     },
     "Name": "Spaulders of the Violet Hold",
     "Id": "37875",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "39198": {
     "ItemLevel": "200",
@@ -404,7 +404,7 @@
     "SocketBonus": "none",
     "Name": "Frostblight Pauldrons",
     "Id": "39198",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "39230": {
     "ItemLevel": "200",
@@ -426,7 +426,7 @@
     "SocketBonus": "none",
     "Name": "Spaulders of the Monstrosity",
     "Id": "39230",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "39237": {
     "ItemLevel": "200",
@@ -448,7 +448,7 @@
     "SocketBonus": "none",
     "Name": "Spaulders of Resumed Battle",
     "Id": "39237",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "39249": {
     "ItemLevel": "200",
@@ -472,7 +472,7 @@
     },
     "Name": "Shoulderplates of Bloodshed",
     "Id": "39249",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "39267": {
     "ItemLevel": "200",
@@ -497,7 +497,7 @@
     },
     "Name": "Abomination Shoulderblades",
     "Id": "39267",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "39274": {
     "ItemLevel": "200",
@@ -519,7 +519,7 @@
     "SocketBonus": "none",
     "Name": "Retcher's Shoulderpads",
     "Id": "39274",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "39284": {
     "ItemLevel": "200",
@@ -541,7 +541,7 @@
     "SocketBonus": "none",
     "Name": "Miasma Mantle",
     "Id": "39284",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "39310": {
     "ItemLevel": "200",
@@ -563,7 +563,7 @@
     "SocketBonus": "none",
     "Name": "Mantle of the Extensive Mind",
     "Id": "39310",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "39397": {
     "ItemLevel": "200",
@@ -586,7 +586,7 @@
     "SocketBonus": "none",
     "Name": "Pauldrons of Havoc",
     "Id": "39397",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "39494": {
     "ItemLevel": "200",
@@ -613,7 +613,7 @@
     },
     "Name": "Heroes' Frostfire Shoulderpads",
     "Id": "39494",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "39499": {
     "ItemLevel": "200",
@@ -640,7 +640,7 @@
     },
     "Name": "Heroes' Plagueheart Shoulderpads",
     "Id": "39499",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "39518": {
     "ItemLevel": "200",
@@ -667,7 +667,7 @@
     },
     "Name": "Heroes' Shoulderpads of Faith",
     "Id": "39518",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "39529": {
     "ItemLevel": "200",
@@ -694,7 +694,7 @@
     },
     "Name": "Heroes' Mantle of Faith",
     "Id": "39529",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "39542": {
     "ItemLevel": "200",
@@ -721,7 +721,7 @@
     },
     "Name": "Heroes' Dreamwalker Spaulders",
     "Id": "39542",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "39548": {
     "ItemLevel": "200",
@@ -748,7 +748,7 @@
     },
     "Name": "Heroes' Dreamwalker Mantle",
     "Id": "39548",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "39556": {
     "ItemLevel": "200",
@@ -775,7 +775,7 @@
     },
     "Name": "Heroes' Dreamwalker Shoulderpads",
     "Id": "39556",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "39565": {
     "ItemLevel": "200",
@@ -802,7 +802,7 @@
     },
     "Name": "Heroes' Bonescythe Pauldrons",
     "Id": "39565",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "39581": {
     "ItemLevel": "200",
@@ -830,7 +830,7 @@
     },
     "Name": "Heroes' Cryptstalker Spaulders",
     "Id": "39581",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "39590": {
     "ItemLevel": "200",
@@ -857,7 +857,7 @@
     },
     "Name": "Heroes' Earthshatter Spaulders",
     "Id": "39590",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "39596": {
     "ItemLevel": "200",
@@ -884,7 +884,7 @@
     },
     "Name": "Heroes' Earthshatter Shoulderpads",
     "Id": "39596",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "39604": {
     "ItemLevel": "200",
@@ -912,7 +912,7 @@
     },
     "Name": "Heroes' Earthshatter Shoulderguards",
     "Id": "39604",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "39608": {
     "ItemLevel": "200",
@@ -938,7 +938,7 @@
     },
     "Name": "Heroes' Dreadnaught Shoulderplates",
     "Id": "39608",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "39613": {
     "ItemLevel": "200",
@@ -965,7 +965,7 @@
     },
     "Name": "Heroes' Dreadnaught Pauldrons",
     "Id": "39613",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "39621": {
     "ItemLevel": "200",
@@ -991,7 +991,7 @@
     },
     "Name": "Heroes' Scourgeborne Shoulderplates",
     "Id": "39621",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "39627": {
     "ItemLevel": "200",
@@ -1018,7 +1018,7 @@
     },
     "Name": "Heroes' Scourgeborne Pauldrons",
     "Id": "39627",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "39631": {
     "ItemLevel": "200",
@@ -1045,7 +1045,7 @@
     },
     "Name": "Heroes' Redemption Spaulders",
     "Id": "39631",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "39637": {
     "ItemLevel": "200",
@@ -1071,7 +1071,7 @@
     },
     "Name": "Heroes' Redemption Shoulderplates",
     "Id": "39637",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "39642": {
     "ItemLevel": "200",
@@ -1098,7 +1098,7 @@
     },
     "Name": "Heroes' Redemption Shoulderguards",
     "Id": "39642",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "39704": {
     "ItemLevel": "213",
@@ -1123,7 +1123,7 @@
     },
     "Name": "Pauldrons of Unnatural Death",
     "Id": "39704",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "39719": {
     "ItemLevel": "213",
@@ -1148,7 +1148,7 @@
     },
     "Name": "Mantle of the Locusts",
     "Id": "39719",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "39725": {
     "ItemLevel": "213",
@@ -1170,7 +1170,7 @@
     "SocketBonus": "none",
     "Name": "Epaulets of the Grieving Servant",
     "Id": "39725",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40063": {
     "ItemLevel": "213",
@@ -1192,7 +1192,7 @@
     "SocketBonus": "none",
     "Name": "Mantle of Shattered Kinship",
     "Id": "40063",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40185": {
     "ItemLevel": "213",
@@ -1216,7 +1216,7 @@
     },
     "Name": "Shoulderguards of Opportunity",
     "Id": "40185",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40286": {
     "ItemLevel": "213",
@@ -1238,7 +1238,7 @@
     "SocketBonus": "none",
     "Name": "Mantle of the Corrupted",
     "Id": "40286",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40288": {
     "ItemLevel": "213",
@@ -1260,7 +1260,7 @@
     "SocketBonus": "none",
     "Name": "Spaulders of Incoherence",
     "Id": "40288",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40289": {
     "ItemLevel": "213",
@@ -1282,7 +1282,7 @@
     "SocketBonus": "none",
     "Name": "Sympathetic Amice",
     "Id": "40289",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40299": {
     "ItemLevel": "213",
@@ -1305,7 +1305,7 @@
     "SocketBonus": "none",
     "Name": "Pauldrons of the Abandoned",
     "Id": "40299",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40305": {
     "ItemLevel": "213",
@@ -1327,7 +1327,7 @@
     "SocketBonus": "none",
     "Name": "Spaulders of Egotism",
     "Id": "40305",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40315": {
     "ItemLevel": "213",
@@ -1353,7 +1353,7 @@
     },
     "Name": "Shoulderpads of Secret Arts",
     "Id": "40315",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40334": {
     "ItemLevel": "213",
@@ -1375,7 +1375,7 @@
     "SocketBonus": "none",
     "Name": "Burdened Shoulderplates",
     "Id": "40334",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40351": {
     "ItemLevel": "213",
@@ -1400,7 +1400,7 @@
     },
     "Name": "Mantle of the Fatigued Sage",
     "Id": "40351",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40377": {
     "ItemLevel": "213",
@@ -1425,7 +1425,7 @@
     },
     "Name": "Noble Birthright Pauldrons",
     "Id": "40377",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40414": {
     "ItemLevel": "213",
@@ -1446,7 +1446,7 @@
     "SocketBonus": "none",
     "Name": "Shoulderguards of the Undaunted",
     "Id": "40414",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40419": {
     "ItemLevel": "213",
@@ -1473,7 +1473,7 @@
     },
     "Name": "Valorous Frostfire Shoulderpads",
     "Id": "40419",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40424": {
     "ItemLevel": "213",
@@ -1500,7 +1500,7 @@
     },
     "Name": "Valorous Plagueheart Shoulderpads",
     "Id": "40424",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40437": {
     "ItemLevel": "213",
@@ -1522,7 +1522,7 @@
     "SocketBonus": "none",
     "Name": "Concealment Shoulderpads",
     "Id": "40437",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40438": {
     "ItemLevel": "213",
@@ -1544,7 +1544,7 @@
     "SocketBonus": "none",
     "Name": "Council Chamber Epaulets",
     "Id": "40438",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40439": {
     "ItemLevel": "213",
@@ -1566,7 +1566,7 @@
     "SocketBonus": "none",
     "Name": "Mantle of the Eternal Sentinel",
     "Id": "40439",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40450": {
     "ItemLevel": "213",
@@ -1593,7 +1593,7 @@
     },
     "Name": "Valorous Shoulderpads of Faith",
     "Id": "40450",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40459": {
     "ItemLevel": "213",
@@ -1620,7 +1620,7 @@
     },
     "Name": "Valorous Mantle of Faith",
     "Id": "40459",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40465": {
     "ItemLevel": "213",
@@ -1647,7 +1647,7 @@
     },
     "Name": "Valorous Dreamwalker Spaulders",
     "Id": "40465",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40470": {
     "ItemLevel": "213",
@@ -1674,7 +1674,7 @@
     },
     "Name": "Valorous Dreamwalker Mantle",
     "Id": "40470",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40494": {
     "ItemLevel": "213",
@@ -1701,7 +1701,7 @@
     },
     "Name": "Valorous Dreamwalker Shoulderpads",
     "Id": "40494",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40502": {
     "ItemLevel": "213",
@@ -1728,7 +1728,7 @@
     },
     "Name": "Valorous Bonescythe Pauldrons",
     "Id": "40502",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40507": {
     "ItemLevel": "213",
@@ -1756,7 +1756,7 @@
     },
     "Name": "Valorous Cryptstalker Spaulders",
     "Id": "40507",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40511": {
     "ItemLevel": "213",
@@ -1778,7 +1778,7 @@
     "SocketBonus": "none",
     "Name": "Focusing Energy Epaulets",
     "Id": "40511",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40513": {
     "ItemLevel": "213",
@@ -1805,7 +1805,7 @@
     },
     "Name": "Valorous Earthshatter Spaulders",
     "Id": "40513",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40518": {
     "ItemLevel": "213",
@@ -1832,7 +1832,7 @@
     },
     "Name": "Valorous Earthshatter Shoulderpads",
     "Id": "40518",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40524": {
     "ItemLevel": "213",
@@ -1860,7 +1860,7 @@
     },
     "Name": "Valorous Earthshatter Shoulderguards",
     "Id": "40524",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40530": {
     "ItemLevel": "213",
@@ -1886,7 +1886,7 @@
     },
     "Name": "Valorous Dreadnaught Shoulderplates",
     "Id": "40530",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40548": {
     "ItemLevel": "213",
@@ -1913,7 +1913,7 @@
     },
     "Name": "Valorous Dreadnaught Pauldrons",
     "Id": "40548",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40555": {
     "ItemLevel": "226",
@@ -1935,7 +1935,7 @@
     "SocketBonus": "none",
     "Name": "Mantle of Dissemination",
     "Id": "40555",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40557": {
     "ItemLevel": "213",
@@ -1961,7 +1961,7 @@
     },
     "Name": "Valorous Scourgeborne Shoulderplates",
     "Id": "40557",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40568": {
     "ItemLevel": "213",
@@ -1988,7 +1988,7 @@
     },
     "Name": "Valorous Scourgeborne Pauldrons",
     "Id": "40568",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40573": {
     "ItemLevel": "213",
@@ -2015,7 +2015,7 @@
     },
     "Name": "Valorous Redemption Spaulders",
     "Id": "40573",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40578": {
     "ItemLevel": "213",
@@ -2041,7 +2041,7 @@
     },
     "Name": "Valorous Redemption Shoulderplates",
     "Id": "40578",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40584": {
     "ItemLevel": "213",
@@ -2068,7 +2068,7 @@
     },
     "Name": "Valorous Redemption Shoulderguards",
     "Id": "40584",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40590": {
     "ItemLevel": "226",
@@ -2090,7 +2090,7 @@
     "SocketBonus": "none",
     "Name": "Elevated Lair Pauldrons",
     "Id": "40590",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40594": {
     "ItemLevel": "226",
@@ -2112,7 +2112,7 @@
     "SocketBonus": "none",
     "Name": "Spaulders of Catatonia",
     "Id": "40594",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40856": {
     "ItemLevel": "200",
@@ -2138,7 +2138,7 @@
     },
     "Name": "Savage Gladiator's Plate Shoulders",
     "Id": "40856",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40857": {
     "ItemLevel": "200",
@@ -2164,7 +2164,7 @@
     },
     "Name": "Savage Gladiator's Dreadplate Shoulders",
     "Id": "40857",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40858": {
     "ItemLevel": "200",
@@ -2190,7 +2190,7 @@
     },
     "Name": "Savage Gladiator's Scaled Shoulders",
     "Id": "40858",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40859": {
     "ItemLevel": "200",
@@ -2216,7 +2216,7 @@
     },
     "Name": "Hateful Gladiator's Plate Shoulders",
     "Id": "40859",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40860": {
     "ItemLevel": "200",
@@ -2242,7 +2242,7 @@
     },
     "Name": "Hateful Gladiator's Dreadplate Shoulders",
     "Id": "40860",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40861": {
     "ItemLevel": "200",
@@ -2268,7 +2268,7 @@
     },
     "Name": "Hateful Gladiator's Scaled Shoulders",
     "Id": "40861",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40862": {
     "ItemLevel": "213",
@@ -2294,7 +2294,7 @@
     },
     "Name": "Deadly Gladiator's Plate Shoulders",
     "Id": "40862",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40863": {
     "ItemLevel": "213",
@@ -2320,7 +2320,7 @@
     },
     "Name": "Deadly Gladiator's Dreadplate Shoulders",
     "Id": "40863",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40864": {
     "ItemLevel": "213",
@@ -2346,7 +2346,7 @@
     },
     "Name": "Deadly Gladiator's Scaled Shoulders",
     "Id": "40864",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40866": {
     "ItemLevel": "232",
@@ -2372,7 +2372,7 @@
     },
     "Name": "Furious Gladiator's Plate Shoulders",
     "Id": "40866",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40868": {
     "ItemLevel": "232",
@@ -2398,7 +2398,7 @@
     },
     "Name": "Furious Gladiator's Dreadplate Shoulders",
     "Id": "40868",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40869": {
     "ItemLevel": "232",
@@ -2424,7 +2424,7 @@
     },
     "Name": "Furious Gladiator's Scaled Shoulders",
     "Id": "40869",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40870": {
     "ItemLevel": "251",
@@ -2450,7 +2450,7 @@
     },
     "Name": "Relentless Gladiator's Plate Shoulders",
     "Id": "40870",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40871": {
     "ItemLevel": "251",
@@ -2476,7 +2476,7 @@
     },
     "Name": "Relentless Gladiator's Dreadplate Shoulders",
     "Id": "40871",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40872": {
     "ItemLevel": "251",
@@ -2502,7 +2502,7 @@
     },
     "Name": "Relentless Gladiator's Scaled Shoulders",
     "Id": "40872",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40960": {
     "ItemLevel": "200",
@@ -2529,7 +2529,7 @@
     },
     "Name": "Savage Gladiator's Ornamented Spaulders",
     "Id": "40960",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40961": {
     "ItemLevel": "200",
@@ -2556,7 +2556,7 @@
     },
     "Name": "Hateful Gladiator's Ornamented Spaulders",
     "Id": "40961",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40962": {
     "ItemLevel": "213",
@@ -2583,7 +2583,7 @@
     },
     "Name": "Deadly Gladiator's Ornamented Spaulders",
     "Id": "40962",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40963": {
     "ItemLevel": "232",
@@ -2610,7 +2610,7 @@
     },
     "Name": "Furious Gladiator's Ornamented Spaulders",
     "Id": "40963",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "40964": {
     "ItemLevel": "251",
@@ -2637,7 +2637,7 @@
     },
     "Name": "Relentless Gladiator's Ornamented Spaulders",
     "Id": "40964",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41024": {
     "ItemLevel": "200",
@@ -2664,7 +2664,7 @@
     },
     "Name": "Savage Gladiator's Ringmail Spaulders",
     "Id": "41024",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41036": {
     "ItemLevel": "200",
@@ -2691,7 +2691,7 @@
     },
     "Name": "Hateful Gladiator's Ringmail Spaulders",
     "Id": "41036",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41037": {
     "ItemLevel": "213",
@@ -2718,7 +2718,7 @@
     },
     "Name": "Deadly Gladiator's Ringmail Spaulders",
     "Id": "41037",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41038": {
     "ItemLevel": "232",
@@ -2745,7 +2745,7 @@
     },
     "Name": "Furious Gladiator's Ringmail Spaulders",
     "Id": "41038",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41039": {
     "ItemLevel": "251",
@@ -2772,7 +2772,7 @@
     },
     "Name": "Relentless Gladiator's Ringmail Spaulders",
     "Id": "41039",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41041": {
     "ItemLevel": "200",
@@ -2799,7 +2799,7 @@
     },
     "Name": "Savage Gladiator's Mail Spaulders",
     "Id": "41041",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41042": {
     "ItemLevel": "200",
@@ -2826,7 +2826,7 @@
     },
     "Name": "Hateful Gladiator's Mail Spaulders",
     "Id": "41042",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41043": {
     "ItemLevel": "213",
@@ -2853,7 +2853,7 @@
     },
     "Name": "Deadly Gladiator's Mail Spaulders",
     "Id": "41043",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41044": {
     "ItemLevel": "232",
@@ -2880,7 +2880,7 @@
     },
     "Name": "Furious Gladiator's Mail Spaulders",
     "Id": "41044",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41045": {
     "ItemLevel": "251",
@@ -2907,7 +2907,7 @@
     },
     "Name": "Relentless Gladiator's Mail Spaulders",
     "Id": "41045",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41208": {
     "ItemLevel": "200",
@@ -2935,7 +2935,7 @@
     },
     "Name": "Savage Gladiator's Linked Spaulders",
     "Id": "41208",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41209": {
     "ItemLevel": "200",
@@ -2963,7 +2963,7 @@
     },
     "Name": "Hateful Gladiator's Linked Spaulders",
     "Id": "41209",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41210": {
     "ItemLevel": "213",
@@ -2991,7 +2991,7 @@
     },
     "Name": "Deadly Gladiator's Linked Spaulders",
     "Id": "41210",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41211": {
     "ItemLevel": "232",
@@ -3019,7 +3019,7 @@
     },
     "Name": "Furious Gladiator's Linked Spaulders",
     "Id": "41211",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41212": {
     "ItemLevel": "251",
@@ -3047,7 +3047,7 @@
     },
     "Name": "Relentless Gladiator's Linked Spaulders",
     "Id": "41212",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41214": {
     "ItemLevel": "200",
@@ -3075,7 +3075,7 @@
     },
     "Name": "Savage Gladiator's Chain Spaulders",
     "Id": "41214",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41215": {
     "ItemLevel": "200",
@@ -3103,7 +3103,7 @@
     },
     "Name": "Hateful Gladiator's Chain Spaulders",
     "Id": "41215",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41216": {
     "ItemLevel": "213",
@@ -3131,7 +3131,7 @@
     },
     "Name": "Deadly Gladiator's Chain Spaulders",
     "Id": "41216",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41217": {
     "ItemLevel": "232",
@@ -3159,7 +3159,7 @@
     },
     "Name": "Furious Gladiator's Chain Spaulders",
     "Id": "41217",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41218": {
     "ItemLevel": "251",
@@ -3187,7 +3187,7 @@
     },
     "Name": "Relentless Gladiator's Chain Spaulders",
     "Id": "41218",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41271": {
     "ItemLevel": "200",
@@ -3214,7 +3214,7 @@
     },
     "Name": "Savage Gladiator's Kodohide Spaulders",
     "Id": "41271",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41273": {
     "ItemLevel": "200",
@@ -3241,7 +3241,7 @@
     },
     "Name": "Hateful Gladiator's Kodohide Spaulders",
     "Id": "41273",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41274": {
     "ItemLevel": "213",
@@ -3268,7 +3268,7 @@
     },
     "Name": "Deadly Gladiator's Kodohide Spaulders",
     "Id": "41274",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41275": {
     "ItemLevel": "232",
@@ -3295,7 +3295,7 @@
     },
     "Name": "Furious Gladiator's Kodohide Spaulders",
     "Id": "41275",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41276": {
     "ItemLevel": "251",
@@ -3322,7 +3322,7 @@
     },
     "Name": "Relentless Gladiator's Kodohide Spaulders",
     "Id": "41276",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41278": {
     "ItemLevel": "200",
@@ -3349,7 +3349,7 @@
     },
     "Name": "Savage Gladiator's Wyrmhide Spaulders",
     "Id": "41278",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41279": {
     "ItemLevel": "200",
@@ -3376,7 +3376,7 @@
     },
     "Name": "Hateful Gladiator's Wyrmhide Spaulders",
     "Id": "41279",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41280": {
     "ItemLevel": "213",
@@ -3403,7 +3403,7 @@
     },
     "Name": "Deadly Gladiator's Wyrmhide Spaulders",
     "Id": "41280",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41281": {
     "ItemLevel": "232",
@@ -3430,7 +3430,7 @@
     },
     "Name": "Furious Gladiator's Wyrmhide Spaulders",
     "Id": "41281",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41282": {
     "ItemLevel": "251",
@@ -3457,7 +3457,7 @@
     },
     "Name": "Relentless Gladiator's Wyrmhide Spaulders",
     "Id": "41282",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41646": {
     "ItemLevel": "200",
@@ -3484,7 +3484,7 @@
     },
     "Name": "Savage Gladiator's Leather Spaulders",
     "Id": "41646",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41681": {
     "ItemLevel": "200",
@@ -3511,7 +3511,7 @@
     },
     "Name": "Hateful Gladiator's Leather Spaulders",
     "Id": "41681",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41682": {
     "ItemLevel": "213",
@@ -3538,7 +3538,7 @@
     },
     "Name": "Deadly Gladiator's Leather Spaulders",
     "Id": "41682",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41683": {
     "ItemLevel": "232",
@@ -3565,7 +3565,7 @@
     },
     "Name": "Furious Gladiator's Leather Spaulders",
     "Id": "41683",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41684": {
     "ItemLevel": "251",
@@ -3592,7 +3592,7 @@
     },
     "Name": "Relentless Gladiator's Leather Spaulders",
     "Id": "41684",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41712": {
     "ItemLevel": "200",
@@ -3619,7 +3619,7 @@
     },
     "Name": "Savage Gladiator's Dragonhide Spaulders",
     "Id": "41712",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41713": {
     "ItemLevel": "200",
@@ -3646,7 +3646,7 @@
     },
     "Name": "Hateful Gladiator's Dragonhide Spaulders",
     "Id": "41713",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41714": {
     "ItemLevel": "213",
@@ -3673,7 +3673,7 @@
     },
     "Name": "Deadly Gladiator's Dragonhide Spaulders",
     "Id": "41714",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41715": {
     "ItemLevel": "232",
@@ -3700,7 +3700,7 @@
     },
     "Name": "Furious Gladiator's Dragonhide Spaulders",
     "Id": "41715",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41716": {
     "ItemLevel": "251",
@@ -3727,7 +3727,7 @@
     },
     "Name": "Relentless Gladiator's Dragonhide Spaulders",
     "Id": "41716",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41850": {
     "ItemLevel": "200",
@@ -3754,7 +3754,7 @@
     },
     "Name": "Savage Gladiator's Mooncloth Mantle",
     "Id": "41850",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41867": {
     "ItemLevel": "200",
@@ -3781,7 +3781,7 @@
     },
     "Name": "Hateful Gladiator's Mooncloth Mantle",
     "Id": "41867",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41868": {
     "ItemLevel": "213",
@@ -3808,7 +3808,7 @@
     },
     "Name": "Deadly Gladiator's Mooncloth Mantle",
     "Id": "41868",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41869": {
     "ItemLevel": "232",
@@ -3835,7 +3835,7 @@
     },
     "Name": "Furious Gladiator's Mooncloth Mantle",
     "Id": "41869",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41870": {
     "ItemLevel": "251",
@@ -3862,7 +3862,7 @@
     },
     "Name": "Relentless Gladiator's Mooncloth Mantle",
     "Id": "41870",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41930": {
     "ItemLevel": "200",
@@ -3889,7 +3889,7 @@
     },
     "Name": "Savage Gladiator's Satin Mantle",
     "Id": "41930",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41931": {
     "ItemLevel": "200",
@@ -3916,7 +3916,7 @@
     },
     "Name": "Hateful Gladiator's Satin Mantle",
     "Id": "41931",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41933": {
     "ItemLevel": "213",
@@ -3943,7 +3943,7 @@
     },
     "Name": "Deadly Gladiator's Satin Mantle",
     "Id": "41933",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41934": {
     "ItemLevel": "232",
@@ -3970,7 +3970,7 @@
     },
     "Name": "Furious Gladiator's Satin Mantle",
     "Id": "41934",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41935": {
     "ItemLevel": "251",
@@ -3997,7 +3997,7 @@
     },
     "Name": "Relentless Gladiator's Satin Mantle",
     "Id": "41935",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41962": {
     "ItemLevel": "200",
@@ -4024,7 +4024,7 @@
     },
     "Name": "Savage Gladiator's Silk Amice",
     "Id": "41962",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41963": {
     "ItemLevel": "200",
@@ -4051,7 +4051,7 @@
     },
     "Name": "Hateful Gladiator's Silk Amice",
     "Id": "41963",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41964": {
     "ItemLevel": "213",
@@ -4078,7 +4078,7 @@
     },
     "Name": "Deadly Gladiator's Silk Amice",
     "Id": "41964",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41965": {
     "ItemLevel": "232",
@@ -4105,7 +4105,7 @@
     },
     "Name": "Furious Gladiator's Silk Amice",
     "Id": "41965",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "41966": {
     "ItemLevel": "251",
@@ -4132,7 +4132,7 @@
     },
     "Name": "Relentless Gladiator's Silk Amice",
     "Id": "41966",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "42008": {
     "ItemLevel": "200",
@@ -4159,7 +4159,7 @@
     },
     "Name": "Savage Gladiator's Felweave Amice",
     "Id": "42008",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "42009": {
     "ItemLevel": "200",
@@ -4186,7 +4186,7 @@
     },
     "Name": "Hateful Gladiator's Felweave Amice",
     "Id": "42009",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "42010": {
     "ItemLevel": "213",
@@ -4213,7 +4213,7 @@
     },
     "Name": "Deadly Gladiator's Felweave Amice",
     "Id": "42010",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "42011": {
     "ItemLevel": "232",
@@ -4240,7 +4240,7 @@
     },
     "Name": "Furious Gladiator's Felweave Amice",
     "Id": "42011",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "42012": {
     "ItemLevel": "251",
@@ -4267,7 +4267,7 @@
     },
     "Name": "Relentless Gladiator's Felweave Amice",
     "Id": "42012",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "43481": {
     "ItemLevel": "200",
@@ -4288,7 +4288,7 @@
     "SocketBonus": "none",
     "Name": "Trollwoven Spaulders",
     "Id": "43481",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "44003": {
     "ItemLevel": "213",
@@ -4314,7 +4314,7 @@
     },
     "Name": "Upstanding Spaulders",
     "Id": "44003",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "44195": {
     "ItemLevel": "200",
@@ -4334,7 +4334,7 @@
     "SocketBonus": "none",
     "Name": "Spaulders of the Giant Lords",
     "Id": "44195",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "44257": {
     "ItemLevel": "200",
@@ -4356,7 +4356,7 @@
     "SocketBonus": "none",
     "Name": "Spaulders of the Black Arrow",
     "Id": "44257",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "44312": {
     "ItemLevel": "200",
@@ -4377,7 +4377,7 @@
     "SocketBonus": "none",
     "Name": "Wapach's Spaulders of Solidarity",
     "Id": "44312",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45136": {
     "ItemLevel": "239",
@@ -4403,7 +4403,7 @@
     },
     "Name": "Shoulderpads of Dormant Energies",
     "Id": "45136",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45140": {
     "ItemLevel": "226",
@@ -4425,7 +4425,7 @@
     "SocketBonus": "none",
     "Name": "Razorscale Shoulderguards",
     "Id": "45140",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45186": {
     "ItemLevel": "226",
@@ -4450,7 +4450,7 @@
     },
     "Name": "Soot-Covered Mantle",
     "Id": "45186",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45227": {
     "ItemLevel": "226",
@@ -4473,7 +4473,7 @@
     "SocketBonus": "none",
     "Name": "Iron-studded Mantle",
     "Id": "45227",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45245": {
     "ItemLevel": "239",
@@ -4499,7 +4499,7 @@
     },
     "Name": "Shoulderpads of the Intruder",
     "Id": "45245",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45251": {
     "ItemLevel": "226",
@@ -4521,7 +4521,7 @@
     "SocketBonus": "none",
     "Name": "Shoulderplates of the Deconstructor",
     "Id": "45251",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45253": {
     "ItemLevel": "226",
@@ -4543,7 +4543,7 @@
     "SocketBonus": "none",
     "Name": "Mantle of Wavering Calm",
     "Id": "45253",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45265": {
     "ItemLevel": "226",
@@ -4568,7 +4568,7 @@
     },
     "Name": "Shoulderpads of the Monolith",
     "Id": "45265",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45300": {
     "ItemLevel": "226",
@@ -4594,7 +4594,7 @@
     },
     "Name": "Mantle of Fiery Vengeance",
     "Id": "45300",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45320": {
     "ItemLevel": "226",
@@ -4618,7 +4618,7 @@
     },
     "Name": "Shoulderplates of the Eternal",
     "Id": "45320",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45321": {
     "ItemLevel": "219",
@@ -4640,7 +4640,7 @@
     "SocketBonus": "none",
     "Name": "Pauldrons of Tempered Will",
     "Id": "45321",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45339": {
     "ItemLevel": "219",
@@ -4667,7 +4667,7 @@
     },
     "Name": "Valorous Darkruned Pauldrons",
     "Id": "45339",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45344": {
     "ItemLevel": "219",
@@ -4693,7 +4693,7 @@
     },
     "Name": "Valorous Darkruned Shoulderplates",
     "Id": "45344",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45349": {
     "ItemLevel": "219",
@@ -4720,7 +4720,7 @@
     },
     "Name": "Valorous Nightsong Spaulders",
     "Id": "45349",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45352": {
     "ItemLevel": "219",
@@ -4747,7 +4747,7 @@
     },
     "Name": "Valorous Nightsong Mantle",
     "Id": "45352",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45359": {
     "ItemLevel": "219",
@@ -4774,7 +4774,7 @@
     },
     "Name": "Valorous Nightsong Shoulderpads",
     "Id": "45359",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45363": {
     "ItemLevel": "219",
@@ -4802,7 +4802,7 @@
     },
     "Name": "Valorous Scourgestalker Spaulders",
     "Id": "45363",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45369": {
     "ItemLevel": "219",
@@ -4829,7 +4829,7 @@
     },
     "Name": "Valorous Kirin Tor Shoulderpads",
     "Id": "45369",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45373": {
     "ItemLevel": "219",
@@ -4856,7 +4856,7 @@
     },
     "Name": "Valorous Aegis Spaulders",
     "Id": "45373",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45380": {
     "ItemLevel": "219",
@@ -4882,7 +4882,7 @@
     },
     "Name": "Valorous Aegis Shoulderplates",
     "Id": "45380",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45385": {
     "ItemLevel": "219",
@@ -4909,7 +4909,7 @@
     },
     "Name": "Valorous Aegis Shoulderguards",
     "Id": "45385",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45390": {
     "ItemLevel": "219",
@@ -4936,7 +4936,7 @@
     },
     "Name": "Valorous Shoulderpads of Sanctification",
     "Id": "45390",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45393": {
     "ItemLevel": "219",
@@ -4963,7 +4963,7 @@
     },
     "Name": "Valorous Mantle of Sanctification",
     "Id": "45393",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45400": {
     "ItemLevel": "219",
@@ -4990,7 +4990,7 @@
     },
     "Name": "Valorous Terrorblade Pauldrons",
     "Id": "45400",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45404": {
     "ItemLevel": "219",
@@ -5017,7 +5017,7 @@
     },
     "Name": "Valorous Worldbreaker Spaulders",
     "Id": "45404",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45410": {
     "ItemLevel": "219",
@@ -5044,7 +5044,7 @@
     },
     "Name": "Valorous Worldbreaker Shoulderpads",
     "Id": "45410",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45415": {
     "ItemLevel": "219",
@@ -5072,7 +5072,7 @@
     },
     "Name": "Valorous Worldbreaker Shoulderguards",
     "Id": "45415",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45422": {
     "ItemLevel": "219",
@@ -5099,7 +5099,7 @@
     },
     "Name": "Valorous Deathbringer Shoulderpads",
     "Id": "45422",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45428": {
     "ItemLevel": "219",
@@ -5126,7 +5126,7 @@
     },
     "Name": "Valorous Siegebreaker Pauldrons",
     "Id": "45428",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45433": {
     "ItemLevel": "219",
@@ -5152,7 +5152,7 @@
     },
     "Name": "Valorous Siegebreaker Shoulderplates",
     "Id": "45433",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45440": {
     "ItemLevel": "226",
@@ -5177,7 +5177,7 @@
     },
     "Name": "Amice of the Stoic Watch",
     "Id": "45440",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45474": {
     "ItemLevel": "239",
@@ -5203,7 +5203,7 @@
     },
     "Name": "Pauldrons of the Combatant",
     "Id": "45474",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45492": {
     "ItemLevel": "226",
@@ -5228,7 +5228,7 @@
     },
     "Name": "Malleable Steelweave Mantle",
     "Id": "45492",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45514": {
     "ItemLevel": "226",
@@ -5253,7 +5253,7 @@
     },
     "Name": "Mantle of the Unknowing",
     "Id": "45514",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45543": {
     "ItemLevel": "226",
@@ -5279,7 +5279,7 @@
     },
     "Name": "Shoulders of Misfortune",
     "Id": "45543",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45677": {
     "ItemLevel": "219",
@@ -5304,7 +5304,7 @@
     },
     "Name": "Treacherous Shoulderpads",
     "Id": "45677",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45697": {
     "ItemLevel": "219",
@@ -5326,7 +5326,7 @@
     "SocketBonus": "none",
     "Name": "Shoulderguards of the Solemn Watch",
     "Id": "45697",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45711": {
     "ItemLevel": "219",
@@ -5349,7 +5349,7 @@
     "SocketBonus": "none",
     "Name": "Ironaya's Discarded Mantle",
     "Id": "45711",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45832": {
     "ItemLevel": "219",
@@ -5371,7 +5371,7 @@
     "SocketBonus": "none",
     "Name": "Mantle of the Preserver",
     "Id": "45832",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "45974": {
     "ItemLevel": "219",
@@ -5393,7 +5393,7 @@
     "SocketBonus": "none",
     "Name": "Shoulderguards of Assimilation",
     "Id": "45974",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "46013": {
     "ItemLevel": "219",
@@ -5418,7 +5418,7 @@
     },
     "Name": "Underworld Mantle",
     "Id": "46013",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "46037": {
     "ItemLevel": "226",
@@ -5443,7 +5443,7 @@
     },
     "Name": "Shoulderplates of the Celestial Watch",
     "Id": "46037",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "46044": {
     "ItemLevel": "226",
@@ -5469,7 +5469,7 @@
     },
     "Name": "Observer's Mantle",
     "Id": "46044",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "46068": {
     "ItemLevel": "226",
@@ -5495,7 +5495,7 @@
     },
     "Name": "Amice of Inconceivable Horror",
     "Id": "46068",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "46117": {
     "ItemLevel": "226",
@@ -5521,7 +5521,7 @@
     },
     "Name": "Conqueror's Darkruned Shoulderplates",
     "Id": "46117",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "46122": {
     "ItemLevel": "226",
@@ -5548,7 +5548,7 @@
     },
     "Name": "Conqueror's Darkruned Pauldrons",
     "Id": "46122",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "46127": {
     "ItemLevel": "226",
@@ -5575,7 +5575,7 @@
     },
     "Name": "Conqueror's Terrorblade Pauldrons",
     "Id": "46127",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "46134": {
     "ItemLevel": "226",
@@ -5602,7 +5602,7 @@
     },
     "Name": "Conqueror's Kirin Tor Shoulderpads",
     "Id": "46134",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "46136": {
     "ItemLevel": "226",
@@ -5629,7 +5629,7 @@
     },
     "Name": "Conqueror's Deathbringer Shoulderpads",
     "Id": "46136",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "46145": {
     "ItemLevel": "226",
@@ -5657,7 +5657,7 @@
     },
     "Name": "Conqueror's Scourgestalker Spaulders",
     "Id": "46145",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "46149": {
     "ItemLevel": "226",
@@ -5683,7 +5683,7 @@
     },
     "Name": "Conqueror's Siegebreaker Shoulderplates",
     "Id": "46149",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "46152": {
     "ItemLevel": "226",
@@ -5709,7 +5709,7 @@
     },
     "Name": "Conqueror's Aegis Shoulderplates",
     "Id": "46152",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "46157": {
     "ItemLevel": "226",
@@ -5736,7 +5736,7 @@
     },
     "Name": "Conqueror's Nightsong Shoulderpads",
     "Id": "46157",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "46165": {
     "ItemLevel": "226",
@@ -5763,7 +5763,7 @@
     },
     "Name": "Conqueror's Mantle of Sanctification",
     "Id": "46165",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "46167": {
     "ItemLevel": "226",
@@ -5790,7 +5790,7 @@
     },
     "Name": "Conqueror's Siegebreaker Pauldrons",
     "Id": "46167",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "46177": {
     "ItemLevel": "226",
@@ -5817,7 +5817,7 @@
     },
     "Name": "Conqueror's Aegis Shoulderguards",
     "Id": "46177",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "46182": {
     "ItemLevel": "226",
@@ -5844,7 +5844,7 @@
     },
     "Name": "Conqueror's Aegis Spaulders",
     "Id": "46182",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "46187": {
     "ItemLevel": "226",
@@ -5871,7 +5871,7 @@
     },
     "Name": "Conqueror's Nightsong Spaulders",
     "Id": "46187",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "46190": {
     "ItemLevel": "226",
@@ -5898,7 +5898,7 @@
     },
     "Name": "Conqueror's Shoulderpads of Sanctification",
     "Id": "46190",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "46196": {
     "ItemLevel": "226",
@@ -5925,7 +5925,7 @@
     },
     "Name": "Conqueror's Nightsong Mantle",
     "Id": "46196",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "46203": {
     "ItemLevel": "226",
@@ -5953,7 +5953,7 @@
     },
     "Name": "Conqueror's Worldbreaker Shoulderguards",
     "Id": "46203",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "46204": {
     "ItemLevel": "226",
@@ -5980,7 +5980,7 @@
     },
     "Name": "Conqueror's Worldbreaker Spaulders",
     "Id": "46204",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "46211": {
     "ItemLevel": "226",
@@ -6007,7 +6007,7 @@
     },
     "Name": "Conqueror's Worldbreaker Shoulderpads",
     "Id": "46211",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "46344": {
     "ItemLevel": "219",
@@ -6029,7 +6029,7 @@
     "SocketBonus": "none",
     "Name": "Iceshear Mantle",
     "Id": "46344",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47210": {
     "ItemLevel": "200",
@@ -6051,7 +6051,7 @@
     "SocketBonus": "none",
     "Name": "Mantle of Gnarled Overgrowth",
     "Id": "47210",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47221": {
     "ItemLevel": "200",
@@ -6076,7 +6076,7 @@
     },
     "Name": "Shoulderpads of the Infamous Knave",
     "Id": "47221",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47226": {
     "ItemLevel": "200",
@@ -6098,7 +6098,7 @@
     "SocketBonus": "none",
     "Name": "Mantle of Inconsolable Fear",
     "Id": "47226",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47245": {
     "ItemLevel": "219",
@@ -6124,7 +6124,7 @@
     },
     "Name": "Pauldrons of Concealed Loathing",
     "Id": "47245",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47250": {
     "ItemLevel": "219",
@@ -6149,7 +6149,7 @@
     },
     "Name": "Pauldrons of the Deafening Gale",
     "Id": "47250",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47502": {
     "ItemLevel": "219",
@@ -6173,7 +6173,7 @@
     },
     "Name": "Majestic Silversmith Shoulderplates",
     "Id": "47502",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47514": {
     "ItemLevel": "219",
@@ -6198,7 +6198,7 @@
     },
     "Name": "Regal Aurous Shoulderplates",
     "Id": "47514",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47613": {
     "ItemLevel": "232",
@@ -6224,7 +6224,7 @@
     },
     "Name": "Shoulderpads of the Glacial Wilds",
     "Id": "47613",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47616": {
     "ItemLevel": "232",
@@ -6249,7 +6249,7 @@
     },
     "Name": "Shoulderguards of the Spirit Walker",
     "Id": "47616",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47696": {
     "ItemLevel": "245",
@@ -6273,7 +6273,7 @@
     },
     "Name": "Shoulderplates of Trembling Rage",
     "Id": "47696",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47697": {
     "ItemLevel": "245",
@@ -6297,7 +6297,7 @@
     },
     "Name": "Pauldrons of Trembling Rage",
     "Id": "47697",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47698": {
     "ItemLevel": "245",
@@ -6322,7 +6322,7 @@
     },
     "Name": "Shoulderplates of Enduring Order",
     "Id": "47698",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47699": {
     "ItemLevel": "245",
@@ -6347,7 +6347,7 @@
     },
     "Name": "Shoulderguards of Enduring Order",
     "Id": "47699",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47701": {
     "ItemLevel": "245",
@@ -6372,7 +6372,7 @@
     },
     "Name": "Shoulderplates of the Cavalier",
     "Id": "47701",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47702": {
     "ItemLevel": "245",
@@ -6397,7 +6397,7 @@
     },
     "Name": "Pauldrons of the Cavalier",
     "Id": "47702",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47704": {
     "ItemLevel": "245",
@@ -6423,7 +6423,7 @@
     },
     "Name": "Epaulets of the Devourer",
     "Id": "47704",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47705": {
     "ItemLevel": "245",
@@ -6449,7 +6449,7 @@
     },
     "Name": "Pauldrons of the Devourer",
     "Id": "47705",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47706": {
     "ItemLevel": "245",
@@ -6474,7 +6474,7 @@
     },
     "Name": "Shoulders of the Groundbreaker",
     "Id": "47706",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47707": {
     "ItemLevel": "245",
@@ -6499,7 +6499,7 @@
     },
     "Name": "Mantle of the Groundbreaker",
     "Id": "47707",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47708": {
     "ItemLevel": "245",
@@ -6524,7 +6524,7 @@
     },
     "Name": "Duskstalker Shoulderpads",
     "Id": "47708",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47709": {
     "ItemLevel": "245",
@@ -6549,7 +6549,7 @@
     },
     "Name": "Duskstalker Pauldrons",
     "Id": "47709",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47710": {
     "ItemLevel": "245",
@@ -6574,7 +6574,7 @@
     },
     "Name": "Epaulets of the Fateful Accord",
     "Id": "47710",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47712": {
     "ItemLevel": "245",
@@ -6599,7 +6599,7 @@
     },
     "Name": "Shoulders of the Fateful Accord",
     "Id": "47712",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47713": {
     "ItemLevel": "245",
@@ -6624,7 +6624,7 @@
     },
     "Name": "Mantle of Catastrophic Emanation",
     "Id": "47713",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47714": {
     "ItemLevel": "245",
@@ -6649,7 +6649,7 @@
     },
     "Name": "Pauldrons of Catastrophic Emanation",
     "Id": "47714",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47715": {
     "ItemLevel": "245",
@@ -6674,7 +6674,7 @@
     },
     "Name": "Pauldrons of Revered Mortality",
     "Id": "47715",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47716": {
     "ItemLevel": "245",
@@ -6699,7 +6699,7 @@
     },
     "Name": "Mantle of Revered Mortality",
     "Id": "47716",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47720": {
     "ItemLevel": "232",
@@ -6724,7 +6724,7 @@
     },
     "Name": "Pauldrons of the Silver Defender",
     "Id": "47720",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47751": {
     "ItemLevel": "232",
@@ -6751,7 +6751,7 @@
     },
     "Name": "Khadgar's Shoulderpads of Conquest",
     "Id": "47751",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47757": {
     "ItemLevel": "245",
@@ -6778,7 +6778,7 @@
     },
     "Name": "Khadgar's Shoulderpads of Triumph",
     "Id": "47757",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47758": {
     "ItemLevel": "258",
@@ -6805,7 +6805,7 @@
     },
     "Name": "Khadgar's Shoulderpads of Triumph",
     "Id": "47758",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47767": {
     "ItemLevel": "258",
@@ -6832,7 +6832,7 @@
     },
     "Name": "Sunstrider's Shoulderpads of Triumph",
     "Id": "47767",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47768": {
     "ItemLevel": "245",
@@ -6859,7 +6859,7 @@
     },
     "Name": "Sunstrider's Shoulderpads of Triumph",
     "Id": "47768",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47777": {
     "ItemLevel": "232",
@@ -6886,7 +6886,7 @@
     },
     "Name": "Sunstrider's Shoulderpads of Conquest",
     "Id": "47777",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47781": {
     "ItemLevel": "245",
@@ -6913,7 +6913,7 @@
     },
     "Name": "Kel'Thuzad's Shoulderpads of Triumph",
     "Id": "47781",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47787": {
     "ItemLevel": "232",
@@ -6940,7 +6940,7 @@
     },
     "Name": "Kel'Thuzad's Shoulderpads of Conquest",
     "Id": "47787",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47792": {
     "ItemLevel": "258",
@@ -6967,7 +6967,7 @@
     },
     "Name": "Kel'Thuzad's Shoulderpads of Triumph",
     "Id": "47792",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47793": {
     "ItemLevel": "258",
@@ -6994,7 +6994,7 @@
     },
     "Name": "Gul'dan's Shoulderpads of Triumph",
     "Id": "47793",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47798": {
     "ItemLevel": "232",
@@ -7021,7 +7021,7 @@
     },
     "Name": "Gul'dan's Shoulderpads of Conquest",
     "Id": "47798",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47807": {
     "ItemLevel": "245",
@@ -7048,7 +7048,7 @@
     },
     "Name": "Gul'dan's Shoulderpads of Triumph",
     "Id": "47807",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47829": {
     "ItemLevel": "232",
@@ -7074,7 +7074,7 @@
     },
     "Name": "Pauldrons of the Timeless Hunter",
     "Id": "47829",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47832": {
     "ItemLevel": "232",
@@ -7099,7 +7099,7 @@
     },
     "Name": "Spaulders of the Snow Bandit",
     "Id": "47832",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47857": {
     "ItemLevel": "232",
@@ -7125,7 +7125,7 @@
     },
     "Name": "Pauldrons of the Glacial Wilds",
     "Id": "47857",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47860": {
     "ItemLevel": "232",
@@ -7150,7 +7150,7 @@
     },
     "Name": "Pauldrons of the Spirit Walker",
     "Id": "47860",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47877": {
     "ItemLevel": "232",
@@ -7175,7 +7175,7 @@
     },
     "Name": "Sunreaver Defender's Pauldrons",
     "Id": "47877",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47901": {
     "ItemLevel": "232",
@@ -7201,7 +7201,7 @@
     },
     "Name": "Pauldrons of the Shadow Hunter",
     "Id": "47901",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47904": {
     "ItemLevel": "232",
@@ -7226,7 +7226,7 @@
     },
     "Name": "Shoulderpads of the Snow Bandit",
     "Id": "47904",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47923": {
     "ItemLevel": "245",
@@ -7252,7 +7252,7 @@
     },
     "Name": "Shoulderpads of the Glacial Wilds",
     "Id": "47923",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47926": {
     "ItemLevel": "245",
@@ -7278,7 +7278,7 @@
     },
     "Name": "Shoulderguards of the Spirit Walker",
     "Id": "47926",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47944": {
     "ItemLevel": "245",
@@ -7304,7 +7304,7 @@
     },
     "Name": "Pauldrons of the Silver Defender",
     "Id": "47944",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47969": {
     "ItemLevel": "245",
@@ -7331,7 +7331,7 @@
     },
     "Name": "Pauldrons of the Timeless Hunter",
     "Id": "47969",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47972": {
     "ItemLevel": "245",
@@ -7357,7 +7357,7 @@
     },
     "Name": "Spaulders of the Snow Bandit",
     "Id": "47972",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47981": {
     "ItemLevel": "232",
@@ -7384,7 +7384,7 @@
     },
     "Name": "Velen's Shoulderpads of Conquest",
     "Id": "47981",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47987": {
     "ItemLevel": "245",
@@ -7411,7 +7411,7 @@
     },
     "Name": "Velen's Shoulderpads of Triumph",
     "Id": "47987",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47996": {
     "ItemLevel": "245",
@@ -7437,7 +7437,7 @@
     },
     "Name": "Pauldrons of the Glacial Wilds",
     "Id": "47996",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "47999": {
     "ItemLevel": "245",
@@ -7463,7 +7463,7 @@
     },
     "Name": "Pauldrons of the Spirit Walker",
     "Id": "47999",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48016": {
     "ItemLevel": "245",
@@ -7489,7 +7489,7 @@
     },
     "Name": "Sunreaver Defender's Pauldrons",
     "Id": "48016",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48029": {
     "ItemLevel": "258",
@@ -7516,7 +7516,7 @@
     },
     "Name": "Velen's Shoulderpads of Triumph",
     "Id": "48029",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48046": {
     "ItemLevel": "245",
@@ -7543,7 +7543,7 @@
     },
     "Name": "Pauldrons of the Shadow Hunter",
     "Id": "48046",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48049": {
     "ItemLevel": "245",
@@ -7569,7 +7569,7 @@
     },
     "Name": "Shoulderpads of the Snow Bandit",
     "Id": "48049",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48061": {
     "ItemLevel": "258",
@@ -7596,7 +7596,7 @@
     },
     "Name": "Zabra's Shoulderpads of Triumph",
     "Id": "48061",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48062": {
     "ItemLevel": "245",
@@ -7623,7 +7623,7 @@
     },
     "Name": "Zabra's Shoulderpads of Triumph",
     "Id": "48062",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48071": {
     "ItemLevel": "232",
@@ -7650,7 +7650,7 @@
     },
     "Name": "Zabra's Shoulderpads of Conquest",
     "Id": "48071",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48076": {
     "ItemLevel": "232",
@@ -7677,7 +7677,7 @@
     },
     "Name": "Velen's Mantle of Conquest",
     "Id": "48076",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48081": {
     "ItemLevel": "245",
@@ -7704,7 +7704,7 @@
     },
     "Name": "Velen's Mantle of Triumph",
     "Id": "48081",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48082": {
     "ItemLevel": "258",
@@ -7731,7 +7731,7 @@
     },
     "Name": "Velen's Mantle of Triumph",
     "Id": "48082",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48091": {
     "ItemLevel": "258",
@@ -7758,7 +7758,7 @@
     },
     "Name": "Zabra's Mantle of Triumph",
     "Id": "48091",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48092": {
     "ItemLevel": "245",
@@ -7785,7 +7785,7 @@
     },
     "Name": "Zabra's Mantle of Triumph",
     "Id": "48092",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48101": {
     "ItemLevel": "232",
@@ -7812,7 +7812,7 @@
     },
     "Name": "Zabra's Mantle of Conquest",
     "Id": "48101",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48131": {
     "ItemLevel": "232",
@@ -7839,7 +7839,7 @@
     },
     "Name": "Malfurion's Spaulders of Conquest",
     "Id": "48131",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48137": {
     "ItemLevel": "245",
@@ -7866,7 +7866,7 @@
     },
     "Name": "Malfurion's Spaulders of Triumph",
     "Id": "48137",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48138": {
     "ItemLevel": "258",
@@ -7893,7 +7893,7 @@
     },
     "Name": "Malfurion's Spaulders of Triumph",
     "Id": "48138",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48147": {
     "ItemLevel": "258",
@@ -7920,7 +7920,7 @@
     },
     "Name": "Runetotem's Spaulders of Triumph",
     "Id": "48147",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48148": {
     "ItemLevel": "245",
@@ -7947,7 +7947,7 @@
     },
     "Name": "Runetotem's Spaulders of Triumph",
     "Id": "48148",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48157": {
     "ItemLevel": "232",
@@ -7974,7 +7974,7 @@
     },
     "Name": "Runetotem's Spaulders of Conquest",
     "Id": "48157",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48161": {
     "ItemLevel": "232",
@@ -8001,7 +8001,7 @@
     },
     "Name": "Malfurion's Mantle of Conquest",
     "Id": "48161",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48167": {
     "ItemLevel": "245",
@@ -8028,7 +8028,7 @@
     },
     "Name": "Malfurion's Mantle of Triumph",
     "Id": "48167",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48168": {
     "ItemLevel": "258",
@@ -8055,7 +8055,7 @@
     },
     "Name": "Malfurion's Mantle of Triumph",
     "Id": "48168",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48177": {
     "ItemLevel": "258",
@@ -8082,7 +8082,7 @@
     },
     "Name": "Runetotem's Mantle of Triumph",
     "Id": "48177",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48178": {
     "ItemLevel": "245",
@@ -8109,7 +8109,7 @@
     },
     "Name": "Runetotem's Mantle of Triumph",
     "Id": "48178",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48187": {
     "ItemLevel": "232",
@@ -8136,7 +8136,7 @@
     },
     "Name": "Runetotem's Mantle of Conquest",
     "Id": "48187",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48191": {
     "ItemLevel": "232",
@@ -8163,7 +8163,7 @@
     },
     "Name": "Runetotem's Shoulderpads of Conquest",
     "Id": "48191",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48197": {
     "ItemLevel": "245",
@@ -8190,7 +8190,7 @@
     },
     "Name": "Runetotem's Shoulderpads of Triumph",
     "Id": "48197",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48198": {
     "ItemLevel": "258",
@@ -8217,7 +8217,7 @@
     },
     "Name": "Runetotem's Shoulderpads of Triumph",
     "Id": "48198",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48207": {
     "ItemLevel": "258",
@@ -8244,7 +8244,7 @@
     },
     "Name": "Malfurion's Shoulderpads of Triumph",
     "Id": "48207",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48208": {
     "ItemLevel": "245",
@@ -8271,7 +8271,7 @@
     },
     "Name": "Malfurion's Shoulderpads of Triumph",
     "Id": "48208",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48217": {
     "ItemLevel": "232",
@@ -8298,7 +8298,7 @@
     },
     "Name": "Malfurion's Shoulderpads of Conquest",
     "Id": "48217",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48221": {
     "ItemLevel": "232",
@@ -8325,7 +8325,7 @@
     },
     "Name": "VanCleef's Pauldrons of Conquest",
     "Id": "48221",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48227": {
     "ItemLevel": "245",
@@ -8352,7 +8352,7 @@
     },
     "Name": "VanCleef's Pauldrons of Triumph",
     "Id": "48227",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48228": {
     "ItemLevel": "258",
@@ -8379,7 +8379,7 @@
     },
     "Name": "VanCleef's Pauldrons of Triumph",
     "Id": "48228",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48237": {
     "ItemLevel": "258",
@@ -8406,7 +8406,7 @@
     },
     "Name": "Garona's Pauldrons of Triumph",
     "Id": "48237",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48238": {
     "ItemLevel": "245",
@@ -8433,7 +8433,7 @@
     },
     "Name": "Garona's Pauldrons of Triumph",
     "Id": "48238",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48247": {
     "ItemLevel": "232",
@@ -8460,7 +8460,7 @@
     },
     "Name": "Garona's Pauldrons of Conquest",
     "Id": "48247",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48253": {
     "ItemLevel": "232",
@@ -8488,7 +8488,7 @@
     },
     "Name": "Windrunner's Spaulders of Conquest",
     "Id": "48253",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48259": {
     "ItemLevel": "245",
@@ -8516,7 +8516,7 @@
     },
     "Name": "Windrunner's Spaulders of Triumph",
     "Id": "48259",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48260": {
     "ItemLevel": "258",
@@ -8544,7 +8544,7 @@
     },
     "Name": "Windrunner's Spaulders of Triumph",
     "Id": "48260",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48269": {
     "ItemLevel": "258",
@@ -8572,7 +8572,7 @@
     },
     "Name": "Windrunner's Spaulders of Triumph",
     "Id": "48269",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48270": {
     "ItemLevel": "245",
@@ -8600,7 +8600,7 @@
     },
     "Name": "Windrunner's Spaulders of Triumph",
     "Id": "48270",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48279": {
     "ItemLevel": "232",
@@ -8628,7 +8628,7 @@
     },
     "Name": "Windrunner's Spaulders of Conquest",
     "Id": "48279",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48283": {
     "ItemLevel": "232",
@@ -8655,7 +8655,7 @@
     },
     "Name": "Nobundo's Spaulders of Conquest",
     "Id": "48283",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48289": {
     "ItemLevel": "245",
@@ -8682,7 +8682,7 @@
     },
     "Name": "Nobundo's Spaulders of Triumph",
     "Id": "48289",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48290": {
     "ItemLevel": "258",
@@ -8709,7 +8709,7 @@
     },
     "Name": "Nobundo's Spaulders of Triumph",
     "Id": "48290",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48299": {
     "ItemLevel": "232",
@@ -8736,7 +8736,7 @@
     },
     "Name": "Thrall's Spaulders of Conquest",
     "Id": "48299",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48304": {
     "ItemLevel": "245",
@@ -8763,7 +8763,7 @@
     },
     "Name": "Thrall's Spaulders of Triumph",
     "Id": "48304",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48309": {
     "ItemLevel": "258",
@@ -8790,7 +8790,7 @@
     },
     "Name": "Thrall's Spaulders of Triumph",
     "Id": "48309",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48315": {
     "ItemLevel": "232",
@@ -8817,7 +8817,7 @@
     },
     "Name": "Nobundo's Shoulderpads of Conquest",
     "Id": "48315",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48320": {
     "ItemLevel": "245",
@@ -8844,7 +8844,7 @@
     },
     "Name": "Nobundo's Shoulderpads of Triumph",
     "Id": "48320",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48321": {
     "ItemLevel": "258",
@@ -8871,7 +8871,7 @@
     },
     "Name": "Nobundo's Shoulderpads of Triumph",
     "Id": "48321",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48330": {
     "ItemLevel": "258",
@@ -8898,7 +8898,7 @@
     },
     "Name": "Thrall's Shoulderpads of Triumph",
     "Id": "48330",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48331": {
     "ItemLevel": "245",
@@ -8925,7 +8925,7 @@
     },
     "Name": "Thrall's Shoulderpads of Triumph",
     "Id": "48331",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48340": {
     "ItemLevel": "232",
@@ -8952,7 +8952,7 @@
     },
     "Name": "Thrall's Shoulderpads of Conquest",
     "Id": "48340",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48345": {
     "ItemLevel": "232",
@@ -8980,7 +8980,7 @@
     },
     "Name": "Nobundo's Shoulderguards of Conquest",
     "Id": "48345",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48350": {
     "ItemLevel": "245",
@@ -9008,7 +9008,7 @@
     },
     "Name": "Nobundo's Shoulderguards of Triumph",
     "Id": "48350",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48351": {
     "ItemLevel": "258",
@@ -9036,7 +9036,7 @@
     },
     "Name": "Nobundo's Shoulderguards of Triumph",
     "Id": "48351",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48360": {
     "ItemLevel": "258",
@@ -9064,7 +9064,7 @@
     },
     "Name": "Thrall's Shoulderguards of Triumph",
     "Id": "48360",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48361": {
     "ItemLevel": "245",
@@ -9092,7 +9092,7 @@
     },
     "Name": "Thrall's Shoulderguards of Triumph",
     "Id": "48361",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48370": {
     "ItemLevel": "232",
@@ -9120,7 +9120,7 @@
     },
     "Name": "Thrall's Shoulderguards of Conquest",
     "Id": "48370",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48374": {
     "ItemLevel": "232",
@@ -9146,7 +9146,7 @@
     },
     "Name": "Wrynn's Shoulderplates of Conquest",
     "Id": "48374",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48380": {
     "ItemLevel": "245",
@@ -9172,7 +9172,7 @@
     },
     "Name": "Wrynn's Shoulderplates of Triumph",
     "Id": "48380",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48381": {
     "ItemLevel": "258",
@@ -9198,7 +9198,7 @@
     },
     "Name": "Wrynn's Shoulderplates of Triumph",
     "Id": "48381",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48390": {
     "ItemLevel": "232",
@@ -9224,7 +9224,7 @@
     },
     "Name": "Hellscream's Shoulderplates of Conquest",
     "Id": "48390",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48395": {
     "ItemLevel": "245",
@@ -9250,7 +9250,7 @@
     },
     "Name": "Hellscream's Shoulderplates of Triumph",
     "Id": "48395",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48400": {
     "ItemLevel": "258",
@@ -9276,7 +9276,7 @@
     },
     "Name": "Hellscream's Shoulderplates of Triumph",
     "Id": "48400",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48448": {
     "ItemLevel": "232",
@@ -9303,7 +9303,7 @@
     },
     "Name": "Wrynn's Pauldrons of Conquest",
     "Id": "48448",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48454": {
     "ItemLevel": "245",
@@ -9330,7 +9330,7 @@
     },
     "Name": "Wrynn's Pauldrons of Triumph",
     "Id": "48454",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48455": {
     "ItemLevel": "258",
@@ -9357,7 +9357,7 @@
     },
     "Name": "Wrynn's Pauldrons of Triumph",
     "Id": "48455",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48460": {
     "ItemLevel": "232",
@@ -9384,7 +9384,7 @@
     },
     "Name": "Hellscream's Pauldrons of Conquest",
     "Id": "48460",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48465": {
     "ItemLevel": "245",
@@ -9411,7 +9411,7 @@
     },
     "Name": "Hellscream's Pauldrons of Triumph",
     "Id": "48465",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48470": {
     "ItemLevel": "258",
@@ -9438,7 +9438,7 @@
     },
     "Name": "Hellscream's Pauldrons of Triumph",
     "Id": "48470",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48478": {
     "ItemLevel": "232",
@@ -9464,7 +9464,7 @@
     },
     "Name": "Thassarian's Shoulderplates of Conquest",
     "Id": "48478",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48485": {
     "ItemLevel": "245",
@@ -9490,7 +9490,7 @@
     },
     "Name": "Thassarian's Shoulderplates of Triumph",
     "Id": "48485",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48486": {
     "ItemLevel": "258",
@@ -9516,7 +9516,7 @@
     },
     "Name": "Thassarian's Shoulderplates of Triumph",
     "Id": "48486",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48495": {
     "ItemLevel": "258",
@@ -9542,7 +9542,7 @@
     },
     "Name": "Koltira's Shoulderplates of Triumph",
     "Id": "48495",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48496": {
     "ItemLevel": "245",
@@ -9568,7 +9568,7 @@
     },
     "Name": "Koltira's Shoulderplates of Triumph",
     "Id": "48496",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48505": {
     "ItemLevel": "232",
@@ -9594,7 +9594,7 @@
     },
     "Name": "Koltira's Shoulderplates of Conquest",
     "Id": "48505",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48535": {
     "ItemLevel": "232",
@@ -9621,7 +9621,7 @@
     },
     "Name": "Thassarian's Pauldrons of Conquest",
     "Id": "48535",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48542": {
     "ItemLevel": "245",
@@ -9648,7 +9648,7 @@
     },
     "Name": "Thassarian's Pauldrons of Triumph",
     "Id": "48542",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48543": {
     "ItemLevel": "258",
@@ -9675,7 +9675,7 @@
     },
     "Name": "Thassarian's Pauldrons of Triumph",
     "Id": "48543",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48552": {
     "ItemLevel": "258",
@@ -9702,7 +9702,7 @@
     },
     "Name": "Koltira's Pauldrons of Triumph",
     "Id": "48552",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48553": {
     "ItemLevel": "245",
@@ -9729,7 +9729,7 @@
     },
     "Name": "Koltira's Pauldrons of Triumph",
     "Id": "48553",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48562": {
     "ItemLevel": "232",
@@ -9756,7 +9756,7 @@
     },
     "Name": "Koltira's Pauldrons of Conquest",
     "Id": "48562",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48572": {
     "ItemLevel": "232",
@@ -9783,7 +9783,7 @@
     },
     "Name": "Turalyon's Spaulders of Conquest",
     "Id": "48572",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48579": {
     "ItemLevel": "245",
@@ -9810,7 +9810,7 @@
     },
     "Name": "Turalyon's Spaulders of Triumph",
     "Id": "48579",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48580": {
     "ItemLevel": "258",
@@ -9837,7 +9837,7 @@
     },
     "Name": "Turalyon's Spaulders of Triumph",
     "Id": "48580",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48585": {
     "ItemLevel": "258",
@@ -9864,7 +9864,7 @@
     },
     "Name": "Liadrin's Spaulders of Triumph",
     "Id": "48585",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48590": {
     "ItemLevel": "245",
@@ -9891,7 +9891,7 @@
     },
     "Name": "Liadrin's Spaulders of Triumph",
     "Id": "48590",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48595": {
     "ItemLevel": "232",
@@ -9918,7 +9918,7 @@
     },
     "Name": "Liadrin's Spaulders of Conquest",
     "Id": "48595",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48606": {
     "ItemLevel": "232",
@@ -9944,7 +9944,7 @@
     },
     "Name": "Turalyon's Shoulderplates of Conquest",
     "Id": "48606",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48611": {
     "ItemLevel": "245",
@@ -9970,7 +9970,7 @@
     },
     "Name": "Turalyon's Shoulderplates of Triumph",
     "Id": "48611",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48612": {
     "ItemLevel": "258",
@@ -9996,7 +9996,7 @@
     },
     "Name": "Turalyon's Shoulderplates of Triumph",
     "Id": "48612",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48621": {
     "ItemLevel": "258",
@@ -10022,7 +10022,7 @@
     },
     "Name": "Liadrin's Shoulderplates of Triumph",
     "Id": "48621",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48622": {
     "ItemLevel": "245",
@@ -10048,7 +10048,7 @@
     },
     "Name": "Liadrin's Shoulderplates of Triumph",
     "Id": "48622",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48627": {
     "ItemLevel": "232",
@@ -10074,7 +10074,7 @@
     },
     "Name": "Liadrin's Shoulderplates of Conquest",
     "Id": "48627",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48636": {
     "ItemLevel": "232",
@@ -10101,7 +10101,7 @@
     },
     "Name": "Turalyon's Shoulderguards of Conquest",
     "Id": "48636",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48637": {
     "ItemLevel": "245",
@@ -10128,7 +10128,7 @@
     },
     "Name": "Turalyon's Shoulderguards of Triumph",
     "Id": "48637",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48646": {
     "ItemLevel": "258",
@@ -10155,7 +10155,7 @@
     },
     "Name": "Turalyon's Shoulderguards of Triumph",
     "Id": "48646",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48647": {
     "ItemLevel": "258",
@@ -10182,7 +10182,7 @@
     },
     "Name": "Liadrin's Shoulderguards of Triumph",
     "Id": "48647",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48656": {
     "ItemLevel": "232",
@@ -10209,7 +10209,7 @@
     },
     "Name": "Liadrin's Shoulderguards of Conquest",
     "Id": "48656",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "48661": {
     "ItemLevel": "245",
@@ -10236,7 +10236,7 @@
     },
     "Name": "Liadrin's Shoulderguards of Triumph",
     "Id": "48661",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "49785": {
     "ItemLevel": "219",
@@ -10258,7 +10258,7 @@
     "SocketBonus": "none",
     "Name": "Bewildering Shoulderpads",
     "Id": "49785",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "49829": {
     "ItemLevel": "219",
@@ -10280,7 +10280,7 @@
     "SocketBonus": "none",
     "Name": "Valonforth's Tarnished Pauldrons",
     "Id": "49829",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "49834": {
     "ItemLevel": "219",
@@ -10302,7 +10302,7 @@
     "SocketBonus": "none",
     "Name": "Frayed Abomination Stitching Shoulders",
     "Id": "49834",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "49848": {
     "ItemLevel": "219",
@@ -10324,7 +10324,7 @@
     "SocketBonus": "none",
     "Name": "Grim Lasher Shoulderguards",
     "Id": "49848",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "49854": {
     "ItemLevel": "219",
@@ -10346,7 +10346,7 @@
     "SocketBonus": "none",
     "Name": "Mantle of Tattered Feathers",
     "Id": "49854",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "49980": {
     "ItemLevel": "264",
@@ -10372,7 +10372,7 @@
     },
     "Name": "Rusted Bonespike Pauldrons",
     "Id": "49980",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "49987": {
     "ItemLevel": "264",
@@ -10398,7 +10398,7 @@
     },
     "Name": "Cultist's Bloodsoaked Spaulders",
     "Id": "49987",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "49991": {
     "ItemLevel": "264",
@@ -10424,7 +10424,7 @@
     },
     "Name": "Shoulders of Mercy Killing",
     "Id": "49991",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50003": {
     "ItemLevel": "264",
@@ -10450,7 +10450,7 @@
     },
     "Name": "Boneguard Commander's Pauldrons",
     "Id": "50003",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50020": {
     "ItemLevel": "264",
@@ -10475,7 +10475,7 @@
     },
     "Name": "Raging Behemoth's Shoulderplates",
     "Id": "50020",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50022": {
     "ItemLevel": "264",
@@ -10502,7 +10502,7 @@
     },
     "Name": "Dual-Bladed Pauldrons",
     "Id": "50022",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50059": {
     "ItemLevel": "264",
@@ -10528,7 +10528,7 @@
     },
     "Name": "Horrific Flesh Epaulets",
     "Id": "50059",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50082": {
     "ItemLevel": "251",
@@ -10554,7 +10554,7 @@
     },
     "Name": "Ymirjar Lord's Shoulderplates",
     "Id": "50082",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50098": {
     "ItemLevel": "251",
@@ -10580,7 +10580,7 @@
     },
     "Name": "Scourgelord Shoulderplates",
     "Id": "50098",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50105": {
     "ItemLevel": "251",
@@ -10607,7 +10607,7 @@
     },
     "Name": "Shadowblade Pauldrons",
     "Id": "50105",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50113": {
     "ItemLevel": "251",
@@ -10634,7 +10634,7 @@
     },
     "Name": "Lasherweave Pauldrons",
     "Id": "50113",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50117": {
     "ItemLevel": "251",
@@ -10662,7 +10662,7 @@
     },
     "Name": "Ahn'Kahar Blood Hunter's Spaulders",
     "Id": "50117",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50171": {
     "ItemLevel": "264",
@@ -10688,7 +10688,7 @@
     },
     "Name": "Shoulders of Frost-Tipped Thorns",
     "Id": "50171",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50193": {
     "ItemLevel": "232",
@@ -10710,7 +10710,7 @@
     "SocketBonus": "none",
     "Name": "Very Fashionable Shoulders",
     "Id": "50193",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50208": {
     "ItemLevel": "232",
@@ -10731,7 +10731,7 @@
     "SocketBonus": "none",
     "Name": "Pauldrons of the Souleater",
     "Id": "50208",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50233": {
     "ItemLevel": "232",
@@ -10754,7 +10754,7 @@
     "SocketBonus": "none",
     "Name": "Spurned Val'kyr Shoulderguards",
     "Id": "50233",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50234": {
     "ItemLevel": "232",
@@ -10776,7 +10776,7 @@
     "SocketBonus": "none",
     "Name": "Shoulderplates of Frozen Blood",
     "Id": "50234",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50244": {
     "ItemLevel": "251",
@@ -10803,7 +10803,7 @@
     },
     "Name": "Dark Coven Shoulderpads",
     "Id": "50244",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50279": {
     "ItemLevel": "251",
@@ -10830,7 +10830,7 @@
     },
     "Name": "Bloodmage Shoulderpads",
     "Id": "50279",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50293": {
     "ItemLevel": "232",
@@ -10852,7 +10852,7 @@
     "SocketBonus": "none",
     "Name": "Spaulders of Black Betrayal",
     "Id": "50293",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50324": {
     "ItemLevel": "251",
@@ -10878,7 +10878,7 @@
     },
     "Name": "Lightsworn Shoulderplates",
     "Id": "50324",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50396": {
     "ItemLevel": "251",
@@ -10905,7 +10905,7 @@
     },
     "Name": "Crimson Acolyte Mantle",
     "Id": "50396",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50449": {
     "ItemLevel": "264",
@@ -10931,7 +10931,7 @@
     },
     "Name": "Stiffened Corpse Shoulderpads",
     "Id": "50449",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50617": {
     "ItemLevel": "277",
@@ -10957,7 +10957,7 @@
     },
     "Name": "Rusted Bonespike Pauldrons",
     "Id": "50617",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50643": {
     "ItemLevel": "277",
@@ -10983,7 +10983,7 @@
     },
     "Name": "Shoulders of Mercy Killing",
     "Id": "50643",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50646": {
     "ItemLevel": "277",
@@ -11009,7 +11009,7 @@
     },
     "Name": "Cultist's Bloodsoaked Spaulders",
     "Id": "50646",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50660": {
     "ItemLevel": "277",
@@ -11035,7 +11035,7 @@
     },
     "Name": "Boneguard Commander's Pauldrons",
     "Id": "50660",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50673": {
     "ItemLevel": "277",
@@ -11062,7 +11062,7 @@
     },
     "Name": "Dual-Bladed Pauldrons",
     "Id": "50673",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50674": {
     "ItemLevel": "277",
@@ -11087,7 +11087,7 @@
     },
     "Name": "Raging Behemoth's Shoulderplates",
     "Id": "50674",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50698": {
     "ItemLevel": "277",
@@ -11113,7 +11113,7 @@
     },
     "Name": "Horrific Flesh Epaulets",
     "Id": "50698",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50715": {
     "ItemLevel": "277",
@@ -11139,7 +11139,7 @@
     },
     "Name": "Shoulders of Frost-Tipped Thorns",
     "Id": "50715",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50767": {
     "ItemLevel": "251",
@@ -11166,7 +11166,7 @@
     },
     "Name": "Crimson Acolyte Shoulderpads",
     "Id": "50767",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50792": {
     "ItemLevel": "251",
@@ -11193,7 +11193,7 @@
     },
     "Name": "Pauldrons of Lost Hope",
     "Id": "50792",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50819": {
     "ItemLevel": "251",
@@ -11220,7 +11220,7 @@
     },
     "Name": "Lasherweave Mantle",
     "Id": "50819",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50824": {
     "ItemLevel": "251",
@@ -11247,7 +11247,7 @@
     },
     "Name": "Lasherweave Shoulderpads",
     "Id": "50824",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50834": {
     "ItemLevel": "251",
@@ -11275,7 +11275,7 @@
     },
     "Name": "Frost Witch's Shoulderguards",
     "Id": "50834",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50839": {
     "ItemLevel": "251",
@@ -11302,7 +11302,7 @@
     },
     "Name": "Frost Witch's Spaulders",
     "Id": "50839",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50845": {
     "ItemLevel": "251",
@@ -11329,7 +11329,7 @@
     },
     "Name": "Frost Witch's Shoulderpads",
     "Id": "50845",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50846": {
     "ItemLevel": "251",
@@ -11356,7 +11356,7 @@
     },
     "Name": "Ymirjar Lord's Pauldrons",
     "Id": "50846",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50853": {
     "ItemLevel": "251",
@@ -11383,7 +11383,7 @@
     },
     "Name": "Scourgelord Pauldrons",
     "Id": "50853",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50860": {
     "ItemLevel": "251",
@@ -11410,7 +11410,7 @@
     },
     "Name": "Lightsworn Shoulderguards",
     "Id": "50860",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50865": {
     "ItemLevel": "251",
@@ -11437,7 +11437,7 @@
     },
     "Name": "Lightsworn Spaulders",
     "Id": "50865",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "50988": {
     "ItemLevel": "251",
@@ -11463,7 +11463,7 @@
     },
     "Name": "Bloodstained Surgeon's Shoulderguards",
     "Id": "50988",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51014": {
     "ItemLevel": "251",
@@ -11488,7 +11488,7 @@
     },
     "Name": "Scalpel-Sharpening Shoulderguards",
     "Id": "51014",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51015": {
     "ItemLevel": "251",
@@ -11515,7 +11515,7 @@
     },
     "Name": "Shoulderpads of the Morbid Ritual",
     "Id": "51015",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51020": {
     "ItemLevel": "251",
@@ -11541,7 +11541,7 @@
     },
     "Name": "Shoulders of Ruinous Senility",
     "Id": "51020",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51125": {
     "ItemLevel": "264",
@@ -11567,7 +11567,7 @@
     },
     "Name": "Sanctified Scourgelord Shoulderplates",
     "Id": "51125",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51130": {
     "ItemLevel": "264",
@@ -11594,7 +11594,7 @@
     },
     "Name": "Sanctified Scourgelord Pauldrons",
     "Id": "51130",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51135": {
     "ItemLevel": "264",
@@ -11621,7 +11621,7 @@
     },
     "Name": "Sanctified Lasherweave Pauldrons",
     "Id": "51135",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51140": {
     "ItemLevel": "264",
@@ -11648,7 +11648,7 @@
     },
     "Name": "Sanctified Lasherweave Shoulderpads",
     "Id": "51140",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51147": {
     "ItemLevel": "264",
@@ -11675,7 +11675,7 @@
     },
     "Name": "Sanctified Lasherweave Mantle",
     "Id": "51147",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51151": {
     "ItemLevel": "264",
@@ -11703,7 +11703,7 @@
     },
     "Name": "Sanctified Ahn'Kahar Blood Hunter's Spaulders",
     "Id": "51151",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51155": {
     "ItemLevel": "264",
@@ -11730,7 +11730,7 @@
     },
     "Name": "Sanctified Bloodmage Shoulderpads",
     "Id": "51155",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51160": {
     "ItemLevel": "264",
@@ -11756,7 +11756,7 @@
     },
     "Name": "Sanctified Lightsworn Shoulderplates",
     "Id": "51160",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51166": {
     "ItemLevel": "264",
@@ -11783,7 +11783,7 @@
     },
     "Name": "Sanctified Lightsworn Spaulders",
     "Id": "51166",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51170": {
     "ItemLevel": "264",
@@ -11810,7 +11810,7 @@
     },
     "Name": "Sanctified Lightsworn Shoulderguards",
     "Id": "51170",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51175": {
     "ItemLevel": "264",
@@ -11837,7 +11837,7 @@
     },
     "Name": "Sanctified Crimson Acolyte Shoulderpads",
     "Id": "51175",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51182": {
     "ItemLevel": "264",
@@ -11864,7 +11864,7 @@
     },
     "Name": "Sanctified Crimson Acolyte Mantle",
     "Id": "51182",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51185": {
     "ItemLevel": "264",
@@ -11891,7 +11891,7 @@
     },
     "Name": "Sanctified Shadowblade Pauldrons",
     "Id": "51185",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51194": {
     "ItemLevel": "264",
@@ -11918,7 +11918,7 @@
     },
     "Name": "Sanctified Frost Witch's Spaulders",
     "Id": "51194",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51199": {
     "ItemLevel": "264",
@@ -11946,7 +11946,7 @@
     },
     "Name": "Sanctified Frost Witch's Shoulderguards",
     "Id": "51199",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51204": {
     "ItemLevel": "264",
@@ -11973,7 +11973,7 @@
     },
     "Name": "Sanctified Frost Witch's Shoulderpads",
     "Id": "51204",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51205": {
     "ItemLevel": "264",
@@ -12000,7 +12000,7 @@
     },
     "Name": "Sanctified Dark Coven Shoulderpads",
     "Id": "51205",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51210": {
     "ItemLevel": "264",
@@ -12026,7 +12026,7 @@
     },
     "Name": "Sanctified Ymirjar Lord's Shoulderplates",
     "Id": "51210",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51215": {
     "ItemLevel": "264",
@@ -12053,7 +12053,7 @@
     },
     "Name": "Sanctified Ymirjar Lord's Pauldrons",
     "Id": "51215",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51224": {
     "ItemLevel": "277",
@@ -12080,7 +12080,7 @@
     },
     "Name": "Sanctified Ymirjar Lord's Pauldrons",
     "Id": "51224",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51229": {
     "ItemLevel": "277",
@@ -12106,7 +12106,7 @@
     },
     "Name": "Sanctified Ymirjar Lord's Shoulderplates",
     "Id": "51229",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51234": {
     "ItemLevel": "277",
@@ -12133,7 +12133,7 @@
     },
     "Name": "Sanctified Dark Coven Shoulderpads",
     "Id": "51234",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51235": {
     "ItemLevel": "277",
@@ -12160,7 +12160,7 @@
     },
     "Name": "Sanctified Frost Witch's Shoulderpads",
     "Id": "51235",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51240": {
     "ItemLevel": "277",
@@ -12188,7 +12188,7 @@
     },
     "Name": "Sanctified Frost Witch's Shoulderguards",
     "Id": "51240",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51245": {
     "ItemLevel": "277",
@@ -12215,7 +12215,7 @@
     },
     "Name": "Sanctified Frost Witch's Spaulders",
     "Id": "51245",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51254": {
     "ItemLevel": "277",
@@ -12242,7 +12242,7 @@
     },
     "Name": "Sanctified Shadowblade Pauldrons",
     "Id": "51254",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51257": {
     "ItemLevel": "277",
@@ -12269,7 +12269,7 @@
     },
     "Name": "Sanctified Crimson Acolyte Mantle",
     "Id": "51257",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51264": {
     "ItemLevel": "277",
@@ -12296,7 +12296,7 @@
     },
     "Name": "Sanctified Crimson Acolyte Shoulderpads",
     "Id": "51264",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51269": {
     "ItemLevel": "277",
@@ -12323,7 +12323,7 @@
     },
     "Name": "Sanctified Lightsworn Shoulderguards",
     "Id": "51269",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51273": {
     "ItemLevel": "277",
@@ -12350,7 +12350,7 @@
     },
     "Name": "Sanctified Lightsworn Spaulders",
     "Id": "51273",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51279": {
     "ItemLevel": "277",
@@ -12376,7 +12376,7 @@
     },
     "Name": "Sanctified Lightsworn Shoulderplates",
     "Id": "51279",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51284": {
     "ItemLevel": "277",
@@ -12403,7 +12403,7 @@
     },
     "Name": "Sanctified Bloodmage Shoulderpads",
     "Id": "51284",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51288": {
     "ItemLevel": "277",
@@ -12431,7 +12431,7 @@
     },
     "Name": "Sanctified Ahn'Kahar Blood Hunter's Spaulders",
     "Id": "51288",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51292": {
     "ItemLevel": "277",
@@ -12458,7 +12458,7 @@
     },
     "Name": "Sanctified Lasherweave Mantle",
     "Id": "51292",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51299": {
     "ItemLevel": "277",
@@ -12485,7 +12485,7 @@
     },
     "Name": "Sanctified Lasherweave Shoulderpads",
     "Id": "51299",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51304": {
     "ItemLevel": "277",
@@ -12512,7 +12512,7 @@
     },
     "Name": "Sanctified Lasherweave Pauldrons",
     "Id": "51304",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51309": {
     "ItemLevel": "277",
@@ -12539,7 +12539,7 @@
     },
     "Name": "Sanctified Scourgelord Pauldrons",
     "Id": "51309",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51314": {
     "ItemLevel": "277",
@@ -12565,7 +12565,7 @@
     },
     "Name": "Sanctified Scourgelord Shoulderplates",
     "Id": "51314",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51383": {
     "ItemLevel": "251",
@@ -12591,7 +12591,7 @@
     },
     "Name": "Spaulders of the Blood Princes",
     "Id": "51383",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51418": {
     "ItemLevel": "270",
@@ -12617,7 +12617,7 @@
     },
     "Name": "Wrathful Gladiator's Dreadplate Shoulders",
     "Id": "51418",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51424": {
     "ItemLevel": "270",
@@ -12642,7 +12642,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Kodohide Spaulders",
     "Id": "51424",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51430": {
     "ItemLevel": "270",
@@ -12669,7 +12669,7 @@
     },
     "Name": "Wrathful Gladiator's Dragonhide Spaulders",
     "Id": "51430",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51438": {
     "ItemLevel": "270",
@@ -12694,7 +12694,7 @@
     "SocketBonus": "none",
     "Name": "Wrathful Gladiator's Wyrmhide Spaulders",
     "Id": "51438",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51462": {
     "ItemLevel": "270",
@@ -12722,7 +12722,7 @@
     },
     "Name": "Wrathful Gladiator's Chain Spaulders",
     "Id": "51462",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51467": {
     "ItemLevel": "270",
@@ -12749,7 +12749,7 @@
     },
     "Name": "Wrathful Gladiator's Silk Amice",
     "Id": "51467",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51473": {
     "ItemLevel": "270",
@@ -12776,7 +12776,7 @@
     },
     "Name": "Wrathful Gladiator's Ornamented Spaulders",
     "Id": "51473",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51479": {
     "ItemLevel": "270",
@@ -12802,7 +12802,7 @@
     },
     "Name": "Wrathful Gladiator's Scaled Shoulders",
     "Id": "51479",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51486": {
     "ItemLevel": "270",
@@ -12829,7 +12829,7 @@
     },
     "Name": "Wrathful Gladiator's Mooncloth Mantle",
     "Id": "51486",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51491": {
     "ItemLevel": "270",
@@ -12856,7 +12856,7 @@
     },
     "Name": "Wrathful Gladiator's Satin Mantle",
     "Id": "51491",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51496": {
     "ItemLevel": "270",
@@ -12883,7 +12883,7 @@
     },
     "Name": "Wrathful Gladiator's Leather Spaulders",
     "Id": "51496",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51502": {
     "ItemLevel": "270",
@@ -12910,7 +12910,7 @@
     },
     "Name": "Wrathful Gladiator's Ringmail Spaulders",
     "Id": "51502",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51508": {
     "ItemLevel": "270",
@@ -12938,7 +12938,7 @@
     },
     "Name": "Wrathful Gladiator's Linked Spaulders",
     "Id": "51508",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51514": {
     "ItemLevel": "270",
@@ -12965,7 +12965,7 @@
     },
     "Name": "Wrathful Gladiator's Mail Spaulders",
     "Id": "51514",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51540": {
     "ItemLevel": "270",
@@ -12992,7 +12992,7 @@
     },
     "Name": "Wrathful Gladiator's Felweave Amice",
     "Id": "51540",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51545": {
     "ItemLevel": "270",
@@ -13018,7 +13018,7 @@
     },
     "Name": "Wrathful Gladiator's Plate Shoulders",
     "Id": "51545",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51552": {
     "ItemLevel": "251",
@@ -13044,7 +13044,7 @@
     },
     "Name": "Shoulderpads of the Searing Kiss",
     "Id": "51552",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51565": {
     "ItemLevel": "251",
@@ -13070,7 +13070,7 @@
     },
     "Name": "Skinned Whelp Shoulders",
     "Id": "51565",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51586": {
     "ItemLevel": "251",
@@ -13096,7 +13096,7 @@
     },
     "Name": "Emerald Saint's Spaulders",
     "Id": "51586",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51792": {
     "ItemLevel": "251",
@@ -13122,7 +13122,7 @@
     },
     "Name": "Shoulderguards of Crystalline Bone",
     "Id": "51792",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51811": {
     "ItemLevel": "264",
@@ -13148,7 +13148,7 @@
     },
     "Name": "Shoulderguards of Crystalline Bone",
     "Id": "51811",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51824": {
     "ItemLevel": "264",
@@ -13174,7 +13174,7 @@
     },
     "Name": "Emerald Saint's Spaulders",
     "Id": "51824",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51830": {
     "ItemLevel": "264",
@@ -13200,7 +13200,7 @@
     },
     "Name": "Skinned Whelp Shoulders",
     "Id": "51830",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51839": {
     "ItemLevel": "264",
@@ -13226,7 +13226,7 @@
     },
     "Name": "Shoulderpads of the Searing Kiss",
     "Id": "51839",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51847": {
     "ItemLevel": "264",
@@ -13252,7 +13252,7 @@
     },
     "Name": "Spaulders of the Blood Princes",
     "Id": "51847",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51859": {
     "ItemLevel": "264",
@@ -13278,7 +13278,7 @@
     },
     "Name": "Shoulders of Ruinous Senility",
     "Id": "51859",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51864": {
     "ItemLevel": "264",
@@ -13305,7 +13305,7 @@
     },
     "Name": "Shoulderpads of the Morbid Ritual",
     "Id": "51864",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51865": {
     "ItemLevel": "264",
@@ -13330,7 +13330,7 @@
     },
     "Name": "Scalpel-Sharpening Shoulderguards",
     "Id": "51865",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51883": {
     "ItemLevel": "264",
@@ -13356,7 +13356,7 @@
     },
     "Name": "Bloodstained Surgeon's Shoulderguards",
     "Id": "51883",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "51911": {
     "ItemLevel": "264",
@@ -13383,7 +13383,7 @@
     },
     "Name": "Pauldrons of Lost Hope",
     "Id": "51911",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "53113": {
     "ItemLevel": "258",
@@ -13409,7 +13409,7 @@
     },
     "Name": "Twilight Scale Shoulders",
     "Id": "53113",
-    "Slot": "Shoulders"
+    "Slot": 3
   },
   "54566": {
     "ItemLevel": "271",
@@ -13436,6 +13436,6 @@
     },
     "Name": "Twilight Scale Shoulders",
     "Id": "54566",
-    "Slot": "Shoulders"
+    "Slot": 3
   }
 }

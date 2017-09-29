@@ -21,7 +21,7 @@
     },
     "Name": "Girdle of Ice",
     "Id": "37152",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "37171": {
     "ItemLevel": "200",
@@ -44,7 +44,7 @@
     },
     "Name": "Flame-Bathed Steel Girdle",
     "Id": "37171",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "37178": {
     "ItemLevel": "200",
@@ -67,7 +67,7 @@
     },
     "Name": "Strategist's Belt",
     "Id": "37178",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "37194": {
     "ItemLevel": "200",
@@ -91,7 +91,7 @@
     },
     "Name": "Sharp-Barbed Leather Belt",
     "Id": "37194",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "37241": {
     "ItemLevel": "200",
@@ -112,7 +112,7 @@
     "SocketBonus": "none",
     "Name": "Ancient Aligned Girdle",
     "Id": "37241",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "37242": {
     "ItemLevel": "200",
@@ -133,7 +133,7 @@
     "SocketBonus": "none",
     "Name": "Sash of the Servant",
     "Id": "37242",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "37243": {
     "ItemLevel": "200",
@@ -157,7 +157,7 @@
     },
     "Name": "Treasure Seeker's Belt",
     "Id": "37243",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "37289": {
     "ItemLevel": "200",
@@ -178,7 +178,7 @@
     "SocketBonus": "none",
     "Name": "Sash of Phantasmal Images",
     "Id": "37289",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "37379": {
     "ItemLevel": "200",
@@ -202,7 +202,7 @@
     },
     "Name": "Skadi's Iron Belt",
     "Id": "37379",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "37407": {
     "ItemLevel": "200",
@@ -224,7 +224,7 @@
     "SocketBonus": "none",
     "Name": "Sovereign's Belt",
     "Id": "37407",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "37408": {
     "ItemLevel": "200",
@@ -246,7 +246,7 @@
     "SocketBonus": "none",
     "Name": "Girdle of Bane",
     "Id": "37408",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "37628": {
     "ItemLevel": "200",
@@ -267,7 +267,7 @@
     "SocketBonus": "none",
     "Name": "Slad'ran's Coiled Cord",
     "Id": "37628",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "37637": {
     "ItemLevel": "200",
@@ -291,7 +291,7 @@
     },
     "Name": "Living Mojo Belt",
     "Id": "37637",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "37643": {
     "ItemLevel": "200",
@@ -312,7 +312,7 @@
     "SocketBonus": "none",
     "Name": "Sash of Blood Removal",
     "Id": "37643",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "37648": {
     "ItemLevel": "200",
@@ -337,7 +337,7 @@
     },
     "Name": "Belt of Tasseled Lanterns",
     "Id": "37648",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "37670": {
     "ItemLevel": "200",
@@ -358,7 +358,7 @@
     "SocketBonus": "none",
     "Name": "Sjonnir's Girdle",
     "Id": "37670",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "37680": {
     "ItemLevel": "200",
@@ -379,7 +379,7 @@
     "SocketBonus": "none",
     "Name": "Belt of Unified Souls",
     "Id": "37680",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "37714": {
     "ItemLevel": "200",
@@ -400,7 +400,7 @@
     "SocketBonus": "none",
     "Name": "Batrider's Cord",
     "Id": "37714",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "37801": {
     "ItemLevel": "200",
@@ -421,7 +421,7 @@
     "SocketBonus": "none",
     "Name": "Waistguard of the Risen Knight",
     "Id": "37801",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "37826": {
     "ItemLevel": "200",
@@ -442,7 +442,7 @@
     "SocketBonus": "none",
     "Name": "The General's Steel Girdle",
     "Id": "37826",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "37842": {
     "ItemLevel": "200",
@@ -463,7 +463,7 @@
     "SocketBonus": "none",
     "Name": "Belt of Vivacity",
     "Id": "37842",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "37845": {
     "ItemLevel": "200",
@@ -485,7 +485,7 @@
     "SocketBonus": "none",
     "Name": "Cord of Swirling Winds",
     "Id": "37845",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "37850": {
     "ItemLevel": "200",
@@ -510,7 +510,7 @@
     },
     "Name": "Flowing Sash of Order",
     "Id": "37850",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "37855": {
     "ItemLevel": "200",
@@ -532,7 +532,7 @@
     "SocketBonus": "none",
     "Name": "Mail Girdle of the Audient Earth",
     "Id": "37855",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "37868": {
     "ItemLevel": "200",
@@ -556,7 +556,7 @@
     },
     "Name": "Girdle of the Ethereal",
     "Id": "37868",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "38616": {
     "ItemLevel": "200",
@@ -577,7 +577,7 @@
     "SocketBonus": "none",
     "Name": "Maiden's Girdle",
     "Id": "38616",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "39190": {
     "ItemLevel": "200",
@@ -599,7 +599,7 @@
     "SocketBonus": "none",
     "Name": "Agonal Sash",
     "Id": "39190",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "39216": {
     "ItemLevel": "200",
@@ -621,7 +621,7 @@
     "SocketBonus": "none",
     "Name": "Sash of Mortal Desire",
     "Id": "39216",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "39251": {
     "ItemLevel": "200",
@@ -644,7 +644,7 @@
     "SocketBonus": "none",
     "Name": "Necrogenic Belt",
     "Id": "39251",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "39261": {
     "ItemLevel": "200",
@@ -666,7 +666,7 @@
     "SocketBonus": "none",
     "Name": "Tainted Girdle of Mending",
     "Id": "39261",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "39279": {
     "ItemLevel": "200",
@@ -688,7 +688,7 @@
     "SocketBonus": "none",
     "Name": "Blistered Belt of Decay",
     "Id": "39279",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "39298": {
     "ItemLevel": "200",
@@ -710,7 +710,7 @@
     "SocketBonus": "none",
     "Name": "Waistguard of the Tutor",
     "Id": "39298",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "39308": {
     "ItemLevel": "200",
@@ -732,7 +732,7 @@
     "SocketBonus": "none",
     "Name": "Girdle of Lenience",
     "Id": "39308",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "39345": {
     "ItemLevel": "200",
@@ -753,7 +753,7 @@
     "SocketBonus": "none",
     "Name": "Girdle of the Ascended Phantom",
     "Id": "39345",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "39379": {
     "ItemLevel": "200",
@@ -776,7 +776,7 @@
     "SocketBonus": "none",
     "Name": "Spectral Rider's Girdle",
     "Id": "39379",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "39721": {
     "ItemLevel": "213",
@@ -798,7 +798,7 @@
     "SocketBonus": "none",
     "Name": "Sash of the Parlor",
     "Id": "39721",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "39735": {
     "ItemLevel": "213",
@@ -820,7 +820,7 @@
     "SocketBonus": "none",
     "Name": "Belt of False Dignity",
     "Id": "39735",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "39759": {
     "ItemLevel": "213",
@@ -845,7 +845,7 @@
     },
     "Name": "Ablative Chitin Girdle",
     "Id": "39759",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "39762": {
     "ItemLevel": "213",
@@ -868,7 +868,7 @@
     "SocketBonus": "none",
     "Name": "Torn Web Wrapping",
     "Id": "39762",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "40200": {
     "ItemLevel": "213",
@@ -890,7 +890,7 @@
     "SocketBonus": "none",
     "Name": "Belt of Potent Chanting",
     "Id": "40200",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "40205": {
     "ItemLevel": "213",
@@ -912,7 +912,7 @@
     "SocketBonus": "none",
     "Name": "Stalk-Skin Belt",
     "Id": "40205",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "40241": {
     "ItemLevel": "213",
@@ -934,7 +934,7 @@
     "SocketBonus": "none",
     "Name": "Girdle of Unity",
     "Id": "40241",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "40259": {
     "ItemLevel": "213",
@@ -956,7 +956,7 @@
     "SocketBonus": "none",
     "Name": "Waistguard of Divine Grace",
     "Id": "40259",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "40260": {
     "ItemLevel": "213",
@@ -978,7 +978,7 @@
     "SocketBonus": "none",
     "Name": "Belt of the Tortured",
     "Id": "40260",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "40263": {
     "ItemLevel": "213",
@@ -1000,7 +1000,7 @@
     "SocketBonus": "none",
     "Name": "Fleshless Girdle",
     "Id": "40263",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "40271": {
     "ItemLevel": "213",
@@ -1025,7 +1025,7 @@
     },
     "Name": "Sash of Solitude",
     "Id": "40271",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "40272": {
     "ItemLevel": "213",
@@ -1048,7 +1048,7 @@
     "SocketBonus": "none",
     "Name": "Girdle of the Gambit",
     "Id": "40272",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "40275": {
     "ItemLevel": "213",
@@ -1071,7 +1071,7 @@
     "SocketBonus": "none",
     "Name": "Depraved Linked Belt",
     "Id": "40275",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "40278": {
     "ItemLevel": "213",
@@ -1095,7 +1095,7 @@
     },
     "Name": "Girdle of Chivalry",
     "Id": "40278",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "40301": {
     "ItemLevel": "213",
@@ -1117,7 +1117,7 @@
     "SocketBonus": "none",
     "Name": "Cincture of Polarity",
     "Id": "40301",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "40317": {
     "ItemLevel": "213",
@@ -1138,7 +1138,7 @@
     "SocketBonus": "none",
     "Name": "Girdle of Razuvious",
     "Id": "40317",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "40327": {
     "ItemLevel": "213",
@@ -1161,7 +1161,7 @@
     "SocketBonus": "none",
     "Name": "Girdle of Recuperation",
     "Id": "40327",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "40341": {
     "ItemLevel": "213",
@@ -1183,7 +1183,7 @@
     "SocketBonus": "none",
     "Name": "Shackled Cinch",
     "Id": "40341",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "40561": {
     "ItemLevel": "226",
@@ -1205,7 +1205,7 @@
     "SocketBonus": "none",
     "Name": "Leash of Heedless Magic",
     "Id": "40561",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "40566": {
     "ItemLevel": "226",
@@ -1227,7 +1227,7 @@
     "SocketBonus": "none",
     "Name": "Unravelling Strands of Sanity",
     "Id": "40566",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "40688": {
     "ItemLevel": "200",
@@ -1251,7 +1251,7 @@
     },
     "Name": "Verdungo's Barbarian Cord",
     "Id": "40688",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "40689": {
     "ItemLevel": "200",
@@ -1276,7 +1276,7 @@
     },
     "Name": "Waistguard of Living Iron",
     "Id": "40689",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "40691": {
     "ItemLevel": "200",
@@ -1301,7 +1301,7 @@
     },
     "Name": "Magroth's Meditative Cincture",
     "Id": "40691",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "40692": {
     "ItemLevel": "200",
@@ -1327,7 +1327,7 @@
     },
     "Name": "Vereesa's Silver Chain Belt",
     "Id": "40692",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "40693": {
     "ItemLevel": "200",
@@ -1353,7 +1353,7 @@
     },
     "Name": "Beadwork Belt of Shamanic Vision",
     "Id": "40693",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "40694": {
     "ItemLevel": "200",
@@ -1378,7 +1378,7 @@
     },
     "Name": "Jorach's Crocolisk Skin Belt",
     "Id": "40694",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "40695": {
     "ItemLevel": "200",
@@ -1403,7 +1403,7 @@
     },
     "Name": "Vine Belt of the Woodland Dryad",
     "Id": "40695",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "40696": {
     "ItemLevel": "200",
@@ -1428,7 +1428,7 @@
     },
     "Name": "Plush Sash of Guzbah",
     "Id": "40696",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "40697": {
     "ItemLevel": "200",
@@ -1453,7 +1453,7 @@
     },
     "Name": "Elegant Temple Gardens' Girdle",
     "Id": "40697",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "40879": {
     "ItemLevel": "213",
@@ -1478,7 +1478,7 @@
     },
     "Name": "Deadly Gladiator's Girdle of Triumph",
     "Id": "40879",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "40881": {
     "ItemLevel": "226",
@@ -1503,7 +1503,7 @@
     },
     "Name": "Furious Gladiator's Girdle of Triumph",
     "Id": "40881",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "40883": {
     "ItemLevel": "245",
@@ -1528,7 +1528,7 @@
     },
     "Name": "Relentless Gladiator's Girdle of Triumph",
     "Id": "40883",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "40974": {
     "ItemLevel": "213",
@@ -1554,7 +1554,7 @@
     },
     "Name": "Deadly Gladiator's Girdle of Salvation",
     "Id": "40974",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "40976": {
     "ItemLevel": "226",
@@ -1580,7 +1580,7 @@
     },
     "Name": "Furious Gladiator's Girdle of Salvation",
     "Id": "40976",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "40978": {
     "ItemLevel": "245",
@@ -1606,7 +1606,7 @@
     },
     "Name": "Relentless Gladiator's Girdle of Salvation",
     "Id": "40978",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "41048": {
     "ItemLevel": "213",
@@ -1632,7 +1632,7 @@
     },
     "Name": "Deadly Gladiator's Waistguard of Salvation",
     "Id": "41048",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "41051": {
     "ItemLevel": "226",
@@ -1658,7 +1658,7 @@
     },
     "Name": "Furious Gladiator's Waistguard of Salvation",
     "Id": "41051",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "41052": {
     "ItemLevel": "245",
@@ -1684,7 +1684,7 @@
     },
     "Name": "Relentless Gladiator's Waistguard of Salvation",
     "Id": "41052",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "41069": {
     "ItemLevel": "213",
@@ -1710,7 +1710,7 @@
     },
     "Name": "Deadly Gladiator's Waistguard of Dominance",
     "Id": "41069",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "41070": {
     "ItemLevel": "226",
@@ -1736,7 +1736,7 @@
     },
     "Name": "Furious Gladiator's Waistguard of Dominance",
     "Id": "41070",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "41071": {
     "ItemLevel": "245",
@@ -1762,7 +1762,7 @@
     },
     "Name": "Relentless Gladiator's Waistguard of Dominance",
     "Id": "41071",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "41234": {
     "ItemLevel": "213",
@@ -1789,7 +1789,7 @@
     },
     "Name": "Deadly Gladiator's Waistguard of Triumph",
     "Id": "41234",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "41235": {
     "ItemLevel": "226",
@@ -1816,7 +1816,7 @@
     },
     "Name": "Furious Gladiator's Waistguard of Triumph",
     "Id": "41235",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "41236": {
     "ItemLevel": "245",
@@ -1843,7 +1843,7 @@
     },
     "Name": "Relentless Gladiator's Waistguard of Triumph",
     "Id": "41236",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "41616": {
     "ItemLevel": "213",
@@ -1869,7 +1869,7 @@
     },
     "Name": "Deadly Gladiator's Belt of Salvation",
     "Id": "41616",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "41617": {
     "ItemLevel": "226",
@@ -1895,7 +1895,7 @@
     },
     "Name": "Furious Gladiator's Belt of Salvation",
     "Id": "41617",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "41618": {
     "ItemLevel": "245",
@@ -1921,7 +1921,7 @@
     },
     "Name": "Relentless Gladiator's Belt of Salvation",
     "Id": "41618",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "41629": {
     "ItemLevel": "213",
@@ -1947,7 +1947,7 @@
     },
     "Name": "Deadly Gladiator's Belt of Dominance",
     "Id": "41629",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "41630": {
     "ItemLevel": "226",
@@ -1973,7 +1973,7 @@
     },
     "Name": "Furious Gladiator's Belt of Dominance",
     "Id": "41630",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "41631": {
     "ItemLevel": "245",
@@ -1999,7 +1999,7 @@
     },
     "Name": "Relentless Gladiator's Belt of Dominance",
     "Id": "41631",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "41831": {
     "ItemLevel": "213",
@@ -2025,7 +2025,7 @@
     },
     "Name": "Deadly Gladiator's Belt of Triumph",
     "Id": "41831",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "41832": {
     "ItemLevel": "226",
@@ -2051,7 +2051,7 @@
     },
     "Name": "Furious Gladiator's Belt of Triumph",
     "Id": "41832",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "41833": {
     "ItemLevel": "245",
@@ -2077,7 +2077,7 @@
     },
     "Name": "Relentless Gladiator's Belt of Triumph",
     "Id": "41833",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "41880": {
     "ItemLevel": "213",
@@ -2103,7 +2103,7 @@
     },
     "Name": "Deadly Gladiator's Cord of Salvation",
     "Id": "41880",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "41881": {
     "ItemLevel": "226",
@@ -2129,7 +2129,7 @@
     },
     "Name": "Furious Gladiator's Cord of Salvation",
     "Id": "41881",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "41882": {
     "ItemLevel": "245",
@@ -2155,7 +2155,7 @@
     },
     "Name": "Relentless Gladiator's Cord of Salvation",
     "Id": "41882",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "41897": {
     "ItemLevel": "213",
@@ -2181,7 +2181,7 @@
     },
     "Name": "Deadly Gladiator's Cord of Dominance",
     "Id": "41897",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "41898": {
     "ItemLevel": "226",
@@ -2207,7 +2207,7 @@
     },
     "Name": "Furious Gladiator's Cord of Dominance",
     "Id": "41898",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "41899": {
     "ItemLevel": "245",
@@ -2233,7 +2233,7 @@
     },
     "Name": "Relentless Gladiator's Cord of Dominance",
     "Id": "41899",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "43484": {
     "ItemLevel": "200",
@@ -2254,7 +2254,7 @@
     "SocketBonus": "none",
     "Name": "Trollwoven Girdle",
     "Id": "43484",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "43584": {
     "ItemLevel": "213",
@@ -2277,7 +2277,7 @@
     },
     "Name": "Glacial Waistband",
     "Id": "43584",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "43587": {
     "ItemLevel": "213",
@@ -2300,7 +2300,7 @@
     },
     "Name": "Icebane Girdle",
     "Id": "43587",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "43591": {
     "ItemLevel": "213",
@@ -2323,7 +2323,7 @@
     },
     "Name": "Polar Cord",
     "Id": "43591",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "43594": {
     "ItemLevel": "213",
@@ -2346,7 +2346,7 @@
     },
     "Name": "Icy Scale Belt",
     "Id": "43594",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "43989": {
     "ItemLevel": "200",
@@ -2371,7 +2371,7 @@
     },
     "Name": "Remembrance Girdle",
     "Id": "43989",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "44176": {
     "ItemLevel": "200",
@@ -2395,7 +2395,7 @@
     },
     "Name": "Girdle of the Warrior Magi",
     "Id": "44176",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "44181": {
     "ItemLevel": "200",
@@ -2419,7 +2419,7 @@
     },
     "Name": "Ghostflicker Waistband",
     "Id": "44181",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "44302": {
     "ItemLevel": "200",
@@ -2440,7 +2440,7 @@
     "SocketBonus": "none",
     "Name": "Belt of Dark Mending",
     "Id": "44302",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "44309": {
     "ItemLevel": "200",
@@ -2464,7 +2464,7 @@
     },
     "Name": "Sash of Jordan",
     "Id": "44309",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45119": {
     "ItemLevel": "226",
@@ -2486,7 +2486,7 @@
     "SocketBonus": "none",
     "Name": "Embrace of the Leviathan",
     "Id": "45119",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45139": {
     "ItemLevel": "226",
@@ -2508,7 +2508,7 @@
     "SocketBonus": "none",
     "Name": "Dragonslayer's Brace",
     "Id": "45139",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45151": {
     "ItemLevel": "226",
@@ -2531,7 +2531,7 @@
     "SocketBonus": "none",
     "Name": "Belt of the Fallen Wyrm",
     "Id": "45151",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45156": {
     "ItemLevel": "200",
@@ -2555,7 +2555,7 @@
     },
     "Name": "Sash of Shattering Hearts",
     "Id": "45156",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45160": {
     "ItemLevel": "200",
@@ -2578,7 +2578,7 @@
     },
     "Name": "Girdle of Valorous Defeat",
     "Id": "45160",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45161": {
     "ItemLevel": "226",
@@ -2599,7 +2599,7 @@
     "SocketBonus": "none",
     "Name": "Girdle of Embers",
     "Id": "45161",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45181": {
     "ItemLevel": "200",
@@ -2620,7 +2620,7 @@
     "SocketBonus": "none",
     "Name": "Wrap of the Everliving Tree",
     "Id": "45181",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45184": {
     "ItemLevel": "200",
@@ -2642,7 +2642,7 @@
     "SocketBonus": "none",
     "Name": "Cinch of Bonded Servitude",
     "Id": "45184",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45185": {
     "ItemLevel": "226",
@@ -2664,7 +2664,7 @@
     "SocketBonus": "none",
     "Name": "Flamewrought Cinch",
     "Id": "45185",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45209": {
     "ItemLevel": "200",
@@ -2688,7 +2688,7 @@
     },
     "Name": "Sash of Trumpted Pride",
     "Id": "45209",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45211": {
     "ItemLevel": "200",
@@ -2709,7 +2709,7 @@
     "SocketBonus": "none",
     "Name": "Waistguard of Equine Fury",
     "Id": "45211",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45215": {
     "ItemLevel": "200",
@@ -2731,7 +2731,7 @@
     "SocketBonus": "none",
     "Name": "Links of Unquenched Savagery",
     "Id": "45215",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45217": {
     "ItemLevel": "200",
@@ -2754,7 +2754,7 @@
     },
     "Name": "Clinch of Savage Fury",
     "Id": "45217",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45241": {
     "ItemLevel": "239",
@@ -2779,7 +2779,7 @@
     },
     "Name": "Belt of Colossal Rage",
     "Id": "45241",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45304": {
     "ItemLevel": "219",
@@ -2801,7 +2801,7 @@
     "SocketBonus": "none",
     "Name": "Stormtempered Girdle",
     "Id": "45304",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45306": {
     "ItemLevel": "219",
@@ -2823,7 +2823,7 @@
     "SocketBonus": "none",
     "Name": "Binding of the Dragon Matriarch",
     "Id": "45306",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45333": {
     "ItemLevel": "219",
@@ -2846,7 +2846,7 @@
     "SocketBonus": "none",
     "Name": "Belt of the Iron Servant",
     "Id": "45333",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45455": {
     "ItemLevel": "226",
@@ -2871,7 +2871,7 @@
     },
     "Name": "Belt of the Crystal Tree",
     "Id": "45455",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45467": {
     "ItemLevel": "226",
@@ -2894,7 +2894,7 @@
     "SocketBonus": "none",
     "Name": "Belt of the Betrayed",
     "Id": "45467",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45491": {
     "ItemLevel": "226",
@@ -2919,7 +2919,7 @@
     },
     "Name": "Waistguard of the Creator",
     "Id": "45491",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45505": {
     "ItemLevel": "226",
@@ -2941,7 +2941,7 @@
     "SocketBonus": "none",
     "Name": "Belt of Clinging Hope",
     "Id": "45505",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45508": {
     "ItemLevel": "226",
@@ -2966,7 +2966,7 @@
     },
     "Name": "Belt of the Darkspeaker",
     "Id": "45508",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45547": {
     "ItemLevel": "226",
@@ -2988,7 +2988,7 @@
     "SocketBonus": "none",
     "Name": "Relic Hunter's Cord",
     "Id": "45547",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45548": {
     "ItemLevel": "226",
@@ -3010,7 +3010,7 @@
     "SocketBonus": "none",
     "Name": "Belt of the Sleeper",
     "Id": "45548",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45550": {
     "ItemLevel": "226",
@@ -3035,7 +3035,7 @@
     },
     "Name": "Belt of the Titans",
     "Id": "45550",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45551": {
     "ItemLevel": "226",
@@ -3061,7 +3061,7 @@
     },
     "Name": "Indestructible Plate Girdle",
     "Id": "45551",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45552": {
     "ItemLevel": "226",
@@ -3087,7 +3087,7 @@
     },
     "Name": "Plate Girdle of Righteousness",
     "Id": "45552",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45553": {
     "ItemLevel": "226",
@@ -3114,7 +3114,7 @@
     },
     "Name": "Belt of Dragons",
     "Id": "45553",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45554": {
     "ItemLevel": "226",
@@ -3140,7 +3140,7 @@
     },
     "Name": "Blue Belt of Chaos",
     "Id": "45554",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45555": {
     "ItemLevel": "226",
@@ -3166,7 +3166,7 @@
     },
     "Name": "Death-warmed Belt",
     "Id": "45555",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45556": {
     "ItemLevel": "226",
@@ -3192,7 +3192,7 @@
     },
     "Name": "Belt of Arctic Life",
     "Id": "45556",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45557": {
     "ItemLevel": "226",
@@ -3218,7 +3218,7 @@
     },
     "Name": "Sash of Ancient Power",
     "Id": "45557",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45558": {
     "ItemLevel": "226",
@@ -3244,7 +3244,7 @@
     },
     "Name": "Cord of the White Dawn",
     "Id": "45558",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45616": {
     "ItemLevel": "239",
@@ -3270,7 +3270,7 @@
     },
     "Name": "Star-beaded Clutch",
     "Id": "45616",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45619": {
     "ItemLevel": "239",
@@ -3296,7 +3296,7 @@
     },
     "Name": "Starwatcher's Binding",
     "Id": "45619",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45694": {
     "ItemLevel": "219",
@@ -3318,7 +3318,7 @@
     "SocketBonus": "none",
     "Name": "Conductive Cord",
     "Id": "45694",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45709": {
     "ItemLevel": "219",
@@ -3340,7 +3340,7 @@
     "SocketBonus": "none",
     "Name": "Nimble Climber's Belt",
     "Id": "45709",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45824": {
     "ItemLevel": "226",
@@ -3361,7 +3361,7 @@
     "SocketBonus": "none",
     "Name": "Belt of the Singing Blade",
     "Id": "45824",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45825": {
     "ItemLevel": "226",
@@ -3383,7 +3383,7 @@
     "SocketBonus": "none",
     "Name": "Shieldwarder Girdle",
     "Id": "45825",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45826": {
     "ItemLevel": "226",
@@ -3405,7 +3405,7 @@
     "SocketBonus": "none",
     "Name": "Girdle of Unyielding Trust",
     "Id": "45826",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45827": {
     "ItemLevel": "226",
@@ -3428,7 +3428,7 @@
     "SocketBonus": "none",
     "Name": "Belt of the Ardent Marksman",
     "Id": "45827",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45828": {
     "ItemLevel": "226",
@@ -3451,7 +3451,7 @@
     "SocketBonus": "none",
     "Name": "Windchill Binding",
     "Id": "45828",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45829": {
     "ItemLevel": "226",
@@ -3473,7 +3473,7 @@
     "SocketBonus": "none",
     "Name": "Belt of the Twilight Assassin",
     "Id": "45829",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45830": {
     "ItemLevel": "226",
@@ -3495,7 +3495,7 @@
     "SocketBonus": "none",
     "Name": "Belt of the Living Thicket",
     "Id": "45830",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45831": {
     "ItemLevel": "226",
@@ -3517,7 +3517,7 @@
     "SocketBonus": "none",
     "Name": "Sash of Potent Incantations",
     "Id": "45831",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45895": {
     "ItemLevel": "219",
@@ -3540,7 +3540,7 @@
     "SocketBonus": "none",
     "Name": "Belt of the Blood Pit",
     "Id": "45895",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "45975": {
     "ItemLevel": "219",
@@ -3562,7 +3562,7 @@
     "SocketBonus": "none",
     "Name": "Cable of the Metrognome",
     "Id": "45975",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "46041": {
     "ItemLevel": "226",
@@ -3587,7 +3587,7 @@
     },
     "Name": "Starfall Girdle",
     "Id": "46041",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "46071": {
     "ItemLevel": "213",
@@ -3613,7 +3613,7 @@
     },
     "Name": "Titan-Forged Girdle of Salvation",
     "Id": "46071",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "46072": {
     "ItemLevel": "213",
@@ -3638,7 +3638,7 @@
     },
     "Name": "Titan-Forged Girdle of Triumph",
     "Id": "46072",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "46073": {
     "ItemLevel": "213",
@@ -3664,7 +3664,7 @@
     },
     "Name": "Titan-Forged Waistguard of Dominance",
     "Id": "46073",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "46074": {
     "ItemLevel": "213",
@@ -3690,7 +3690,7 @@
     },
     "Name": "Titan-Forged Waistguard of Salvation",
     "Id": "46074",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "46075": {
     "ItemLevel": "213",
@@ -3717,7 +3717,7 @@
     },
     "Name": "Titan-Forged Waistguard of Triumph",
     "Id": "46075",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "46076": {
     "ItemLevel": "213",
@@ -3743,7 +3743,7 @@
     },
     "Name": "Titan-Forged Belt of Dominance",
     "Id": "46076",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "46077": {
     "ItemLevel": "213",
@@ -3769,7 +3769,7 @@
     },
     "Name": "Titan-Forged Belt of Salvation",
     "Id": "46077",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "46078": {
     "ItemLevel": "213",
@@ -3795,7 +3795,7 @@
     },
     "Name": "Titan-Forged Belt of Triumph",
     "Id": "46078",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "46079": {
     "ItemLevel": "213",
@@ -3821,7 +3821,7 @@
     },
     "Name": "Titan-Forged Cord of Dominance",
     "Id": "46079",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "46080": {
     "ItemLevel": "213",
@@ -3847,7 +3847,7 @@
     },
     "Name": "Titan-Forged Cord of Salvation",
     "Id": "46080",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "46095": {
     "ItemLevel": "226",
@@ -3873,7 +3873,7 @@
     },
     "Name": "Soul-Devouring Cinch",
     "Id": "46095",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "46972": {
     "ItemLevel": "245",
@@ -3898,7 +3898,7 @@
     },
     "Name": "Cord of the Tenebrous Mist",
     "Id": "46972",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "46973": {
     "ItemLevel": "258",
@@ -3924,7 +3924,7 @@
     },
     "Name": "Cord of the Tenebrous Mist",
     "Id": "46973",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "46990": {
     "ItemLevel": "245",
@@ -3950,7 +3950,7 @@
     },
     "Name": "Belt of the Ice Burrower",
     "Id": "46990",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "46991": {
     "ItemLevel": "258",
@@ -3977,7 +3977,7 @@
     },
     "Name": "Belt of the Ice Burrower",
     "Id": "46991",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "46999": {
     "ItemLevel": "245",
@@ -4001,7 +4001,7 @@
     },
     "Name": "Bloodbath Belt",
     "Id": "46999",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47002": {
     "ItemLevel": "258",
@@ -4026,7 +4026,7 @@
     },
     "Name": "Bloodbath Belt",
     "Id": "47002",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47072": {
     "ItemLevel": "245",
@@ -4051,7 +4051,7 @@
     },
     "Name": "Girdle of Bloodied Scars",
     "Id": "47072",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47076": {
     "ItemLevel": "258",
@@ -4077,7 +4077,7 @@
     },
     "Name": "Girdle of Bloodied Scars",
     "Id": "47076",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47081": {
     "ItemLevel": "245",
@@ -4102,7 +4102,7 @@
     },
     "Name": "Cord of Biting Cold",
     "Id": "47081",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47084": {
     "ItemLevel": "258",
@@ -4128,7 +4128,7 @@
     },
     "Name": "Cord of Biting Cold",
     "Id": "47084",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47107": {
     "ItemLevel": "245",
@@ -4153,7 +4153,7 @@
     },
     "Name": "Belt of the Merciless Killer",
     "Id": "47107",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47112": {
     "ItemLevel": "258",
@@ -4179,7 +4179,7 @@
     },
     "Name": "Belt of the Merciless Killer",
     "Id": "47112",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47140": {
     "ItemLevel": "245",
@@ -4204,7 +4204,7 @@
     },
     "Name": "Cord of Pale Thorns",
     "Id": "47140",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47145": {
     "ItemLevel": "258",
@@ -4230,7 +4230,7 @@
     },
     "Name": "Cord of Pale Thorns",
     "Id": "47145",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47152": {
     "ItemLevel": "245",
@@ -4256,7 +4256,7 @@
     },
     "Name": "Belt of Deathly Dominion",
     "Id": "47152",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47153": {
     "ItemLevel": "258",
@@ -4283,7 +4283,7 @@
     },
     "Name": "Belt of Deathly Dominion",
     "Id": "47153",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47170": {
     "ItemLevel": "200",
@@ -4305,7 +4305,7 @@
     "SocketBonus": "none",
     "Name": "Belt of Fierce Competition",
     "Id": "47170",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47174": {
     "ItemLevel": "200",
@@ -4330,7 +4330,7 @@
     },
     "Name": "Binding of the Tranquil Glade",
     "Id": "47174",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47181": {
     "ItemLevel": "200",
@@ -4352,7 +4352,7 @@
     "SocketBonus": "none",
     "Name": "Belt of the Churning Blaze",
     "Id": "47181",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47195": {
     "ItemLevel": "245",
@@ -4377,7 +4377,7 @@
     },
     "Name": "Belt of the Forgotten Martyr",
     "Id": "47195",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47207": {
     "ItemLevel": "258",
@@ -4403,7 +4403,7 @@
     },
     "Name": "Belt of the Forgotten Martyr",
     "Id": "47207",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47218": {
     "ItemLevel": "200",
@@ -4428,7 +4428,7 @@
     },
     "Name": "The Confessor's Binding",
     "Id": "47218",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47227": {
     "ItemLevel": "200",
@@ -4453,7 +4453,7 @@
     },
     "Name": "Girdle of the Pallid Knight",
     "Id": "47227",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47229": {
     "ItemLevel": "200",
@@ -4477,7 +4477,7 @@
     },
     "Name": "Girdle of Arrogant Downfall",
     "Id": "47229",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47231": {
     "ItemLevel": "200",
@@ -4503,7 +4503,7 @@
     },
     "Name": "Belt of Merciless Cruelty",
     "Id": "47231",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47258": {
     "ItemLevel": "245",
@@ -4528,7 +4528,7 @@
     },
     "Name": "Belt of the Tenebrous Mist",
     "Id": "47258",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47265": {
     "ItemLevel": "245",
@@ -4554,7 +4554,7 @@
     },
     "Name": "Binding of the Ice Burrower",
     "Id": "47265",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47268": {
     "ItemLevel": "245",
@@ -4578,7 +4578,7 @@
     },
     "Name": "Bloodbath Girdle",
     "Id": "47268",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47283": {
     "ItemLevel": "245",
@@ -4603,7 +4603,7 @@
     },
     "Name": "Belt of Bloodied Scars",
     "Id": "47283",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47286": {
     "ItemLevel": "245",
@@ -4628,7 +4628,7 @@
     },
     "Name": "Belt of Biting Cold",
     "Id": "47286",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47299": {
     "ItemLevel": "245",
@@ -4653,7 +4653,7 @@
     },
     "Name": "Belt of the Pitiless Killer",
     "Id": "47299",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47308": {
     "ItemLevel": "245",
@@ -4678,7 +4678,7 @@
     },
     "Name": "Belt of Pale Thorns",
     "Id": "47308",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47311": {
     "ItemLevel": "245",
@@ -4704,7 +4704,7 @@
     },
     "Name": "Waistguard of Deathly Dominion",
     "Id": "47311",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47323": {
     "ItemLevel": "245",
@@ -4729,7 +4729,7 @@
     },
     "Name": "Girdle of the Forgotten Martyr",
     "Id": "47323",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47419": {
     "ItemLevel": "258",
@@ -4755,7 +4755,7 @@
     },
     "Name": "Belt of the Tenebrous Mist",
     "Id": "47419",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47426": {
     "ItemLevel": "258",
@@ -4782,7 +4782,7 @@
     },
     "Name": "Binding of the Ice Burrower",
     "Id": "47426",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47429": {
     "ItemLevel": "258",
@@ -4807,7 +4807,7 @@
     },
     "Name": "Bloodbath Girdle",
     "Id": "47429",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47444": {
     "ItemLevel": "258",
@@ -4833,7 +4833,7 @@
     },
     "Name": "Belt of Bloodied Scars",
     "Id": "47444",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47447": {
     "ItemLevel": "258",
@@ -4859,7 +4859,7 @@
     },
     "Name": "Belt of Biting Cold",
     "Id": "47447",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47460": {
     "ItemLevel": "258",
@@ -4885,7 +4885,7 @@
     },
     "Name": "Belt of the Pitiless Killer",
     "Id": "47460",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47469": {
     "ItemLevel": "258",
@@ -4911,7 +4911,7 @@
     },
     "Name": "Belt of Pale Thorns",
     "Id": "47469",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47472": {
     "ItemLevel": "258",
@@ -4938,7 +4938,7 @@
     },
     "Name": "Waistguard of Deathly Dominion",
     "Id": "47472",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47484": {
     "ItemLevel": "258",
@@ -4964,7 +4964,7 @@
     },
     "Name": "Girdle of the Forgotten Martyr",
     "Id": "47484",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47510": {
     "ItemLevel": "219",
@@ -4989,7 +4989,7 @@
     },
     "Name": "Trueheart Girdle",
     "Id": "47510",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47563": {
     "ItemLevel": "219",
@@ -5015,7 +5015,7 @@
     },
     "Name": "Girdle of the Dauntless Conqueror",
     "Id": "47563",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47614": {
     "ItemLevel": "232",
@@ -5039,7 +5039,7 @@
     },
     "Name": "Girdle of the Impaler",
     "Id": "47614",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47615": {
     "ItemLevel": "232",
@@ -5061,7 +5061,7 @@
     "SocketBonus": "none",
     "Name": "Belt of the Frozen Reach",
     "Id": "47615",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47617": {
     "ItemLevel": "232",
@@ -5086,7 +5086,7 @@
     },
     "Name": "Icehowl Cinch",
     "Id": "47617",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47621": {
     "ItemLevel": "232",
@@ -5109,7 +5109,7 @@
     "SocketBonus": "none",
     "Name": "Girdle of the Farseer",
     "Id": "47621",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47669": {
     "ItemLevel": "232",
@@ -5134,7 +5134,7 @@
     },
     "Name": "Belt of the Winter Solstice",
     "Id": "47669",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47711": {
     "ItemLevel": "232",
@@ -5156,7 +5156,7 @@
     "SocketBonus": "none",
     "Name": "Girdle of the Nether Champion",
     "Id": "47711",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47837": {
     "ItemLevel": "232",
@@ -5181,7 +5181,7 @@
     },
     "Name": "Cinch of the Undying",
     "Id": "47837",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47855": {
     "ItemLevel": "232",
@@ -5206,7 +5206,7 @@
     },
     "Name": "Icehowl Binding",
     "Id": "47855",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47858": {
     "ItemLevel": "232",
@@ -5228,7 +5228,7 @@
     "SocketBonus": "none",
     "Name": "Girdle of the Frozen Reach",
     "Id": "47858",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47859": {
     "ItemLevel": "232",
@@ -5252,7 +5252,7 @@
     },
     "Name": "Belt of the Impaler",
     "Id": "47859",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47863": {
     "ItemLevel": "232",
@@ -5277,7 +5277,7 @@
     },
     "Name": "Belt of the Bloodhoof Emissary",
     "Id": "47863",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47866": {
     "ItemLevel": "232",
@@ -5300,7 +5300,7 @@
     "SocketBonus": "none",
     "Name": "Darkspear Ritual Binding",
     "Id": "47866",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47870": {
     "ItemLevel": "232",
@@ -5322,7 +5322,7 @@
     "SocketBonus": "none",
     "Name": "Belt of the Nether Champion",
     "Id": "47870",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47909": {
     "ItemLevel": "232",
@@ -5347,7 +5347,7 @@
     },
     "Name": "Belt of the Eternal",
     "Id": "47909",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47921": {
     "ItemLevel": "245",
@@ -5373,7 +5373,7 @@
     },
     "Name": "Icehowl Cinch",
     "Id": "47921",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47924": {
     "ItemLevel": "245",
@@ -5398,7 +5398,7 @@
     },
     "Name": "Belt of the Frozen Reach",
     "Id": "47924",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47925": {
     "ItemLevel": "245",
@@ -5423,7 +5423,7 @@
     },
     "Name": "Girdle of the Impaler",
     "Id": "47925",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47929": {
     "ItemLevel": "245",
@@ -5449,7 +5449,7 @@
     },
     "Name": "Belt of the Winter Solstice",
     "Id": "47929",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47932": {
     "ItemLevel": "245",
@@ -5475,7 +5475,7 @@
     },
     "Name": "Girdle of the Farseer",
     "Id": "47932",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47937": {
     "ItemLevel": "245",
@@ -5500,7 +5500,7 @@
     },
     "Name": "Girdle of the Nether Champion",
     "Id": "47937",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47977": {
     "ItemLevel": "245",
@@ -5525,7 +5525,7 @@
     },
     "Name": "Cinch of the Undying",
     "Id": "47977",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47994": {
     "ItemLevel": "245",
@@ -5551,7 +5551,7 @@
     },
     "Name": "Icehowl Binding",
     "Id": "47994",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47997": {
     "ItemLevel": "245",
@@ -5576,7 +5576,7 @@
     },
     "Name": "Girdle of the Frozen Reach",
     "Id": "47997",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "47998": {
     "ItemLevel": "245",
@@ -5601,7 +5601,7 @@
     },
     "Name": "Belt of the Impaler",
     "Id": "47998",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "48002": {
     "ItemLevel": "245",
@@ -5627,7 +5627,7 @@
     },
     "Name": "Belt of the Bloodhoof Emissary",
     "Id": "48002",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "48005": {
     "ItemLevel": "245",
@@ -5653,7 +5653,7 @@
     },
     "Name": "Darkspear Ritual Binding",
     "Id": "48005",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "48009": {
     "ItemLevel": "245",
@@ -5678,7 +5678,7 @@
     },
     "Name": "Belt of the Nether Champion",
     "Id": "48009",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "48054": {
     "ItemLevel": "245",
@@ -5703,7 +5703,7 @@
     },
     "Name": "Belt of the Eternal",
     "Id": "48054",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "49179": {
     "ItemLevel": "245",
@@ -5729,7 +5729,7 @@
     },
     "Name": "Relentless Gladiator's Cord of Alacrity",
     "Id": "49179",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "49796": {
     "ItemLevel": "219",
@@ -5751,7 +5751,7 @@
     "SocketBonus": "none",
     "Name": "Essence of Anger",
     "Id": "49796",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "49806": {
     "ItemLevel": "219",
@@ -5776,7 +5776,7 @@
     },
     "Name": "Flayer's Black Belt",
     "Id": "49806",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "49808": {
     "ItemLevel": "219",
@@ -5797,7 +5797,7 @@
     "SocketBonus": "none",
     "Name": "Bent Gold Belt",
     "Id": "49808",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "49810": {
     "ItemLevel": "219",
@@ -5820,7 +5820,7 @@
     "SocketBonus": "none",
     "Name": "Scabrous Zombie Leather Belt",
     "Id": "49810",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "49853": {
     "ItemLevel": "219",
@@ -5842,7 +5842,7 @@
     "SocketBonus": "none",
     "Name": "Titanium Links of Lore",
     "Id": "49853",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "49978": {
     "ItemLevel": "264",
@@ -5868,7 +5868,7 @@
     },
     "Name": "Crushing Coldwraith Belt",
     "Id": "49978",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50010": {
     "ItemLevel": "264",
@@ -5894,7 +5894,7 @@
     },
     "Name": "Waistband of Righteous Fury",
     "Id": "50010",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50015": {
     "ItemLevel": "264",
@@ -5922,7 +5922,7 @@
     "UniqueId": "50671",
     "Name": "Belt of the Blood Nova",
     "Id": "50015",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50036": {
     "ItemLevel": "264",
@@ -5948,7 +5948,7 @@
     },
     "Name": "Belt of Broken Bones",
     "Id": "50036",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50063": {
     "ItemLevel": "264",
@@ -5974,7 +5974,7 @@
     },
     "Name": "Lingering Illness",
     "Id": "50063",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50067": {
     "ItemLevel": "264",
@@ -6000,7 +6000,7 @@
     },
     "Name": "Astrylian's Sutured Cinch",
     "Id": "50067",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50069": {
     "ItemLevel": "264",
@@ -6026,7 +6026,7 @@
     },
     "Name": "Professor's Bloodied Smock",
     "Id": "50069",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50187": {
     "ItemLevel": "264",
@@ -6051,7 +6051,7 @@
     },
     "Name": "Coldwraith Links",
     "Id": "50187",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50263": {
     "ItemLevel": "232",
@@ -6073,7 +6073,7 @@
     "SocketBonus": "none",
     "Name": "Braid of Salt and Fire",
     "Id": "50263",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50270": {
     "ItemLevel": "232",
@@ -6097,7 +6097,7 @@
     "SocketBonus": "none",
     "Name": "Belt of Rotted Fingernails",
     "Id": "50270",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50314": {
     "ItemLevel": "232",
@@ -6119,7 +6119,7 @@
     "SocketBonus": "none",
     "Name": "Strip of Remorse",
     "Id": "50314",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50413": {
     "ItemLevel": "264",
@@ -6146,7 +6146,7 @@
     },
     "Name": "Nerub'ar Stalker's Cord",
     "Id": "50413",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50451": {
     "ItemLevel": "264",
@@ -6172,7 +6172,7 @@
     },
     "Name": "Belt of the Lonely Noble",
     "Id": "50451",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50613": {
     "ItemLevel": "277",
@@ -6198,7 +6198,7 @@
     },
     "Name": "Crushing Coldwraith Belt",
     "Id": "50613",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50620": {
     "ItemLevel": "277",
@@ -6223,7 +6223,7 @@
     },
     "Name": "Coldwraith Links",
     "Id": "50620",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50667": {
     "ItemLevel": "277",
@@ -6249,7 +6249,7 @@
     },
     "Name": "Waistband of Righteous Fury",
     "Id": "50667",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50671": {
     "ItemLevel": "277",
@@ -6277,7 +6277,7 @@
     "UniqueId": "50671",
     "Name": "Belt of the Blood Nova",
     "Id": "50671",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50688": {
     "ItemLevel": "277",
@@ -6304,7 +6304,7 @@
     },
     "Name": "Nerub'ar Stalker's Cord",
     "Id": "50688",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50691": {
     "ItemLevel": "277",
@@ -6330,7 +6330,7 @@
     },
     "Name": "Belt of Broken Bones",
     "Id": "50691",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50702": {
     "ItemLevel": "277",
@@ -6356,7 +6356,7 @@
     },
     "Name": "Lingering Illness",
     "Id": "50702",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50705": {
     "ItemLevel": "277",
@@ -6382,7 +6382,7 @@
     },
     "Name": "Professor's Bloodied Smock",
     "Id": "50705",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50707": {
     "ItemLevel": "277",
@@ -6408,7 +6408,7 @@
     },
     "Name": "Astrylian's Sutured Cinch",
     "Id": "50707",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50762": {
     "ItemLevel": "251",
@@ -6435,7 +6435,7 @@
     },
     "Name": "Linked Scourge Vertebrae",
     "Id": "50762",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50773": {
     "ItemLevel": "251",
@@ -6461,7 +6461,7 @@
     },
     "Name": "Cord of the Patronizing Practitioner",
     "Id": "50773",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50778": {
     "ItemLevel": "251",
@@ -6487,7 +6487,7 @@
     },
     "Name": "Soulthief's Braided Belt",
     "Id": "50778",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50784": {
     "ItemLevel": "251",
@@ -6513,7 +6513,7 @@
     "UniqueId": "51919",
     "Name": "Deathspeaker Disciple's Belt",
     "Id": "50784",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50795": {
     "ItemLevel": "251",
@@ -6539,7 +6539,7 @@
     },
     "Name": "Cord of Dark Suffering",
     "Id": "50795",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50987": {
     "ItemLevel": "264",
@@ -6564,7 +6564,7 @@
     },
     "Name": "Malevolent Girdle",
     "Id": "50987",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50989": {
     "ItemLevel": "264",
@@ -6590,7 +6590,7 @@
     },
     "Name": "Lich Killer's Lanyard",
     "Id": "50989",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50991": {
     "ItemLevel": "264",
@@ -6616,7 +6616,7 @@
     },
     "Name": "Verdigris Chain Belt",
     "Id": "50991",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50992": {
     "ItemLevel": "264",
@@ -6643,7 +6643,7 @@
     },
     "Name": "Waistband of Despair",
     "Id": "50992",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50993": {
     "ItemLevel": "264",
@@ -6670,7 +6670,7 @@
     },
     "Name": "Band of the Night Raven",
     "Id": "50993",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50994": {
     "ItemLevel": "264",
@@ -6696,7 +6696,7 @@
     },
     "Name": "Belt of Petrified Ivy",
     "Id": "50994",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50995": {
     "ItemLevel": "264",
@@ -6722,7 +6722,7 @@
     },
     "Name": "Vengeful Noose",
     "Id": "50995",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50996": {
     "ItemLevel": "264",
@@ -6748,7 +6748,7 @@
     },
     "Name": "Belt of Omission",
     "Id": "50996",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "50997": {
     "ItemLevel": "264",
@@ -6774,7 +6774,7 @@
     },
     "Name": "Circle of Ossus",
     "Id": "50997",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "51000": {
     "ItemLevel": "251",
@@ -6799,7 +6799,7 @@
     },
     "Name": "Flesh-Shaper's Gurney Strap",
     "Id": "51000",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "51017": {
     "ItemLevel": "251",
@@ -6825,7 +6825,7 @@
     },
     "Name": "Cauterized Cord",
     "Id": "51017",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "51325": {
     "ItemLevel": "251",
@@ -6852,7 +6852,7 @@
     },
     "Name": "Blood-Drinker's Girdle",
     "Id": "51325",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "51327": {
     "ItemLevel": "264",
@@ -6878,7 +6878,7 @@
     },
     "Name": "Wrathful Gladiator's Cord of Dominance",
     "Id": "51327",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "51337": {
     "ItemLevel": "264",
@@ -6904,7 +6904,7 @@
     },
     "Name": "Wrathful Gladiator's Cord of Alacrity",
     "Id": "51337",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "51340": {
     "ItemLevel": "264",
@@ -6930,7 +6930,7 @@
     },
     "Name": "Wrathful Gladiator's Belt of Salvation",
     "Id": "51340",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "51343": {
     "ItemLevel": "264",
@@ -6956,7 +6956,7 @@
     },
     "Name": "Wrathful Gladiator's Belt of Dominance",
     "Id": "51343",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "51350": {
     "ItemLevel": "264",
@@ -6983,7 +6983,7 @@
     },
     "Name": "Wrathful Gladiator's Waistguard of Triumph",
     "Id": "51350",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "51359": {
     "ItemLevel": "264",
@@ -7009,7 +7009,7 @@
     },
     "Name": "Wrathful Gladiator's Girdle of Salvation",
     "Id": "51359",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "51362": {
     "ItemLevel": "264",
@@ -7034,7 +7034,7 @@
     },
     "Name": "Wrathful Gladiator's Girdle of Triumph",
     "Id": "51362",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "51365": {
     "ItemLevel": "264",
@@ -7060,7 +7060,7 @@
     },
     "Name": "Wrathful Gladiator's Cord of Salvation",
     "Id": "51365",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "51368": {
     "ItemLevel": "264",
@@ -7086,7 +7086,7 @@
     },
     "Name": "Wrathful Gladiator's Belt of Triumph",
     "Id": "51368",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "51371": {
     "ItemLevel": "264",
@@ -7112,7 +7112,7 @@
     },
     "Name": "Wrathful Gladiator's Waistguard of Salvation",
     "Id": "51371",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "51374": {
     "ItemLevel": "264",
@@ -7138,7 +7138,7 @@
     },
     "Name": "Wrathful Gladiator's Waistguard of Dominance",
     "Id": "51374",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "51555": {
     "ItemLevel": "251",
@@ -7164,7 +7164,7 @@
     },
     "Name": "Tightening Waistband",
     "Id": "51555",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "51564": {
     "ItemLevel": "251",
@@ -7190,7 +7190,7 @@
     },
     "Name": "Ironrope Belt of Ymirjar",
     "Id": "51564",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "51782": {
     "ItemLevel": "251",
@@ -7215,7 +7215,7 @@
     },
     "Name": "Etched Dragonbone Girdle",
     "Id": "51782",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "51821": {
     "ItemLevel": "264",
@@ -7240,7 +7240,7 @@
     },
     "Name": "Etched Dragonbone Girdle",
     "Id": "51821",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "51831": {
     "ItemLevel": "264",
@@ -7266,7 +7266,7 @@
     },
     "Name": "Ironrope Belt of Ymirjar",
     "Id": "51831",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "51836": {
     "ItemLevel": "264",
@@ -7292,7 +7292,7 @@
     },
     "Name": "Tightening Waistband",
     "Id": "51836",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "51853": {
     "ItemLevel": "264",
@@ -7319,7 +7319,7 @@
     },
     "Name": "Blood-Drinker's Girdle",
     "Id": "51853",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "51862": {
     "ItemLevel": "264",
@@ -7345,7 +7345,7 @@
     },
     "Name": "Cauterized Cord",
     "Id": "51862",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "51879": {
     "ItemLevel": "264",
@@ -7370,7 +7370,7 @@
     },
     "Name": "Flesh-Shaper's Gurney Strap",
     "Id": "51879",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "51908": {
     "ItemLevel": "264",
@@ -7396,7 +7396,7 @@
     },
     "Name": "Cord of Dark Suffering",
     "Id": "51908",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "51919": {
     "ItemLevel": "264",
@@ -7422,7 +7422,7 @@
     "UniqueId": "51919",
     "Name": "Deathspeaker Disciple's Belt",
     "Id": "51919",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "51925": {
     "ItemLevel": "264",
@@ -7448,7 +7448,7 @@
     },
     "Name": "Soulthief's Braided Belt",
     "Id": "51925",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "51930": {
     "ItemLevel": "264",
@@ -7474,7 +7474,7 @@
     },
     "Name": "Cord of the Patronizing Practitioner",
     "Id": "51930",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "51935": {
     "ItemLevel": "264",
@@ -7501,7 +7501,7 @@
     },
     "Name": "Linked Scourge Vertebrae",
     "Id": "51935",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "53118": {
     "ItemLevel": "258",
@@ -7527,7 +7527,7 @@
     },
     "Name": "Misbegotten Belt",
     "Id": "53118",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "53121": {
     "ItemLevel": "258",
@@ -7552,7 +7552,7 @@
     },
     "Name": "Surrogate Belt",
     "Id": "53121",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "53488": {
     "ItemLevel": "271",
@@ -7579,7 +7579,7 @@
     },
     "Name": "Split Shape Belt",
     "Id": "53488",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "54562": {
     "ItemLevel": "271",
@@ -7605,7 +7605,7 @@
     },
     "Name": "Misbegotten Belt",
     "Id": "54562",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "54565": {
     "ItemLevel": "271",
@@ -7631,7 +7631,7 @@
     },
     "Name": "Surrogate Belt",
     "Id": "54565",
-    "Slot": "Waist"
+    "Slot": 6
   },
   "54587": {
     "ItemLevel": "284",
@@ -7658,6 +7658,6 @@
     },
     "Name": "Split Shape Belt",
     "Id": "54587",
-    "Slot": "Waist"
+    "Slot": 6
   }
 }

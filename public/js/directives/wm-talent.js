@@ -10,9 +10,8 @@ wmApp.directive('wmTalent', ['charHelper', function(charHelper) {
     },
     templateUrl: '/partials/wm-talent.html',
     link: function(scope, elem, attrs) {
-      scope.specs = charHelper.specs;
       var class_talents = all_talents[scope.classId];
-
+      scope.specs = charHelper.specs;
       scope.talentBg = talentBg;
 
       // search for matching talent
