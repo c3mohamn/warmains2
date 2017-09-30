@@ -21,6 +21,7 @@
       border: 2px solid $wm-secondary;
 
       .talent {
+        position: relative;
         height: 35px;
         width: 35px;
         margin: 5px 6px;
@@ -30,9 +31,25 @@
           border: 2px solid $wm-secondary;
           border-radius: 3px;
           box-shadow: $wm-boxshadow-black-2;
+          cursor: pointer;
 
           &:hover {
             box-shadow: $wm-boxshadow-black-1;
+          }
+
+          .talent-points {
+            position: absolute;
+            background-color: black;
+            height: 16px;
+            width: 12px;
+            border: 1px solid yellow;
+            border-radius: 3px;
+            right: -6px;
+            bottom: -8px;
+            text-align: center;
+            line-height: 16px;
+            font-size: 10px;
+            color: green;
           }
         }
 

@@ -85,31 +85,37 @@ wmApp.config(function($stateProvider, $urlRouterProvider, $locationProvider) {
   $stateProvider
     .state('home', {
       url: '/',
+      data: { title: 'Home' },
       templateUrl: '/states/home.html',
       controller: 'homeCtrl'
     })
     .state('register', {
       url: '/register',
+      data: { title: 'Registration' },
       templateUrl: '/states/register.html',
       controller: 'authCtrl'
     })
     .state('login', {
       url: '/login',
+      data: { title: 'Login' },
       templateUrl: '/states/login.html',
       controller: 'authCtrl'
     })
     .state('styles', {
       url: '/styles',
+      data: { title: 'Styles' },
       templateUrl: 'states/styles.html',
       controller: 'stylesCtrl'
     })
     .state('planner', {
       url: '/planner',
+      data: { title: 'Planner' },
       templateUrl: 'states/planner.html',
       controller: 'plannerCtrl'
     })
     .state('talent-calculator', {
       url: '/planner/talent-calculator/:class/:talents',
+      data: { title: 'Talent Calculator' },
       templateUrl: 'states/talent-calc.html',
       controller: 'talentCalcCtrl'
     });

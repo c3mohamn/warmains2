@@ -6,6 +6,7 @@ wmApp.controller('talentCalcCtrl', ['$scope', 'charHelper', '$stateParams', '$st
     $scope.specs = charHelper.specs;
     $scope.talents = $stateParams.talents;
     $scope.classId = $stateParams.class;
+    //var class_talents = all_talents[$scope.classId];
     // functs
     $scope.changeClass = changeClass;
     $scope.validClassId = validClassId;

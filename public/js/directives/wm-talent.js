@@ -6,7 +6,8 @@ wmApp.directive('wmTalent', ['charHelper', function(charHelper) {
       classId: '@',
       col: '@',
       row: '@',
-      tree: '@'
+      tree: '@',
+      talents: '=',
     },
     templateUrl: '/partials/wm-talent.html',
     link: function(scope, elem, attrs) {

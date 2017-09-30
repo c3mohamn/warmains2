@@ -1,3 +1,8 @@
-<div class="talent" ng-class="{'has-talent': talent}" ng-style="talentBg()"
+<div ng-if="talent" class="talent has-talent" ng-style="talentBg()"
      wm-tooltip position="bottom-middle" content="{{talent.name}}">
+     <div class="talent-points">
+       {{points || '0'}}
+     </div>
 </div>
+<!-- Just takes up a block -->
+<div ng-if="!talent" class="talent" wm-tooltip  hide-tooltip="true"></div>
