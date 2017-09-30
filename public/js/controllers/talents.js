@@ -1,12 +1,13 @@
 // Talent-calc controller
-wmApp.controller('talentCalcCtrl', ['$scope', 'charHelper', '$stateParams', '$state',
-  function($scope, charHelper, $stateParams, $state) {
+wmApp.controller('talentCalcCtrl', ['$scope', 'charHelper', 'talentHelper', '$stateParams', '$state',
+  function($scope, charHelper, talentHelper, $stateParams, $state) {
     // vars
     $scope.classes = charHelper.classes;
     $scope.specs = charHelper.specs;
-    $scope.talents = $stateParams.talents;
+    $scope.urlTalents = $stateParams.talents;
     $scope.classId = $stateParams.class;
-    //var class_talents = all_talents[$scope.classId];
+    $scope.talentPointsDetails = talentHelper.talentPointsDetails;
+    $scope.talentPoints = {};
     // functs
     $scope.changeClass = changeClass;
     $scope.validClassId = validClassId;
@@ -19,15 +20,41 @@ wmApp.controller('talentCalcCtrl', ['$scope', 'charHelper', '$stateParams', '$st
       if (!$scope.classes[$scope.classId]) {
         return false;
       }
-
       return true;
+    }
+
+    if ($scope.classId) {
+      validateUrlTalents();
+    }
+
+    /* Return filled out talentPoints based on urlTalents iff urlTalents is
+     * valid.
+     */
+    function validateUrlTalents() {
+      var classTalentDetails = all_talents[$scope.classId];
+      talentHelper.clearTalents($scope.talentPoints, $scope.talentPointsDetails);
+
+      for (var t in classTalentDetails) {
+        $scope.talentPoints[t] = 0;
+        var amount = parseInt($scope.urlTalents[t]) || 0,
+            talent = t,
+            talents = $scope.talentPoints,
+            details = $scope.talentPointsDetails;
+
+        talentHelper.addPoint(amount, talent, talents, details, classTalentDetails);
+      }
+      console.log($scope.talentPoints, $scope.talentPointsDetails);
     }
 
     // Change class and state.
     function changeClass(id) {
-      $scope.classId = id;
       console.log('Changing Class.');
-      $state.transitionTo('talent-calculator', {class: $scope.classId, talents: $scope.talents });
+      $state.transitionTo('talent-calculator', { class: id, talents: 0 });
+    }
+
+    // Change state to blank state because talents are invalid.
+    function invalidTalents() {
+      $state.transitionTo('talent-calculator', { class: $scope.classId, talents: 0 });
     }
 
 }]);

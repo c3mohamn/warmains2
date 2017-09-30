@@ -1,7 +1,10 @@
 <div ng-if="talent" class="talent has-talent" ng-style="talentBg()"
-     wm-tooltip position="bottom-middle" content="{{talent.name}}">
-     <div class="talent-points">
-       {{points || '0'}}
+     ng-class="{'inactive': talent.row * 5 > details[talent.tree].total }"
+     wm-tooltip position="bottom-middle" content="{{talent.name}}"
+     ng-click="addPoint()">
+     <div class="talent-points" ng-class="{'maxed': points == talent.max_rank}"
+          ng-show="talent.row * 5 < details[talent.tree].total">
+       <span>{{points || '0'}}</span>
      </div>
 </div>
 <!-- Just takes up a block -->
