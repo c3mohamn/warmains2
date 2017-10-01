@@ -1,0 +1,35 @@
+Talent Calculator:
+
+  ☐ Add tooltip for talents
+  ☐ Add a Clear talents button
+  ☐ Show talent details visually on screen
+
+  Bugs:
+    ✔ Fix tooltip position when / scrolling @done(10-01-2017 18:08) @project(Talent Calculator / Bugs)
+
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+Backlog:
+  ☐ Character Panel
+    ☐ Professions
+    ☐ Items
+    ☐ Change item json files
+    ☐ Gems
+    ☐ Talents
+    ☐ Racials
+    ☐ Stats
+    ☐ Export / save as
+    ☐
+  ☐ Raid Comp
+  ☐ GS
+  ☐ Upload from armory
+  ☐ Buffs
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+Archive:
+  ✔ Allow html to be used in tooltip @done(10-01-2017 15:44) @project(Talent Calculator)
+  ✔ Remove inspect on right clicks @done(10-01-2017 13:36) @project(Talent Calculator)
+  ✔ Add removePoints() on right clicks @done(10-01-2017 13:37) @project(Talent Calculator)
+  ✔ Update url when talent point is removed @done(10-01-2017 13:37) @project(Talent Calculator)
+  ✔ Fix tooltip dimensions not updating properly @done(10-01-2017 15:41) @project(Talent Calculator)
+  ✔ Convert tooltip js files to json files @done(10-01-2017 16:32) @project(Talent Calculator)
+  ✔ Fix talent counters not being maxed visually @done(10-01-2017 17:48) @project(Talent Calculator / Bugs)
+  ✔ Fix tooltips occasionally giving errors when changing class. @done(10-01-2017 17:48) @project(Talent Calculator / Bugs)

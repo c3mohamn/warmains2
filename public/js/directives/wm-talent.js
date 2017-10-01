@@ -1,6 +1,6 @@
 // talent directive
-wmApp.directive('wmTalent', ['charHelper', 'talentHelper', '$location',
-  function(charHelper, talentHelper, $location) {
+wmApp.directive('wmTalent', ['$rootScope', 'charHelper', 'talentHelper', '$location',
+  function($rootScope, charHelper, talentHelper, $location) {
     return {
       restrict: 'E',
       scope: {
@@ -13,55 +13,71 @@ wmApp.directive('wmTalent', ['charHelper', 'talentHelper', '$location',
       },
       templateUrl: '/partials/wm-talent.html',
       link: function(scope, elem, attrs) {
+        // vars
         var classTalents = all_talents[scope.classId];
         scope.specs = charHelper.specs;
-        scope.talentBg = talentBg;
+        // functs
+        scope.talentImgPath = talentImgPath;
         scope.addPoint = addPoint;
+        scope.removePoint = removePoint;
+
+        initTalent();
 
         // search for matching talent
-        for (var key in classTalents) {
-          if (classTalents[key].row == scope.row &&
-              classTalents[key].col == scope.col &&
-              classTalents[key].tree == scope.tree) {
-            scope.talent = classTalents[key];
-            scope.talentId = key;
-            scope.points = scope.talents[key];
+        function initTalent() {
+          for (var key in classTalents) {
+            if (classTalents[key].row == scope.row &&
+                classTalents[key].col == scope.col &&
+                classTalents[key].tree == scope.tree) {
+              scope.talent = classTalents[key];
+              scope.talentId = key;
+
+              // get tooltip descriptions
+              talentHelper.getClassTooltipDescriptions(scope.classId).then(
+                function (response) {
+                  if (response) {
+                    scope.talentTooltipDescriptions = response.data[scope.talentId];
+                    talentTooltip();
+                  }
+                }
+              );
+
+              return true;
+            }
           }
         }
 
-        // Gets image for talent
-        function talentBg() {
-          if (!scope.talent) {
-            return false;
-          }
-          return {
-            'background-image': 'url(/images/talents/' + scope.classId + '/' +
-                                scope.specs[scope.classId][scope.tree] + '/' +
-                                scope.talentId + '.jpg)'
-          };
+        // returns path of talent image.
+        function talentImgPath() {
+          return talentHelper.getTalentImgPath(scope.talentId, scope.classId, scope.specs[scope.classId][scope.tree]);
+        }
+
+        function talentTooltip() {
+          var description = scope.talentTooltipDescriptions[scope.talents[scope.talentId]];
+          scope.tooltip = "<h4>" + scope.talent.name + "</h4>" +
+                          "<div class='tooltip-description'>" + description + "</div>";
         }
 
         // add 1 talent point to talent
         function addPoint() {
-          console.log(scope.talentId, scope.talents, scope.details);
           var pointAdded = talentHelper.addPoint(1, scope.talentId, scope.talents, scope.details, classTalents);
+          console.log(scope.talentId, scope.talents, scope.details);
 
           if (pointAdded) {
-            scope.points += 1;
+            talentTooltip();
+            $location.search('talents', talentHelper.generateUrl(scope.talents));
           }
         }
 
-        // generate a url
-        function generateUrl() {
-          var newUrl = [];
+        // remove 1 talent point from talent
+        function removePoint() {
+          var pointRemoved = talentHelper.removePoint(scope.talentId, scope.talents, scope.details, classTalents);
+          console.log(scope.talentId, scope.talents, scope.details);
 
-          for (var t in scope.talents) {
-            newUrl.push(scope.talents[t]);
+          if (pointRemoved) {
+            talentTooltip()
+            $location.search('talents', talentHelper.generateUrl(scope.talents));
           }
-
-          return newUrl.join('');
-
-          //$location.path('/planner/talent-calculator/' + scope.classId + '/' + newUrl.join(''));
         }
       }
     }

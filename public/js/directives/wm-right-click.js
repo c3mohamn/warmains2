@@ -1,5 +1,5 @@
 // ng-right-click directive
-wmApp.directive('ngRightClick', function($parse) {
+wmApp.directive('ngRightClick', ['$parse', function($parse) {
     return function(scope, element, attrs) {
         var fn = $parse(attrs.ngRightClick);
         element.bind('contextmenu', function(event) {
@@ -9,4 +9,4 @@ wmApp.directive('ngRightClick', function($parse) {
             });
         });
     };
-});
+}]);

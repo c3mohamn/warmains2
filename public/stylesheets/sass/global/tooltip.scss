@@ -2,11 +2,25 @@
 
 .wm-tooltip {
   position: absolute;
-  max-width: 200px;
-  min-width: 100px;
+  visibility: hidden;
+  max-width: 350px;
   padding: .5rem;
   background-color: darken($wm-secondary-dark, 20);
   color: $wm-primary-light;
-  box-shadow: $wm-boxshadow-black-1;
-  opacity: 1;
+  box-shadow: $wm-boxshadow-black-2;
+  opacity: .9;
+
+  .tooltip-ranks {
+
+  }
+
+  .tooltip-image {
+
+  }
+
+  .tooltip-description {
+    widows: 100%;
+    color: white;
+    font-size: 12px;
+  }
 }

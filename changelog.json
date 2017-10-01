@@ -1,11 +1,15 @@
 [
   {
     "version": "1.0.0",
-    "date": "",
+    "date": "10/01/2017",
     "time": "",
     "description": [
-      "",
-      ""
+      "First changelog entries.",
+      "Created a custom tooltip.",
+      "Started talent calculator.",
+      "Add point to talents works & url updates.",
+      "Remove point from talents works as well.",
+      "Other small bug fixes in talent calculator."
     ]
   }
 ]

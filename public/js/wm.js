@@ -1,4 +1,4 @@
-var wmApp = angular.module("wmApp", ['ui.router', 'ngAnimate', 'mm.foundation', 'ngStorage']);
+var wmApp = angular.module("wmApp", ['ui.router', 'ngAnimate', 'mm.foundation', 'ngStorage', 'ngSanitize']);
 
 // Capture State Changes
 wmApp.run(function ($transitions, $localStorage, $sessionStorage, $rootScope, authAPI) {
@@ -114,8 +114,9 @@ wmApp.config(function($stateProvider, $urlRouterProvider, $locationProvider) {
       controller: 'plannerCtrl'
     })
     .state('talent-calculator', {
-      url: '/planner/talent-calculator/:class/:talents',
+      url: '/planner/talent-calculator/:class',
       data: { title: 'Talent Calculator' },
+      reloadOnSearch: false,
       templateUrl: 'states/talent-calc.html',
       controller: 'talentCalcCtrl'
     });
