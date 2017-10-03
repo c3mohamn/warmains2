@@ -9,7 +9,18 @@
       "Started talent calculator.",
       "Add point to talents works & url updates.",
       "Remove point from talents works as well.",
-      "Other small bug fixes in talent calculator."
+      "Other small bug fixes in talent calculator.",
+    ]
+  },
+  {
+    "version": "1.0.1",
+    "date": "10/02/2017",
+    "time": "",
+    "description": [
+      "Change constants from service to global vars.",
+      "Load tooltips and class talent details with resolve.",
+      "Talents with no points in them inactive when no points remaining.",
+      "Talent tooltips implemented.",
     ]
   }
 ]

@@ -1,11 +1,13 @@
 Talent Calculator:
 
-  ☐ Add tooltip for talents
   ☐ Add a Clear talents button
   ☐ Show talent details visually on screen
 
+  ☐ Implement Glyphs
+    ☐ Add location.search for glyphs as well
+
   Bugs:
-    ✔ Fix tooltip position when / scrolling @done(10-01-2017 18:08) @project(Talent Calculator / Bugs)
+    ☐ Fix tooltip position when / scrolling
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 Backlog:
@@ -25,6 +27,10 @@ Backlog:
   ☐ Buffs
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 Archive:
+  ✔ Add tooltip for talents @done(10-03-2017 00:21) @project(Talent Calculator)
+  ✔ Make talent inactive when there are no points remaining and 0 used in talent @done(10-03-2017 00:24) @project(Talent Calculator)
+  ✔ Add resolve for talents and tooltips based on id @done(10-02-2017 21:02) @project(Talent Calculator)
+  ✔ Use global vars instead of service @done(10-02-2017 22:39) @project(Talent Calculator)
   ✔ Allow html to be used in tooltip @done(10-01-2017 15:44) @project(Talent Calculator)
   ✔ Remove inspect on right clicks @done(10-01-2017 13:36) @project(Talent Calculator)
   ✔ Add removePoints() on right clicks @done(10-01-2017 13:37) @project(Talent Calculator)

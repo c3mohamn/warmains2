@@ -1,6 +1,6 @@
 // talent directive
-wmApp.directive('wmTalent', ['$rootScope', 'charHelper', 'talentHelper', '$location',
-  function($rootScope, charHelper, talentHelper, $location) {
+wmApp.directive('wmTalent', ['$rootScope', 'talentHelper', '$location',
+  function($rootScope, talentHelper, $location) {
     return {
       restrict: 'E',
       scope: {
@@ -8,43 +8,46 @@ wmApp.directive('wmTalent', ['$rootScope', 'charHelper', 'talentHelper', '$locat
         col: '@',
         row: '@',
         tree: '@',
-        talents: '=',
-        details: '=',
+        talentPoints: '=',
+        talentPointsDetails: '=',
+        talentTooltips: '=',
+        talentDetails: '=',
       },
       templateUrl: '/partials/wm-talent.html',
       link: function(scope, elem, attrs) {
         // vars
-        var classTalents = all_talents[scope.classId];
-        scope.specs = charHelper.specs;
+        var talentDetails = scope.talentDetails;
+        scope.specs = specsToString;
+        scope.isInactive = isInactive;
         // functs
         scope.talentImgPath = talentImgPath;
         scope.addPoint = addPoint;
         scope.removePoint = removePoint;
+        scope.isInactive = isInactive;
 
         initTalent();
 
         // search for matching talent
         function initTalent() {
-          for (var key in classTalents) {
-            if (classTalents[key].row == scope.row &&
-                classTalents[key].col == scope.col &&
-                classTalents[key].tree == scope.tree) {
-              scope.talent = classTalents[key];
+
+          for (var key in talentDetails) {
+            if (talentDetails[key].row == scope.row &&
+                talentDetails[key].col == scope.col &&
+                talentDetails[key].tree == scope.tree) {
+              scope.talent = talentDetails[key];
               scope.talentId = key;
 
-              // get tooltip descriptions
-              talentHelper.getClassTooltipDescriptions(scope.classId).then(
-                function (response) {
-                  if (response) {
-                    scope.talentTooltipDescriptions = response.data[scope.talentId];
-                    talentTooltip();
-                  }
-                }
-              );
-
+              scope.talentTooltipDescriptions = scope.talentTooltips[key];
+              getTalentTooltip();
               return true;
             }
           }
+        }
+
+        // return true if talent is current inactive
+        function isInactive() {
+          return scope.talent.row * 5 > scope.talentPointsDetails[scope.talent.tree].total ||
+                 scope.talentPoints[scope.talentId] === 0 && scope.talentPointsDetails.remaining === 0;
         }
 
         // returns path of talent image.
@@ -52,31 +55,58 @@ wmApp.directive('wmTalent', ['$rootScope', 'charHelper', 'talentHelper', '$locat
           return talentHelper.getTalentImgPath(scope.talentId, scope.classId, scope.specs[scope.classId][scope.tree]);
         }
 
-        function talentTooltip() {
-          var description = scope.talentTooltipDescriptions[scope.talents[scope.talentId]];
-          scope.tooltip = "<h4>" + scope.talent.name + "</h4>" +
-                          "<div class='tooltip-description'>" + description + "</div>";
+        // creates the talents tooltips
+        function getTalentTooltip() {
+          var currentRank = scope.talentPoints[scope.talentId];
+          var maxRank = scope.talent.max_rank;
+
+          var talentName = "<h5>" + scope.talent.name + "</h5>";
+          var tooltipRank = "<h5 class='tooltip-ranks'>Rank " + currentRank + "</h5>";
+          var currentRankDescription = '';
+          var nextRankDescription = '';
+          var nextRank = '';
+          var clickTo = ''; // learn | remove
+          var talentImg = "<img class='tooltip-image' src='" + talentImgPath()+  "'/>";
+
+          if (currentRank == 0) {
+            clickTo = "<span class='tooltip-click-to-learn'>Click to learn.</span>";
+            currentRankDescription = scope.talentTooltipDescriptions[scope.talentPoints[scope.talentId]];
+          } else if (currentRank < maxRank) {
+            currentRankDescription = scope.talentTooltipDescriptions[scope.talentPoints[scope.talentId] - 1];
+            nextRankDescription = scope.talentTooltipDescriptions[scope.talentPoints[scope.talentId]];
+            if (!isInactive()) {
+              var nextRank = "<div class='tooltip-next-rank'>Next rank:</div>";
+            }
+          } else {
+            clickTo = "<span class='tooltip-click-to-remove'>Right click to remove.</span>";
+            currentRankDescription = scope.talentTooltipDescriptions[scope.talentPoints[scope.talentId] - 1];
+          }
+          scope.tooltip = talentImg + talentName + tooltipRank +
+                          "<div class='tooltip-description'>" + currentRankDescription + "</div>"
+                          + nextRank +
+                          "<div class='tooltip-description'>" + nextRankDescription + "</div>"
+                          + clickTo;
         }
 
         // add 1 talent point to talent
         function addPoint() {
-          var pointAdded = talentHelper.addPoint(1, scope.talentId, scope.talents, scope.details, classTalents);
-          console.log(scope.talentId, scope.talents, scope.details);
+          var pointAdded = talentHelper.addPoint(1, scope.talentId, scope.talentPoints, scope.talentPointsDetails, talentDetails);
+          console.log(scope.talentId, scope.talentPoints, scope.talentPointsDetails);
 
           if (pointAdded) {
-            talentTooltip();
-            $location.search('talents', talentHelper.generateUrl(scope.talents));
+            getTalentTooltip();
+            $location.search('talents', talentHelper.generateUrl(scope.talentPoints));
           }
         }
 
         // remove 1 talent point from talent
         function removePoint() {
-          var pointRemoved = talentHelper.removePoint(scope.talentId, scope.talents, scope.details, classTalents);
-          console.log(scope.talentId, scope.talents, scope.details);
+          var pointRemoved = talentHelper.removePoint(scope.talentId, scope.talentPoints, scope.talentPointsDetails, talentDetails);
+          console.log(scope.talentId, scope.talentPoints, scope.talentPointsDetails);
 
           if (pointRemoved) {
-            talentTooltip()
-            $location.search('talents', talentHelper.generateUrl(scope.talents));
+            getTalentTooltip()
+            $location.search('talents', talentHelper.generateUrl(scope.talentPoints));
           }
         }
       }

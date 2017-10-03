@@ -1,11 +1,13 @@
 // Talent-calc controller
-wmApp.controller('talentCalcCtrl', ['$scope', 'charHelper', 'talentHelper', '$stateParams', '$state', '$location',
-  function($scope, charHelper, talentHelper, $stateParams, $state, $location) {
+wmApp.controller('talentCalcCtrl', ['$scope', 'talentHelper', '$stateParams', '$state', '$location', 'talentDetails', 'talentTooltips',
+  function($scope, talentHelper, $stateParams, $state, $location, talentDetails, talentTooltips) {
     // vars
-    $scope.classes = charHelper.classes;
-    $scope.specs = charHelper.specs;
+    $scope.classes = classesToString;
+    $scope.specs = specsToString;
     $scope.urlTalents = $location.search().talents;
     $scope.classId = $stateParams.class;
+    $scope.talentDetails = talentDetails;
+    $scope.talentTooltips = talentTooltips;
     $scope.talentPointsDetails = talentHelper.talentPointsDetails;
     $scope.talentPoints = {};
     // functs
@@ -32,19 +34,18 @@ wmApp.controller('talentCalcCtrl', ['$scope', 'charHelper', 'talentHelper', '$st
      * valid.
      */
     function initTalents() {
-      var classTalentDetails = all_talents[$scope.classId];
       // clear and initialize talent point variables
       clearTalents();
 
       if ($location.search().talents) {
-        for (var t in classTalentDetails) {
+        for (var t in talentDetails) {
           $scope.talentPoints[t] = 0;
           var amount = parseInt($scope.urlTalents[t]) || 0,
               talentId = t,
               talents = $scope.talentPoints,
               details = $scope.talentPointsDetails;
 
-          talentHelper.addPoint(amount, talentId, talents, details, classTalentDetails);
+          talentHelper.addPoint(amount, talentId, talents, details, talentDetails);
         }
       }
 
@@ -52,7 +53,7 @@ wmApp.controller('talentCalcCtrl', ['$scope', 'charHelper', 'talentHelper', '$st
     }
 
     function clearTalents() {
-      talentHelper.clearTalents($scope.talentPoints, $scope.talentPointsDetails, $scope.classId);
+      talentHelper.clearTalents($scope.talentPoints, $scope.talentPointsDetails, $scope.classId, talentDetails);
     }
 
     // Change class and state.

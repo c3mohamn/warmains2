@@ -118,6 +118,31 @@ wmApp.config(function($stateProvider, $urlRouterProvider, $locationProvider) {
       data: { title: 'Talent Calculator' },
       reloadOnSearch: false,
       templateUrl: 'states/talent-calc.html',
-      controller: 'talentCalcCtrl'
+      controller: 'talentCalcCtrl',
+      resolve: {
+        talentDetails: ['$http', '$stateParams', function($http, $stateParams) {
+          if ($stateParams.class) {
+            return $http.get('/js/variables/talent-details.json').then(
+              function(response) {
+                return response.data[$stateParams.class];
+              }
+            );
+          } else {
+            return null;
+          }
+        }],
+        talentTooltips: ['$http', '$stateParams', function($http, $stateParams) {
+          if ($stateParams.class) {
+            return $http.get('/js/variables/talent-tooltips/' + $stateParams.class + '.json').then(
+              function(response) {
+                return response.data;
+              }
+            );
+          } else {
+            return null;
+          }
+        }],
+        //TODO: for glyphs as well
+      }
     });
 });

@@ -1,10 +1,10 @@
 <div ng-if="talent" class="talent has-talent" ng-style="{'background-image': 'url(' + talentImgPath() + ')' }"
-     ng-class="{'inactive': talent.row * 5 > details[talent.tree].total }"
-     wm-tooltip position="top-middle" content-html="tooltip" content="{{talent.name}}"
+     ng-class="{'inactive': isInactive() }"
+     wm-tooltip position="bottom-middle" content-html="tooltip" content="{{talent.name}}"
      ng-click="addPoint()" ng-right-click="removePoint()">
-     <div class="talent-points" ng-class="{'maxed': talents[talentId] == talent.max_rank}"
-          ng-if="talent.row * 5 <= details[talent.tree].total">
-       <span>{{talents[talentId]}}</span>
+     <div class="talent-points" ng-class="{'maxed': talentPoints[talentId] == talent.max_rank}"
+          ng-if="talent.row * 5 <= talentPointsDetails[talent.tree].total">
+       <span>{{talentPoints[talentId]}}</span>
      </div>
 </div>
 <!-- Just takes up a block -->

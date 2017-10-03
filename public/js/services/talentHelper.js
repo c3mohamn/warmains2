@@ -26,11 +26,11 @@ wmApp.service('talentHelper', ['$http', function($http) {
    * talentId: id of the talent.
    * talents: list of all talentIds and corresponding # of points in each.
    * details: talentPointDetails
-   * classTalents: list of class talents and their details.
+   * talentDetails: list of class talents and their details.
    */
-  function addPoint(amount, talentId, talents, details, classTalents) {
-    var row = classTalents[talentId].row,
-        tree = classTalents[talentId].tree,
+  function addPoint(amount, talentId, talents, details, talentDetails) {
+    var row = talentDetails[talentId].row,
+        tree = talentDetails[talentId].tree,
         pointsUsedInTree = details[tree].total,
         lastActiveRow = details[tree].lastActiveRow;
 
@@ -41,10 +41,10 @@ wmApp.service('talentHelper', ['$http', function($http) {
     // check if we have points remaining
     else if (details.remaining <= 0) return false;
     // check if talent is not already maxed
-    else if ((talents[talentId] + amount) > classTalents[talentId].max_rank) return false;
+    else if ((talents[talentId] + amount) > talentDetails[talentId].max_rank) return false;
     // make sure prequisite talents for current talent are fulfilled
-    else if (classTalents[talentId].requires) {
-      if (talents[classTalents[talentId].requires] != classTalents[classTalents[talentId].requires].max_rank)
+    else if (talentDetails[talentId].requires) {
+      if (talents[talentDetails[talentId].requires] != talentDetails[talentDetails[talentId].requires].max_rank)
         return false;
     }
 
@@ -59,9 +59,9 @@ wmApp.service('talentHelper', ['$http', function($http) {
 
   /* Removes a talent point from talents
    */
-  function removePoint(talentId, talents, details, classTalents) {
-    var row = classTalents[talentId].row,
-        tree = classTalents[talentId].tree,
+  function removePoint(talentId, talents, details, talentDetails) {
+    var row = talentDetails[talentId].row,
+        tree = talentDetails[talentId].tree,
         lastActiveRow = details[tree].lastActiveRow;
 
       // need to have points in there to remove it
@@ -69,9 +69,9 @@ wmApp.service('talentHelper', ['$http', function($http) {
         return false;
 
       // check it talent is prequisite for any talents down the road we chose
-      if (classTalents[talentId].allows) {
-        for (var i=0; i < classTalents[talentId].allows.length; i+=1) {
-          if (talents[classTalents[talentId].allows[i]] > 0)
+      if (talentDetails[talentId].allows) {
+        for (var i=0; i < talentDetails[talentId].allows.length; i+=1) {
+          if (talents[talentDetails[talentId].allows[i]] > 0)
             return false;
         }
       }
@@ -97,7 +97,7 @@ wmApp.service('talentHelper', ['$http', function($http) {
       return true;
   }
 
-  function clearTalents(talents, details, classId) {
+  function clearTalents(talents, details, classId, talentDetails) {
     details.remaining = 71;
     details[0].total = 0;
     details[1].total = 0;
@@ -109,7 +109,7 @@ wmApp.service('talentHelper', ['$http', function($http) {
     details[1].row = {0:0, 1:0, 2:0, 3:0, 4:0, 5:0, 6:0, 7:0, 8:0, 9:0, 10:0};
     details[2].row = {0:0, 1:0, 2:0, 3:0, 4:0, 5:0, 6:0, 7:0, 8:0, 9:0, 10:0};
 
-    for (var key in all_talents[classId]) {
+    for (var key in talentDetails) {
       talents[key] = 0;
     }
 
@@ -133,16 +133,6 @@ wmApp.service('talentHelper', ['$http', function($http) {
       return '';
     }
     return '/images/talents/' + classId + '/' + spec + '/' + talentId + '.jpg';
-  }
-
-  // return the tooltip of a talent
-  function getTalentTooltip() {
-    // TODO: May or may not use this depending on how we update tooltip details.
-  }
-
-  // return the list of tooltip descriptions for the specified class.
-  function getClassTooltipDescriptions(classId) {
-    return $http.get('/js/variables/talent-tooltips/' + classId + '.json');
   }
 
   /* ------- Helper functions ------- */
@@ -172,8 +162,6 @@ wmApp.service('talentHelper', ['$http', function($http) {
     clearTalents: clearTalents,
     generateUrl: generateUrl,
     getTalentImgPath: getTalentImgPath,
-    getTalentTooltip: getTalentTooltip,
-    getClassTooltipDescriptions: getClassTooltipDescriptions,
   };
 
 }]);
