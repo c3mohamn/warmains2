@@ -8,7 +8,8 @@
   min-width: 350px;
   height: 4rem;
   padding: 1rem;
-  box-shadow: $wm-boxshadow-1;
+  box-shadow: $wm-boxshadow-black-2;
+  z-index: 1000;
 
   .title {
     font-size: 20px;

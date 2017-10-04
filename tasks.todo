@@ -2,12 +2,16 @@ Talent Calculator:
 
   ☐ Add a Clear talents button
   ☐ Show talent details visually on screen
+  ✔ Make talents with unfulfilled 'requires' inactive until required talent fulfilled @done(10-03-2017 21:29) @project(Talent Calculator)
+  ☐ Add arrows for talents that have pre-requisites
 
   ☐ Implement Glyphs
     ☐ Add location.search for glyphs as well
+    ☐ Convert glyph file to json, sort by class like talent-details
 
   Bugs:
-    ☐ Fix tooltip position when / scrolling
+    ✔ Fix tooltip position when / scrolling @done(10-03-2017 21:06) @project(Talent Calculator / Bugs)
+    ✔ Fix elements showing above header when scrolling @done(10-03-2017 21:06) @project(Talent Calculator / Bugs)
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 Backlog:

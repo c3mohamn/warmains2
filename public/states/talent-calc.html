@@ -9,6 +9,14 @@
         </li>
       </ul>
     </div>
+
+    <div class="calculator-details">
+      <span>
+        ( {{talentPointsDetails[0].total}} / {{talentPointsDetails[1].total}} / {{talentPointsDetails[2].total}})
+      </span>
+
+      <span class="float-right">Remaining: {{talentPointsDetails.remaining}}</span>
+    </div>
     <hr>
   </div>
   <!-- Pick a class (when new) -->
@@ -29,7 +37,7 @@
 
   <!-- Calculator -->
   <div class="calculator" ng-if="validClassId()">
-    <span ng-click="clearTalents()">{{classes[classId]}}</span>
+    <span ng-click="clearTalents()" style=cursor:pointer;>Clear</span>
 
     <!-- Generate 3 sub trees, talent rows & columns -->
     <div class="talent-trees flex-container align-middle align-center">

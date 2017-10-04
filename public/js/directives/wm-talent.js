@@ -16,7 +16,6 @@ wmApp.directive('wmTalent', ['$rootScope', 'talentHelper', '$location',
       templateUrl: '/partials/wm-talent.html',
       link: function(scope, elem, attrs) {
         // vars
-        var talentDetails = scope.talentDetails;
         scope.specs = specsToString;
         scope.isInactive = isInactive;
         // functs
@@ -30,11 +29,11 @@ wmApp.directive('wmTalent', ['$rootScope', 'talentHelper', '$location',
         // search for matching talent
         function initTalent() {
 
-          for (var key in talentDetails) {
-            if (talentDetails[key].row == scope.row &&
-                talentDetails[key].col == scope.col &&
-                talentDetails[key].tree == scope.tree) {
-              scope.talent = talentDetails[key];
+          for (var key in scope.talentDetails) {
+            if (scope.talentDetails[key].row == scope.row &&
+                scope.talentDetails[key].col == scope.col &&
+                scope.talentDetails[key].tree == scope.tree) {
+              scope.talent = scope.talentDetails[key];
               scope.talentId = key;
 
               scope.talentTooltipDescriptions = scope.talentTooltips[key];
@@ -44,10 +43,21 @@ wmApp.directive('wmTalent', ['$rootScope', 'talentHelper', '$location',
           }
         }
 
-        // return true if talent is current inactive
-        function isInactive() {
-          return scope.talent.row * 5 > scope.talentPointsDetails[scope.talent.tree].total ||
-                 scope.talentPoints[scope.talentId] === 0 && scope.talentPointsDetails.remaining === 0;
+        // return true if talent is currently inactive
+        function isInactive(talentId) {
+          var talent = scope.talentDetails[talentId];
+
+          // inactive if pre-requisite talent not maxed
+          var preReqFulfilled = true;
+          if (talent.requires) {
+            var maxRank = scope.talentDetails[talent.requires].max_rank;
+            var curRank = scope.talentPoints[talent.requires];
+            preReqFulfilled = maxRank == curRank;
+          }
+          // inactive if row not reached or no remaining talents
+          return talent.row * 5 > scope.talentPointsDetails[talent.tree].total ||
+                 scope.talentPoints[scope.talentId] === 0 && scope.talentPointsDetails.remaining === 0 ||
+                 !preReqFulfilled;
         }
 
         // returns path of talent image.
@@ -74,7 +84,7 @@ wmApp.directive('wmTalent', ['$rootScope', 'talentHelper', '$location',
           } else if (currentRank < maxRank) {
             currentRankDescription = scope.talentTooltipDescriptions[scope.talentPoints[scope.talentId] - 1];
             nextRankDescription = scope.talentTooltipDescriptions[scope.talentPoints[scope.talentId]];
-            if (!isInactive()) {
+            if (!isInactive(scope.talentId)) {
               var nextRank = "<div class='tooltip-next-rank'>Next rank:</div>";
             }
           } else {
@@ -90,7 +100,7 @@ wmApp.directive('wmTalent', ['$rootScope', 'talentHelper', '$location',
 
         // add 1 talent point to talent
         function addPoint() {
-          var pointAdded = talentHelper.addPoint(1, scope.talentId, scope.talentPoints, scope.talentPointsDetails, talentDetails);
+          var pointAdded = talentHelper.addPoint(1, scope.talentId, scope.talentPoints, scope.talentPointsDetails, scope.talentDetails);
           console.log(scope.talentId, scope.talentPoints, scope.talentPointsDetails);
 
           if (pointAdded) {
@@ -101,7 +111,7 @@ wmApp.directive('wmTalent', ['$rootScope', 'talentHelper', '$location',
 
         // remove 1 talent point from talent
         function removePoint() {
-          var pointRemoved = talentHelper.removePoint(scope.talentId, scope.talentPoints, scope.talentPointsDetails, talentDetails);
+          var pointRemoved = talentHelper.removePoint(scope.talentId, scope.talentPoints, scope.talentPointsDetails, scope.talentDetails);
           console.log(scope.talentId, scope.talentPoints, scope.talentPointsDetails);
 
           if (pointRemoved) {
