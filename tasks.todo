@@ -2,16 +2,16 @@ Talent Calculator:
 
   ☐ Add a Clear talents button
   ☐ Show talent details visually on screen
-  ✔ Make talents with unfulfilled 'requires' inactive until required talent fulfilled @done(10-03-2017 21:29) @project(Talent Calculator)
   ☐ Add arrows for talents that have pre-requisites
+  ☐ Move get getTalentTooltip to talentHelper service
+  ☐ Move inactive to talentHelper
 
   ☐ Implement Glyphs
     ☐ Add location.search for glyphs as well
     ☐ Convert glyph file to json, sort by class like talent-details
 
   Bugs:
-    ✔ Fix tooltip position when / scrolling @done(10-03-2017 21:06) @project(Talent Calculator / Bugs)
-    ✔ Fix elements showing above header when scrolling @done(10-03-2017 21:06) @project(Talent Calculator / Bugs)
+    ☐ Adjust tooltip position when tooltip size changes.
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 Backlog:
@@ -31,6 +31,10 @@ Backlog:
   ☐ Buffs
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 Archive:
+  ✘ Create a directive for talent tooltip @cancelled(2017-10-05 16:19) @project(Talent Calculator)
+  ✔ Make talents with unfulfilled 'requires' inactive until required talent fulfilled @done(10-03-2017 21:29) @project(Talent Calculator)
+  ✔ Fix tooltip position when / scrolling @done(10-03-2017 21:06) @project(Talent Calculator / Bugs)
+  ✔ Fix elements showing above header when scrolling @done(10-03-2017 21:06) @project(Talent Calculator / Bugs)
   ✔ Add tooltip for talents @done(10-03-2017 00:21) @project(Talent Calculator)
   ✔ Make talent inactive when there are no points remaining and 0 used in talent @done(10-03-2017 00:24) @project(Talent Calculator)
   ✔ Add resolve for talents and tooltips based on id @done(10-02-2017 21:02) @project(Talent Calculator)

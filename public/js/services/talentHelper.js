@@ -2,21 +2,12 @@
 wmApp.service('talentHelper', ['$http', function($http) {
 
   var talentPointsDetails = {
-    0: { // left tree
-      total: 0,
-      lastActiveRow: 0,
-      row: {0:0, 1:0, 2:0, 3:0, 4:0, 5:0, 6:0, 7:0, 8:0, 9:0, 10:0}
-    },
-    1: { // center tree
-      total: 0,
-      lastActiveRow: 0,
-      row: {0:0, 1:0, 2:0, 3:0, 4:0, 5:0, 6:0, 7:0, 8:0, 9:0, 10:0}
-    },
-    2: { // right tree
-      total: 0,
-      lastActiveRow: 0,
-      row: {0:0, 1:0, 2:0, 3:0, 4:0, 5:0, 6:0, 7:0, 8:0, 9:0, 10:0}
-    },
+    // left tree
+    0: { total: 0, lastActiveRow: 0, row: {0:0, 1:0, 2:0, 3:0, 4:0, 5:0, 6:0, 7:0, 8:0, 9:0, 10:0} },
+    // center tree
+    1: { total: 0, lastActiveRow: 0, row: {0:0, 1:0, 2:0, 3:0, 4:0, 5:0, 6:0, 7:0, 8:0, 9:0, 10:0} },
+    // right tree
+    2: { total: 0, lastActiveRow: 0, row: {0:0, 1:0, 2:0, 3:0, 4:0, 5:0, 6:0, 7:0, 8:0, 9:0, 10:0} },
     remaining: 71
   };
 
@@ -135,6 +126,56 @@ wmApp.service('talentHelper', ['$http', function($http) {
     return '/images/talents/' + classId + '/' + spec + '/' + talentId + '.jpg';
   }
 
+  // Return the html for talent tooltips
+  function getTalentTooltip(talentId, talent, talentPoints, talentImgPath, talentTooltipDescriptions, isInactive) {
+    var currentRank = talentPoints[talentId];
+    var maxRank = talent.max_rank;
+
+    var talentName = "<h5>" + talent.name + "</h5>";
+    var tooltipRank = "<h5 class='tooltip-ranks'>Rank " + currentRank + "</h5>";
+    var currentRankDescription = '';
+    var nextRankDescription = '';
+    var nextRank = '';
+    var clickTo = ''; // learn | remove
+    var talentImg = "<img class='tooltip-image' src='" + talentImgPath + "'/>";
+
+    if (currentRank == 0) {
+      clickTo = "<span class='tooltip-click-to-learn'>Click to learn.</span>";
+      currentRankDescription = talentTooltipDescriptions[talentPoints[talentId]];
+    } else if (currentRank < maxRank) {
+      currentRankDescription = talentTooltipDescriptions[talentPoints[talentId] - 1];
+      nextRankDescription = talentTooltipDescriptions[talentPoints[talentId]];
+      if (!isInactive) {
+        var nextRank = "<div class='tooltip-next-rank'>Next rank:</div>";
+      }
+    } else {
+      clickTo = "<span class='tooltip-click-to-remove'>Right click to remove.</span>";
+      currentRankDescription = talentTooltipDescriptions[talentPoints[talentId] - 1];
+    }
+    return talentImg + talentName + tooltipRank +
+           "<div class='tooltip-description'>" + currentRankDescription + "</div>"
+           + nextRank +
+           "<div class='tooltip-description'>" + nextRankDescription + "</div>"
+           + clickTo;
+  }
+
+  // returns whether talent is inactive or not
+  function isTalentInactive(talentId, talentDetails, talentPoints, talentPointsDetails) {
+    var talent = talentDetails[talentId];
+
+    // inactive if pre-requisite talent not maxed
+    var preReqFulfilled = true;
+    if (talent.requires) {
+      var maxRank = talentDetails[talent.requires].max_rank;
+      var curRank = talentPoints[talent.requires];
+      preReqFulfilled = maxRank == curRank;
+    }
+    // inactive if row not reached or no remaining talents
+    return talent.row * 5 > talentPointsDetails[talent.tree].total ||
+           talentPoints[talentId] === 0 && talentPointsDetails.remaining === 0 ||
+           !preReqFulfilled;
+  }
+
   /* ------- Helper functions ------- */
   // return the sum of talent points spent in all the rows <= last_row
   function sumRows(last_row, all_rows) {
@@ -162,6 +203,8 @@ wmApp.service('talentHelper', ['$http', function($http) {
     clearTalents: clearTalents,
     generateUrl: generateUrl,
     getTalentImgPath: getTalentImgPath,
+    getTalentTooltip: getTalentTooltip,
+    isTalentInactive: isTalentInactive,
   };
 
 }]);

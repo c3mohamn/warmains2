@@ -44,7 +44,7 @@ wmApp.directive('wmTooltip', ['$compile', '$document', '$sce', '$window',
               eHeight = eBounds.height,
               tWidth = tBounds.width,
               tHeight = tBounds.height,
-              margin = 10,
+              margin = 20,
               offSetX = $window.scrollX,
               offSetY = $window.scrollY;
 
