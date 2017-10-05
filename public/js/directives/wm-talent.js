@@ -61,21 +61,19 @@ wmApp.directive('wmTalent', ['$rootScope', 'talentHelper', '$location',
         // add 1 talent point to talent
         function addPoint() {
           var pointAdded = talentHelper.addPoint(1, scope.talentId, scope.talentPoints, scope.talentPointsDetails, scope.talentDetails);
-          //console.log(scope.talentId, scope.talentPoints, scope.talentPointsDetails);
-
-          if (pointAdded) {
-            getTalentTooltip();
-            $location.search('talents', talentHelper.generateUrl(scope.talentPoints));
-          }
+          update(pointAdded);
         }
 
         // remove 1 talent point from talent
         function removePoint() {
           var pointRemoved = talentHelper.removePoint(scope.talentId, scope.talentPoints, scope.talentPointsDetails, scope.talentDetails);
-          //console.log(scope.talentId, scope.talentPoints, scope.talentPointsDetails);
+          update(pointRemoved)
+        }
 
-          if (pointRemoved) {
-            getTalentTooltip()
+        // Update tooltip and change Url if changes are made
+        function update(changesMade) {
+          if (changesMade) {
+            getTalentTooltip();
             $location.search('talents', talentHelper.generateUrl(scope.talentPoints));
           }
         }

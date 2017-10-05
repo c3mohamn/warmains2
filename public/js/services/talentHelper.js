@@ -1,5 +1,5 @@
 // Calculator helper service
-wmApp.service('talentHelper', ['$http', function($http) {
+wmApp.service('talentHelper', function() {
 
   var talentPointsDetails = {
     // left tree
@@ -32,10 +32,10 @@ wmApp.service('talentHelper', ['$http', function($http) {
     // check if we have points remaining
     else if (details.remaining <= 0) return false;
     // check if talent is not already maxed
-    else if ((talents[talentId] + amount) > talentDetails[talentId].max_rank) return false;
+    else if ((talents[talentId] + amount) > talentDetails[talentId].maxRank) return false;
     // make sure prequisite talents for current talent are fulfilled
     else if (talentDetails[talentId].requires) {
-      if (talents[talentDetails[talentId].requires] != talentDetails[talentDetails[talentId].requires].max_rank)
+      if (talents[talentDetails[talentId].requires] != talentDetails[talentDetails[talentId].requires].maxRank)
         return false;
     }
 
@@ -129,7 +129,7 @@ wmApp.service('talentHelper', ['$http', function($http) {
   // Return the html for talent tooltips
   function getTalentTooltip(talentId, talent, talentPoints, talentImgPath, talentTooltipDescriptions, isInactive) {
     var currentRank = talentPoints[talentId];
-    var maxRank = talent.max_rank;
+    var maxRank = talent.maxRank;
 
     var talentName = "<h5>" + talent.name + "</h5>";
     var tooltipRank = "<h5 class='tooltip-ranks'>Rank " + currentRank + "</h5>";
@@ -166,7 +166,7 @@ wmApp.service('talentHelper', ['$http', function($http) {
     // inactive if pre-requisite talent not maxed
     var preReqFulfilled = true;
     if (talent.requires) {
-      var maxRank = talentDetails[talent.requires].max_rank;
+      var maxRank = talentDetails[talent.requires].maxRank;
       var curRank = talentPoints[talent.requires];
       preReqFulfilled = maxRank == curRank;
     }
@@ -177,17 +177,17 @@ wmApp.service('talentHelper', ['$http', function($http) {
   }
 
   /* ------- Helper functions ------- */
-  // return the sum of talent points spent in all the rows <= last_row
-  function sumRows(last_row, all_rows) {
+  // return the sum of talent points spent in all the rows <= lastRow
+  function sumRows(lastRow, allRows) {
     var sum = 0,
-        i = last_row - 1;
+        i = lastRow - 1;
 
     // at row 0
     if (i == -1)
-      return all_rows[0];
+      return allRows[0];
 
     while (i >= 0) {
-      sum += all_rows[i];
+      sum += allRows[i];
       i -= 1;
     }
     return sum;
@@ -207,4 +207,4 @@ wmApp.service('talentHelper', ['$http', function($http) {
     isTalentInactive: isTalentInactive,
   };
 
-}]);
+});

@@ -2,7 +2,7 @@
      ng-class="{'inactive': isInactive(talentId) }"
      wm-tooltip position="top-middle" content-html="tooltip" content="{{talent.name}}"
      ng-click="addPoint()" ng-right-click="removePoint()">
-     <div class="talent-points" ng-class="{'maxed': talentPoints[talentId] == talent.max_rank}"
+     <div class="talent-points" ng-class="{'maxed': talentPoints[talentId] == talent.maxRank}"
           ng-if="talent.row * 5 <= talentPointsDetails[talent.tree].total">
        <span>{{talentPoints[talentId]}}</span>
      </div>
