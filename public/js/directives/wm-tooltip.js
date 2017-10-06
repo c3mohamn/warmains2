@@ -1,5 +1,5 @@
-wmApp.directive('wmTooltip', ['$compile', '$document', '$sce', '$window',
-  function($compile, $document, $sce, $window) {
+wmApp.directive('wmTooltip', ['$compile', '$document', '$sce', '$window', '$timeout',
+  function($compile, $document, $sce, $window, $timeout) {
     return {
       restrict: 'A',
       scope: {
@@ -19,17 +19,25 @@ wmApp.directive('wmTooltip', ['$compile', '$document', '$sce', '$window',
 
         $document.find('body').append(template);
 
-        if (!scope.hideTooltip) {
-          elem.bind('mouseenter', function() {
-              getTooltipPosition()
-          });
-        }
+        elem.on('mouseenter', function() {
+          if (!scope.hideTooltip) {
+            getTooltipPosition();
+            template.css('visibility', 'visible');
+          }
+        });
 
-        elem.bind('mouseleave', function() {
+        elem.on('mouseleave', function() {
           template.css('visibility', 'hidden');
         });
 
-        elem.bind('$destroy', function () { scope.$destroy(); });
+        elem.on('mouseup', function() {
+          console.log('click happens');
+          $timeout(function() {
+            getTooltipPosition();
+          });
+        });
+
+        elem.on('$destroy', function () { scope.$destroy(); });
         scope.$on('$destroy', cleanUp);
 
         function cleanUp() {
@@ -68,8 +76,6 @@ wmApp.directive('wmTooltip', ['$compile', '$document', '$sce', '$window',
               template.css('left', eBounds.left - (tWidth / 2) + (eWidth / 2) + 'px');
               template.css('top', offSetY + eBounds.bottom + margin + 'px');
           }
-
-          template.css('visibility', 'visible');
         }
       }
     }

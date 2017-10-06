@@ -1,6 +1,6 @@
 <div ng-if="talent" class="talent has-talent" ng-style="{'background-image': 'url(' + talentImgPath() + ')' }"
      ng-class="{'inactive': isInactive(talentId) }"
-     wm-tooltip position="bottom-middle" content-html="tooltip" content="{{talent.name}}"
+     wm-tooltip position="top-middle" content-html="tooltip" content="{{talent.name}}"
      ng-click="addPoint()" ng-right-click="removePoint()">
      <div class="talent-points" ng-class="{'maxed': talentPoints[talentId] == talent.maxRank}"
           ng-if="talent.row * 5 <= talentPointsDetails[talent.tree].total">
