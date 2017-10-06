@@ -45,7 +45,7 @@ wmApp.directive('wmTalent', ['$rootScope', 'talentHelper', '$location',
 
         // return true if talent is currently inactive
         function isInactive(talentId) {
-          return talentHelper.isTalentInactive(scope.talentId, scope.talentDetails, scope.talentPoints, scope.talentPointsDetails);
+          return talentHelper.isTalentInactive(talentId, scope.talentDetails, scope.talentPoints, scope.talentPointsDetails);
         }
 
         // returns path of talent image.

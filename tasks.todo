@@ -2,9 +2,6 @@ Talent Calculator:
 
   ☐ Add a Clear talents button
   ☐ Show talent details visually on screen
-  ☐ Add arrows for talents that have pre-requisites
-  ☐ Move get getTalentTooltip to talentHelper service
-  ☐ Move inactive to talentHelper
 
   ☐ Implement Glyphs
     ☐ Add location.search for glyphs as well
@@ -31,6 +28,10 @@ Backlog:
   ☐ Buffs
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 Archive:
+  ✘ Fix Paladin holy tree @cancelled(10-06-2017 00:36) @project(Talent Calculator / Bugs)
+  ✔ Add arrows for talents that have pre-requisites @done(10-06-2017 00:35) @project(Talent Calculator)
+  ✔ Move get getTalentTooltip to talentHelper service @done(10-06-2017 00:35) @project(Talent Calculator)
+  ✔ Move inactive to talentHelper @done(10-06-2017 00:35) @project(Talent Calculator)
   ✘ Create a directive for talent tooltip @cancelled(2017-10-05 16:19) @project(Talent Calculator)
   ✔ Make talents with unfulfilled 'requires' inactive until required talent fulfilled @done(10-03-2017 21:29) @project(Talent Calculator)
   ✔ Fix tooltip position when / scrolling @done(10-03-2017 21:06) @project(Talent Calculator / Bugs)
