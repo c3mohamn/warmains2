@@ -1,5 +1,5 @@
 // Calculator helper service
-wmApp.service('talentHelper', function() {
+wmApp.service('talentHelper', ['$location', function($location) {
 
   var talentPointsDetails = {
     // left tree
@@ -13,6 +13,9 @@ wmApp.service('talentHelper', function() {
 
   // initialize talent tree
   function initTalents(talentDetails, urlTalents, talentPoints, talentPointsDetails) {
+
+    urlTalents = decodeTalents(reverseMinifyUrl(urlTalents));
+
     for (var t in talentDetails) {
       var amount = parseInt(urlTalents[t]) || 0,
           talentId = t;
@@ -21,6 +24,17 @@ wmApp.service('talentHelper', function() {
 
       addPoint(amount, talentId, talentPoints, talentPointsDetails, talentDetails);
     }
+
+    changeUrl(talentPoints);
+  }
+
+  // changes the url based on talent points spent
+  function changeUrl(talents) {
+    $location.search('talents', generateUrl(talents));
+  }
+
+  function getUrlTalents() {
+    return $location.search().talents;
   }
 
   /* Adds amount talent points into talents
@@ -116,18 +130,9 @@ wmApp.service('talentHelper', function() {
       talents[key] = 0;
     }
 
+    changeUrl(talents);
+
     return true;
-  }
-
-  // generate a url for the current talents
-  function generateUrl(talents) {
-    var url = [];
-
-    for (var t in talents) {
-      url.push(talents[t]);
-    }
-
-    return url.join('');
   }
 
   // return the path of the talent's image
@@ -188,7 +193,137 @@ wmApp.service('talentHelper', function() {
            !preReqFulfilled;
   }
 
-  /* ------- Helper functions ------- */
+            /* ------- Helper variables ------- */
+
+
+  // Url Mapping
+  var urlMap = {
+    toChar: {
+            "00": "I","01": "V","02": "W","03": "X","04": "Y","05": "Z",
+            "10": "a","11": "f","12": "k","13": "p","14": "u","15": "z",
+            "20": "b","21": "g","22": "l","23": "q","24": "v","25": "A",
+            "30": "c","31": "h","32": "m","33": "r","34": "w","35": "B",
+            "40": "d","41": "i","42": "n","43": "s","44": "x","45": "C",
+            "50": "e","51": "j","52": "o","53": "t","54": "y","55": "D"},
+    toInt : {
+            "I": "00","V": "01","W": "02","X": "03","Y": "04","Z": "05",
+            "z": "15", "A": "25","B": "35","C": "45","D": "55",
+            "a": "10","b": "20","c": "30","d": "40","e": "50",
+            "f": "11","g": "21","h": "31","i": "41","j": "51",
+            "k": "12","l": "22","m": "32","n": "42","o": "52",
+            "p": "13","q": "23","r": "33","s": "43","t": "53",
+            "u": "14","v": "24","w": "34","x": "44","y": "54",}};
+
+
+            /* ------- Helper functions ------- */
+
+
+  // generate a url for the current talents
+  function generateUrl(talents) {
+    var url = [];
+
+    for (var t in talents) {
+      url.push(talents[t]);
+    }
+
+    return encodeTalents(url.join(''));
+  }
+
+  // takes list of talent point values and converts them in to char url
+  function encodeTalents(t) {
+    var result = '';
+
+    for (var i = 0; i < t.length; i = i + 2) {
+      var t_first = t[i];
+      var t_sec = t[i + 1] || '0';
+
+      var t_comb = t_first + t_sec;
+
+      result = result + urlMap.toChar[t_comb];
+    }
+
+    var trimmedResult = removeTrailingZeros(result);
+
+    return minifyUrl(trimmedResult);
+  }
+
+  // takes an encoded url and converts it to usable talents
+  function decodeTalents(t) {
+    if (!t) return '';
+    var result = '';
+
+    for (var i = 0; i < t.length; i++) {
+      result = result + urlMap.toInt[t[i]];
+    }
+
+    return result;
+  }
+
+  // further minify url by grouping I's
+  function minifyUrl(e) {
+    var result = '';
+    var counter = 0;
+
+    for (var i = 0; i < e.length; i++) {
+      if (e[i] !== 'I') {
+        result = result + e[i];
+        counter = 0;
+      } else {
+        counter++;
+        if (counter === 1) {
+          result = result + e[i];
+        } else if (counter === 2) {
+          result = result + counter;
+        } else if (counter < 11){
+          result = result.substring(0, result.length - 1) + counter;
+        } else {
+          result = result.substring(0, result.length - 2) + counter;
+        }
+      }
+    }
+
+    return result;
+  }
+
+  // reverse the minifyEncoded result
+  function reverseMinifyUrl(e) {
+    var result = '';
+
+    for (var i = 0; i < e.length; i++) {
+      if (e[i] !== 'I') {
+        result = result + e[i];
+      } else {
+        if (isNaN(e[i + 1])) { // only 1 I
+          result = result + e[i];
+        } else {
+          var count_I = e[i + 1];
+          if (!isNaN(e[i + 2])) {
+            count_I = count_I + e[i + 2];
+            i++;
+          }
+          i++;
+
+          result = result + Array(parseInt(count_I) + 1).join('I') ;
+        }
+      }
+    }
+
+    return result;
+  }
+
+  // removes the trailing I's at the end of url, that are not needed.
+  function removeTrailingZeros(s) {
+    if (!s) return '';
+    var len = s.length;
+    var i = len - 1;
+
+    while ( i >= 0 && s[i] === 'I') {
+      i--;
+    }
+
+    return s.substring(0 , i + 1);
+  }
+
   // return the sum of talent points spent in all the rows <= lastRow
   function sumRows(lastRow, allRows) {
     var sum = 0,
@@ -211,13 +346,16 @@ wmApp.service('talentHelper', function() {
 
     // talent functions
     initTalents: initTalents,
+
+    getUrlTalents: getUrlTalents,
+    changeUrl: changeUrl,
+
     addPoint: addPoint,
     removePoint: removePoint,
     clearTalents: clearTalents,
-    generateUrl: generateUrl,
     getTalentImgPath: getTalentImgPath,
     getTalentTooltip: getTalentTooltip,
     isTalentInactive: isTalentInactive,
   };
 
-});
+}]);

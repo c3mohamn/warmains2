@@ -1,6 +1,6 @@
 // talent directive
-wmApp.directive('wmTalent', ['$rootScope', 'talentHelper', '$location',
-  function($rootScope, talentHelper, $location) {
+wmApp.directive('wmTalent', ['$rootScope', 'talentHelper',
+  function($rootScope, talentHelper) {
     return {
       restrict: 'E',
       scope: {
@@ -67,14 +67,14 @@ wmApp.directive('wmTalent', ['$rootScope', 'talentHelper', '$location',
         // remove 1 talent point from talent
         function removePoint() {
           var pointRemoved = talentHelper.removePoint(scope.talentId, scope.talentPoints, scope.talentPointsDetails, scope.talentDetails);
-          update(pointRemoved)
+          update(pointRemoved);
         }
 
         // Update tooltip and change Url if changes are made
         function update(changesMade) {
           if (changesMade) {
             getTalentTooltip();
-            $location.search('talents', talentHelper.generateUrl(scope.talentPoints));
+            talentHelper.changeUrl(scope.talentPoints);
           }
         }
       }

@@ -1,10 +1,10 @@
 // Talent-calc controller
-wmApp.controller('talentCalcCtrl', ['$scope', 'talentHelper', '$stateParams', '$state', '$location', 'talentDetails', 'talentTooltips',
-  function($scope, talentHelper, $stateParams, $state, $location, talentDetails, talentTooltips) {
+wmApp.controller('talentCalcCtrl', ['$scope', 'talentHelper', '$stateParams', '$state', 'talentDetails', 'talentTooltips',
+  function($scope, talentHelper, $stateParams, $state, talentDetails, talentTooltips) {
     // vars
     $scope.classes = classesToString;
     $scope.specs = specsToString;
-    $scope.urlTalents = $location.search().talents;
+    $scope.urlTalents = talentHelper.getUrlTalents();
     $scope.classId = $stateParams.class;
     $scope.talentDetails = talentDetails;                            // class talents
     $scope.talentTooltips = talentTooltips;

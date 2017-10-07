@@ -9,7 +9,6 @@ Talent Calculator:
   Bugs:
 
   Optimizations:
-    ☐ Minify / compress url
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 Backlog:
@@ -29,6 +28,7 @@ Backlog:
   ☐ Buffs
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 Archive:
+  ✔ Minify / compress url @done(10-07-2017 18:12) @project(Talent Calculator / Optimizations)
   ✔ Convert glyph file to json, sort by class like talent-details @done(10-06-2017 23:42) @project(Talent Calculator)
   ✔ Adjust tooltip position when tooltip size changes. @done(10-06-2017 23:41) @project(Talent Calculator / Bugs)
   ✔ Fix tooltip adding extra height to page. @done(10-06-2017 23:41) @project(Talent Calculator / Bugs)
