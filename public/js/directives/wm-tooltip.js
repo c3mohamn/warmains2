@@ -31,7 +31,6 @@ wmApp.directive('wmTooltip', ['$compile', '$document', '$sce', '$window', '$time
         });
 
         elem.on('mouseup', function() {
-          console.log('click happens');
           $timeout(function() {
             getTooltipPosition();
           });

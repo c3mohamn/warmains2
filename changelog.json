@@ -1,7 +1,17 @@
 [
   {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "date": "10/06/2017",
+    "time": "",
+    "description": [
+      "Fix tooltip resize when content changes.",
+      "Fix extra height being added to page when adding tooltips.",
+      "Minor bug fixes and optimizations"
+    ]
+  },
+  {
+    "version": "1.0.3",
+    "date": "10/05/2017",
     "time": "",
     "description": [
       "Add arrows to talent calculator.",

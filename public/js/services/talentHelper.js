@@ -11,6 +11,18 @@ wmApp.service('talentHelper', function() {
     remaining: 71
   };
 
+  // initialize talent tree
+  function initTalents(talentDetails, urlTalents, talentPoints, talentPointsDetails) {
+    for (var t in talentDetails) {
+      var amount = parseInt(urlTalents[t]) || 0,
+          talentId = t;
+
+      talentPoints[t] = 0;
+
+      addPoint(amount, talentId, talentPoints, talentPointsDetails, talentDetails);
+    }
+  }
+
   /* Adds amount talent points into talents
    *
    * amount: # of points to add.
@@ -198,6 +210,7 @@ wmApp.service('talentHelper', function() {
     talentPointsDetails: talentPointsDetails,
 
     // talent functions
+    initTalents: initTalents,
     addPoint: addPoint,
     removePoint: removePoint,
     clearTalents: clearTalents,

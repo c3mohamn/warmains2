@@ -6,10 +6,10 @@ wmApp.controller('talentCalcCtrl', ['$scope', 'talentHelper', '$stateParams', '$
     $scope.specs = specsToString;
     $scope.urlTalents = $location.search().talents;
     $scope.classId = $stateParams.class;
-    $scope.talentDetails = talentDetails;
+    $scope.talentDetails = talentDetails;                            // class talents
     $scope.talentTooltips = talentTooltips;
-    $scope.talentPointsDetails = talentHelper.talentPointsDetails;
-    $scope.talentPoints = {};
+    $scope.talentPointsDetails = talentHelper.talentPointsDetails; // additional info about current talents
+    $scope.talentPoints = {};                                     // stores points used in each talent
     // functs
     $scope.changeClass = changeClass;
     $scope.validClassId = validClassId;
@@ -37,19 +37,9 @@ wmApp.controller('talentCalcCtrl', ['$scope', 'talentHelper', '$stateParams', '$
       // clear and initialize talent point variables
       clearTalents();
 
-      if ($location.search().talents) {
-        for (var t in talentDetails) {
-          $scope.talentPoints[t] = 0;
-          var amount = parseInt($scope.urlTalents[t]) || 0,
-              talentId = t,
-              talents = $scope.talentPoints,
-              details = $scope.talentPointsDetails;
-
-          talentHelper.addPoint(amount, talentId, talents, details, talentDetails);
-        }
+      if ($scope.urlTalents) {
+        talentHelper.initTalents(talentDetails, $scope.urlTalents, $scope.talentPoints, $scope.talentPointsDetails);
       }
-
-      console.log($scope.talentPoints, $scope.talentPointsDetails);
     }
 
     function clearTalents() {
@@ -58,7 +48,6 @@ wmApp.controller('talentCalcCtrl', ['$scope', 'talentHelper', '$stateParams', '$
 
     // Change class and state.
     function changeClass(id) {
-      console.log('Changing Class.');
       $state.go('talent-calculator', { class: id });
     }
 

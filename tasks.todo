@@ -5,11 +5,11 @@ Talent Calculator:
 
   ☐ Implement Glyphs
     ☐ Add location.search for glyphs as well
-    ☐ Convert glyph file to json, sort by class like talent-details
 
   Bugs:
-    ☐ Adjust tooltip position when tooltip size changes.
-    ☐ Fix tooltip adding extra height to page.
+
+  Optimizations:
+    ☐ Minify / compress url
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 Backlog:
@@ -29,6 +29,9 @@ Backlog:
   ☐ Buffs
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 Archive:
+  ✔ Convert glyph file to json, sort by class like talent-details @done(10-06-2017 23:42) @project(Talent Calculator)
+  ✔ Adjust tooltip position when tooltip size changes. @done(10-06-2017 23:41) @project(Talent Calculator / Bugs)
+  ✔ Fix tooltip adding extra height to page. @done(10-06-2017 23:41) @project(Talent Calculator / Bugs)
   ✘ Fix Paladin holy tree @cancelled(10-06-2017 00:36) @project(Talent Calculator / Bugs)
   ✔ Add arrows for talents that have pre-requisites @done(10-06-2017 00:35) @project(Talent Calculator)
   ✔ Move get getTalentTooltip to talentHelper service @done(10-06-2017 00:35) @project(Talent Calculator)
