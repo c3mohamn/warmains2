@@ -1,6 +1,6 @@
 // Talent-calc controller
-wmApp.controller('talentCalcCtrl', ['$scope', 'talentHelper', '$stateParams', '$state', 'talentDetails', 'talentTooltips',
-  function($scope, talentHelper, $stateParams, $state, talentDetails, talentTooltips) {
+wmApp.controller('talentCalcCtrl', ['$scope', 'talentHelper', '$stateParams', '$state', 'talentDetails', 'talentTooltips', 'talentGlyphs',
+  function($scope, talentHelper, $stateParams, $state, talentDetails, talentTooltips, talentGlyphs) {
     // vars
     $scope.classes = classesToString;
     $scope.specs = specsToString;
@@ -8,8 +8,9 @@ wmApp.controller('talentCalcCtrl', ['$scope', 'talentHelper', '$stateParams', '$
     $scope.classId = $stateParams.class;
     $scope.talentDetails = talentDetails;                            // class talents
     $scope.talentTooltips = talentTooltips;
-    $scope.talentPointsDetails = talentHelper.talentPointsDetails; // additional info about current talents
-    $scope.talentPoints = {};                                     // stores points used in each talent
+    $scope.talentsSpentDetails = talentHelper.talentsSpentDetails; // additional info about current talents
+    $scope.talentsSpent = {};                                     // stores points used in each talent
+    $scope.talentGlyphs = talentGlyphs;
     // functs
     $scope.changeClass = changeClass;
     $scope.validClassId = validClassId;
@@ -30,7 +31,7 @@ wmApp.controller('talentCalcCtrl', ['$scope', 'talentHelper', '$stateParams', '$
       initTalents();
     }
 
-    /* Return filled out talentPoints based on urlTalents iff urlTalents is
+    /* Return filled out talentsSpent based on urlTalents iff urlTalents is
      * valid.
      */
     function initTalents() {
@@ -38,12 +39,12 @@ wmApp.controller('talentCalcCtrl', ['$scope', 'talentHelper', '$stateParams', '$
       clearTalents();
 
       if ($scope.urlTalents) {
-        talentHelper.initTalents(talentDetails, $scope.urlTalents, $scope.talentPoints, $scope.talentPointsDetails);
+        talentHelper.initTalents(talentDetails, $scope.urlTalents, $scope.talentsSpent, $scope.talentsSpentDetails);
       }
     }
 
     function clearTalents(tree) {
-      talentHelper.clearTalents($scope.talentPoints, $scope.talentPointsDetails, $scope.classId, talentDetails, tree);
+      talentHelper.clearTalents($scope.talentsSpent, $scope.talentsSpentDetails, $scope.classId, talentDetails, tree);
     }
 
     // Change class and state.

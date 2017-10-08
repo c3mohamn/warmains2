@@ -7,6 +7,7 @@ Talent Calculator:
     ☐ Add glyphs to url
     ☐ Add loading glyphs from url
     ☐ Add modal for glyphs?
+    ☐ Create a service for modal, so can call in controller & destroy on remove
 
   Bugs:
 

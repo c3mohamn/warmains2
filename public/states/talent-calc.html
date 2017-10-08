@@ -12,10 +12,10 @@
 
     <div class="calculator-details">
       <span>
-        ( {{talentPointsDetails[0].total}} / {{talentPointsDetails[1].total}} / {{talentPointsDetails[2].total}})
+        ( {{talentsSpentDetails[0].total}} / {{talentsSpentDetails[1].total}} / {{talentsSpentDetails[2].total}})
       </span>
 
-      <span class="float-right">Remaining: {{talentPointsDetails.remaining}}</span>
+      <span class="float-right">Remaining: {{talentsSpentDetails.remaining}}</span>
     </div>
     <hr>
   </div>
@@ -35,30 +35,47 @@
     </ul>
   </div>
 
+  <div ng-if="validClassId()">
+    <a class="button alert dark-bg" ng-click="clearTalents()">Reset all</a>
+  </div>
+
   <!-- Calculator -->
   <div class="calculator" ng-if="validClassId()">
-    <span ng-click="clearTalents()" style=cursor:pointer;>Clear all</span><br>
-
     <!-- Generate 3 sub trees, talent rows & columns -->
-    <div class="talent-trees flex-container align-middle align-center">
+    <div class="talent-trees flex-container">
       <div ng-repeat="tree in [0, 1, 2]" class="tree" ng-style="{'background-image': 'url(/images/talents/{{classId}}/{{specs[classId][tree]}}/background.jpg)'}">
-        <div class="tree-clear">
-          <span ng-click="clearTalents(tree)" style=cursor:pointer;>Clear</span>
+        <!-- Subtree Header -->
+        <div class="subtree-header" ng-class="{'has-points': talentsSpentDetails[tree].total > 0, 'is-primary': talentsSpentDetails[tree].total > 35}">
+          <span class="subtree-header-specs">{{specs[classId][tree]}}</span>
+          <span>{{talentsSpentDetails[tree].total}}</span>
         </div>
+        <!-- Subtree -->
         <div class="talent-row flex-container align-middle align-center" ng-repeat="row in [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]">
           <div class="talent-col" ng-repeat="col in [0, 1, 2, 3]">
             <wm-talent col="{{col}}" row="{{row}}" tree="{{tree}}"
-                       class-id="{{classId}}" talent-points="talentPoints"
-                       talent-points-details="talentPointsDetails"
+                       class-id="{{classId}}" talents-spent="talentsSpent"
+                       talents-spent-details="talentsSpentDetails"
                        talent-tooltips="talentTooltips" talent-details="talentDetails"
                        tooltip-pos="{{tree}}"/>
           </div>
         </div>
+        <!-- Subtree Footer -->
+        <div class="subtree-footer">
+           <a class="button hollow alert small dark-bg no-margin" ng-click="clearTalents(tree)">Reset</a>
+        </div>
       </div>
 
-      <div class="glyphs">
-
+      <!-- Glyphs -->
+      <div class="tree glyphs">
+        <div class="subtree-header">
+          <span>Glyphs</span>
+        </div>
+        <div class="subtree-footer">
+          <a class="button hollow alert small dark-bg no-margin" ng-click="clearGlyphs()">Reset</a>
+        </div>
       </div>
     </div>
   </div>
+
+  <!-- <wm-modal-glyphs glyphs="talentGlyphs"/> -->
 </div>

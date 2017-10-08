@@ -21,6 +21,14 @@ h1, h2, h3, h4, h5, h6 {
   &:active {
     box-shadow: $wm-boxshadow-1;
   }
+
+  &.dark-bg {
+    box-shadow: $wm-boxshadow-black-2;
+
+    &:active {
+      box-shadow: none;
+    }
+  }
 }
 
 // --- INPUTS ---

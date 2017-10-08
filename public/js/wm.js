@@ -142,7 +142,17 @@ wmApp.config(function($stateProvider, $urlRouterProvider, $locationProvider) {
             return null;
           }
         }],
-        //TODO: for glyphs as well
+        talentGlyphs: ['$http', '$stateParams', function($http, $stateParams) {
+          if ($stateParams.class) {
+            return $http.get('/js/variables/glyphs.json').then(
+              function(response) {
+                return response.data[$stateParams.class];
+              }
+            );
+          } else {
+            return null;
+          }
+        }],
       }
     });
 });

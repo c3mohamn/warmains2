@@ -35,8 +35,7 @@ html {
 
 body {
   font-family: 'Roboto Condensed', sans-serif;
-  //background: linear-gradient(to right, $wm-primary-light, $wm-primary-dark);
-  background-repeat: no-repeat;
+  background-image: url('/images/bg/wm-bg.jpg');
 }
 
 .mainBody {
@@ -48,6 +47,7 @@ body {
   background-color: $wm-secondary-dark;
   color: $wm-primary-light;
   box-shadow: $wm-boxshadow-1;
+  position: relative;
 
   &.hoverable {
     &:hover {

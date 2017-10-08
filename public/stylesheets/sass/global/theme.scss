@@ -2,10 +2,10 @@
 $wm-primary: #bc5d00;
 $wm-primary-light: #f48b39;
 $wm-primary-dark: #863100;
-$wm-secondary: #443f37;
-$wm-secondary-light: #6f6a61;
+$wm-secondary: #37474f;
+$wm-secondary-light: #62727b;
 $wm-secondary-verylight: lighten($wm-secondary-light, 20%);
-$wm-secondary-dark: #1d1911;
+$wm-secondary-dark: #102027;
 $wm-green: #00FF55;
 $wm-red: #FF002B;
 
@@ -15,7 +15,7 @@ $wm-boxshadow-1: 1px 1px 6px 1px rgba($wm-secondary, .5);
 $wm-boxshadow-2: 2px 2px 6px 2px rgba($wm-secondary, .5);
 $wm-boxshadow-black-1: 1px 1px 3px 1px rgba(black, .6);
 $wm-boxshadow-black-2: 2px 2px 6px 2px rgba(black, .6);
-$wm-inset-boxshadow-white: inset 0px 0px 6px 2px rgba(white, .6);
+$wm-inset-boxshadow-white: inset 0px 0px 3px 3px rgba(lightblue, .8);
 
 // Transitions
 $wm-transition-slow: .6s ease;

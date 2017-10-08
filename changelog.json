@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.0.6",
+    "date": "10/08/2017",
+    "time": "",
+    "description": [
+      "Started glyphs.",
+      "Worked on talent calculator UI.",
+      "Changed secondary color to blue gray."
+    ]
+  },
+  {
     "version": "1.0.5",
     "date": "10/07/2017",
     "time": "",

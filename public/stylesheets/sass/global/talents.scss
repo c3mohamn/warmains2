@@ -3,9 +3,8 @@
 .talent-container {
   margin: 50px auto;
   padding: 1rem;
-  min-width: 800px;
-  width: 90%;
-  max-width: 1260px;
+  min-width: 900px;
+  max-width: 900px;
   background-color: red;
 
   .pick-class {
@@ -13,6 +12,7 @@
   }
 
   .calculator {
+    margin: 4rem 0;
 
     .tree {
       width: 200px;
@@ -21,11 +21,50 @@
       border: 2px solid $wm-secondary;
       position: relative;
 
-      .tree-clear {
+      &.glyphs {
+        margin-left: 3.7rem;
+      }
+
+      .subtree-header {
+        text-align: left;
+        padding: .5rem 0;
         width: 200px;
         position: absolute;
-        top: -20px;
+        top: -30px;
         left: -2px;
+        color: $wm-secondary-verylight;
+        transition: all $wm-transition-slow;
+
+        .subtree-header-specs {
+          text-transform: capitalize;
+          margin-right: 1rem;
+        }
+
+        &.has-points {
+          color: $wm-primary;
+        }
+
+        &.is-primary {
+          color: $wm-primary-light;
+        }
+      }
+
+      .subtree-footer {
+        text-align: left;
+        padding: .5rem 0;
+        width: 200px;
+        position: absolute;
+        bottom: -45px;
+        left: -2px;
+
+        i {
+          cursor: pointer;
+          transition: all $wm-transition-fast;
+
+          &:hover {
+            color: $wm-primary-dark;
+          }
+        }
       }
 
       .talent {
@@ -33,7 +72,7 @@
         height: 35px;
         width: 35px;
         margin: 5px 6px;
-        transition: $wm-transition-medium;
+        transition: $wm-transition-fast;
 
         .talent-inner {
           height: inherit;
@@ -80,7 +119,7 @@
 
           .talent-arrow {
             position: absolute;
-            z-index: 999;
+            z-index: 49;
             -webkit-user-select: none; /* Safari */
             -moz-user-select: none; /* Firefox */
             -ms-user-select: none; /* IE10+/Edge */

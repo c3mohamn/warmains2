@@ -2,16 +2,18 @@
      ng-class="{'inactive': isInactive(talentId) }">
      <div class="talent-inner" ng-click="addPoint()" ng-right-click="removePoint()"
           ng-mouse-wheel-up="addPoint()" ng-mouse-wheel-down="removePoint()"
-          wm-tooltip position="{{tooltipPos}}" content-html="tooltip" content="{{talent.name}}"></div>
-     <div class="talent-points" ng-class="{'maxed': talentPoints[talentId] == talent.maxRank, 'min': talentPoints[talentId] == 0}"
-          ng-if="talent.row * 5 <= talentPointsDetails[talent.tree].total">
-       <span>{{talentPoints[talentId]}}</span>
+          wm-tooltip position="{{tooltipPos}}" content-html="tooltip" content="{{talent.name}}">
+      <!-- Talent Counter -->
+      <div class="talent-points" ng-class="{'maxed': talentsSpent[talentId] == talent.maxRank, 'min': talentsSpent[talentId] == 0}"
+           ng-if="talent.row * 5 <= talentsSpentDetails[talent.tree].total">
+        <span>{{talentsSpent[talentId]}}</span>
+      </div>
      </div>
-
+     <!-- Pre-requisite arrow -->
      <div ng-if="talent.arrows">
        <img ng-repeat="a in talent.arrows track by $index" ng-class="{'inactive': isInactive(talent.allows[$index])}"
        class="talent-arrow {{a.type}}" ng-src="/images/talents/arrows/{{a.url}}" alt="">
      </div>
 </div>
-<!-- Just takes up a block -->
-<div ng-if="!talent" class="talent" wm-tooltip  hide-tooltip="true"></div>
+<!-- Empty block, takes up space -->
+<div ng-if="!talent" class="talent"></div>

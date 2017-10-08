@@ -1,0 +1,21 @@
+@import 'theme';
+
+.modal-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(black, .6);
+  z-index: 50;
+  transition: all $wm-transition-medium;
+
+  .modal-content {
+    width: 70%;
+    height: 70%;
+    background-color: $wm-secondary-verylight;
+    color: $wm-primary-dark;
+    box-shadow: $wm-boxshadow-black-2;
+    overflow: auto;
+  }
+}

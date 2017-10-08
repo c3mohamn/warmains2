@@ -8,8 +8,8 @@ wmApp.directive('wmTalent', ['$rootScope', 'talentHelper',
         col: '@',
         row: '@',
         tree: '@',
-        talentPoints: '=',
-        talentPointsDetails: '=',
+        talentsSpent: '=',
+        talentsSpentDetails: '=',
         talentTooltips: '=',
         talentDetails: '=',
         tooltipPos: '@',
@@ -46,7 +46,7 @@ wmApp.directive('wmTalent', ['$rootScope', 'talentHelper',
 
         // return true if talent is currently inactive
         function isInactive(talentId) {
-          return talentHelper.isTalentInactive(talentId, scope.talentDetails, scope.talentPoints, scope.talentPointsDetails);
+          return talentHelper.isTalentInactive(talentId, scope.talentDetails, scope.talentsSpent, scope.talentsSpentDetails);
         }
 
         // returns path of talent image.
@@ -56,18 +56,18 @@ wmApp.directive('wmTalent', ['$rootScope', 'talentHelper',
 
         // creates the html content for talents tooltip
         function getTalentTooltip() {
-          scope.tooltip = talentHelper.getTalentTooltip(scope.talentId, scope.talent, scope.talentPoints, talentImgPath(), scope.talentTooltipDescriptions, isInactive(scope.talentId));
+          scope.tooltip = talentHelper.getTalentTooltip(scope.talentId, scope.talent, scope.talentsSpent, talentImgPath(), scope.talentTooltipDescriptions, isInactive(scope.talentId));
         }
 
         // add 1 talent point to talent
         function addPoint() {
-          var pointAdded = talentHelper.addPoint(1, scope.talentId, scope.talentPoints, scope.talentPointsDetails, scope.talentDetails);
+          var pointAdded = talentHelper.addPoint(1, scope.talentId, scope.talentsSpent, scope.talentsSpentDetails, scope.talentDetails);
           update(pointAdded);
         }
 
         // remove 1 talent point from talent
         function removePoint() {
-          var pointRemoved = talentHelper.removePoint(scope.talentId, scope.talentPoints, scope.talentPointsDetails, scope.talentDetails);
+          var pointRemoved = talentHelper.removePoint(scope.talentId, scope.talentsSpent, scope.talentsSpentDetails, scope.talentDetails);
           update(pointRemoved);
         }
 
@@ -75,7 +75,7 @@ wmApp.directive('wmTalent', ['$rootScope', 'talentHelper',
         function update(changesMade) {
           if (changesMade) {
             getTalentTooltip();
-            talentHelper.changeUrl(scope.talentPoints);
+            talentHelper.changeUrl(scope.talentsSpent);
           }
         }
       }
