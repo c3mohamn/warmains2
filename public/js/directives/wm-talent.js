@@ -12,6 +12,7 @@ wmApp.directive('wmTalent', ['$rootScope', 'talentHelper',
         talentPointsDetails: '=',
         talentTooltips: '=',
         talentDetails: '=',
+        tooltipPos: '@',
       },
       templateUrl: '/partials/wm-talent.html',
       link: function(scope, elem, attrs) {

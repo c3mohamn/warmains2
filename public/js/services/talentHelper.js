@@ -114,21 +114,35 @@ wmApp.service('talentHelper', ['$location', function($location) {
       return true;
   }
 
-  function clearTalents(talents, details, classId, talentDetails) {
-    details.remaining = 71;
-    details[0].total = 0;
-    details[1].total = 0;
-    details[2].total = 0;
-    details[0].lastActiveRow = 0;
-    details[1].lastActiveRow = 0;
-    details[2].lastActiveRow = 0;
-    details[0].row = {0:0, 1:0, 2:0, 3:0, 4:0, 5:0, 6:0, 7:0, 8:0, 9:0, 10:0};
-    details[1].row = {0:0, 1:0, 2:0, 3:0, 4:0, 5:0, 6:0, 7:0, 8:0, 9:0, 10:0};
-    details[2].row = {0:0, 1:0, 2:0, 3:0, 4:0, 5:0, 6:0, 7:0, 8:0, 9:0, 10:0};
+  function clearTalents(talents, details, classId, talentDetails, tree) {
 
-    for (var key in talentDetails) {
-      talents[key] = 0;
+    if (tree) {
+      details.remaining = details.remaining + details[tree].total;
+      details[tree].total = 0;
+      details[tree].lastActiveRow = 0;
+      details[tree].row = {0:0, 1:0, 2:0, 3:0, 4:0, 5:0, 6:0, 7:0, 8:0, 9:0, 10:0};
+
+      for (var key in talentDetails) {
+        if (talentDetails[key].tree == tree)
+          talents[key] = 0;
+      }
+    } else {
+      details.remaining = 71;
+      details[0].total = 0;
+      details[1].total = 0;
+      details[2].total = 0;
+      details[0].lastActiveRow = 0;
+      details[1].lastActiveRow = 0;
+      details[2].lastActiveRow = 0;
+      details[0].row = {0:0, 1:0, 2:0, 3:0, 4:0, 5:0, 6:0, 7:0, 8:0, 9:0, 10:0};
+      details[1].row = {0:0, 1:0, 2:0, 3:0, 4:0, 5:0, 6:0, 7:0, 8:0, 9:0, 10:0};
+      details[2].row = {0:0, 1:0, 2:0, 3:0, 4:0, 5:0, 6:0, 7:0, 8:0, 9:0, 10:0};
+
+      for (var key in talentDetails) {
+        talents[key] = 0;
+      }
     }
+
 
     changeUrl(talents);
 
@@ -149,7 +163,7 @@ wmApp.service('talentHelper', ['$location', function($location) {
     var maxRank = talent.maxRank;
 
     var talentName = "<h5>" + talent.name + "</h5>";
-    var tooltipRank = "<h5 class='tooltip-ranks'>Rank " + currentRank + "</h5>";
+    var tooltipRank = "<h5 class='tooltip-ranks'>" + currentRank + " / " + maxRank + "</h5>";
     var currentRankDescription = '';
     var nextRankDescription = '';
     var nextRank = '';
@@ -157,7 +171,7 @@ wmApp.service('talentHelper', ['$location', function($location) {
     var talentImg = "<img class='tooltip-image' src='" + talentImgPath + "'/>";
 
     if (currentRank == 0) {
-      clickTo = "<span class='tooltip-click-to-learn'>Click to learn.</span>";
+      clickTo = "<span class='tooltip-click-to-learn'>Click or scroll up to learn.</span>";
       currentRankDescription = talentTooltipDescriptions[talentPoints[talentId]];
     } else if (currentRank < maxRank) {
       currentRankDescription = talentTooltipDescriptions[talentPoints[talentId] - 1];
@@ -166,10 +180,10 @@ wmApp.service('talentHelper', ['$location', function($location) {
         var nextRank = "<div class='tooltip-next-rank'>Next rank:</div>";
       }
     } else {
-      clickTo = "<span class='tooltip-click-to-remove'>Right click to remove.</span>";
+      clickTo = "<span class='tooltip-click-to-remove'>Right click or scroll down to remove.</span>";
       currentRankDescription = talentTooltipDescriptions[talentPoints[talentId] - 1];
     }
-    return talentImg + talentName + tooltipRank +
+    return talentImg + "<div>" + talentName + tooltipRank + "</div>" +
            "<div class='tooltip-description'>" + currentRankDescription + "</div>"
            + nextRank +
            "<div class='tooltip-description'>" + nextRankDescription + "</div>"

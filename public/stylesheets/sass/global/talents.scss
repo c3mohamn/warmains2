@@ -19,6 +19,15 @@
       height: 500px;
       margin: .2rem;
       border: 2px solid $wm-secondary;
+      position: relative;
+
+      .tree-clear {
+        width: 200px;
+        position: absolute;
+        top: -20px;
+        left: -2px;
+        z-index: 1000;
+      }
 
       .talent {
         position: relative;
@@ -44,17 +53,16 @@
 
           .talent-points {
             position: absolute;
-            background-color: black;
-            height: 16px;
-            width: 12px;
-            border: 1px solid yellow;
-            border-radius: 3px;
             right: -6px;
             bottom: -8px;
+            height: 16px;
+            width: 16px;
+            background-color: black;
+            border: 1px solid gray;
             text-align: center;
+            text-align: center;
+            font-size: 11px;
             line-height: 16px;
-            font-size: 10px;
-            color: green;
             transition: all $wm-transition-fast;
 
             -webkit-user-select: none; /* Safari */
@@ -62,8 +70,12 @@
             -ms-user-select: none; /* IE10+/Edge */
             user-select: none; /* Standard */
 
-            &.maxed {
+            &.min {
               color: yellow;
+            }
+
+            &.maxed {
+              color: red;
             }
           }
 

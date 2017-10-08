@@ -55,6 +55,11 @@ wmApp.directive('wmTooltip', ['$compile', '$document', '$sce', '$window', '$time
               offSetX = $window.scrollX,
               offSetY = $window.scrollY;
 
+          // tooltip positioning for talents based on tree
+          if (position == '0') position = 'right-top';
+          else if (position == '1') position = 'bottom-middle';
+          else if (position == '2') position = 'left-top';
+
           //console.log(eBounds.left, eBounds.top, tWidth, tHeight);
 
           // Position of tooltip
@@ -67,9 +72,17 @@ wmApp.directive('wmTooltip', ['$compile', '$document', '$sce', '$window', '$time
               template.css('left', eBounds.left - tWidth - margin + 'px');
               template.css('top', offSetY + eBounds.top - (tHeight / 2) + (eHeight / 2) + 'px');
               break;
+            case 'left-top':
+              template.css('left', eBounds.left - tWidth - margin + 'px');
+              template.css('top', offSetY + eBounds.top - (tHeight) + (eHeight / 2) + 'px');
+              break;
             case 'right-middle':
               template.css('left', eBounds.right + margin + 'px');
               template.css('top', offSetY + eBounds.top - (tHeight / 2) + (eHeight / 2) + 'px');
+              break;
+            case 'right-top':
+              template.css('left', eBounds.right + margin + 'px');
+              template.css('top', offSetY + eBounds.top - (tHeight) + (eHeight / 2) + 'px');
               break;
             default: // bottom-middle default
               template.css('left', eBounds.left - (tWidth / 2) + (eWidth / 2) + 'px');

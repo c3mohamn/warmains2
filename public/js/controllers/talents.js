@@ -42,8 +42,8 @@ wmApp.controller('talentCalcCtrl', ['$scope', 'talentHelper', '$stateParams', '$
       }
     }
 
-    function clearTalents() {
-      talentHelper.clearTalents($scope.talentPoints, $scope.talentPointsDetails, $scope.classId, talentDetails);
+    function clearTalents(tree) {
+      talentHelper.clearTalents($scope.talentPoints, $scope.talentPointsDetails, $scope.classId, talentDetails, tree);
     }
 
     // Change class and state.

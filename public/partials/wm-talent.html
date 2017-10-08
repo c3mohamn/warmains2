@@ -1,8 +1,9 @@
 <div ng-if="talent" class="talent has-talent" ng-style="{'background-image': 'url(' + talentImgPath() + ')' }"
      ng-class="{'inactive': isInactive(talentId) }">
      <div class="talent-inner" ng-click="addPoint()" ng-right-click="removePoint()"
-          wm-tooltip position="top-middle" content-html="tooltip" content="{{talent.name}}"></div>
-     <div class="talent-points" ng-class="{'maxed': talentPoints[talentId] == talent.maxRank}"
+          ng-mouse-wheel-up="addPoint()" ng-mouse-wheel-down="removePoint()"
+          wm-tooltip position="{{tooltipPos}}" content-html="tooltip" content="{{talent.name}}"></div>
+     <div class="talent-points" ng-class="{'maxed': talentPoints[talentId] == talent.maxRank, 'min': talentPoints[talentId] == 0}"
           ng-if="talent.row * 5 <= talentPointsDetails[talent.tree].total">
        <span>{{talentPoints[talentId]}}</span>
      </div>
