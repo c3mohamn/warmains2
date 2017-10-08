@@ -15,37 +15,42 @@
 
 
   // Talent Tooltip
-  .tooltip-ranks {
+  .tooltip-talent-image {
     position: absolute;
-    top: .5rem;
-    right: 1rem;
-    text-align: right;
-    color: gray;
+    top: 0;
+    left: -45px;
   }
 
-  .tooltip-click-to-learn {
-    color: $wm-green;
-  }
+  .tooltip-talent {
+    position: relative;
+    min-width: 350px;
 
-  .tooltip-click-to-remove {
-    color: $wm-red;
-  }
+    .tooltip-ranks {
+      position: absolute;
+      top: .5rem;
+      right: 1rem;
+      text-align: right;
+      color: gray;
+    }
 
-  .tooltip-image {
-  position: absolute;
-  top: 0;
-  left: -45px;
-  }
+    .tooltip-click-to-learn {
+      color: $wm-green;
+    }
 
-  .tooltip-next-rank {
-    color: white;
-    font-style: 14px;
-    margin-top: 1rem;
-  }
+    .tooltip-click-to-remove {
+      color: $wm-red;
+    }
 
-  .tooltip-description {
-    widows: 100%;
-    color: white;
-    font-size: 12px;
+    .tooltip-next-rank {
+      color: white;
+      font-style: 14px;
+      margin-top: 1rem;
+    }
+
+    .tooltip-description {
+      widows: 100%;
+      color: white;
+      font-size: 12px;
+    }
   }
 }

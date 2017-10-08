@@ -168,7 +168,7 @@ wmApp.service('talentHelper', ['$location', function($location) {
     var nextRankDescription = '';
     var nextRank = '';
     var clickTo = ''; // learn | remove
-    var talentImg = "<img class='tooltip-image' src='" + talentImgPath + "'/>";
+    var talentImg = "<img class='tooltip-talent-image' src='" + talentImgPath + "'/>";
 
     if (currentRank == 0) {
       clickTo = "<span class='tooltip-click-to-learn'>Click or scroll up to learn.</span>";
@@ -183,11 +183,11 @@ wmApp.service('talentHelper', ['$location', function($location) {
       clickTo = "<span class='tooltip-click-to-remove'>Right click or scroll down to remove.</span>";
       currentRankDescription = talentTooltipDescriptions[talentPoints[talentId] - 1];
     }
-    return talentImg + "<div>" + talentName + tooltipRank + "</div>" +
+    return talentImg + "<div class='tooltip-talent'>" + talentName + tooltipRank +
            "<div class='tooltip-description'>" + currentRankDescription + "</div>"
            + nextRank +
            "<div class='tooltip-description'>" + nextRankDescription + "</div>"
-           + clickTo;
+           + clickTo + "</div>";
   }
 
   // returns whether talent is inactive or not

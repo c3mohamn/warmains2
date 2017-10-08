@@ -1,14 +1,14 @@
 Talent Calculator:
 
-  ☐ Add a Clear talents button
-  ☐ Show talent details visually on screen
-  ☐ Add clear for individual trees
+  ☐ Fix layout
 
   ☐ Implement Glyphs
-    ☐ Add location.search for glyphs as well
+    ☐ Add glyphs container
+    ☐ Add glyphs to url
+    ☐ Add loading glyphs from url
+    ☐ Add modal for glyphs?
 
   Bugs:
-    ☐ Furor way too big tooltip
 
   Optimizations:
 
@@ -30,6 +30,10 @@ Backlog:
   ☐ Buffs
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 Archive:
+  ✔ Add a Clear talents button @done(10-08-2017 01:41) @project(Talent Calculator)
+  ✔ Show talent details visually on screen @done(10-08-2017 01:40) @project(Talent Calculator)
+  ✔ Add clear for individual trees @done(10-08-2017 01:40) @project(Talent Calculator)
+  ✔ Furor way too big tooltip @done(10-08-2017 01:40) @project(Talent Calculator / Bugs)
   ✔ Add scroll up / down for adding /removing talents @done(10-08-2017 00:43) @project(Talent Calculator)
   ✔ Add rank 0/5 or w.e for talents @done(10-08-2017 00:37) @project(Talent Calculator)
   ✔ Minify / compress url @done(10-07-2017 18:12) @project(Talent Calculator / Optimizations)
