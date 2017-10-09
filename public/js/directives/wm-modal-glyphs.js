@@ -1,18 +1,22 @@
-wmApp.directive('wmModalGlyphs', ['$compile',
-  function($compile) {
+wmApp.directive('wmModalGlyphs', ['$rootScope', '$timeout',
+  function($rootScope, $timeout) {
     return {
       restrict: 'E',
       scope: {
         glyphs: '=',
-        destroy: '=',
       },
       templateUrl: '/partials/wm-modal-glyphs.html',
       link: function(scope, elem, attrs) {
+        scope.removeModal = removeModal;
 
-        scope.majorGlyphs = scope.glyphs[1];
-        scope.minorGlyphs = scope.glyphs[2];
+        function removeModal() {
+          scope.destroying = true;
+          $timeout(function() {
+            $rootScope.showGlyphSelection = false;
+          }, 300);
+        }
 
-        console.log(scope.majorGlyphs);
+        console.log(scope.glyphs);
       }
     }
 }]);

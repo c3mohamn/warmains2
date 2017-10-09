@@ -1,13 +1,16 @@
 Talent Calculator:
 
   ☐ Fix layout
+  ☐ Save talents to db for accounts?
+    ☐ Account, Name, Url
 
   ☐ Implement Glyphs
-    ☐ Add glyphs container
     ☐ Add glyphs to url
     ☐ Add loading glyphs from url
-    ☐ Add modal for glyphs?
-    ☐ Create a service for modal, so can call in controller & destroy on remove
+    ☐ Fix glyph modal
+    ☐ Add glyph to correct glyph slot
+    ☐ Right-click to remove glyph
+    ☐ Also add close button on glyph modal
 
   Bugs:
 
@@ -31,6 +34,9 @@ Backlog:
   ☐ Buffs
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 Archive:
+  ✔ Add glyphs container @done(10-09-2017 04:18) @project(Talent Calculator)
+  ✔ Add modal for glyphs? @done(10-09-2017 04:18) @project(Talent Calculator)
+  ✘ Create a service for modal, so can call in controller & destroy on remove @cancelled(10-09-2017 04:18) @project(Talent Calculator)
   ✔ Add a Clear talents button @done(10-08-2017 01:41) @project(Talent Calculator)
   ✔ Show talent details visually on screen @done(10-08-2017 01:40) @project(Talent Calculator)
   ✔ Add clear for individual trees @done(10-08-2017 01:40) @project(Talent Calculator)

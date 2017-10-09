@@ -8,7 +8,7 @@
   height: 100%;
   background: rgba(black, .6);
   z-index: 50;
-  transition: all $wm-transition-medium;
+  animation: fade-in $wm-transition-medium;
 
   .modal-content {
     width: 70%;
@@ -17,5 +17,9 @@
     color: $wm-primary-dark;
     box-shadow: $wm-boxshadow-black-2;
     overflow: auto;
+  }
+
+  &.destroyed {
+    animation: fade-out $wm-transition-medium;
   }
 }

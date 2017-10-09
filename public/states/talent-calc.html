@@ -64,12 +64,27 @@
            <a class="button hollow alert small dark-bg no-margin" ng-click="clearTalents(tree)">Reset</a>
         </div>
       </div>
-
       <!-- Glyphs -->
       <div class="tree glyphs">
+        <!-- Glyph Header -->
         <div class="subtree-header">
           <span>Glyphs</span>
         </div>
+        <!-- Major Glyphs -->
+        <div class="major-glyphs flex-container align-middle align-center small-12">
+            <span>Major</span>
+            <div ng-repeat="g in [0, 1, 2]" ng-click="showGlyphSelectionModal(1)">
+              <wm-glyph glyph="curGlyphs.major[g]"/>
+            </div>
+        </div>
+        <!-- Minor Glyphs -->
+        <div class="minor-glyphs flex-container align-middle align-center">
+          <span>Minor</span>
+          <div ng-repeat="g in [0, 1, 2]" ng-click="showGlyphSelectionModal(2)">
+            <wm-glyph glyph="curGlyphs.minor[g]"/>
+          </div>
+        </div>
+        <!-- Glyph Footer -->
         <div class="subtree-footer">
           <a class="button hollow alert small dark-bg no-margin" ng-click="clearGlyphs()">Reset</a>
         </div>
@@ -77,5 +92,8 @@
     </div>
   </div>
 
-  <!-- <wm-modal-glyphs glyphs="talentGlyphs"/> -->
+  <!-- Glyph Modal / Overlay -->
+  <div ng-if="showGlyphSelection">
+    <wm-modal-glyphs glyphs="talentGlyphs[glyphSelectionType]"/>
+  </div>
 </div>

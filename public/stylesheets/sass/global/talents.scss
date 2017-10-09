@@ -23,6 +23,33 @@
 
       &.glyphs {
         margin-left: 3.7rem;
+        height: 80%;
+        width: 250px;
+        color: $wm-secondary-verylight;
+
+        .major-glyphs {
+          margin-top: 2rem;
+        }
+
+        .minor-glyphs {
+          margin: 2rem 0;
+        }
+
+        .glyph {
+          background-size: 40px 40px;
+          height: 44px;
+          width: 44px;
+          margin: .5rem;
+          background-color: $wm-secondary-dark;
+          border: 2px solid $wm-secondary;
+          border-radius: 3px;
+          transition: all $wm-transition-medium;
+          cursor: pointer;
+
+          &:hover {
+            box-shadow: $wm-inset-boxshadow-white;
+          }
+        }
       }
 
       .subtree-header {

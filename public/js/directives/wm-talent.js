@@ -75,7 +75,7 @@ wmApp.directive('wmTalent', ['$rootScope', 'talentHelper',
         function update(changesMade) {
           if (changesMade) {
             getTalentTooltip();
-            talentHelper.changeUrl(scope.talentsSpent);
+            talentHelper.changeUrlTalents(scope.talentsSpent);
           }
         }
       }

@@ -25,16 +25,32 @@ wmApp.service('talentHelper', ['$location', function($location) {
       addPoint(amount, talentId, talentsSpent, talentsSpentDetails, talentDetails);
     }
 
-    changeUrl(talentsSpent);
+    changeUrlTalents(talentsSpent);
+  }
+
+  // initialize glyphs
+  function initGlyphs(glyphs, talentGlyphs) {
+    console.log('init glyphs');
   }
 
   // changes the url based on talent points spent
-  function changeUrl(talents) {
-    $location.search('talents', generateUrl(talents));
+  function changeUrlTalents(talents) {
+    $location.search('talents', generateUrlTalents(talents));
   }
 
+  // change the url based on glyphs equipped
+  function changeUrlGlyphs(glyphs) {
+    $location.search('talents', generateUrlGlyphs(glyphs));
+  }
+
+  // get talent points from url
   function getUrlTalents() {
     return $location.search().talents;
+  }
+
+  // get glyphs from url
+  function getUrlGlyphs() {
+    return $location.search().glyphs;
   }
 
   /* Adds amount talent points into talents
@@ -143,8 +159,7 @@ wmApp.service('talentHelper', ['$location', function($location) {
       }
     }
 
-
-    changeUrl(talents);
+    changeUrlTalents(talents);
 
     return true;
   }
@@ -155,6 +170,14 @@ wmApp.service('talentHelper', ['$location', function($location) {
       return '';
     }
     return '/images/talents/' + classId + '/' + spec + '/' + talentId + '.jpg';
+  }
+
+  // return the path of the glyphs image
+  function getGlyphImgPath(glyph) {
+    if (!glyph) {
+      return '/images/empty-slots/UI-EmptyBack.png';
+    }
+    return null;
   }
 
   // Return the html for talent tooltips
@@ -233,7 +256,7 @@ wmApp.service('talentHelper', ['$location', function($location) {
 
 
   // generate a url for the current talents
-  function generateUrl(talents) {
+  function generateUrlTalents(talents) {
     var url = [];
 
     for (var t in talents) {
@@ -241,6 +264,10 @@ wmApp.service('talentHelper', ['$location', function($location) {
     }
 
     return encodeTalents(url.join(''));
+  }
+
+  function generateUrlGlyphs(glyphs) {
+    return gylphs.join('');
   }
 
   // takes list of talent point values and converts them in to char url
@@ -360,14 +387,17 @@ wmApp.service('talentHelper', ['$location', function($location) {
 
     // talent functions
     initTalents: initTalents,
+    initGlyphs: initGlyphs,
 
     getUrlTalents: getUrlTalents,
-    changeUrl: changeUrl,
+    getUrlGlyphs: getUrlGlyphs,
+    changeUrlTalents: changeUrlTalents,
 
     addPoint: addPoint,
     removePoint: removePoint,
     clearTalents: clearTalents,
     getTalentImgPath: getTalentImgPath,
+    getGlyphImgPath: getGlyphImgPath,
     getTalentTooltip: getTalentTooltip,
     isTalentInactive: isTalentInactive,
   };
