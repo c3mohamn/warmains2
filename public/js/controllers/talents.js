@@ -12,16 +12,15 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
     $scope.talentsSpentDetails = talentHelper.talentsSpentDetails; // additional info about current talents
     $scope.talentsSpent = {};                                     // stores points used in each talent
     $scope.talentGlyphs = talentGlyphs;
-    $scope.curGlyphs = {
-      major: [], minor: []
-    };
-    $scope.glyphSelectionType = 1;
+    $scope.curGlyphs = {};
     $rootScope.showGlyphSelection = false;
     // functs
     $scope.changeClass = changeClass;
     $scope.validClassId = validClassId;
     $scope.clearTalents = clearTalents;
+    $scope.clearGlyphs = clearGlyphs;
     $scope.showGlyphSelectionModal = showGlyphSelectionModal;
+    $scope.getGlyphTooltip = getGlyphTooltip;
 
     // Check if the class Id from url is valid.
     function validClassId() {
@@ -44,17 +43,26 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
     function init() {
       // clear and initialize talent point variables
       clearTalents();
+      clearGlyphs();
 
       if ($scope.urlTalents) {
         talentHelper.initTalents(talentDetails, $scope.urlTalents, $scope.talentsSpent, $scope.talentsSpentDetails);
       }
       if ($scope.urlGlyphs) {
-        talentHelper.initGlyphs($scope.glyphs);
+        talentHelper.initGlyphs($scope.urlGlyphs, $scope.curGlyphs, $scope.talentGlyphs);
       }
     }
 
     function clearTalents(tree) {
       talentHelper.clearTalents($scope.talentsSpent, $scope.talentsSpentDetails, $scope.classId, talentDetails, tree);
+    }
+
+    function clearGlyphs() {
+      $scope.curGlyphs = talentHelper.clearGlyphs($scope.curGlyphs);
+    }
+
+    function getGlyphTooltip(glyph, type) {
+      return talentHelper.getGlyphTooltip(glyph, type, talentHelper.getGlyphImgPath(glyph));
     }
 
     // Change class and state.
@@ -67,8 +75,9 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
       $state.transitionTo('talent-calculator', { class: $scope.classId });
     }
 
-    function showGlyphSelectionModal(type) {
+    function showGlyphSelectionModal(index, type) {
       $rootScope.showGlyphSelection = true;
       $scope.glyphSelectionType = type;
+      $scope.glyphSelectionIndex = index;
     }
 }]);

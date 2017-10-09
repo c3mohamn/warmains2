@@ -11,15 +11,47 @@
   animation: fade-in $wm-transition-medium;
 
   .modal-content {
+    position: relative;
     width: 70%;
-    height: 70%;
-    background-color: $wm-secondary-verylight;
-    color: $wm-primary-dark;
+    max-height: 70%;
+    background-color: $wm-secondary-dark;
+    color: $wm-primary-light;
     box-shadow: $wm-boxshadow-black-2;
     overflow: auto;
+  }
+  .modal-close {
+    position: absolute;
+    margin: 1rem;
+    top: 0;
+    right: 0;
+    text-align: right;
   }
 
   &.destroyed {
     animation: fade-out $wm-transition-medium;
+  }
+}
+
+// Glyphs
+.modal-glyph-list {
+  padding: 2rem;
+  overflow: auto;
+
+  .modal-glyph-list-item {
+    cursor: pointer;
+    transition: all $wm-transition-fast;
+
+    &:hover {
+      background-color: $wm-secondary-light;
+    }
+
+    .modal-glyph-icon {
+      width: 15px;
+    }
+
+    .modal-glyph-description {
+      color: white;
+      font-size: 12px;
+    }
   }
 }

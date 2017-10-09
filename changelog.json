@@ -1,6 +1,17 @@
 [
   {
-    "version": "1.0.6",
+    "version": "1.1.1",
+    "date": "10/08/2017",
+    "time": "",
+    "description": [
+      "You can add and remove glyphs now.",
+      "Url changes based on glyphs equipped.",
+      "Loading glyphs based on url works now.",
+      "Better styles for glyph modal."
+    ]
+  },
+  {
+    "version": "1.1.0",
     "date": "10/08/2017",
     "time": "",
     "description": [

@@ -1,7 +1,20 @@
-<div class="modal-overlay flex-container align-middle align-center" ng-click="removeModal()" ng-class="{'destroyed': destroying}">
-  <div class="modal-content">
-    <ul class="menu vertical">
-      <li ng-repeat="glyph in glyphs">{{glyph.name}}</li>
-    </ul>
+<div class="modal-overlay flex-container align-middle align-center" ng-class="{'destroyed': destroying}">
+  <div class="modal-content" click-outside="removeModal()">
+    <div class="modal-glyph-list">
+      <ul class="menu">
+        <li ng-if="!alreadyUsed(glyph)" class="modal-glyph-list-item small-12"
+            ng-repeat="(urlId, glyph) in glyphs[type]" ng-click="selectGlyph(glyph, urlId)">
+
+            <img class="modal-glyph-icon" ng-src="{{getGlyphIconPath(glyph)}}" alt="">
+            {{glyph.name}}
+            <div class="modal-glyph-description">
+              {{glyph.description}}
+            </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div class="modal-close">
+    <a class="button secondary dark-bg no-margin" ng-click="removeModal()">Close</a>
   </div>
 </div>

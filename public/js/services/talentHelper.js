@@ -29,8 +29,31 @@ wmApp.service('talentHelper', ['$location', function($location) {
   }
 
   // initialize glyphs
-  function initGlyphs(glyphs, talentGlyphs) {
-    console.log('init glyphs');
+  function initGlyphs(urlGlyphs, curGlyphs, talentGlyphs) {
+    var urlGlyphsList = urlGlyphs.split(':'),
+        majorCounter = 0,
+        minorCounter = 3;
+
+    for (var key in urlGlyphsList) {
+      var urlId = urlGlyphsList[key];
+      // Find glyph
+      var result = findGlyph(urlId, talentGlyphs),
+          type = result[0],
+          glyph = result[1];
+
+      glyph.urlId = urlId;
+
+      // set current glyph list, position based on type
+      if (type == 1) {
+        curGlyphs[majorCounter] = glyph;
+        majorCounter++;
+      } else {
+        curGlyphs[minorCounter] = glyph;
+        minorCounter++;
+      }
+    }
+
+    changeUrlGlyphs(curGlyphs);
   }
 
   // changes the url based on talent points spent
@@ -40,7 +63,7 @@ wmApp.service('talentHelper', ['$location', function($location) {
 
   // change the url based on glyphs equipped
   function changeUrlGlyphs(glyphs) {
-    $location.search('talents', generateUrlGlyphs(glyphs));
+    $location.search('glyphs', generateUrlGlyphs(glyphs));
   }
 
   // get talent points from url
@@ -164,6 +187,13 @@ wmApp.service('talentHelper', ['$location', function($location) {
     return true;
   }
 
+  function clearGlyphs() {
+    var curGlyphs = [null, null, null, null, null, null];
+    changeUrlGlyphs(curGlyphs);
+
+    return curGlyphs;
+  }
+
   // return the path of the talent's image
   function getTalentImgPath(talentId, classId, spec) {
     if (!talentId) {
@@ -177,7 +207,9 @@ wmApp.service('talentHelper', ['$location', function($location) {
     if (!glyph) {
       return '/images/empty-slots/UI-EmptyBack.png';
     }
-    return null;
+    var iconName = glyph.icon.toLowerCase();
+
+    return 'http://wow.zamimg.com/images/wow/icons/medium/' + iconName + '.jpg';;
   }
 
   // Return the html for talent tooltips
@@ -211,6 +243,28 @@ wmApp.service('talentHelper', ['$location', function($location) {
            + nextRank +
            "<div class='tooltip-description'>" + nextRankDescription + "</div>"
            + clickTo + "</div>";
+  }
+
+  function getGlyphTooltip(glyph, type, glyphImgPath) {
+    if (!glyph) {
+      glyph = {};
+      glyph.name = "<span style=color:gray;>Empty</span>";
+      glyph.description = "<span style=color:#0288FF;font-size:14px;>Left click to add a glyph.</span>";
+    }
+
+    var glyphName = "<h5>" + glyph.name + "</h5>";
+    var description = "<div class='tooltip-description'>" + glyph.description + "</div>";
+    var glyphImg = "<img class='tooltip-talent-image' src='" + glyphImgPath + "'/>";
+    var glyphType = '';
+    var clickTo = "<div class='tooltip-click-to-remove'>Right click to remove.</div>";
+
+    if (type == 1) glyphType = "<div style=color:#02FF66;>" + "Major Glyph" + "</div>";
+    else glyphType = "<div style=color:#02FFA7;>" + "Minor Glyph" + "</div>";
+    if (!glyph.id) clickTo = '';
+
+    return glyphImg + "<div class='tooltip-talent'>" + glyphName +
+           glyphType + description + clickTo
+           + "</div>";
   }
 
   // returns whether talent is inactive or not
@@ -266,8 +320,28 @@ wmApp.service('talentHelper', ['$location', function($location) {
     return encodeTalents(url.join(''));
   }
 
+  // generate a url for the current glyphs
   function generateUrlGlyphs(glyphs) {
-    return gylphs.join('');
+    var url = [];
+
+    for (var g in glyphs) {
+      if (glyphs[g]) {
+        url.push(glyphs[g].urlId);
+      }
+    }
+
+    return url.join(':');
+  }
+
+  // return the glyph with urlId
+  function findGlyph(urlId, talentGlyphs) {
+    for (var type in talentGlyphs) {
+      for (var g in talentGlyphs[type]) {
+        if (g == urlId) {
+          return [type, talentGlyphs[type][g]];
+        }
+      }
+    }
   }
 
   // takes list of talent point values and converts them in to char url
@@ -392,13 +466,16 @@ wmApp.service('talentHelper', ['$location', function($location) {
     getUrlTalents: getUrlTalents,
     getUrlGlyphs: getUrlGlyphs,
     changeUrlTalents: changeUrlTalents,
+    changeUrlGlyphs: changeUrlGlyphs,
 
     addPoint: addPoint,
     removePoint: removePoint,
     clearTalents: clearTalents,
+    clearGlyphs: clearGlyphs,
     getTalentImgPath: getTalentImgPath,
     getGlyphImgPath: getGlyphImgPath,
     getTalentTooltip: getTalentTooltip,
+    getGlyphTooltip: getGlyphTooltip,
     isTalentInactive: isTalentInactive,
   };
 

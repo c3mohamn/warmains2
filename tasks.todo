@@ -5,16 +5,13 @@ Talent Calculator:
     ☐ Account, Name, Url
 
   ☐ Implement Glyphs
-    ☐ Add glyphs to url
-    ☐ Add loading glyphs from url
-    ☐ Fix glyph modal
-    ☐ Add glyph to correct glyph slot
-    ☐ Right-click to remove glyph
-    ☐ Also add close button on glyph modal
+    ☐ Fix duplicate glyphs via url
+    ☐ Add a search on modal
 
   Bugs:
 
   Optimizations:
+    ☐ Change hasGlyph to filter in ng-repeat
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 Backlog:
@@ -34,6 +31,12 @@ Backlog:
   ☐ Buffs
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 Archive:
+  ✔ Also add close button on glyph modal @done(10-09-2017 19:40) @project(Talent Calculator)
+  ✔ Fix glyph modal @done(10-09-2017 19:40) @project(Talent Calculator)
+  ✔ Add glyphs to url @done(10-09-2017 16:53) @project(Talent Calculator)
+  ✔ Add loading glyphs from url @done(10-09-2017 17:28) @project(Talent Calculator)
+  ✔ Add glyph to correct glyph slot @done(10-09-2017 16:53) @project(Talent Calculator)
+  ✔ Right-click to remove glyph @done(10-09-2017 18:49) @project(Talent Calculator)
   ✔ Add glyphs container @done(10-09-2017 04:18) @project(Talent Calculator)
   ✔ Add modal for glyphs? @done(10-09-2017 04:18) @project(Talent Calculator)
   ✘ Create a service for modal, so can call in controller & destroy on remove @cancelled(10-09-2017 04:18) @project(Talent Calculator)

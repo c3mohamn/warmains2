@@ -73,15 +73,19 @@
         <!-- Major Glyphs -->
         <div class="major-glyphs flex-container align-middle align-center small-12">
             <span>Major</span>
-            <div ng-repeat="g in [0, 1, 2]" ng-click="showGlyphSelectionModal(1)">
-              <wm-glyph glyph="curGlyphs.major[g]"/>
+            <div ng-repeat="g in [0, 1, 2]" ng-click="showGlyphSelectionModal(g, 1)"
+                 wm-tooltip position="left-middle" content-html="getGlyphTooltip(curGlyphs[g], 1)"
+                 content="{{curGlyphs[index].name || 'Left click to select'}}">
+              <wm-glyph cur-glyphs="curGlyphs"index="g"/>
             </div>
         </div>
         <!-- Minor Glyphs -->
         <div class="minor-glyphs flex-container align-middle align-center">
           <span>Minor</span>
-          <div ng-repeat="g in [0, 1, 2]" ng-click="showGlyphSelectionModal(2)">
-            <wm-glyph glyph="curGlyphs.minor[g]"/>
+          <div ng-repeat="g in [3, 4, 5]" ng-click="showGlyphSelectionModal(g, 2)"
+               wm-tooltip position="left-middle" content-html="getGlyphTooltip(curGlyphs[g], 2)"
+               content="{{curGlyphs[index].name || 'Left click to select'}}">
+            <wm-glyph cur-glyphs="curGlyphs" index="g"/>
           </div>
         </div>
         <!-- Glyph Footer -->
@@ -94,6 +98,6 @@
 
   <!-- Glyph Modal / Overlay -->
   <div ng-if="showGlyphSelection">
-    <wm-modal-glyphs glyphs="talentGlyphs[glyphSelectionType]"/>
+    <wm-modal-glyphs glyphs="talentGlyphs" index="glyphSelectionIndex" cur-glyphs="curGlyphs" type="glyphSelectionType"/>
   </div>
 </div>

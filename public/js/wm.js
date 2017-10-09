@@ -1,4 +1,4 @@
-var wmApp = angular.module("wmApp", ['ui.router', 'ngAnimate', 'mm.foundation', 'ngStorage', 'ngSanitize']);
+var wmApp = angular.module("wmApp", ['ui.router', 'ngAnimate', 'mm.foundation', 'ngStorage', 'ngSanitize', 'angular-click-outside']);
 
 // Capture State Changes
 wmApp.run(function ($transitions, $localStorage, $sessionStorage, $rootScope, authAPI) {
