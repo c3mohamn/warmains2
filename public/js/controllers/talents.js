@@ -9,7 +9,7 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
     $scope.classId = $stateParams.class;
     $scope.talentDetails = talentDetails;                            // class talents
     $scope.talentTooltips = talentTooltips;
-    $scope.talentsSpentDetails = talentHelper.talentsSpentDetails; // additional info about current talents
+    $scope.talentsSpentDetails = {};//= talentHelper.talentsSpentDetails; // additional info about current talents
     $scope.talentsSpent = {};                                     // stores points used in each talent
     $scope.talentGlyphs = talentGlyphs;
     $scope.curGlyphs = {};
@@ -37,11 +37,9 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
       init();
     }
 
-    /* Return filled out talentsSpent based on urlTalents iff urlTalents is
-     * valid.
-     */
+    // Initialize talents and glyphs
     function init() {
-      // clear and initialize talent point variables
+      // Clear talents and glyphs to default values
       clearTalents();
       clearGlyphs();
 

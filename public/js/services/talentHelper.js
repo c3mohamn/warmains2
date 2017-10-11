@@ -1,16 +1,6 @@
 // Calculator helper service
 wmApp.service('talentHelper', ['$location', function($location) {
 
-  var talentsSpentDetails = {
-    // left tree
-    0: { total: 0, lastActiveRow: 0, row: {0:0, 1:0, 2:0, 3:0, 4:0, 5:0, 6:0, 7:0, 8:0, 9:0, 10:0} },
-    // center tree
-    1: { total: 0, lastActiveRow: 0, row: {0:0, 1:0, 2:0, 3:0, 4:0, 5:0, 6:0, 7:0, 8:0, 9:0, 10:0} },
-    // right tree
-    2: { total: 0, lastActiveRow: 0, row: {0:0, 1:0, 2:0, 3:0, 4:0, 5:0, 6:0, 7:0, 8:0, 9:0, 10:0} },
-    remaining: 71
-  };
-
   // initialize talent tree
   function initTalents(talentDetails, urlTalents, talentsSpent, talentsSpentDetails) {
 
@@ -30,7 +20,7 @@ wmApp.service('talentHelper', ['$location', function($location) {
 
   // initialize glyphs
   function initGlyphs(urlGlyphs, curGlyphs, talentGlyphs) {
-    var urlGlyphsList = urlGlyphs.split(':'),
+    var urlGlyphsList = getUnique(urlGlyphs.split(':')),
         majorCounter = 0,
         minorCounter = 3;
 
@@ -76,14 +66,7 @@ wmApp.service('talentHelper', ['$location', function($location) {
     return $location.search().glyphs;
   }
 
-  /* Adds amount talent points into talents
-   *
-   * amount: # of points to add.
-   * talentId: id of the talent.
-   * talents: list of all talentIds and corresponding # of points in each.
-   * details: talentPointDetails
-   * talentDetails: list of class talents and their details.
-   */
+  // Adds amount talent points into talent with talentId
   function addPoint(amount, talentId, talents, details, talentDetails) {
     var row = talentDetails[talentId].row,
         tree = talentDetails[talentId].tree,
@@ -113,8 +96,7 @@ wmApp.service('talentHelper', ['$location', function($location) {
     return true;
   }
 
-  /* Removes a talent point from talents
-   */
+  // Removes a talent point from talents
   function removePoint(talentId, talents, details, talentDetails) {
     var row = talentDetails[talentId].row,
         tree = talentDetails[talentId].tree,
@@ -153,6 +135,7 @@ wmApp.service('talentHelper', ['$location', function($location) {
       return true;
   }
 
+  // change talents and talentDetails back to default values
   function clearTalents(talents, details, classId, talentDetails, tree) {
 
     if (tree != undefined) {
@@ -167,6 +150,7 @@ wmApp.service('talentHelper', ['$location', function($location) {
       }
     } else {
       details.remaining = 71;
+      details[0] = {}; details[1] = {}; details[2] = {};
       details[0].total = 0;
       details[1].total = 0;
       details[2].total = 0;
@@ -187,6 +171,7 @@ wmApp.service('talentHelper', ['$location', function($location) {
     return true;
   }
 
+  // change glyphs back to default value
   function clearGlyphs() {
     var curGlyphs = [null, null, null, null, null, null];
     changeUrlGlyphs(curGlyphs);
@@ -212,7 +197,7 @@ wmApp.service('talentHelper', ['$location', function($location) {
     return 'http://wow.zamimg.com/images/wow/icons/medium/' + iconName + '.jpg';;
   }
 
-  // Return the html for talent tooltips
+  // Return the html for tooltip of talent
   function getTalentTooltip(talentId, talent, talentsSpent, talentImgPath, talentTooltipDescriptions, isInactive) {
     var currentRank = talentsSpent[talentId];
     var maxRank = talent.maxRank;
@@ -245,6 +230,7 @@ wmApp.service('talentHelper', ['$location', function($location) {
            + clickTo + "</div>";
   }
 
+  // Return the html for tooltip of glyph
   function getGlyphTooltip(glyph, type, glyphImgPath) {
     if (!glyph) {
       glyph = {};
@@ -286,7 +272,6 @@ wmApp.service('talentHelper', ['$location', function($location) {
 
             /* ------- Helper variables ------- */
 
-
   // Url Mapping
   var urlMap = {
     toChar: {
@@ -305,9 +290,7 @@ wmApp.service('talentHelper', ['$location', function($location) {
             "p": "13","q": "23","r": "33","s": "43","t": "53",
             "u": "14","v": "24","w": "34","x": "44","y": "54",}};
 
-
             /* ------- Helper functions ------- */
-
 
   // generate a url for the current talents
   function generateUrlTalents(talents) {
@@ -456,27 +439,23 @@ wmApp.service('talentHelper', ['$location', function($location) {
   }
 
   return {
-    // vars
-    talentsSpentDetails: talentsSpentDetails,
-
-    // talent functions
+    // Talent functions
     initTalents: initTalents,
-    initGlyphs: initGlyphs,
-
     getUrlTalents: getUrlTalents,
-    getUrlGlyphs: getUrlGlyphs,
     changeUrlTalents: changeUrlTalents,
-    changeUrlGlyphs: changeUrlGlyphs,
-
     addPoint: addPoint,
     removePoint: removePoint,
     clearTalents: clearTalents,
-    clearGlyphs: clearGlyphs,
     getTalentImgPath: getTalentImgPath,
-    getGlyphImgPath: getGlyphImgPath,
     getTalentTooltip: getTalentTooltip,
-    getGlyphTooltip: getGlyphTooltip,
     isTalentInactive: isTalentInactive,
-  };
 
+    // Glyph functions
+    initGlyphs: initGlyphs,
+    getUrlGlyphs: getUrlGlyphs,
+    changeUrlGlyphs: changeUrlGlyphs,
+    clearGlyphs: clearGlyphs,
+    getGlyphImgPath: getGlyphImgPath,
+    getGlyphTooltip: getGlyphTooltip,
+  };
 }]);

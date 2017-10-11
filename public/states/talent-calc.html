@@ -14,9 +14,9 @@
       <span>
         ( {{talentsSpentDetails[0].total}} / {{talentsSpentDetails[1].total}} / {{talentsSpentDetails[2].total}})
       </span>
-
       <span class="float-right">Remaining: {{talentsSpentDetails.remaining}}</span>
     </div>
+
     <hr>
   </div>
   <!-- Pick a class (when new) -->
@@ -42,7 +42,7 @@
   <!-- Calculator -->
   <div class="calculator" ng-if="validClassId()">
     <!-- Generate 3 sub trees, talent rows & columns -->
-    <div class="talent-trees flex-container">
+    <div class="flex-container">
       <div ng-repeat="tree in [0, 1, 2]" class="tree" ng-style="{'background-image': 'url(/images/talents/{{classId}}/{{specs[classId][tree]}}/background.jpg)'}">
         <!-- Subtree Header -->
         <div class="subtree-header" ng-class="{'has-points': talentsSpentDetails[tree].total > 0, 'is-primary': talentsSpentDetails[tree].total > 35}">

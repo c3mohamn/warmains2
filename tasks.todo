@@ -5,7 +5,7 @@ Talent Calculator:
     ☐ Account, Name, Url
 
   ☐ Implement Glyphs
-    ☐ Fix duplicate glyphs via url
+    ✔ Fix duplicate glyphs via url @done(10-10-2017 22:09) @project(Talent Calculator)
     ☐ Add a search on modal
 
   Bugs:
