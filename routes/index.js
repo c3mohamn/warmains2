@@ -16,14 +16,4 @@ router.get('/', function(req, res, next) {
   res.render('index', { title: 'Warmains' });
 });
 
-/* GET changelog page. */
-// router.get('/changelog', function(req, res, next) {
-//   res.render('changelog', { title: 'Warmins - Changelog' });
-// });
-
-/* GET feedback page. */
-// router.get('/feedback', function(req, res, next) {
-//   res.render('feedback', { title: 'Warmains - Feedback'})
-// });
-
 module.exports = router;

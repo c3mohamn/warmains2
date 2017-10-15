@@ -49,12 +49,10 @@ h1, h2, h3, h4, h5, h6 {
 .input-search {
   border: none;
   outline: none;
-  box-shadow: $wm-boxshadow-1;
+  box-shadow: $wm-boxshadow-black-2;
 
   &:focus {
-    // border: none;
-    // outline: none;
-    box-shadow: $wm-boxshadow-1;
+    box-shadow: $wm-boxshadow-black-1;
   }
 }
 

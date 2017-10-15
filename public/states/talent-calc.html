@@ -37,6 +37,7 @@
 
   <div ng-if="validClassId()">
     <a class="button alert dark-bg" ng-click="clearTalents()">Reset all</a>
+    <a class="button success dark-bg float-right disabled" ng-click="saveTalents()">Save Talents</a>
   </div>
 
   <!-- Calculator -->
@@ -91,6 +92,24 @@
         <!-- Glyph Footer -->
         <div class="subtree-footer">
           <a class="button hollow alert small dark-bg no-margin" ng-click="clearGlyphs()">Reset</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Saved characters -->
+    <div class="saved-container">
+      <span class="saved-container-title">Saved Talents - Test</span>
+      <a class="view-all-saved button small hollow dark-bg no-margin disabled">View All</a>
+      <!-- List of saved Chars -->
+      <div class="saved-talentss wm-scrollbar small">
+        <div class="saved-talents flex-container" ng-repeat="char in savedChars" ng-click="goToSavedChar(char)">
+          <img class="saved-talents-icon class-icons small hoverable" ng-src="/images/class-icons/{{char.classId}}.png">
+          <div class="saved-talents-body">
+            {{char.name}}
+            <div class="saved-talents-body-info">
+              ({{char.preview[0]}} / {{char.preview[1]}} / {{char.preview[2]}} )
+            </div>
+          </div>
         </div>
       </div>
     </div>

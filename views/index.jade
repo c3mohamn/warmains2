@@ -3,7 +3,7 @@ doctype html
 html(ng-app="wmApp" ng-cloak)
   head
     include partials/head.jade
-  body(ng-controller="indexCtrl")
+  body(ng-controller="indexCtrl" ng-class="{'modal-open': isModalOpen}")
     //- Header
     div(ng-include="'partials/header.html'")
     div(class="mainBody")

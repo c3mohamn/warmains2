@@ -12,6 +12,7 @@ var db = mongoose.connection;
 
 var routes = require('./routes/index');
 var auth = require('./routes/auth');
+var talent = require('./routes/talent');
 
 // init app
 var app = express();
@@ -58,6 +59,7 @@ app.use(expressValidator({
 
 app.use('/', routes);
 app.use('/auth', auth);
+app.use('/talent', talent);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

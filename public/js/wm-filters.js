@@ -1,0 +1,1 @@
+!function(n,t,e){"use strict";wmApp.filter("objectFilter",function(){return function(n,t,e){var o={},e=e.toLowerCase();return angular.forEach(n,function(n,r){n[t]&&n[t].toLowerCase().indexOf(e)>-1&&(o[r]=n)}),o}})}(window,document);

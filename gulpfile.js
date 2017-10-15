@@ -12,6 +12,14 @@ gulp.task('sass', function() {
       .pipe(gulp.dest('public/stylesheets/css'));
 });
 
+// compile and minify filters
+gulp.task('filters', function() {
+  gulp.src('public/js/filters/*.js')
+      .pipe(concat.scripts('wm-filters.js'))
+      .pipe(uglify())
+      .pipe(gulp.dest('public/js'));
+});
+
 // compile and minify services
 gulp.task('services', function() {
   gulp.src('public/js/services/*.js')
@@ -44,13 +52,14 @@ gulp.task('directives', function() {
 // });
 
 // default tasks to be run when typing gulp
-gulp.task('default', ['sass', 'services', 'directives', 'controllers']);
+gulp.task('default', ['sass', 'filters', 'services', 'directives', 'controllers']);
 
 // watch all these tasks
 gulp.task('watch', function() {
   gulp.watch('public/js/services/*.js', ['services']);
   gulp.watch('public/js/controllers/*.js', ['controllers']);
   gulp.watch('public/js/directives/*.js', ['directives']);
+  gulp.watch('public/js/filters/*.js', ['filters']);
   gulp.watch('public/stylesheets/sass/global/*.scss', ['sass']);
   //gulp.watch('/src', ['imageMin']);
 });

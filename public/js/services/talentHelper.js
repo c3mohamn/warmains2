@@ -25,16 +25,12 @@ wmApp.service('talentHelper', ['$location', function($location) {
         minorCounter = 3;
 
     for (var key in urlGlyphsList) {
-      var urlId = urlGlyphsList[key];
+      var uid = urlGlyphsList[key];
       // Find glyph
-      var result = findGlyph(urlId, talentGlyphs),
-          type = result[0],
-          glyph = result[1];
-
-      glyph.urlId = urlId;
+      var glyph = findGlyph(uid, talentGlyphs);
 
       // set current glyph list, position based on type
-      if (type == 1) {
+      if (glyph.type == 1) {
         curGlyphs[majorCounter] = glyph;
         majorCounter++;
       } else {
@@ -309,19 +305,19 @@ wmApp.service('talentHelper', ['$location', function($location) {
 
     for (var g in glyphs) {
       if (glyphs[g]) {
-        url.push(glyphs[g].urlId);
+        url.push(glyphs[g].uid);
       }
     }
 
     return url.join(':');
   }
 
-  // return the glyph with urlId
-  function findGlyph(urlId, talentGlyphs) {
+  // return the glyph with uid
+  function findGlyph(uid, talentGlyphs) {
     for (var type in talentGlyphs) {
       for (var g in talentGlyphs[type]) {
-        if (g == urlId) {
-          return [type, talentGlyphs[type][g]];
+        if (g == uid) {
+          return talentGlyphs[type][g];
         }
       }
     }

@@ -13,18 +13,27 @@
   .modal-content {
     position: relative;
     width: 70%;
-    max-height: 70%;
+    height: 70%;
     background-color: $wm-secondary-dark;
     color: $wm-primary-light;
     box-shadow: $wm-boxshadow-black-2;
-    overflow: auto;
   }
+
   .modal-close {
     position: absolute;
     margin: 1rem;
-    top: 0;
-    right: 0;
+    bottom: 15%;
+    right: 17%;
     text-align: right;
+  }
+
+  .modal-search {
+    position: absolute;
+    margin: 1rem;
+    top: 15%;
+    right: 17%;
+    text-align: right;
+    z-index: 51;
   }
 
   &.destroyed {
@@ -35,7 +44,6 @@
 // Glyphs
 .modal-glyph-list {
   padding: 2rem;
-  overflow: auto;
 
   .modal-glyph-list-item {
     cursor: pointer;
@@ -46,12 +54,19 @@
     }
 
     .modal-glyph-icon {
-      width: 15px;
+      width: 35px;
+      height: 35px;
+      margin: .5rem;
     }
 
-    .modal-glyph-description {
-      color: white;
-      font-size: 12px;
+    // Name + Description
+    .modal-glyph-body {
+      margin: .3rem .5rem .5rem .5rem;
+
+      .modal-glyph-description {
+        color: white;
+        font-size: 12px;
+      }
     }
   }
 }

@@ -36,6 +36,11 @@ html {
 body {
   font-family: 'Roboto Condensed', sans-serif;
   background-image: url('/images/bg/wm-bg.jpg');
+
+  // Avoid scrolling body when modal is open
+  &.modal-open {
+    overflow: hidden;
+  }
 }
 
 .mainBody {
@@ -99,5 +104,44 @@ body {
     &:hover {
       opacity: .8;
     }
+  }
+}
+
+// Custom scroll bar
+
+.wm-scrollbar {
+  overflow: hidden;
+  transition: all $wm-transition-medium;
+
+  &:hover {
+    overflow: auto;
+    transition: all $wm-transition-medium;
+  }
+
+  &::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+  	background-color: $wm-secondary-dark;
+  }
+
+  &::-webkit-scrollbar {
+    width: .5rem;
+  	background-color: $wm-secondary-light;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+  	background-color: $wm-secondary-verylight;
+
+    &:hover {
+      background-color: darken($wm-secondary-verylight, 5);
+    }
+  }
+
+  &.small {
+    &::-webkit-scrollbar {
+      width: .3rem;
+    	background-color: $wm-secondary-light;
+    }
+
   }
 }

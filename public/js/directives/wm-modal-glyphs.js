@@ -12,6 +12,7 @@ wmApp.directive('wmModalGlyphs', ['$rootScope', '$timeout', 'talentHelper',
       link: function(scope, elem, attrs) {
         // vars
         var index = scope.index;
+        scope.modalSearch = '';
         // functs
         scope.removeModal = removeModal;
         scope.getGlyphIconPath = getGlyphIconPath;
@@ -20,6 +21,7 @@ wmApp.directive('wmModalGlyphs', ['$rootScope', '$timeout', 'talentHelper',
 
         function removeModal() {
           scope.destroying = true;
+          $rootScope.isModalOpen = false;
           $timeout(function() {
             $rootScope.showGlyphSelection = false;
           }, 300);
@@ -28,11 +30,10 @@ wmApp.directive('wmModalGlyphs', ['$rootScope', '$timeout', 'talentHelper',
         function getGlyphIconPath(glyph) {
           var iconName = glyph.icon.toLowerCase();
 
-          return 'http://wow.zamimg.com/images/wow/icons/small/' + iconName + '.jpg';
+          return 'http://wow.zamimg.com/images/wow/icons/medium/' + iconName + '.jpg';
         }
 
-        function selectGlyph(glyph, urlId) {
-          glyph.urlId = urlId;
+        function selectGlyph(glyph) {
           scope.curGlyphs[index] = glyph;
           talentHelper.changeUrlGlyphs(scope.curGlyphs);
           removeModal();

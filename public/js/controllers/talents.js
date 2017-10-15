@@ -21,6 +21,25 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
     $scope.clearGlyphs = clearGlyphs;
     $scope.showGlyphSelectionModal = showGlyphSelectionModal;
     $scope.getGlyphTooltip = getGlyphTooltip;
+    $scope.goToSavedChar = goToSavedChar;
+
+    // TODO: REMOVE WHEN YOU HAVE ACTUAL END POINT DATA.
+    $scope.savedChars = [
+        {name: 'Hunter MM', classId: 3, talents: 'I27W', glyphs: '2', preview: [0, 0, 2]},
+        {name: 'Some war spec', classId: 1, talents: 'rbI14qI13c', glyphs: '7:2', preview: [8, 5, 3]},
+        {name: 'Holy pala Dsac', classId: 2, talents: 'a', glyphs: '1:2:3', preview: [1, 0, 0]},
+        {name: 'Idk', classId: 3, talents: 'a', glyphs: '1:2:3', preview: [1, 0, 0]},
+        {name: 'fok', classId: 4, talents: 'a', glyphs: '1:2:3', preview: [1, 0, 0]},
+        {name: 'dang man', classId: 5, talents: 'a', glyphs: '1:2:3', preview: [1, 0, 0]},
+        {name: 'something something really long name here', classId: 6, talents: 'a', glyphs: '1:2:3', preview: [1, 0, 0]},
+        {name: 'beep', classId: 7, talents: 'a', glyphs: '1:2:3', preview: [1, 0, 0]},
+        {name: 'Boop', classId: 8, talents: 'a', glyphs: '1:2:3', preview: [1, 0, 0]},
+    ];
+
+    // Load saved characters talents & glyphs
+    function goToSavedChar(char) {
+      $state.go('talent-calculator', { class: char.classId, talents: char.talents, glyphs: char.glyphs}, {reload: true});
+    };
 
     // Check if the class Id from url is valid.
     function validClassId() {
@@ -65,17 +84,18 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
 
     // Change class and state.
     function changeClass(id) {
-      $state.go('talent-calculator', { class: id });
+      $state.go('talent-calculator', { class: id, talents: '', glyphs: '' });
     }
 
     // Change state to blank state because talents are invalid.
     function invalidTalents() {
-      $state.transitionTo('talent-calculator', { class: $scope.classId });
+      $state.transitionTo('talent-calculator', { class: $scope.classId, talents: '', glyphs: ''});
     }
 
     function showGlyphSelectionModal(index, type) {
       $rootScope.showGlyphSelection = true;
       $scope.glyphSelectionType = type;
       $scope.glyphSelectionIndex = index;
+      $rootScope.isModalOpen = true;
     }
 }]);
