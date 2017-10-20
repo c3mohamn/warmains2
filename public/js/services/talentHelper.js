@@ -1,6 +1,18 @@
 // Calculator helper service
 wmApp.service('talentHelper', ['$location', function($location) {
 
+  function getSavedTalents(username) {
+    return $http.get('/talent/getSaved', { username: username});
+  }
+
+  function saveTalent(saveTalent) {
+    return false;
+  }
+
+  function deleteTalent(savedTalentId) {
+    return false;
+  }
+
   // initialize talent tree
   function initTalents(talentDetails, urlTalents, talentsSpent, talentsSpentDetails) {
 
@@ -453,5 +465,10 @@ wmApp.service('talentHelper', ['$location', function($location) {
     clearGlyphs: clearGlyphs,
     getGlyphImgPath: getGlyphImgPath,
     getGlyphTooltip: getGlyphTooltip,
+
+    // http requests
+    getSavedTalents: getSavedTalents,
+    saveTalent: saveTalent,
+    deleteTalent: deleteTalent,
   };
 }]);
