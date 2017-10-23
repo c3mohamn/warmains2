@@ -53,32 +53,6 @@ router.post('/register', function(req, res){
             console.log(username, ' already exist.');
             res.status(400).end(username + ' already exists.');
           } else {
-            // User name is not taken.
-            // Now check if email is taken or not.
-            // User.getUserByEmail(email, function(err, user) {
-            //   if (err) throw err;
-            //   if (user) {
-            //     console.log(email, ' already in use.');
-            //     req.flash('error_msg', email + ' already in use.');
-            //     res.redirect('/users/register');
-            //   } else {
-            //     // Email and username not taken, proceed with registration.
-            //     // Creating a new user with given input.
-            //     var newUser = new User({
-            //         name: name,
-            //         username: username,
-            //         password: password1,
-            //         email: email
-            //     });
-            //     newUser.save(function(err) {
-            //         console.log(newUser);
-            //     });
-            //     req.flash('success_msg', 'You are registered ' + username + '!');
-            //     res.redirect('/');
-            //   }
-            //
-            // });
-
             //Creating a new user with given input.
             var newUser = new User({
                 name: 'asdad',

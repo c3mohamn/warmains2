@@ -1,9 +1,6 @@
 Talent Calculator:
 
-  ✔ Fix layout @done(10-15-2017 17:59) @project(Talent Calculator)
   ☐ Save talents to db for accounts?
-    ✔ Design container @done(10-15-2017 17:59) @project(Talent Calculator)
-    ✔ Design frame for saved talents @done(10-15-2017 17:59) @project(Talent Calculator)
     ☐ Retrieve saved talents from back-end
     ☐ Design what to show when user is not logged in
     ☐ Limit # talents in small container
@@ -11,10 +8,7 @@ Talent Calculator:
     ☐ Create a modal for managing and viewing all talents
     ☐ Show something when user has no saved talents
     Back-end:
-      ☐ Create end-point to save talents
-      ☐ Create end-point to delete talents
-      ☐ Create end-point to retrieve talents for current user
-      ✔ Create saved talents model @done(10-15-2017 18:12) @project(Talent Calculator / Back-end)
+      ☐ Created on? Last Modified?
 
   Bugs:
 
@@ -40,6 +34,13 @@ Backlog:
   ☐ Buffs
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 Archive:
+  ✔ Fix layout @done(10-15-2017 17:59) @project(Talent Calculator)
+  ✔ Design container @done(10-15-2017 17:59) @project(Talent Calculator)
+  ✔ Design frame for saved talents @done(10-15-2017 17:59) @project(Talent Calculator)
+  ✔ Create end-point to save talents @done(10-22-2017 23:42) @project(Talent Calculator / Back-end)
+  ✔ Create end-point to delete talents @done(10-22-2017 23:43) @project(Talent Calculator / Back-end)
+  ✔ Create end-point to retrieve talents for current user @done(10-22-2017 23:43) @project(Talent Calculator / Back-end)
+  ✔ Create saved talents model @done(10-15-2017 18:12) @project(Talent Calculator / Back-end)
   ✔ Implement Glyphs @done(10-15-2017 16:15) @project(Talent Calculator)
   ✔ Add a search on modal @done(10-15-2017 15:21) @project(Talent Calculator)
   ✘ Change hasGlyph to filter in ng-repeat @cancelled(10-15-2017 15:48) @project(Talent Calculator / Optimizations)

@@ -1,6 +1,6 @@
 // Talent-calc controller
-wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$stateParams', '$state', 'talentDetails', 'talentTooltips', 'talentGlyphs',
-  function($rootScope, $scope, talentHelper, $stateParams, $state, talentDetails, talentTooltips, talentGlyphs) {
+wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$stateParams', '$state', 'talentDetails', 'talentTooltips', 'talentGlyphs', '$http',
+  function($rootScope, $scope, talentHelper, $stateParams, $state, talentDetails, talentTooltips, talentGlyphs, $http) {
     // vars
     $scope.classes = classesToString;
     $scope.specs = specsToString;
@@ -21,7 +21,8 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
     $scope.clearGlyphs = clearGlyphs;
     $scope.showGlyphSelectionModal = showGlyphSelectionModal;
     $scope.getGlyphTooltip = getGlyphTooltip;
-    $scope.goToSavedChar = goToSavedChar;
+    $scope.goToSavedTalent = goToSavedTalent;
+    $scope.saveTalent = saveTalent;
 
     // TODO: REMOVE WHEN YOU HAVE ACTUAL END POINT DATA.
     $scope.savedChars = [
@@ -36,8 +37,41 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
         {name: 'Boop', classId: 8, talents: 'a', glyphs: '1:2:3', preview: [1, 0, 0]},
     ];
 
+
+    function saveTalent(talent) {
+      // TODO: should pop up a modal asking for name
+
+      // talentHelper.saveTalent({name: 'Some war spec', classId: 1, talents: 'rbI14qI13c', glyphs: '7:2', preview: [8, 5, 3]}, 'atd2').then(
+      //   function successCallback(response) {
+      //     console.log(response);
+      //   }, function errorCallback(response) {
+      //     console.log(response);
+      //   }
+      // );
+    }
+
+    // $http.get('/talent/get', {params: {username: 'atd2'}}).then(
+    //   function successCallback(response) {
+    //     console.log(response);
+    //     console.log(response.data.talents[0]._id);
+    //   }, function errorCallback(response) {
+    //     console.log(response);
+    //   }
+    // );
+
+
+    // var id = '59ed5dd8a108a7141a6ba489';
+    //
+    // $http.post('/talent/delete', {id: id, name: 'blah'}).then(
+    //   function successCallback(response) {
+    //       console.log(response);
+    //     }, function errorCallback(response) {
+    //       console.log(response);
+    //     }
+    // );
+
     // Load saved characters talents & glyphs
-    function goToSavedChar(char) {
+    function goToSavedTalent(char) {
       $state.go('talent-calculator', { class: char.classId, talents: char.talents, glyphs: char.glyphs}, {reload: true});
     };
 

@@ -1,5 +1,13 @@
 [
   {
+    "version": "1.2.1",
+    "date": "10/22/2017",
+    "time": "",
+    "description": [
+      "Created end-points for saving, deleting and getting talents."
+    ]
+  },
+  {
     "version": "1.2.0",
     "date": "10/15/2017",
     "time": "",

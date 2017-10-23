@@ -1,16 +1,23 @@
 // Calculator helper service
-wmApp.service('talentHelper', ['$location', function($location) {
+wmApp.service('talentHelper', ['$location', '$http', function($location, $http) {
 
-  function getSavedTalents(username) {
-    return $http.get('/talent/getSaved', { username: username});
+  function getTalents(username) {
+    return $http.get('/talent/get', { username: username});
   }
 
-  function saveTalent(saveTalent) {
-    return false;
+  function saveTalent(talent, username) {
+    return $http.post('/talent/save', {
+      username: username,
+      name: talent.name,
+      classId: talent.classId,
+      talents: talent.talents,
+      glyphs: talent.glyphs,
+      preview: talent.preview
+    });
   }
 
-  function deleteTalent(savedTalentId) {
-    return false;
+  function deleteTalent(talent) {
+    return $http.post('/talent/delete', {id: talent._id, name: talent.name});
   }
 
   // initialize talent tree
@@ -467,7 +474,7 @@ wmApp.service('talentHelper', ['$location', function($location) {
     getGlyphTooltip: getGlyphTooltip,
 
     // http requests
-    getSavedTalents: getSavedTalents,
+    getTalents: getTalents,
     saveTalent: saveTalent,
     deleteTalent: deleteTalent,
   };

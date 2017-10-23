@@ -37,7 +37,7 @@
 
   <div ng-if="validClassId()">
     <a class="button alert dark-bg" ng-click="clearTalents()">Reset all</a>
-    <a class="button success dark-bg float-right disabled" ng-click="saveTalents()">Save Talents</a>
+    <a class="button success dark-bg float-right" ng-click="saveTalent()">Save Talents</a>
   </div>
 
   <!-- Calculator -->
@@ -102,7 +102,7 @@
       <a class="view-all-saved button small hollow dark-bg no-margin disabled">View All</a>
       <!-- List of saved Chars -->
       <div class="saved-talentss wm-scrollbar small">
-        <div class="saved-talents flex-container" ng-repeat="char in savedChars" ng-click="goToSavedChar(char)">
+        <div class="saved-talents flex-container" ng-repeat="char in savedChars" ng-click="goToSavedTalent(char)">
           <img class="saved-talents-icon class-icons small hoverable" ng-src="/images/class-icons/{{char.classId}}.png">
           <div class="saved-talents-body">
             {{char.name}}
