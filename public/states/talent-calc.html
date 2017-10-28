@@ -37,7 +37,7 @@
 
   <div ng-if="validClassId()">
     <a class="button alert dark-bg" ng-click="clearTalents()">Reset all</a>
-    <a class="button success dark-bg float-right" ng-click="saveTalent()">Save Talents</a>
+    <a class="button dark-bg float-right" ng-click="showSavedTalents()" ng-disabled="!currentUser">Saved Talents</a>
   </div>
 
   <!-- Calculator -->
@@ -96,20 +96,21 @@
       </div>
     </div>
 
-    <!-- Saved characters -->
+    <!-- Saved talents -->
     <div class="saved-container">
       <span class="saved-container-title">Saved Talents - Test</span>
-      <a class="view-all-saved button small hollow dark-bg no-margin disabled">View All</a>
-      <!-- List of saved Chars -->
+      <!-- List of saved Talents -->
       <div class="saved-talentss wm-scrollbar small">
-        <div class="saved-talents flex-container" ng-repeat="char in savedChars" ng-click="goToSavedTalent(char)">
-          <img class="saved-talents-icon class-icons small hoverable" ng-src="/images/class-icons/{{char.classId}}.png">
+        <div ng-if="classId == talent.classId" class="saved-talents flex-container" ng-repeat="talent in savedTalents" ng-click="goToSavedTalent(talent)">
+
+          <img class="saved-talents-icon class-icons small hoverable" ng-src="/images/class-icons/{{talent.classId}}.png">
           <div class="saved-talents-body">
-            {{char.name}}
+            {{talent.name}}
             <div class="saved-talents-body-info">
-              ({{char.preview[0]}} / {{char.preview[1]}} / {{char.preview[2]}} )
+              ({{talent.preview[0]}} / {{talent.preview[1]}} / {{talent.preview[2]}} )
             </div>
           </div>
+
         </div>
       </div>
     </div>

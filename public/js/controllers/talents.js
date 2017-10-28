@@ -22,10 +22,10 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
     $scope.showGlyphSelectionModal = showGlyphSelectionModal;
     $scope.getGlyphTooltip = getGlyphTooltip;
     $scope.goToSavedTalent = goToSavedTalent;
-    $scope.saveTalent = saveTalent;
+    $scope.showSavedTalents = showSavedTalents;
 
     // TODO: REMOVE WHEN YOU HAVE ACTUAL END POINT DATA.
-    $scope.savedChars = [
+    $scope.savedTalents = [
         {name: 'Hunter MM', classId: 3, talents: 'I27W', glyphs: '2', preview: [0, 0, 2]},
         {name: 'Some war spec', classId: 1, talents: 'rbI14qI13c', glyphs: '7:2', preview: [8, 5, 3]},
         {name: 'Holy pala Dsac', classId: 2, talents: 'a', glyphs: '1:2:3', preview: [1, 0, 0]},
@@ -37,8 +37,10 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
         {name: 'Boop', classId: 8, talents: 'a', glyphs: '1:2:3', preview: [1, 0, 0]},
     ];
 
+    function showSavedTalents() {
+      if (!$rootScope.currentUser)
+        return false;
 
-    function saveTalent(talent) {
       ModalService.showModal(saveModalOptions).then(function (modal) {
         modal.close.then(function (result) {
           console.log('confirmed no value', result);
@@ -74,9 +76,9 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
     //     }
     // );
 
-    // Load saved characters talents & glyphs
-    function goToSavedTalent(char) {
-      $state.go('talent-calculator', { class: char.classId, talents: char.talents, glyphs: char.glyphs}, {reload: true});
+    // Load saved talents & glyphs
+    function goToSavedTalent(talent) {
+      $state.go('talent-calculator', { class: talent.classId, talents: talent.talents, glyphs: talent.glyphs}, {reload: true});
     };
 
     // Check if the class Id from url is valid.

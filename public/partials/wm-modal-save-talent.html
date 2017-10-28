@@ -1,7 +1,7 @@
 <div class="modal-overlay flex-container align-middle align-center" ng-class="{'destroyed': destroying}">
 
   <!-- Main modal content -->
-  <div class="modal-content small" click-outside="closeModal()">
+  <div class="modal-content small" click-outside="closeModal()" outside-if-not="modal-close">
 
     <div class="form-fields save-talent">
       <form name="talentForm" novalidate>
