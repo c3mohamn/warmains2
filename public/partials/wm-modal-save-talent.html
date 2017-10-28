@@ -1,0 +1,23 @@
+<div class="modal-overlay flex-container align-middle align-center" ng-class="{'destroyed': destroying}">
+
+  <!-- Main modal content -->
+  <div class="modal-content small" click-outside="closeModal()">
+
+    <div class="form-fields save-talent">
+      <form name="talentForm" novalidate>
+        <div class="input-field-container">
+          <input class="input-field" type="text" placeholder="name" ng-model="name">
+          <span class="input-form-error-msg">{{nameError}}</span>
+        </div>
+      </form>
+    </div>
+
+  </div>
+  <!-- Flating close button -->
+  <div class="modal-close modal-small">
+    <div class="button-group">
+      <a class="button float-right dark-bg" ng-click="save()">Save</a>
+      <a class="button secondary dark-bg no-margin" ng-click="closeModal()">Close</a>
+    </div>
+  </div>
+</div>

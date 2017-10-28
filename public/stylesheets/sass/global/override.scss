@@ -36,7 +36,18 @@ h1, h2, h3, h4, h5, h6 {
   border: none;
   box-shadow: none;
   outline: none;
+  color: $wm-primary;
   border-bottom: 2px solid rgba($wm-primary-dark, .5);
+
+  &::placeholder {
+    color: $wm-secondary-light;
+  }
+
+  &:hover {
+    &::placeholder {
+      color: $wm-secondary;
+    }
+  }
 
   &:focus {
     border: none;
@@ -61,6 +72,7 @@ h1, h2, h3, h4, h5, h6 {
 
   .input-field {
     margin-bottom: 1.5rem;
+    background-color: inherit;
   }
 
   .input-form-error-msg {

@@ -1,6 +1,6 @@
 // Talent-calc controller
-wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$stateParams', '$state', 'talentDetails', 'talentTooltips', 'talentGlyphs', '$http',
-  function($rootScope, $scope, talentHelper, $stateParams, $state, talentDetails, talentTooltips, talentGlyphs, $http) {
+wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$stateParams', '$state', 'talentDetails', 'talentTooltips', 'talentGlyphs', 'ModalService',
+  function($rootScope, $scope, talentHelper, $stateParams, $state, talentDetails, talentTooltips, talentGlyphs, ModalService) {
     // vars
     $scope.classes = classesToString;
     $scope.specs = specsToString;
@@ -9,7 +9,7 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
     $scope.classId = $stateParams.class;
     $scope.talentDetails = talentDetails;                            // class talents
     $scope.talentTooltips = talentTooltips;
-    $scope.talentsSpentDetails = {};//= talentHelper.talentsSpentDetails; // additional info about current talents
+    $scope.talentsSpentDetails = {};                               // additional info about current talents
     $scope.talentsSpent = {};                                     // stores points used in each talent
     $scope.talentGlyphs = talentGlyphs;
     $scope.curGlyphs = {};
@@ -39,16 +39,20 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
 
 
     function saveTalent(talent) {
-      // TODO: should pop up a modal asking for name
+      ModalService.showModal(saveModalOptions).then(function (modal) {
+        modal.close.then(function (result) {
+          console.log('confirmed no value', result);
 
-      // talentHelper.saveTalent({name: 'Some war spec', classId: 1, talents: 'rbI14qI13c', glyphs: '7:2', preview: [8, 5, 3]}, 'atd2').then(
-      //   function successCallback(response) {
-      //     console.log(response);
-      //   }, function errorCallback(response) {
-      //     console.log(response);
-      //   }
-      // );
+          // TODO: use result for data and then save.
+        });
+      });
     }
+
+    var saveModalOptions = {
+        templateUrl: '/partials/wm-modal-save-talent.html',
+        bodyClass: 'modal-open',
+        controller: 'modalSaveTalentCtrl'
+    };
 
     // $http.get('/talent/get', {params: {username: 'atd2'}}).then(
     //   function successCallback(response) {

@@ -17,6 +17,16 @@
     background-color: $wm-secondary-dark;
     color: $wm-primary-light;
     box-shadow: $wm-boxshadow-black-2;
+
+    &.small {
+      width: 60%;
+      height: 60%;
+    }
+
+    &.auto {
+      width: auto;
+      height: auto;
+    }
   }
 
   .modal-close {
@@ -25,6 +35,17 @@
     bottom: 15%;
     right: 17%;
     text-align: right;
+
+    .button-group {
+      .button {
+        margin: 0 .5rem;
+      }
+    }
+
+    &.modal-small {
+      bottom: 20%;
+      right: 20%;
+    }
   }
 
   .modal-search {
@@ -69,4 +90,11 @@
       }
     }
   }
+}
+
+// Save Talent
+.save-talent {
+  margin: 4rem;
+
+
 }
