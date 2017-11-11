@@ -26,15 +26,6 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
 
     // TODO: REMOVE WHEN YOU HAVE ACTUAL END POINT DATA.
     $scope.savedTalents = [
-        {name: 'Hunter MM', classId: 3, talents: 'I27W', glyphs: '2', preview: [0, 0, 2]},
-        {name: 'Some war spec', classId: 1, talents: 'rbI14qI13c', glyphs: '7:2', preview: [8, 5, 3]},
-        {name: 'Holy pala Dsac', classId: 2, talents: 'a', glyphs: '1:2:3', preview: [1, 0, 0]},
-        {name: 'Idk', classId: 3, talents: 'a', glyphs: '1:2:3', preview: [1, 0, 0]},
-        {name: 'fok', classId: 4, talents: 'a', glyphs: '1:2:3', preview: [1, 0, 0]},
-        {name: 'dang man', classId: 5, talents: 'a', glyphs: '1:2:3', preview: [1, 0, 0]},
-        {name: 'something something really long name here', classId: 6, talents: 'a', glyphs: '1:2:3', preview: [1, 0, 0]},
-        {name: 'beep', classId: 7, talents: 'a', glyphs: '1:2:3', preview: [1, 0, 0]},
-        {name: 'Boop', classId: 8, talents: 'a', glyphs: '1:2:3', preview: [1, 0, 0]},
     ];
 
     function showSavedTalents() {
@@ -43,9 +34,32 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
 
       ModalService.showModal(saveModalOptions).then(function (modal) {
         modal.close.then(function (result) {
-          console.log('confirmed no value', result);
+          // Create new talent object
+          var talent = {
+            name: result.name,
+            classId: $scope.classId,
+            talents: result.talents,
+            glyphs: result.glyphs,
+            preview: [
+              $scope.talentsSpentDetails[0].total, 
+              $scope.talentsSpentDetails[1].total, 
+              $scope.talentsSpentDetails[2].total
+            ],
+          };
 
-          // TODO: use result for data and then save.
+          // Save new talent
+          talentHelper.saveTalent(talent, $rootScope.currentUser.username).then(
+            function successCallback(response) {
+              if (response) {
+                console.log(response);
+                $scope.savedTalents.push(response.data);
+              } else {
+                console.log('No response...');
+              }
+            }, function errorCallback(response) {
+              console.log(response);
+            }
+          );
         });
       });
     }
@@ -55,16 +69,6 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
         bodyClass: 'modal-open',
         controller: 'modalSaveTalentCtrl'
     };
-
-    // $http.get('/talent/get', {params: {username: 'atd2'}}).then(
-    //   function successCallback(response) {
-    //     console.log(response);
-    //     console.log(response.data.talents[0]._id);
-    //   }, function errorCallback(response) {
-    //     console.log(response);
-    //   }
-    // );
-
 
     // var id = '59ed5dd8a108a7141a6ba489';
     //
@@ -101,6 +105,22 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
       // Clear talents and glyphs to default values
       clearTalents();
       clearGlyphs();
+
+      // Load saved talents if a user is logged in
+      if ($rootScope.currentUser) {
+        talentHelper.getTalents($rootScope.currentUser.username).then(
+          function successCallback(response) {
+            if (response) {
+              console.log(response);
+              $scope.savedTalents = response.data.talents;
+              if (response.data) {
+              }
+            }
+          }, function errorCallback(response) {
+            console.log(response);
+          }
+        );
+      }
 
       if ($scope.urlTalents) {
         talentHelper.initTalents(talentDetails, $scope.urlTalents, $scope.talentsSpent, $scope.talentsSpentDetails);

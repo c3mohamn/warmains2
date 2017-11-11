@@ -54,7 +54,7 @@ router.post('/save', function(req, res) {
               console.log(talent);
           });
 
-          res.status(200).send({data: talent});
+          res.status(200).send(talent);
         }
       });
   }
@@ -69,7 +69,23 @@ router.get('/get', function(req, res) {
         res.status(500).send();
       }
 
-      res.status(200).send({talents: result});
+      var talents = [];
+
+      // create new talent model
+      for (var key in result) {
+        var talent = {
+          classId: result[key].classId,
+          name: result[key].name,
+          glyphs: result[key].glyphs,
+          preview: result[key].preview,
+          talents: result[key].talents,
+          id: result[key]._id,
+        };
+
+        talents.push(talent);
+      }
+      
+      res.status(200).send({talents: talents});
     });
 });
 

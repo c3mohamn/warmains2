@@ -10,6 +10,7 @@
       </ul>
     </div>
 
+    <!-- Tree preview -->
     <div class="calculator-details">
       <span>
         ( {{talentsSpentDetails[0].total}} / {{talentsSpentDetails[1].total}} / {{talentsSpentDetails[2].total}})
@@ -98,7 +99,7 @@
 
     <!-- Saved talents -->
     <div class="saved-container">
-      <span class="saved-container-title">Saved Talents - Test</span>
+      <span class="saved-container-title">Saved {{classes[classId]}} Talents</span>
       <!-- List of saved Talents -->
       <div class="saved-talentss wm-scrollbar small">
         <div ng-if="classId == talent.classId" class="saved-talents flex-container" ng-repeat="talent in savedTalents" ng-click="goToSavedTalent(talent)">
@@ -110,6 +111,10 @@
               ({{talent.preview[0]}} / {{talent.preview[1]}} / {{talent.preview[2]}} )
             </div>
           </div>
+          <!-- <i class="material-icons">cloud_off</i>
+                  TODO: message if no data found.
+                        CTA to create / save talents.
+          -->
 
         </div>
       </div>

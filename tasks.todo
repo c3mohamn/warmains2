@@ -1,7 +1,7 @@
 Talent Calculator:
 
   ☐ Save talents to db for accounts?
-    ☐ Retrieve saved talents from back-end
+    ✔ Retrieve saved talents from back-end @done (11/11/2017, 3:20:38 PM)
     ☐ Design what to show when user is not logged in
     ☐ Limit # talents in small container
     ☐ Create a modal for creating talents
@@ -13,6 +13,10 @@ Talent Calculator:
   Bugs:
 
   Optimizations:
+    ☐ Add saved talents to a service so only have to load it once?
+      ☐ Remove talents from service when logging out
+      ☐ Add saved talents to service when saving
+
 
 Other:
 

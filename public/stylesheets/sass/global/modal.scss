@@ -1,7 +1,7 @@
 @import 'theme';
 
 .modal-overlay {
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
   width: 100%;
@@ -92,9 +92,30 @@
   }
 }
 
-// Save Talent
-.save-talent {
-  margin: 4rem;
 
+// Saved Talents modal
+.saved-talents-modal {
+  height: 100%;
+  padding: 4rem;
 
+  .saved-talents-list {
+    position: relative;
+    height: 100%;
+
+    &:before {
+      content: ' ';
+      display: block;
+      height: 100%;
+      width: 1px;
+      background: #ccc;
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+  }
+
+  .saved-talents-new {
+    height: 100%;
+  }
 }
+

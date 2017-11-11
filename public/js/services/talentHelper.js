@@ -2,7 +2,7 @@
 wmApp.service('talentHelper', ['$location', '$http', function($location, $http) {
 
   function getTalents(username) {
-    return $http.get('/talent/get', { username: username});
+    return $http.get('/talent/get', { params: {username: username}});
   }
 
   function saveTalent(talent, username) {
@@ -16,8 +16,8 @@ wmApp.service('talentHelper', ['$location', '$http', function($location, $http) 
     });
   }
 
-  function deleteTalent(talent) {
-    return $http.post('/talent/delete', {id: talent._id, name: talent.name});
+  function deleteTalent(id) {
+    return $http.post('/talent/delete', {id: id});
   }
 
   // initialize talent tree

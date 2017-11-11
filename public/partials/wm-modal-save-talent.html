@@ -3,14 +3,23 @@
   <!-- Main modal content -->
   <div class="modal-content small" click-outside="closeModal()" outside-if-not="modal-close">
 
-    <div class="form-fields save-talent">
-      <form name="talentForm" novalidate>
-        <div class="input-field-container">
-          <input class="input-field" type="text" placeholder="name" ng-model="name">
-          <span class="input-form-error-msg">{{nameError}}</span>
+    <div class="saved-talents-modal flex-container row">
+      <div class="saved-talents-list column">
+        List of saved talents here...
+      </div>
+      <div class="saved-talents-new column">
+        <!-- Save talent form -->
+        <div class="form-fields save-talent">
+          <form name="talentForm" novalidate>
+            <div class="input-field-container">
+              <input class="input-field" type="text" placeholder="name" ng-model="name">
+              <span class="input-form-error-msg">{{nameError}}</span>
+            </div>
+          </form>
         </div>
-      </form>
+      </div>
     </div>
+    
 
   </div>
   <!-- Flating close button -->
