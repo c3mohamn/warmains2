@@ -33,7 +33,4 @@ wmApp.controller('modalSaveTalentCtrl', ['$scope', 'close', '$location', functio
     }
     return true;
   }
-
-
-
 }]);
