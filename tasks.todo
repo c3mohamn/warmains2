@@ -7,6 +7,13 @@ Talent Calculator:
     ☐ Create a modal for creating talents
     ☐ Create a modal for managing and viewing all talents
     ☐ Show something when user has no saved talents
+
+  ✔ Make SAVED talents a slide-out from right? @done (11/18/2017, 5:20:02 PM)
+    ☐ Make SAVING talents modal only.
+    ☐ Show preview of current talent/glyphs when SAVING.
+       ☐ When clicking Save talent, save in localStorage
+          Then retreive information from localStorage and show preview.
+          Preview of all used talents, amount, icons etc. 
     
     Back-end:
       ☐ Created on? Last Modified?

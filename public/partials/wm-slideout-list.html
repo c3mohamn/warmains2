@@ -1,0 +1,40 @@
+<div class="slideout" ng-class="{'show': show, 'show-preview': showPreview && !show}">
+    <div class="slideout-container">
+        <!-- Content -->
+        <div class="slideout-container-inner wm-scrollbar">
+
+            <h4 class="slideout-title">{{slideoutTitle}}</h4>
+                
+            <!-- Add a tooltip on left? -->
+            <div class="saved-talentss">
+                <div class="saved-talents flex-container" 
+                     wm-tooltip
+                     position="left-middle"
+                     content="{{talent.name}}"
+                     ng-repeat="talent in itemList"
+                     ng-click="navigateToItem(talent)">
+        
+                    <img class="saved-talents-icon class-icons small hoverable" ng-src="/images/class-icons/{{talent.classId}}.png">
+                    <div class="saved-talents-body">
+                    {{talent.name}}
+                    <div class="saved-talents-body-info">
+                        ({{talent.preview[0]}} / {{talent.preview[1]}} / {{talent.preview[2]}} )
+                    </div>
+                    </div>
+                    <!-- <i class="material-icons">cloud_off</i>
+                            TODO: message if no data found.
+                                CTA to create / save talents.
+                    -->
+        
+                </div>
+            </div>
+
+
+        </div>
+        <!-- Arrow on side that toggles slideout -->
+        <div class="slideout-arrow flex-container align-middle align-center" ng-click="toggleSlideout()">
+            <i ng-show="!show" class="material-icons">chevron_left</i>
+            <i ng-show="show" class="material-icons">chevron_right</i>
+        </div>
+    </div>
+</div>

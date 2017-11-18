@@ -98,22 +98,6 @@
   height: 100%;
   padding: 4rem;
 
-  .saved-talents-list {
-    position: relative;
-    height: 100%;
-
-    &:before {
-      content: ' ';
-      display: block;
-      height: 100%;
-      width: 1px;
-      background: #ccc;
-      position: absolute;
-      right: 0;
-      top: 0;
-    }
-  }
-
   .saved-talents-new {
     height: 100%;
   }

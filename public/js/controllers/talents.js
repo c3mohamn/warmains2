@@ -60,6 +60,7 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
                 if (response) {
                   console.log(response);
                   talentHelper.addSavedTalent(response.data);
+                  $scope.showSlideoutPreview = true;
                 } else {
                   console.log('No response...');
                 }
@@ -93,16 +94,16 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
       init();
     }
 
+    // Load saved talents if a user is logged in
+    if ($rootScope.currentUser) {
+      getSavedTalents($rootScope.currentUser.username);
+    }
+
     // Initialize talents and glyphs
     function init() {
       // Clear talents and glyphs to default values
       clearTalents();
       clearGlyphs();
-
-      // Load saved talents if a user is logged in
-      if ($rootScope.currentUser) {
-        getSavedTalents($rootScope.currentUser.username);
-      }
 
       if ($scope.urlTalents) {
         talentHelper.initTalents(talentDetails, $scope.urlTalents, $scope.talentsSpent, $scope.talentsSpentDetails);
@@ -122,6 +123,7 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
 
       if (talents !== undefined) {
         $scope.savedTalents = talents;
+        $scope.showSlideoutPreview = true;
         return true;
       }
 
@@ -132,6 +134,7 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
             console.log(response);
             talentHelper.initSavedTalents(response.data.talents);
             $scope.savedTalents = response.data.talents;
+            $scope.showSlideoutPreview = true;
           }
         }, function errorCallback(response) {
           console.log(response);

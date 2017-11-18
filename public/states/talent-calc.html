@@ -38,7 +38,7 @@
 
   <div ng-if="validClassId()">
     <a class="button alert dark-bg" ng-click="clearTalents(); clearGlyphs();">Reset all</a>
-    <a class="button dark-bg float-right" ng-click="showSavedTalents()" ng-disabled="!currentUser">Saved Talents</a>
+    <a class="button dark-bg float-right" ng-click="showSavedTalents()" ng-disabled="!currentUser">Save Talents</a>
   </div>
 
   <!-- Calculator -->
@@ -124,5 +124,13 @@
   <!-- Glyph Modal / Overlay -->
   <div ng-if="showGlyphSelection">
     <wm-modal-glyphs glyphs="talentGlyphs" index="glyphSelectionIndex" cur-glyphs="curGlyphs" type="glyphSelectionType"/>
+  </div>
+
+  <!-- Saved talents slideout -->
+  <div ng-show="currentUser">
+    <wm-slideout-list item-list="savedTalents" 
+                      show-preview="showSlideoutPreview" 
+                      go-to-item-url="goToSavedTalent(item)" 
+                      slideout-title="Saved Talents"/>
   </div>
 </div>
