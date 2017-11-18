@@ -6,7 +6,7 @@ var TalentSchema = mongoose.Schema({
     name: {type: String, required: true},
     classId: {type: Number, required: true},
     talents: {type: String, required: true},
-    glyphs: {type: String, required: true},
+    glyphs: {type: String, required: false},
     preview: {type: Array, required: true}
 });
 

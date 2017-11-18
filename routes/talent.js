@@ -19,7 +19,7 @@ router.post('/save', function(req, res) {
   req.checkBody('classId',
   'Invalid classId.').isInt();
   req.checkBody('talents',
-  'Invalid talents.').isLength({min:0, max:100});
+  'Invalid talents.').isLength({min:1, max:100});
   req.checkBody('glyphs',
   'Invalid glyphs.').isLength({min:0, max:50});
 
@@ -50,11 +50,13 @@ router.post('/save', function(req, res) {
           });
 
           Talent.saveTalent(newTalent, function(err, talent) {
-              if(err) throw err;
+              if (err) {
+                console.log(err);
+                res.status(500).send();
+              }
               console.log(talent);
+              res.status(200).send(talent);
           });
-
-          res.status(200).send(talent);
         }
       });
   }

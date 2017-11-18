@@ -7,15 +7,17 @@ Talent Calculator:
     ☐ Create a modal for creating talents
     ☐ Create a modal for managing and viewing all talents
     ☐ Show something when user has no saved talents
+    
     Back-end:
       ☐ Created on? Last Modified?
 
   Bugs:
 
   Optimizations:
-    ☐ Add saved talents to a service so only have to load it once?
-      ☐ Remove talents from service when logging out
-      ☐ Add saved talents to service when saving
+    ✔ Add saved talents to a service so only have to load it once? @done (11/18/2017, 2:32:39 PM)
+      ✘ Remove talents from service when logging out @cancelled (11/18/2017, 2:34:31 PM)
+      ✔ Add saved talents to service when saving @done (11/18/2017, 2:32:50 PM)
+      ☐ Remove talent when deleting
 
 
 Other:

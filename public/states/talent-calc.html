@@ -37,7 +37,7 @@
   </div>
 
   <div ng-if="validClassId()">
-    <a class="button alert dark-bg" ng-click="clearTalents()">Reset all</a>
+    <a class="button alert dark-bg" ng-click="clearTalents(); clearGlyphs();">Reset all</a>
     <a class="button dark-bg float-right" ng-click="showSavedTalents()" ng-disabled="!currentUser">Saved Talents</a>
   </div>
 

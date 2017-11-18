@@ -3,9 +3,28 @@
   <!-- Main modal content -->
   <div class="modal-content small" click-outside="closeModal()" outside-if-not="modal-close">
 
-    <div class="saved-talents-modal flex-container row">
+    <div class="saved-talents-modal flex-container wm-scrollbar row">
       <div class="saved-talents-list column">
         List of saved talents here...
+
+        <div class="saved-talentss wm-scrollbar small">
+          <div class="saved-talents flex-container" ng-repeat="talent in savedTalents">
+  
+            <img class="saved-talents-icon class-icons small hoverable" ng-src="/images/class-icons/{{talent.classId}}.png">
+            <div class="saved-talents-body">
+              {{talent.name}}
+              <div class="saved-talents-body-info">
+                ({{talent.preview[0]}} / {{talent.preview[1]}} / {{talent.preview[2]}} )
+              </div>
+            </div>
+            <!-- <i class="material-icons">cloud_off</i>
+                    TODO: message if no data found.
+                          CTA to create / save talents.
+            -->
+  
+          </div>
+        </div>
+
       </div>
       <div class="saved-talents-new column">
         <!-- Save talent form -->

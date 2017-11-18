@@ -31,30 +31,30 @@
       bottom: -38px;
       right: 0;
     }
+  }
 
-    .saved-talentss {
-      width: 100%;
-      height: 100%;
+  .saved-talentss {
+    width: 100%;
+    height: 100%;
 
-      .saved-talents {
-        cursor: pointer;
-        transition: all $wm-transition-fast;
+    .saved-talents {
+      cursor: pointer;
+      transition: all $wm-transition-fast;
 
-        &:hover {
-          background-color: $wm-secondary-light;
-        }
+      &:hover {
+        background-color: $wm-secondary-light;
+      }
 
-        .saved-talents-icon {
-          margin: .25rem;
-        }
+      .saved-talents-icon {
+        margin: .25rem;
+      }
 
-        .saved-talents-body {
-          margin: 0 .25rem .25rem .25rem;
+      .saved-talents-body {
+        margin: 0 .25rem .25rem .25rem;
 
-          .saved-talents-body-info {
-            color: white;
-            font-size: 12px;
-          }
+        .saved-talents-body-info {
+          color: white;
+          font-size: 12px;
         }
       }
     }

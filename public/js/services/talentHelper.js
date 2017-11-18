@@ -1,10 +1,38 @@
 // Calculator helper service
 wmApp.service('talentHelper', ['$location', '$http', function($location, $http) {
 
+  // List of cached saved talents for logged in user
+  var savedTalents = undefined;
+
+  function initSavedTalents(talents) {
+    savedTalents = talents;
+  }
+
+  // Get all saved talents
+  function getAllSavedTalents() {
+    return savedTalents;
+  }
+
+  // Add a talent to saved talents
+  function addSavedTalent(talent) {
+    savedTalents.push(talent);
+  }
+
+  // Remove a talent from saved talents
+  function removeSavedTalent(id) {
+    for (var key in savedTalents) {
+      if (savedTalents[key].id === id) {
+        savedTalents.splice(key, 1);
+      }
+    }
+  }
+
+  // Get all talents for username from db
   function getTalents(username) {
     return $http.get('/talent/get', { params: {username: username}});
   }
 
+  // Save talent to db
   function saveTalent(talent, username) {
     return $http.post('/talent/save', {
       username: username,
@@ -16,6 +44,7 @@ wmApp.service('talentHelper', ['$location', '$http', function($location, $http) 
     });
   }
 
+  // Removes a talent from db
   function deleteTalent(id) {
     return $http.post('/talent/delete', {id: id});
   }
@@ -245,7 +274,7 @@ wmApp.service('talentHelper', ['$location', '$http', function($location, $http) 
            + clickTo + "</div>";
   }
 
-  // Return the html for tooltip of glyph
+  // return the html for tooltip of glyph
   function getGlyphTooltip(glyph, type, glyphImgPath) {
     if (!glyph) {
       glyph = {};
@@ -454,6 +483,12 @@ wmApp.service('talentHelper', ['$location', '$http', function($location, $http) 
   }
 
   return {
+    // Getters / Setters
+    initSavedTalents: initSavedTalents,
+    getAllSavedTalents: getAllSavedTalents,
+    addSavedTalent: addSavedTalent,
+    removeSavedTalent: removeSavedTalent,
+
     // Talent functions
     initTalents: initTalents,
     getUrlTalents: getUrlTalents,
