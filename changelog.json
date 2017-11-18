@@ -1,13 +1,28 @@
 [
   {
+    "version": "1.2.6",
+    "date": "11/18/2017",
+    "time": "",
+    "description": [
+      "Only show slideout preview if user has saved talents."
+    ]
+  },
+  {
     "version": "1.2.5",
+    "date": "11/18/2017",
+    "time": "",
+    "description": [
+      "Move saved talents from modal to floating sidebar."
+    ]
+  },
+  {
+    "version": "1.2.4",
     "date": "11/18/2017",
     "time": "",
     "description": [
       "Optimized saved talent retrieval so only call db once.",
       "Disallow users from saving talent with no points spent.",
       "Fix bug where saving with no glyphs breaks app.",
-      "Move saved talents from modal to floating sidebar."
     ]
   },
   {

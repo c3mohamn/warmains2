@@ -123,7 +123,9 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
 
       if (talents !== undefined) {
         $scope.savedTalents = talents;
-        $scope.showSlideoutPreview = true;
+        if ($scope.savedTalents.length > 0) {
+          $scope.showSlideoutPreview = true;
+        }
         return true;
       }
 
@@ -134,7 +136,9 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
             console.log(response);
             talentHelper.initSavedTalents(response.data.talents);
             $scope.savedTalents = response.data.talents;
-            $scope.showSlideoutPreview = true;
+            if ($scope.savedTalents.length > 0) {
+              $scope.showSlideoutPreview = true;
+            }
           }
         }, function errorCallback(response) {
           console.log(response);
