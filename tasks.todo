@@ -1,30 +1,42 @@
 Talent Calculator:
 
-  ☐ Save talents to db for accounts?
+  ✔ Save talents to db for accounts? @done (11/19/2017, 2:02:14 PM)
     ✔ Retrieve saved talents from back-end @done (11/11/2017, 3:20:38 PM)
-    ☐ Design what to show when user is not logged in
-    ☐ Limit # talents in small container
-    ☐ Create a modal for creating talents
-    ☐ Create a modal for managing and viewing all talents
-    ☐ Show something when user has no saved talents
+    ☐ Design CTA when user is not logged in (for saving talents)
+    ✘ Limit # talents in small container @cancelled (11/19/2017, 2:02:25 PM)
+    ✔ Create a modal for creating talents @done (11/19/2017, 2:02:29 PM)
+    ✔ Create a modal for managing and viewing all talents @done (11/19/2017, 2:02:32 PM)
 
   ✔ Make SAVED talents a slide-out from right? @done (11/18/2017, 5:20:02 PM)
-    ☐ Make SAVING talents modal only.
-    ☐ Show preview of current talent/glyphs when SAVING.
+    ✔ Make SAVING talents modal only. @done (11/19/2017, 2:01:01 PM)
+    ☐ Show something when user has no saved talents
+    ☐ Add 100 char max description for talents @low
+    ☐ Add max length in input field @high
+    ☐ Add search for talent slideout @high
+    ☐ Add delete for talent slideout @high
+
+    ☐ Show preview of current talent/glyphs when SAVING. @high 
        ☐ When clicking Save talent, save in localStorage
           Then retreive information from localStorage and show preview.
           Preview of all used talents, amount, icons etc. 
     
     Back-end:
-      ☐ Created on? Last Modified?
+      ✘ Created on? Last Modified? @cancelled (11/19/2017, 2:16:42 PM)
 
   Bugs:
 
   Optimizations:
     ✔ Add saved talents to a service so only have to load it once? @done (11/18/2017, 2:32:39 PM)
       ✘ Remove talents from service when logging out @cancelled (11/18/2017, 2:34:31 PM)
-      ✔ Add saved talents to service when saving @done (11/18/2017, 2:32:50 PM)
+      ✔ Add saved talents to service when saving @done (11/19/2017, 2:05:24 PM)
       ☐ Remove talent when deleting
+
+      ☐ Do not import theme multiple times (css)
+
+  UI:
+    ☐ Add description to saved talents
+    ✔ Change input fields to Google's style @done (11/19/2017, 6:00:37 PM)
+    ☐ Add text overflow for really long talent names @today 
 
 
 Other:

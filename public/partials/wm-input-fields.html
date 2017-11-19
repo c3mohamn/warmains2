@@ -1,0 +1,15 @@
+<div class="input-field-container">
+    <input type="{{inputType}}" 
+           class="input-field"
+           maxlength="{{maxLength}}" 
+           ng-class="{'has-error': error}" 
+           ng-model="bind" 
+           ng-focus="focus = true" 
+           ng-blur="focus = false"
+           ng-change="error = null">
+    <span class="input-field-label" ng-class="{'small': bind || bind.length > 0 || focus, 'focused': focus, 'has-error': error}">
+        {{placeholder}}
+        <span ng-show="error">- {{error}}</span>
+    </span>
+    
+</div>

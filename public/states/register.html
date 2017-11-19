@@ -5,18 +5,9 @@
   <!-- Registeration Form -->
   <div class="form-fields">
     <form name="registerForm" ng-submit="registerUser()" novalidate>
-      <div class="input-field-container">
-        <input class="input-field" type="text" placeholder="username" ng-model="auth.username">
-        <span class="input-form-error-msg">{{usernameError}}</span>
-      </div>
-      <div class="input-field-container">
-        <input class="input-field" type="password" placeholder="password" ng-model="auth.pass">
-        <span class="input-form-error-msg">{{passError}}</span>
-      </div>
-      <div class="input-field-container">
-        <input class="input-field" type="password" placeholder="confirm password" ng-model="auth.confirmPass">
-        <span class="input-form-error-msg">{{confirmPassError}}</span>
-      </div>
+      <wm-input-field input-type="text" max-length="16" placeholder="username" bind="auth.username" error="usernameError"></wm-input-field>
+      <wm-input-field input-type="password" max-length="18" placeholder="password" bind="auth.pass" error="passError"></wm-input-field>
+      <wm-input-field input-type="password" max-length="18" placeholder="confirm password" bind="auth.confirmPass" error="confirmPassError"></wm-input-field>
       <button ng-disabled="registeringUser" class="button success float-right" type="submit">Register</button>
 
       <span class="server-msg error">{{serverError}}</span>

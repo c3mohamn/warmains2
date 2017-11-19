@@ -8,10 +8,8 @@
         <!-- Save talent form -->
         <div class="form-fields save-talent">
           <form name="talentForm" novalidate>
-            <div class="input-field-container">
-              <input class="input-field" type="text" placeholder="name" ng-model="name">
-              <span class="input-form-error-msg">{{nameError}}</span>
-            </div>
+            <wm-input-field input-type="text" max-length="20" placeholder="name" bind="name" error="nameError"></wm-input-field>
+            <wm-input-field input-type="text" max-length="10" placeholder="description" bind="description" error="descriptionError"></wm-input-field>
           </form>
         </div>
         Some preview for talent about to save here...

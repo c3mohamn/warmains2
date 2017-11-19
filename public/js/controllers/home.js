@@ -8,4 +8,5 @@ wmApp.controller('homeCtrl', ['$rootScope', '$localStorage', '$scope',
     // 1. Character list (easy access)
     // 2. News
     // 3. Recent characters viewed?
+    // 4. Saved talent list
 }]);

@@ -4,6 +4,7 @@ wmApp.service('talentHelper', ['$location', '$http', function($location, $http) 
   // List of cached saved talents for logged in user
   var savedTalents = undefined;
 
+  // Initialize saveTalents on first run.
   function initSavedTalents(talents) {
     savedTalents = talents;
   }

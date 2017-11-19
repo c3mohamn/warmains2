@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.2.7",
+    "date": "11/19/2017",
+    "time": "",
+    "description": [
+      "Add a input-fields directive, implement in save char, and auth pages.",
+      "Redirect after registering to login page with delay to read success message.",
+      "Change input field style."
+    ]
+  },
+  {
     "version": "1.2.6",
     "date": "11/18/2017",
     "time": "",
