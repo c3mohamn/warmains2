@@ -145,7 +145,7 @@ wmApp.config(function($stateProvider, $urlRouterProvider, $locationProvider) {
       resolve: {
         talentDetails: ['$http', '$stateParams', function($http, $stateParams) {
           if ($stateParams.class) {
-            return $http.get('/js/variables/talent-details.json').then(
+            return $http.get('/data/talent-details.json').then(
               function(response) {
                 return response.data[$stateParams.class];
               }
@@ -156,7 +156,7 @@ wmApp.config(function($stateProvider, $urlRouterProvider, $locationProvider) {
         }],
         talentTooltips: ['$http', '$stateParams', function($http, $stateParams) {
           if ($stateParams.class) {
-            return $http.get('/js/variables/talent-tooltips/' + $stateParams.class + '.json').then(
+            return $http.get('/data/talent-tooltips/' + $stateParams.class + '.json').then(
               function(response) {
                 return response.data;
               }
@@ -167,7 +167,7 @@ wmApp.config(function($stateProvider, $urlRouterProvider, $locationProvider) {
         }],
         talentGlyphs: ['$http', '$stateParams', function($http, $stateParams) {
           if ($stateParams.class) {
-            return $http.get('/js/variables/glyphs.json').then(
+            return $http.get('/data/glyphs.json').then(
               function(response) {
                 return response.data[$stateParams.class];
               }
