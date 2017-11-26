@@ -1,0 +1,20 @@
+<div class="saved-talent flex-container">
+
+    <img class="saved-talent-icon class-icons small hoverable flex-child-shrink" 
+         ng-src="{{getTalentIcon()}}"
+         wm-tooltip content="{{::talent.name}}" position="left-middle">
+
+    <div class="flex-child-shrink flex-container flex-dir-column">
+        <div class="saved-talent-name flex-child-shrink" ng-class="{'saved-talent-name-long': !detailed}">
+            {{::talent.name}}
+        </div>
+        <div class="saved-talent-preview flex-child-shrink">
+            ({{::talent.preview[0]}} / {{::talent.preview[1]}} / {{::talent.preview[2]}} )
+        </div>
+    </div>
+    <div ng-if="detailed" class="flex-child-auto align-right">
+        <div class="saved-talent-description">
+            {{::talent.description || 'No description.'}}
+        </div>
+    </div>
+</div>

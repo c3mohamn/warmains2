@@ -1,25 +1,44 @@
-.saved-talentss {
-    width: 100%;
-  
-    .saved-talents {
-      cursor: pointer;
-      transition: all $wm-transition-fast;
-  
-      &:hover {
-        background-color: $wm-secondary-light;
-      }
-  
-      .saved-talents-icon {
-        margin: .5rem;
-      }
-  
-      .saved-talents-body {
-        margin: 0 .25rem .25rem .25rem;
-  
-        .saved-talents-body-info {
-          color: white;
-          font-size: 12px;
-        }
+.saved-talents-list {
+  width: 100%;
+
+  .saved-talent {
+    cursor: pointer;
+    transition: all $wm-transition-fast;
+
+    &:hover {
+      background-color: $wm-secondary-light;
+    }
+
+    .saved-talent-icon {
+      margin: .5rem;
+    }
+
+    .saved-talent-name {
+      margin-top: 3px;
+      width: 100px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+
+      &.saved-talent-name-long {
+        width: 175px;
       }
     }
+
+    .saved-talent-preview {
+      color: white;
+      font-size: 12px;
+    }
+
+    .saved-talent-description {
+      max-width: 125px;
+      max-height: 46px;
+      padding: 8px 3px 3px 5px;
+      color: gray;
+      font-size: 11px;
+      line-height: 1.2;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
   }
+}

@@ -3,32 +3,11 @@
         <!-- Content -->
         <div class="slideout-container-inner wm-scrollbar">
 
-            <h4 class="slideout-title">{{slideoutTitle}}</h4>
+            <h4 class="slideout-title">{{::slideoutTitle}}</h4>
                 
-            <!-- Add a tooltip on left? -->
-            <div class="saved-talentss">
-                <div class="saved-talents flex-container" 
-                     wm-tooltip
-                     position="left-middle"
-                     content="{{talent.name}}"
-                     ng-repeat="talent in itemList"
-                     ng-click="navigateToItem(talent)">
-        
-                    <img class="saved-talents-icon class-icons small hoverable" ng-src="/images/class-icons/{{talent.classId}}.png">
-                    <div class="saved-talents-body">
-                    {{talent.name}}
-                    <div class="saved-talents-body-info">
-                        ({{talent.preview[0]}} / {{talent.preview[1]}} / {{talent.preview[2]}} )
-                    </div>
-                    </div>
-                    <!-- <i class="material-icons">cloud_off</i>
-                            TODO: message if no data found.
-                                CTA to create / save talents.
-                    -->
-        
-                </div>
+            <div class="saved-talents-list">
+                <wm-talent-preview ng-repeat="item in itemList" talent="item" detailed="true" ng-click="navigateToItem(item)">
             </div>
-
 
         </div>
         <!-- Arrow on side that toggles slideout -->

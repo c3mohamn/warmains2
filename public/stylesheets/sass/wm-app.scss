@@ -6,6 +6,7 @@
 @import 'global/_input.scss';
 @import 'global/_override.scss';
 @import 'global/_wm.scss';
+@import 'global/_animations.scss';
 
 // Partials
 @import 'partials/_footer.scss';
@@ -16,6 +17,7 @@
 @import 'states/_home.scss';
 @import 'states/_planner.scss';
 @import 'states/_talents.scss';
+@import 'states/_log.scss';
 
 // UI elements
 @import 'ui/_modal.scss';

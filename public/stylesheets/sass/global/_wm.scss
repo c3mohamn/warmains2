@@ -4,6 +4,26 @@
 
 // Global
 
+html {
+  width: 100%;
+  height: 100%;
+  font-size: 14px;
+}
+
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+  background-image: url('/images/bg/wm-bg.jpg');
+
+  // Avoid scrolling body when modal is open
+  &.modal-open {
+    overflow: hidden;
+  }
+}
+
+.mainBody {
+  padding: 5rem 1rem;
+}
+
 .no-padding {
   padding: 0;
 }
@@ -25,24 +45,10 @@
   margin: 0;
 }
 
-html {
-  width: 100%;
-  height: 100%;
-  font-size: 14px;
-}
-
-body {
-  font-family: 'Roboto Condensed', sans-serif;
-  background-image: url('/images/bg/wm-bg.jpg');
-
-  // Avoid scrolling body when modal is open
-  &.modal-open {
-    overflow: hidden;
-  }
-}
-
-.mainBody {
-  padding: 5rem 1rem;
+.inactive {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  transition: all $wm-transition-medium;
 }
 
 // Container style
@@ -82,7 +88,7 @@ body {
 }
 
 // Class Icons
-.class-icons {
+.class-icons, .spec-icons {
   width: 48px;
   height: 48px;
 
@@ -106,7 +112,6 @@ body {
 }
 
 // Custom scroll bar
-
 .wm-scrollbar {
   overflow: hidden;
   transition: all $wm-transition-medium;
@@ -118,6 +123,7 @@ body {
 
   &::-webkit-scrollbar-track {
     -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
   	background-color: $wm-secondary-dark;
   }
 
@@ -128,6 +134,7 @@ body {
 
   &::-webkit-scrollbar-thumb {
     -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+    box-shadow: inset 0 0 6px rgba(0,0,0,.3);
   	background-color: $wm-secondary-verylight;
 
     &:hover {
@@ -140,6 +147,5 @@ body {
       width: .3rem;
     	background-color: $wm-secondary-light;
     }
-
   }
 }

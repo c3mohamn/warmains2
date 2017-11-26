@@ -20,7 +20,9 @@ wmApp.directive('wmTooltip', ['$compile', '$document', '$sce', '$window',
 
         elem.on('mouseenter', function() {
           getTooltipPosition();
-          template.css('visibility', 'visible');
+          if (scope.content != '') {
+            template.css('visibility', 'visible');
+          }
         });
 
         elem.on('mouseleave', function() {

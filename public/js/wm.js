@@ -91,6 +91,21 @@ wmApp.config(function($stateProvider, $urlRouterProvider, $locationProvider) {
   $locationProvider.hashPrefix('');
 
   $stateProvider
+    .state('changelog', {
+      url: '/changelog',
+      data: { title: 'Changelog'},
+      templateUrl: '/states/changelog.html',
+      controller: 'changelogCtrl',
+      resolve: {
+        log: ['$http', function($http) {
+          return $http.get('/changelog.json').then(
+            function(response) {
+              return response.data;
+            }
+          );
+        }]
+      }
+    })
     .state('home', {
       url: '/home',
       data: { title: 'Home' },

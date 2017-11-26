@@ -1,0 +1,11 @@
+<div class="flex-container dark-container">
+    <div class="log-items-list">
+        <div class="log-item-container" ng-repeat="log in logs">
+            <h3>{{log.version}}</h3>
+            <h5>{{log.date}}</h5>
+            <ul class="log-item-description" ng-repeat="d in log.description">
+                <li>{{d}}</li>
+            </ul>
+        </div>
+    </div>
+</div>

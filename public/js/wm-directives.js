@@ -195,6 +195,30 @@ function(talentHelper) {
   }
 }]);
 
+// Source: wm-talent-preview.js
+wmApp.directive('wmTalentPreview', function() {
+    return {
+      restrict: 'E',
+      replace: true,
+      scope: {
+          talent: '=',
+          detailed: '@', // show description or not
+      },
+      templateUrl: '/partials/wm-talent-preview.html',
+      link: function(scope, elem, attrs) {
+          scope.getTalentIcon = getTalentIcon;
+
+          function getTalentIcon() {
+              if (scope.talent.spec) {
+                return '/images/spec-icons/' + scope.talent.classId + '/' + scope.talent.spec + '.jpg';
+              }
+
+              return '/images/class-icons/' + scope.talent.classId + '.png';
+          }
+      }
+    }
+});
+
 // Source: wm-talent.js
 // talent directive
 wmApp.directive('wmTalent', ['$rootScope', 'talentHelper',
@@ -303,7 +327,9 @@ wmApp.directive('wmTooltip', ['$compile', '$document', '$sce', '$window',
 
         elem.on('mouseenter', function() {
           getTooltipPosition();
-          template.css('visibility', 'visible');
+          if (scope.content != '') {
+            template.css('visibility', 'visible');
+          }
         });
 
         elem.on('mouseleave', function() {

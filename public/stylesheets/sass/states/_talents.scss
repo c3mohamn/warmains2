@@ -16,17 +16,16 @@
     height: 225px;
     border: 2px solid $wm-secondary;
 
+    .saved-container-inner {
+      height: 100%;
+      width: 100%;
+    }
+
     .saved-container-title {
       position: absolute;
       top: -25px;
       left: 0;
       color: $wm-secondary-verylight;
-    }
-
-    .view-all-saved {
-      position: absolute;
-      bottom: -38px;
-      right: 0;
     }
   }
 
@@ -238,10 +237,4 @@
       }
     }
   }
-}
-
-.inactive {
-  -webkit-filter: grayscale(100%);
-  filter: grayscale(100%);
-  transition: all $wm-transition-medium;
 }

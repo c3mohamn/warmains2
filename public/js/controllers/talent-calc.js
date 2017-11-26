@@ -44,14 +44,12 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
             // Create new talent object
             var talent = {
               name: result.name,
+              description: result.description,
               classId: $scope.classId,
               talents: result.talents,
               glyphs: result.glyphs,
-              preview: [
-                $scope.talentsSpentDetails[0].total, 
-                $scope.talentsSpentDetails[1].total, 
-                $scope.talentsSpentDetails[2].total
-              ],
+              preview: getTalentPreviewList($scope.talentsSpentDetails),
+              spec: getTalentSpec($scope.classId, $scope.talentsSpentDetails)
             };
 
             // Save new talent

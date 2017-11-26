@@ -13,6 +13,7 @@ wmApp.controller('modalSaveTalentCtrl', ['$scope', 'close', '$location', 'talent
         talents: $location.search().talents,
         glyphs: $location.search().glyphs,
         name: $scope.name,
+        description: $scope.description
       }, 250);
     }
   };
@@ -33,6 +34,9 @@ wmApp.controller('modalSaveTalentCtrl', ['$scope', 'close', '$location', 'talent
       return false;
     } else if ($location.search().talents === '') {
       $scope.nameError = 'You cannot save an empty talent tree.';
+      return false;
+    } else if ($scope.description && $scope.description.length > 100) {
+      $scope.descriptionError = 'Description cannot exceed 100 characters.';
       return false;
     }
 

@@ -60,6 +60,6 @@ gulp.task('watch', function() {
   gulp.watch('public/js/controllers/*.js', ['controllers']);
   gulp.watch('public/js/directives/*.js', ['directives']);
   gulp.watch('public/js/filters/*.js', ['filters']);
-  gulp.watch('public/stylesheets/sass/global/*.scss', ['sass']);
+  gulp.watch('public/stylesheets/sass/**/*.scss', ['sass']);
   //gulp.watch('/src', ['imageMin']);
 });

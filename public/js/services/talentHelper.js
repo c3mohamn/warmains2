@@ -41,7 +41,9 @@ wmApp.service('talentHelper', ['$location', '$http', function($location, $http) 
       classId: talent.classId,
       talents: talent.talents,
       glyphs: talent.glyphs,
-      preview: talent.preview
+      preview: talent.preview,
+      spec: talent.spec,
+      description: talent.description
     });
   }
 

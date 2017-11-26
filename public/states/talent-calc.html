@@ -38,9 +38,15 @@
 
   <div ng-if="validClassId()">
     <a class="button alert dark-bg" ng-click="clearTalents(); clearGlyphs();">Reset all</a>
-    <a class="button dark-bg float-right" ng-click="showSavedTalents()" ng-disabled="!currentUser">Save Talents</a>
+    <a class="button dark-bg float-right" 
+       ng-click="showSavedTalents()"
+       ng-disabled="!currentUser"
+       ng-mouseenter="showSaveTalentMsg = true"
+       ng-mouseleave="showSaveTalentMsg = false">Save Talents</a>
+    <!-- Come up with something better later. -->
+    <span class="float-right" style="color: red; padding: .5rem;" ng-show="showSaveTalentMsg && !currentUser">Log in to save talents.</span>
   </div>
-
+  
   <!-- Calculator -->
   <div class="calculator" ng-if="validClassId()">
     <!-- Generate 3 sub trees, talent rows & columns -->
@@ -100,22 +106,10 @@
     <!-- Saved talents -->
     <div class="saved-container">
       <span class="saved-container-title">Saved {{classes[classId]}} Talents</span>
-      <!-- List of saved Talents -->
-      <div class="saved-talentss wm-scrollbar small">
-        <div ng-if="classId == talent.classId" class="saved-talents flex-container" ng-repeat="talent in savedTalents" ng-click="goToSavedTalent(talent)">
-
-          <img class="saved-talents-icon class-icons small hoverable" ng-src="/images/class-icons/{{talent.classId}}.png">
-          <div class="saved-talents-body">
-            {{talent.name}}
-            <div class="saved-talents-body-info">
-              ({{talent.preview[0]}} / {{talent.preview[1]}} / {{talent.preview[2]}} )
-            </div>
-          </div>
-          <!-- <i class="material-icons">cloud_off</i>
-                  TODO: message if no data found.
-                        CTA to create / save talents.
-          -->
-
+      <div class="saved-container-inner wm-scrollbar small">
+        <!-- List of saved Talents -->
+        <div class="saved-talents-list">
+          <wm-talent-preview ng-if="classId == talent.classId" talent="talent" ng-repeat="talent in savedTalents" ng-click="goToSavedTalent(talent)"></wm-talent-preview>
         </div>
       </div>
     </div>

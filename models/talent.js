@@ -7,7 +7,9 @@ var TalentSchema = mongoose.Schema({
     classId: {type: Number, required: true},
     talents: {type: String, required: true},
     glyphs: {type: String, required: false},
-    preview: {type: Array, required: true}
+    preview: {type: Array, required: false},
+    spec: {type: String, required: false},
+    description: {type: String, required: false}
 });
 
 var Talent = module.exports = mongoose.model('Talent', TalentSchema);

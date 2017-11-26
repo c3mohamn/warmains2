@@ -11,6 +11,8 @@ router.post('/save', function(req, res) {
     talents: req.body.talents || null,
     glyphs: req.body.glyphs || null,
     preview: req.body.preview || null,
+    spec: req.body.spec || null,
+    description: req.body.description || '',
   };
 
   // Error checking talent fields
@@ -19,9 +21,11 @@ router.post('/save', function(req, res) {
   req.checkBody('classId',
   'Invalid classId.').isInt();
   req.checkBody('talents',
-  'Invalid talents.').isLength({min:1, max:100});
+  'Invalid talents.').isLength({min:1, max:50});
   req.checkBody('glyphs',
   'Invalid glyphs.').isLength({min:0, max:50});
+  req.checkBody('description',
+  'Talent description cannot exceed 100 characters.').isLength({min: 0, max:100});
 
   var errors = req.validationErrors();
 
@@ -46,7 +50,9 @@ router.post('/save', function(req, res) {
             classId: talent.classId,
             talents: talent.talents,
             glyphs: talent.glyphs,
-            preview: talent.preview
+            preview: talent.preview,
+            spec: talent.spec,
+            description: talent.description
           });
 
           Talent.saveTalent(newTalent, function(err, talent) {
@@ -82,6 +88,8 @@ router.get('/get', function(req, res) {
           preview: result[key].preview,
           talents: result[key].talents,
           id: result[key]._id,
+          spec: result[key].spec,
+          description: result[key].description
         };
 
         talents.push(talent);

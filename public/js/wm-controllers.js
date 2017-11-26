@@ -122,6 +122,13 @@ wmApp.controller('authCtrl', ['$scope', '$http', '$state', 'authAPI', '$localSto
     }
 }]);
 
+// Source: changelog.js
+// Devlog page controller
+wmApp.controller('changelogCtrl', ['$scope', 'log',
+function($scope, log) {
+    $scope.logs = log;
+}]);
+
 // Source: home.js
 // Home page controller
 wmApp.controller('homeCtrl', ['$rootScope', '$localStorage', '$scope',
@@ -163,6 +170,7 @@ wmApp.controller('modalSaveTalentCtrl', ['$scope', 'close', '$location', 'talent
         talents: $location.search().talents,
         glyphs: $location.search().glyphs,
         name: $scope.name,
+        description: $scope.description
       }, 250);
     }
   };
@@ -184,6 +192,9 @@ wmApp.controller('modalSaveTalentCtrl', ['$scope', 'close', '$location', 'talent
     } else if ($location.search().talents === '') {
       $scope.nameError = 'You cannot save an empty talent tree.';
       return false;
+    } else if ($scope.description && $scope.description.length > 100) {
+      $scope.descriptionError = 'Description cannot exceed 100 characters.';
+      return false;
     }
 
     return true;
@@ -200,7 +211,7 @@ wmApp.controller('plannerCtrl', ['$scope', '$state', function($scope, $state) {
 wmApp.controller('stylesCtrl', ['$scope', function($scope) {
 }]);
 
-// Source: talents.js
+// Source: talent-calc.js
 // Talent-calc controller
 wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$stateParams', '$state', 'talentDetails', 'talentTooltips', 'talentGlyphs', 'ModalService',
   function($rootScope, $scope, talentHelper, $stateParams, $state, talentDetails, talentTooltips, talentGlyphs, ModalService) {
@@ -247,14 +258,12 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
             // Create new talent object
             var talent = {
               name: result.name,
+              description: result.description,
               classId: $scope.classId,
               talents: result.talents,
               glyphs: result.glyphs,
-              preview: [
-                $scope.talentsSpentDetails[0].total, 
-                $scope.talentsSpentDetails[1].total, 
-                $scope.talentsSpentDetails[2].total
-              ],
+              preview: getTalentPreviewList($scope.talentsSpentDetails),
+              spec: getTalentSpec($scope.classId, $scope.talentsSpentDetails)
             };
 
             // Save new talent
