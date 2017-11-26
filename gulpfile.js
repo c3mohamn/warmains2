@@ -6,7 +6,7 @@ var concat = require('gulp-concat-util');
 
 // compile and minify global sass files into 1 css file
 gulp.task('sass', function() {
-  return gulp.src('public/stylesheets/sass/global/*.scss')
+  return gulp.src('public/stylesheets/sass/**/*.scss')
       .pipe(sass({outputStyle: 'compressed'}).on('error', sass.logError))
       .pipe(concat('global.css'))
       .pipe(gulp.dest('public/stylesheets/css'));
@@ -16,7 +16,7 @@ gulp.task('sass', function() {
 gulp.task('filters', function() {
   gulp.src('public/js/filters/*.js')
       .pipe(concat.scripts('wm-filters.js'))
-      .pipe(uglify())
+      // .pipe(uglify())
       .pipe(gulp.dest('public/js'));
 });
 
@@ -24,7 +24,7 @@ gulp.task('filters', function() {
 gulp.task('services', function() {
   gulp.src('public/js/services/*.js')
       .pipe(concat.scripts('wm-services.js'))
-      .pipe(uglify())
+      // .pipe(uglify())
       .pipe(gulp.dest('public/js'));
 });
 
@@ -32,7 +32,7 @@ gulp.task('services', function() {
 gulp.task('controllers', function() {
   gulp.src('public/js/controllers/*.js')
       .pipe(concat.scripts('wm-controllers.js'))
-      .pipe(uglify())
+      // .pipe(uglify())
       .pipe(gulp.dest('public/js'));
 });
 
@@ -40,7 +40,7 @@ gulp.task('controllers', function() {
 gulp.task('directives', function() {
   gulp.src('public/js/directives/*.js')
       .pipe(concat.scripts('wm-directives.js'))
-      .pipe(uglify())
+      // .pipe(uglify())
       .pipe(gulp.dest('public/js'));
 });
 

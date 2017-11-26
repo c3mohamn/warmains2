@@ -1,1 +1,370 @@
-!function(t,e,n){"use strict";wmApp.directive("wmGlyph",["talentHelper",function(t){return{restrict:"E",scope:{curGlyphs:"=",index:"="},templateUrl:"/partials/wm-glyph.html",link:function(e,n,l){var i=e.index;e.glyphImgPath=function(){return t.getGlyphImgPath(e.curGlyphs[i])},e.removeGlyph=function(){e.curGlyphs[i]=null,t.changeUrlGlyphs(e.curGlyphs)}}}}]),wmApp.directive("wmInputField",function(){return{restrict:"E",replace:!0,scope:{placeholder:"@",bind:"=",error:"=",maxLength:"@",inputType:"@"},templateUrl:"/partials/wm-input-fields.html",link:function(t,e,n){}}}),wmApp.directive("wmModalGlyphs",["$rootScope","$timeout","talentHelper",function(t,e,n){return{restrict:"E",scope:{glyphs:"=",curGlyphs:"=",type:"=",index:"="},templateUrl:"/partials/wm-modal-glyphs.html",link:function(l,i,o){function s(){l.destroying=!0,t.isModalOpen=!1,e(function(){t.showGlyphSelection=!1},300)}var r=l.index;l.modalSearch="",l.removeModal=s,l.getGlyphIconPath=function(t){return"http://wow.zamimg.com/images/wow/icons/medium/"+t.icon.toLowerCase()+".jpg"},l.selectGlyph=function(t){l.curGlyphs[r]=t,n.changeUrlGlyphs(l.curGlyphs),s()},l.alreadyUsed=function(t){return l.curGlyphs.indexOf(t)>-1}}}}]),wmApp.directive("ngMouseWheelUp",function(){return function(e,n,l){n.bind("DOMMouseScroll mousewheel onmousewheel",function(n){var n=t.event||n;Math.max(-1,Math.min(1,n.wheelDelta||-n.detail))>0&&(e.$apply(function(){e.$eval(l.ngMouseWheelUp)}),n.returnValue=!1,n.preventDefault&&n.preventDefault())})}}),wmApp.directive("ngMouseWheelDown",function(){return function(e,n,l){n.bind("DOMMouseScroll mousewheel onmousewheel",function(n){var n=t.event||n;Math.max(-1,Math.min(1,n.wheelDelta||-n.detail))<0&&(e.$apply(function(){e.$eval(l.ngMouseWheelDown)}),n.returnValue=!1,n.preventDefault&&n.preventDefault())})}}),wmApp.directive("ngRightClick",["$parse",function(t){return function(e,n,l){var i=t(l.ngRightClick);n.bind("contextmenu",function(t){e.$apply(function(){t.preventDefault(),i(e,{$event:t})})})}}]),wmApp.directive("wmSlideoutList",["talentHelper",function(t){return{restrict:"E",scope:{slideoutTitle:"@",itemList:"=",delete:"&",showPreview:"=",goToItemUrl:"&"},templateUrl:"/partials/wm-slideout-list.html",link:function(t,e,n){t.show=!1,t.toggleSlideout=function(){t.show=!t.show,t.showPreview=!1},t.navigateToItem=function(e){t.goToItemUrl({item:e})}}}}]),wmApp.directive("wmTalent",["$rootScope","talentHelper",function(t,e){return{restrict:"E",scope:{classId:"@",col:"@",row:"@",tree:"@",talentsSpent:"=",talentsSpentDetails:"=",talentTooltips:"=",talentDetails:"=",tooltipPos:"@"},templateUrl:"/partials/wm-talent.html",link:function(t,n,l){function i(n){return e.isTalentInactive(n,t.talentDetails,t.talentsSpent,t.talentsSpentDetails)}function o(){return e.getTalentImgPath(t.talentId,t.classId,t.specs[t.classId][t.tree])}function s(){t.tooltip=e.getTalentTooltip(t.talentId,t.talent,t.talentsSpent,o(),t.talentTooltipDescriptions,i(t.talentId))}function r(n){n&&(s(),e.changeUrlTalents(t.talentsSpent))}t.specs=specsToString,t.isInactive=i,t.talentImgPath=o,t.addPoint=function(){r(e.addPoint(1,t.talentId,t.talentsSpent,t.talentsSpentDetails,t.talentDetails))},t.removePoint=function(){r(e.removePoint(t.talentId,t.talentsSpent,t.talentsSpentDetails,t.talentDetails))},t.isInactive=i,function(){for(var e in t.talentDetails)if(t.talentDetails[e].row==t.row&&t.talentDetails[e].col==t.col&&t.talentDetails[e].tree==t.tree)return t.talent=t.talentDetails[e],t.talentId=e,t.talentTooltipDescriptions=t.talentTooltips[e],s(),!0}()}}}]),wmApp.directive("wmTooltip",["$compile","$document","$sce","$window",function(t,e,n,l){return{restrict:"A",scope:{position:"@",content:"@",contentHtml:"="},link:function(i,o,s){function r(){var t=o[0].getBoundingClientRect(),e=c[0].getBoundingClientRect(),n=t.width,i=t.height,s=e.width,r=e.height,p=(l.scrollX,l.scrollY);switch("0"==a?a="right-top":"1"==a?a="bottom-middle":"2"==a&&(a="left-top"),a){case"top-middle":c.css("left",t.left-s/2+n/2+"px"),c.css("top",p+t.top-r-20+"px");break;case"left-middle":c.css("left",t.left-s-20+"px"),c.css("top",p+t.top-r/2+i/2+"px");break;case"left-top":c.css("left",t.left-s-20+"px"),c.css("top",p+t.top-r+i/2+"px");break;case"right-middle":c.css("left",t.right+20+"px"),c.css("top",p+t.top-r/2+i/2+"px");break;case"right-top":c.css("left",t.right+20+"px"),c.css("top",p+t.top-r+i/2+"px");break;default:c.css("left",t.left-s/2+n/2+"px"),c.css("top",p+t.bottom+20+"px")}}i.trustedHtml=function(t){return n.trustAsHtml(t)};var a=i.position||"top-middle",c=t("<div class='wm-tooltip' ng-bind-html='trustedHtml(contentHtml) || content'></div>")(i);e.find("body").append(c),o.on("mouseenter",function(){r(),c.css("visibility","visible")}),o.on("mouseleave",function(){c.css("visibility","hidden")}),o.on("$destroy",function(){i.$destroy()}),i.$on("$destroy",function(){c.remove()})}}}])}(window,document);
+(function(window, document, undefined) {
+'use strict';
+
+// Source: wm-glyph.js
+wmApp.directive('wmGlyph', ['talentHelper',
+  function(talentHelper) {
+    return {
+      restrict: 'E',
+      scope: {
+        curGlyphs: '=',
+        index: '=',
+      },
+      templateUrl: '/partials/wm-glyph.html',
+      link: function(scope, elem, attrs) {
+        // vars
+        var index = scope.index;
+        var type = 1;
+
+        // functs
+        scope.glyphImgPath = glyphImgPath;
+        scope.removeGlyph = removeGlyph;
+
+        function glyphImgPath() {
+          return talentHelper.getGlyphImgPath(scope.curGlyphs[index]);
+        }
+
+        function removeGlyph() {
+          scope.curGlyphs[index] = null;
+          talentHelper.changeUrlGlyphs(scope.curGlyphs);
+        }
+      }
+    }
+}]);
+
+// Source: wm-input-field.js
+wmApp.directive('wmInputField', function() {
+  return {
+    restrict: 'E',
+    replace: true,
+    scope: {
+      placeholder: '@',
+      bind: '=',
+      error: '=',
+      maxLength: '@',
+      inputType: '@',
+    },
+    templateUrl: '/partials/wm-input-fields.html',
+    link: function(scope, elem, attrs) {
+    }
+  }
+});
+
+// Source: wm-modal-glyphs.js
+wmApp.directive('wmModalGlyphs', ['$rootScope', '$timeout', 'talentHelper',
+  function($rootScope, $timeout, talentHelper) {
+    return {
+      restrict: 'E',
+      scope: {
+        glyphs: '=',
+        curGlyphs: '=',
+        type: '=',
+        index: '=',
+      },
+      templateUrl: '/partials/wm-modal-glyphs.html',
+      link: function(scope, elem, attrs) {
+        // vars
+        var index = scope.index;
+        scope.modalSearch = '';
+        // functs
+        scope.removeModal = removeModal;
+        scope.getGlyphIconPath = getGlyphIconPath;
+        scope.selectGlyph = selectGlyph;
+        scope.alreadyUsed = alreadyUsed;
+
+        function removeModal() {
+          scope.destroying = true;
+          $rootScope.isModalOpen = false;
+          $timeout(function() {
+            $rootScope.showGlyphSelection = false;
+          }, 300);
+        }
+
+        function getGlyphIconPath(glyph) {
+          var iconName = glyph.icon.toLowerCase();
+
+          return 'http://wow.zamimg.com/images/wow/icons/medium/' + iconName + '.jpg';
+        }
+
+        function selectGlyph(glyph) {
+          scope.curGlyphs[index] = glyph;
+          talentHelper.changeUrlGlyphs(scope.curGlyphs);
+          removeModal();
+        }
+
+        // return true if glyph is already used by user
+        function alreadyUsed(glyph) {
+          return scope.curGlyphs.indexOf(glyph) > -1;
+        }
+      }
+    }
+}]);
+
+// Source: wm-mousewheel.js
+// Mouse wheel scroll up / down directives
+// http://blog.sodhanalibrary.com/2015/04/angularjs-directive-for-mouse-wheel.html#.WdmjYltSyUk
+wmApp.directive('ngMouseWheelUp', function() {
+    return function(scope, element, attrs) {
+      element.bind("DOMMouseScroll mousewheel onmousewheel", function(event) {
+
+        // cross-browser wheel delta
+        var event = window.event || event; // old IE support
+        var delta = Math.max(-1, Math.min(1, (event.wheelDelta || -event.detail)));
+
+        if(delta > 0) {
+          scope.$apply(function(){
+              scope.$eval(attrs.ngMouseWheelUp);
+          });
+
+          // for IE
+          event.returnValue = false;
+          // for Chrome and Firefox
+          if(event.preventDefault) {
+          	event.preventDefault();
+          }
+        }
+      });
+    };
+});
+
+wmApp.directive('ngMouseWheelDown', function() {
+  return function(scope, element, attrs) {
+    element.bind("DOMMouseScroll mousewheel onmousewheel", function(event) {
+
+        // cross-browser wheel delta
+        var event = window.event || event; // old IE support
+        var delta = Math.max(-1, Math.min(1, (event.wheelDelta || -event.detail)));
+
+        if(delta < 0) {
+          scope.$apply(function(){
+              scope.$eval(attrs.ngMouseWheelDown);
+          });
+
+          // for IE
+          event.returnValue = false;
+          // for Chrome and Firefox
+          if(event.preventDefault)  {
+          	event.preventDefault();
+          }
+        }
+    });
+  };
+});
+
+// Source: wm-right-click.js
+// ng-right-click directive
+wmApp.directive('ngRightClick', ['$parse', function($parse) {
+    return function(scope, element, attrs) {
+        var fn = $parse(attrs.ngRightClick);
+        element.bind('contextmenu', function(event) {
+            scope.$apply(function() {
+                event.preventDefault();
+                fn(scope, {$event:event});
+            });
+        });
+    };
+}]);
+
+// Source: wm-slideout-list.js
+wmApp.directive('wmSlideoutList', ['talentHelper',
+function(talentHelper) {
+  return {
+    restrict: 'E',
+    scope: {
+      slideoutTitle: '@', // title of slideout
+      itemList: '=', // list of items
+      delete: '&', // delete function
+      showPreview: '=', // show small preview of slideout
+      goToItemUrl: '&', // navigate to item
+    },
+    templateUrl: '/partials/wm-slideout-list.html',
+    link: function(scope, elem, attrs) {
+      scope.show = false;
+      scope.toggleSlideout = toggleSlideout;
+      scope.navigateToItem = navigateToItem;
+
+      function navigateToItem(item) {
+        scope.goToItemUrl({item: item});
+      }
+
+      function toggleSlideout() {
+        scope.show = !scope.show;
+        scope.showPreview = false;
+      }
+    }
+  }
+}]);
+
+// Source: wm-talent.js
+// talent directive
+wmApp.directive('wmTalent', ['$rootScope', 'talentHelper',
+  function($rootScope, talentHelper) {
+    return {
+      restrict: 'E',
+      scope: {
+        classId: '@',
+        col: '@',
+        row: '@',
+        tree: '@',
+        talentsSpent: '=',
+        talentsSpentDetails: '=',
+        talentTooltips: '=',
+        talentDetails: '=',
+        tooltipPos: '@',
+      },
+      templateUrl: '/partials/wm-talent.html',
+      link: function(scope, elem, attrs) {
+        // vars
+        scope.specs = specsToString;
+        scope.isInactive = isInactive;
+        // functs
+        scope.talentImgPath = talentImgPath;
+        scope.addPoint = addPoint;
+        scope.removePoint = removePoint;
+        scope.isInactive = isInactive;
+
+        initTalent();
+
+        // search for matching talent
+        function initTalent() {
+
+          for (var key in scope.talentDetails) {
+            if (scope.talentDetails[key].row == scope.row &&
+                scope.talentDetails[key].col == scope.col &&
+                scope.talentDetails[key].tree == scope.tree) {
+              scope.talent = scope.talentDetails[key];
+              scope.talentId = key;
+
+              scope.talentTooltipDescriptions = scope.talentTooltips[key];
+              getTalentTooltip();
+              return true;
+            }
+          }
+        }
+
+        // return true if talent is currently inactive
+        function isInactive(talentId) {
+          return talentHelper.isTalentInactive(talentId, scope.talentDetails, scope.talentsSpent, scope.talentsSpentDetails);
+        }
+
+        // returns path of talent image.
+        function talentImgPath() {
+          return talentHelper.getTalentImgPath(scope.talentId, scope.classId, scope.specs[scope.classId][scope.tree]);
+        }
+
+        // creates the html content for talents tooltip
+        function getTalentTooltip() {
+          scope.tooltip = talentHelper.getTalentTooltip(scope.talentId, scope.talent, scope.talentsSpent, talentImgPath(), scope.talentTooltipDescriptions, isInactive(scope.talentId));
+        }
+
+        // add 1 talent point to talent
+        function addPoint() {
+          var pointAdded = talentHelper.addPoint(1, scope.talentId, scope.talentsSpent, scope.talentsSpentDetails, scope.talentDetails);
+          update(pointAdded);
+        }
+
+        // remove 1 talent point from talent
+        function removePoint() {
+          var pointRemoved = talentHelper.removePoint(scope.talentId, scope.talentsSpent, scope.talentsSpentDetails, scope.talentDetails);
+          update(pointRemoved);
+        }
+
+        // Update tooltip and change Url if changes are made
+        function update(changesMade) {
+          if (changesMade) {
+            getTalentTooltip();
+            talentHelper.changeUrlTalents(scope.talentsSpent);
+          }
+        }
+      }
+    }
+}]);
+
+// Source: wm-tooltip.js
+wmApp.directive('wmTooltip', ['$compile', '$document', '$sce', '$window',
+  function($compile, $document, $sce, $window) {
+    return {
+      restrict: 'A',
+      scope: {
+        position: '@',
+        content: '@',
+        contentHtml: '=',
+      },
+      link: function(scope, elem, attrs) {
+
+        scope.trustedHtml = function (plainText) {
+          return $sce.trustAsHtml(plainText);
+        }
+
+        var position = scope.position || 'top-middle',
+            template = $compile("<div class='wm-tooltip' ng-bind-html='trustedHtml(contentHtml) || content'></div>")(scope);
+
+        $document.find('body').append(template);
+
+        elem.on('mouseenter', function() {
+          getTooltipPosition();
+          template.css('visibility', 'visible');
+        });
+
+        elem.on('mouseleave', function() {
+          template.css('visibility', 'hidden');
+        });
+
+        elem.on('$destroy', function () { scope.$destroy(); });
+        scope.$on('$destroy', cleanUp);
+
+        function cleanUp() {
+          template.remove();
+        }
+
+        function getTooltipPosition() {
+          // element and tooltip demensions
+          var eBounds = elem[0].getBoundingClientRect(),
+              tBounds = template[0].getBoundingClientRect(),
+              eWidth = eBounds.width,
+              eHeight = eBounds.height,
+              tWidth = tBounds.width,
+              tHeight = tBounds.height,
+              margin = 20,
+              offSetX = $window.scrollX,
+              offSetY = $window.scrollY;
+
+          // tooltip positioning for talents based on tree
+          if (position == '0') position = 'right-top';
+          else if (position == '1') position = 'bottom-middle';
+          else if (position == '2') position = 'left-top';
+
+          //console.log(eBounds.left, eBounds.top, tWidth, tHeight);
+
+          // Position of tooltip
+          switch (position) {
+            case 'top-middle':
+              template.css('left', eBounds.left - (tWidth / 2) + (eWidth / 2) + 'px');
+              template.css('top', offSetY + eBounds.top - tHeight - margin + 'px');
+              break;
+            case 'left-middle':
+              template.css('left', eBounds.left - tWidth - margin + 'px');
+              template.css('top', offSetY + eBounds.top - (tHeight / 2) + (eHeight / 2) + 'px');
+              break;
+            case 'left-top':
+              template.css('left', eBounds.left - tWidth - margin + 'px');
+              template.css('top', offSetY + eBounds.top - (tHeight) + (eHeight / 2) + 'px');
+              break;
+            case 'right-middle':
+              template.css('left', eBounds.right + margin + 'px');
+              template.css('top', offSetY + eBounds.top - (tHeight / 2) + (eHeight / 2) + 'px');
+              break;
+            case 'right-top':
+              template.css('left', eBounds.right + margin + 'px');
+              template.css('top', offSetY + eBounds.top - (tHeight) + (eHeight / 2) + 'px');
+              break;
+            default: // bottom-middle default
+              template.css('left', eBounds.left - (tWidth / 2) + (eWidth / 2) + 'px');
+              template.css('top', offSetY + eBounds.bottom + margin + 'px');
+          }
+        }
+      }
+    }
+}]);
+
+})(window, document);

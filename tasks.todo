@@ -3,7 +3,6 @@ Talent Calculator:
   ✔ Save talents to db for accounts? @done (11/19/2017, 2:02:14 PM)
     ✔ Retrieve saved talents from back-end @done (11/11/2017, 3:20:38 PM)
     ☐ Design CTA when user is not logged in (for saving talents)
-    ✘ Limit # talents in small container @cancelled (11/19/2017, 2:02:25 PM)
     ✔ Create a modal for creating talents @done (11/19/2017, 2:02:29 PM)
     ✔ Create a modal for managing and viewing all talents @done (11/19/2017, 2:02:32 PM)
 
@@ -24,8 +23,12 @@ Talent Calculator:
       ✘ Created on? Last Modified? @cancelled (11/19/2017, 2:16:42 PM)
 
   Bugs:
+    ✔ convert login creds to lower case @done (11/25/2017, 5:35:29 PM)
+
 
   Optimizations:
+    ☐ Add debounce to search
+
     ✔ Add saved talents to a service so only have to load it once? @done (11/18/2017, 2:32:39 PM)
       ✘ Remove talents from service when logging out @cancelled (11/18/2017, 2:34:31 PM)
       ✔ Add saved talents to service when saving @done (11/19/2017, 2:05:24 PM)
@@ -34,12 +37,18 @@ Talent Calculator:
       ☐ Do not import theme multiple times (css)
 
   UI:
+    ☐ Add min-width to modal && fix position of close buttons (make like slideout arrow)
+    ☐ Make header static (flat) - not hovering
+    ☐ Make talents into directive
+    ☐ Make search box expandable on click
+    ☐ Make search box directive
     ☐ Add description to saved talents
-    ✔ Change input fields to Google's style @done (11/19/2017, 6:00:37 PM)
     ☐ Add text overflow for really long talent names @today 
 
 
 Other:
+  ☐ Create dev log page
+
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 Backlog:
@@ -59,6 +68,9 @@ Backlog:
   ☐ Buffs
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 Archive:
+    ✔ Change gulp, load themes only once @done (11/25/2017, 6:14:53 PM)
+  
+    ✔ Change input fields to Google's style @done (11/19/2017, 6:00:37 PM)
   ✔ Fix layout @done(10-15-2017 17:59) @project(Talent Calculator)
   ✔ Design container @done(10-15-2017 17:59) @project(Talent Calculator)
   ✔ Design frame for saved talents @done(10-15-2017 17:59) @project(Talent Calculator)

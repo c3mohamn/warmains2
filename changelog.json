@@ -1,5 +1,14 @@
 [
   {
+    "version": "1.2.8",
+    "date": "11/25/2017",
+    "time": "",
+    "description": [
+      "Fix login being case sensitive.",
+      "Change sass structure."
+    ]
+  },
+  {
     "version": "1.2.7",
     "date": "11/19/2017",
     "time": "",
@@ -32,7 +41,7 @@
     "description": [
       "Optimized saved talent retrieval so only call db once.",
       "Disallow users from saving talent with no points spent.",
-      "Fix bug where saving with no glyphs breaks app.",
+      "Fix bug where saving with no glyphs breaks app."
     ]
   },
   {
@@ -151,7 +160,7 @@
       "Change constants from service to global vars.",
       "Load tooltips and class talent details with resolve.",
       "Talents with no points in them inactive when no points remaining.",
-      "Talent tooltips implemented.",
+      "Talent tooltips implemented."
     ]
   },
   {
@@ -164,7 +173,7 @@
       "Started talent calculator.",
       "Add point to talents works & url updates.",
       "Remove point from talents works as well.",
-      "Other small bug fixes in talent calculator.",
+      "Other small bug fixes in talent calculator."
     ]
   }
 ]

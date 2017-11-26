@@ -1,1 +1,19 @@
-!function(n,t,e){"use strict";wmApp.filter("objectFilter",function(){return function(n,t,e){var o={},e=e.toLowerCase();return angular.forEach(n,function(n,r){n[t]&&n[t].toLowerCase().indexOf(e)>-1&&(o[r]=n)}),o}})}(window,document);
+(function(window, document, undefined) {
+'use strict';
+
+// Source: objectFilter.js
+// Reference: https://stackoverflow.com/questions/19849806/angular-filter-a-object-by-its-properties
+wmApp.filter('objectFilter', function () {
+return function (input, filterKey, filterVal) {
+  var filteredInput = {};
+  var filterVal = filterVal.toLowerCase();
+
+  angular.forEach(input, function(value, key){
+   if(value[filterKey] && value[filterKey].toLowerCase().indexOf(filterVal) > -1){
+      filteredInput[key] = value;
+    }
+  });
+  return filteredInput;
+}});
+
+})(window, document);

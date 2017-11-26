@@ -1,0 +1,24 @@
+.button {
+    padding: .8rem 1.5rem;
+    box-shadow: $wm-boxshadow-2;
+  
+    &.clear {
+      box-shadow: none;
+  
+      &:active {
+        box-shadow: none;
+      }
+    }
+  
+    &:active {
+      box-shadow: $wm-boxshadow-1;
+    }
+  
+    &.dark-bg {
+      box-shadow: $wm-boxshadow-black-2;
+  
+      &:active {
+        box-shadow: none;
+      }
+    }
+  }

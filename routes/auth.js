@@ -75,8 +75,8 @@ router.post('/register', function(req, res){
 * Verify the users info and assign access token
 */
 router.post('/login', function(req, res, next) {
-  var username = req.body.username;
-  var password = req.body.password;
+  var username = req.body.username.toLowerCase();
+  var password = req.body.password.toLowerCase();
 
   User.getUserByUsername(username, function(err, user) {
     if(err) throw err;

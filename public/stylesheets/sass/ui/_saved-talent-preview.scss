@@ -1,0 +1,25 @@
+.saved-talentss {
+    width: 100%;
+  
+    .saved-talents {
+      cursor: pointer;
+      transition: all $wm-transition-fast;
+  
+      &:hover {
+        background-color: $wm-secondary-light;
+      }
+  
+      .saved-talents-icon {
+        margin: .5rem;
+      }
+  
+      .saved-talents-body {
+        margin: 0 .25rem .25rem .25rem;
+  
+        .saved-talents-body-info {
+          color: white;
+          font-size: 12px;
+        }
+      }
+    }
+  }
