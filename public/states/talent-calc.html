@@ -42,7 +42,7 @@
        ng-click="showSavedTalents()"
        ng-disabled="!currentUser"
        ng-mouseenter="showSaveTalentMsg = true"
-       ng-mouseleave="showSaveTalentMsg = false">Save Talents</a>
+       ng-mouseleave="showSaveTalentMsg = false">Save Talent</a>
     <!-- Come up with something better later. -->
     <span class="float-right" style="color: red; padding: .5rem;" ng-show="showSaveTalentMsg && !currentUser">Log in to save talents.</span>
   </div>
@@ -69,7 +69,7 @@
         </div>
         <!-- Subtree Footer -->
         <div class="subtree-footer">
-           <a class="button hollow alert small dark-bg no-margin" ng-click="clearTalents(tree)">Reset</a>
+           <a class="button hollow alert dark-bg small no-margin" ng-click="clearTalents(tree)">Reset</a>
         </div>
       </div>
       <!-- Glyphs -->

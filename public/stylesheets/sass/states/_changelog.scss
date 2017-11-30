@@ -1,0 +1,13 @@
+.changelog-container {
+    margin: 0 auto;
+    max-width: 900px;
+
+    .log-items-list {
+        width: 100%;
+        padding: 4rem;
+    
+        .log-item-description {
+            color: white;
+        }
+    }
+}

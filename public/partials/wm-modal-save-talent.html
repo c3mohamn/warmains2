@@ -1,27 +1,30 @@
 <div class="modal-overlay flex-container align-middle align-center" ng-class="{'destroyed': destroying}">
 
-  <!-- Main modal content -->
-  <div class="modal-content small wm-scrollbar" click-outside="closeModal()" outside-if-not="modal-close">
-
-    <div class="saved-talents-modal flex-containerrow">
-      <div class="saved-talents-new column">
-        <!-- Save talent form -->
-        <div class="form-fields save-talent">
-          <form name="talentForm" novalidate>
-            <wm-input-field input-type="text" max-length="20" placeholder="name" bind="name" error="nameError"></wm-input-field>
-            <wm-input-field input-type="text" max-length="100" placeholder="description" bind="description" error="descriptionError"></wm-input-field>
-          </form>
+  <div class="modal-content-container small" click-outside="closeModal()">
+    <!-- Main modal content -->
+    <div class="modal-content wm-scrollbar">
+      <div class="saved-talents-modal flex-containerrow">
+        <div class="saved-talents-new column">
+          <!-- Save talent form -->
+          <div class="form-fields save-talent">
+            <form name="talentForm" novalidate>
+              <wm-input-field input-type="text" max-length="20" placeholder="name" bind="name" error="nameError"></wm-input-field>
+              <wm-input-field input-type="text" max-length="100" placeholder="description" bind="description" error="descriptionError"></wm-input-field>
+            </form>
+          </div>
+          Some preview for talent about to save here...
         </div>
-        Some preview for talent about to save here...
       </div>
     </div>
-
-  </div>
-  <!-- Flating close button -->
-  <div class="modal-close modal-small">
-    <div class="button-group">
-      <a class="button success float-right dark-bg" ng-click="save()">Save</a>
-      <a class="button secondary dark-bg no-margin" ng-click="closeModal()">Close</a>
+    <!-- Modal Footer -->
+    <div class="modal-footer flex-container align-middle align-center">
+      <div class="flex-child-grow"></div>
+      <div class="flex-child-shrink">
+        <!-- Save button -->
+        <a class="button success dark-bg" ng-click="save()">Save</a>
+        <!-- Close button -->
+        <a class="button secondary clear clear-lift no-margin" ng-click="closeModal()">Close</a>
+      </div>
     </div>
   </div>
 </div>

@@ -1,7 +1,7 @@
 .talent-container {
-  margin: 50px auto;
+  margin: 0 auto;
   padding: 1rem;
-  min-width: 900px;
+  width: 100%;
   max-width: 900px;
 
   .pick-class {
@@ -10,8 +10,9 @@
 
   .saved-container {
     position: absolute;
-    bottom: 5.2rem;
-    right: 1.2rem;
+    bottom: 0;
+    right: 0;
+    margin: .2rem;
     width: 225px;
     height: 225px;
     border: 2px solid $wm-secondary;
@@ -31,6 +32,8 @@
 
   .calculator {
     margin: 4rem 0;
+    position: relative;
+    min-width: 872px;
 
     .tree {
       width: 200px;

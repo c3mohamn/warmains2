@@ -1,30 +1,36 @@
 <div class="modal-overlay flex-container align-middle align-center" ng-class="{'destroyed': destroying}">
-  <!-- Floating search input -->
-  <div class="modal-search">
-    <input type="text" class="input-search" placeholder="search" ng-model="modalSearch">
-  </div>
-  <!-- Main modal content -->
-  <div class="modal-content wm-scrollbar" click-outside="removeModal()" outside-if-not="input-search">
-    <div class="modal-glyph-list">
-      <ul class="menu">
-        <li ng-if="!alreadyUsed(glyph)" class="modal-glyph-list-item small-12"
-            ng-repeat="(key, glyph) in glyphs[type] | objectFilter:'name':modalSearch" ng-click="selectGlyph(glyph)">
-          <!-- Glyphs -->
-          <div class="flex-container">
-            <img class="modal-glyph-icon" ng-src="{{getGlyphIconPath(glyph)}}" alt="">
-            <div class="modal-glyph-body">
-              {{glyph.name}}
-              <div class="modal-glyph-description">
-                {{glyph.description}}
+  <div class="modal-content-container" click-outside="removeModal()">
+    <!-- Main modal content -->
+    <div class="modal-content wm-scrollbar">
+      <div class="modal-glyph-list">
+        <ul class="menu">
+          <li ng-if="!alreadyUsed(glyph)" class="modal-glyph-list-item small-12"
+              ng-repeat="(key, glyph) in glyphs[type] | objectFilter:'name':modalSearch" ng-click="selectGlyph(glyph)">
+            <!-- Glyphs -->
+            <div class="flex-container">
+              <img class="modal-glyph-icon" ng-src="{{getGlyphIconPath(glyph)}}" alt="">
+              <div class="modal-glyph-body">
+                {{glyph.name}}
+                <div class="modal-glyph-description">
+                  {{glyph.description}}
+                </div>
               </div>
             </div>
-          </div>
-        </li>
-      </ul>
+          </li>
+        </ul>
+      </div>
     </div>
-  </div>
-  <!-- Flating close button -->
-  <div class="modal-close">
-    <a class="button secondary dark-bg no-margin" ng-click="removeModal()">Close</a>
+    <!-- Modal Footer -->
+    <div class="modal-footer flex-container align-middle align-center">
+      <div class="flex-child-grow"></div>
+      <!-- Search bar -->
+      <div class="flex-child-shrink">
+        <input type="text" class="input-search" placeholder="search" ng-model="modalSearch" ng-model-options="{ debounce: 100}">
+      </div>
+      <!-- Close button -->
+      <div class="flex-child-shrink">
+          <a class="button secondary clear clear-lift no-margin" ng-click="removeModal()">Close</a>
+      </div>
+    </div>
   </div>
 </div>

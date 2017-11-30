@@ -1,24 +1,40 @@
 .button {
-    padding: .8rem 1.5rem;
-    box-shadow: $wm-boxshadow-2;
-  
-    &.clear {
-      box-shadow: none;
-  
+  padding: .8rem 1.5rem;
+  box-shadow: $wm-boxshadow-2;
+
+  &.clear {
+    box-shadow: none;
+    font-weight: bold;
+
+    &.clear-lift {
+      &:hover {
+        transition: all $wm-transition-fast;
+        box-shadow: $wm-boxshadow-black-2;
+      }
+
+      &:focus {
+        box-shadow: $wm-boxshadow-black-2;
+      }
+
       &:active {
-        box-shadow: none;
+        box-shadow: $wm-boxshadow-black-1;
       }
     }
-  
+
     &:active {
-      box-shadow: $wm-boxshadow-1;
-    }
-  
-    &.dark-bg {
-      box-shadow: $wm-boxshadow-black-2;
-  
-      &:active {
-        box-shadow: none;
-      }
+      box-shadow: none;
     }
   }
+
+  &:active {
+    box-shadow: $wm-boxshadow-1;
+  }
+
+  &.dark-bg {
+    box-shadow: $wm-boxshadow-black-2;
+
+    &:active {
+      box-shadow: none;
+    }
+  }
+}
