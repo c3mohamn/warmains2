@@ -1,9 +1,22 @@
 Structure:
-  Main angular file is public/js/wm.js.
-  This contains the main warmains angular app along with the config for all
-  states.
-  All controllers are in public/js/controllers, and directives alike.
-  These js files are minified and combined into 1 controller/directive js file.
+  public
+    /js
+      /controllers
+        ~ contains all angular controllers
+      /directives
+        ~ contains all angular directives
+      /filters
+        ~ contains all angular filters
+      /services
+        ~ contains all angular services
+      /global
+        ~ contains global functions and variables
+
+      /wm-controller.js       # all controllers combined
+      /wm-directives.js       # all directives combined
+      /wm-filters.js          # all filters combined
+      /wm-services.js         # all services combined
+      /wm.js                  # contains angular app, states, listeners
 
 States:
   The main index.jade file contains routing all the different states.
