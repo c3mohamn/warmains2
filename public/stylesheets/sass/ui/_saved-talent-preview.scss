@@ -4,6 +4,9 @@
   .saved-talent {
     cursor: pointer;
     transition: all $wm-transition-fast;
+    border-radius: 2px;
+    box-shadow: $wm-boxshadow-black-1;
+    margin: .5rem;
 
     &:hover {
       background-color: $wm-secondary-light;
@@ -21,7 +24,7 @@
       white-space: nowrap;
 
       &.saved-talent-name-long {
-        width: 175px;
+        width: 160px;
       }
     }
 
@@ -31,7 +34,7 @@
     }
 
     .saved-talent-description {
-      max-width: 125px;
+      max-width: 115px;
       max-height: 46px;
       padding: 8px 3px 3px 5px;
       color: gray;

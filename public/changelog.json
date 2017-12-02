@@ -1,5 +1,14 @@
 [
   {
+    "version": "1.3.1",
+    "date": "12/01/2017",
+    "time": "",
+    "description": [
+      "Change styling for saved talents.",
+      "Fix talent container width issue."
+    ]
+  },
+  {
     "version": "1.3.0",
     "date": "11/29/2017",
     "time": "",

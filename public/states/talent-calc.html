@@ -1,27 +1,6 @@
-<div class="flex-container flex-dir-column talent-container dark-container">
-  <!-- Header -->
-  <div class="talent-header flex-child-shrink" ng-if="validClassId()">
-    <img class="class-icons" ng-src="/images/class-icons/{{classId}}.png" alt="">
-    <div class="change-class float-right">
-      <ul class="menu">
-        <li ng-repeat="(id, name) in classes" ng-click="changeClass(id)">
-          <img class="class-icons small hoverable" ng-src="/images/class-icons/{{id}}.png" alt="{{name}}">
-        </li>
-      </ul>
-    </div>
-
-    <!-- Tree preview -->
-    <div class="calculator-details">
-      <span>
-        ( {{talentsSpentDetails[0].total}} / {{talentsSpentDetails[1].total}} / {{talentsSpentDetails[2].total}})
-      </span>
-      <span class="float-right">Remaining: {{talentsSpentDetails.remaining}}</span>
-    </div>
-
-    <hr>
-  </div>
-  <!-- Pick a class (when new) -->
-  <div class="pick-class" ng-if="!validClassId()">
+<!-- Choose a class -->
+<div ng-if="!validClassId()" class="flex-container flex-dir-column talent-container dark-container">
+  <div class="pick-class">
     <span>Pick a class</span>
     <ul class="menu align-center">
       <li ng-repeat="(id, name) in classes" ng-click="changeClass(id)">
@@ -35,8 +14,29 @@
       </li>
     </ul>
   </div>
-
-  <div ng-if="validClassId()">
+</div>
+<!-- Fill out calculator -->
+<div ng-if="validClassId()" class="flex-container flex-dir-column talent-container valid-class dark-container">
+  <!-- Header -->
+  <div class="talent-header flex-child-shrink">
+    <img class="class-icons" ng-src="/images/class-icons/{{classId}}.png" alt="">
+    <div class="change-class float-right">
+      <ul class="menu">
+        <li ng-repeat="(id, name) in classes" ng-click="changeClass(id)">
+          <img class="class-icons small hoverable" ng-src="/images/class-icons/{{id}}.png" alt="{{name}}">
+        </li>
+      </ul>
+    </div>
+    <!-- Tree preview -->
+    <div class="calculator-details">
+      <span>
+        ( {{talentsSpentDetails[0].total}} / {{talentsSpentDetails[1].total}} / {{talentsSpentDetails[2].total}})
+      </span>
+      <span class="float-right">Remaining: {{talentsSpentDetails.remaining}}</span>
+    </div>
+    <hr>
+  </div>
+  <div>
     <a class="button alert dark-bg" ng-click="clearTalents(); clearGlyphs();">Reset all</a>
     <a class="button dark-bg float-right" 
        ng-click="showSavedTalents()"
@@ -48,7 +48,7 @@
   </div>
   
   <!-- Calculator -->
-  <div class="calculator" ng-if="validClassId()">
+  <div class="calculator">
     <!-- Generate 3 sub trees, talent rows & columns -->
     <div class="flex-container">
       <div ng-repeat="tree in [0, 1, 2]" class="tree" ng-style="{'background-image': 'url(/images/talents/{{classId}}/{{specs[classId][tree]}}/background.jpg)'}">

@@ -1,8 +1,13 @@
 .talent-container {
+  position: relative;
   margin: 0 auto;
   padding: 1rem;
   width: 100%;
   max-width: 900px;
+
+  &.valid-class {
+    min-width: 900px;
+  }
 
   .pick-class {
     text-align: center;
@@ -33,7 +38,6 @@
   .calculator {
     margin: 4rem 0;
     position: relative;
-    min-width: 872px;
 
     .tree {
       width: 200px;
