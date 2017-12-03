@@ -28,8 +28,23 @@
             height: 100%;
             width: 100%;
 
-            .slideout-title {
-                padding: 1rem 4rem;
+            .slideout-header {
+                padding: 1rem;
+                
+                .slideout-header-title {
+                    margin: 0 1rem;
+                    cursor: default;
+                }
+
+                .slideout-header-close {
+                    color: white;
+                    cursor: pointer;
+
+                    &:hover {
+                        color: gray;
+                        transition: all $wm-transition-fast;
+                    }
+                }
             }
         }
         

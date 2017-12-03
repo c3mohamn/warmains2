@@ -3,7 +3,10 @@
         <!-- Content -->
         <div class="slideout-container-inner wm-scrollbar">
 
-            <h4 class="slideout-title">{{::slideoutTitle}}</h4>
+            <h4 class="slideout-header flex-container align-middle">
+                <i class="slideout-header-close material-icons" ng-click="toggleSlideout(false)">close</i>
+                <span class="slideout-header-title">{{::slideoutTitle}}</span>
+            </h4>
                 
             <div class="saved-talents-list">
                 <wm-talent-preview ng-repeat="item in itemList" talent="item" detailed="true" ng-click="navigateToItem(item)">

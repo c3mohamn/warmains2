@@ -21,10 +21,12 @@
     width: 225px;
     height: 225px;
     border: 2px solid $wm-secondary;
+    box-shadow: $wm-boxshadow-black-1;
 
     .saved-container-inner {
       height: 100%;
       width: 100%;
+      box-shadow: $wm-boxshadow-inset-1;
     }
 
     .saved-container-title {
@@ -45,6 +47,7 @@
       margin: .2rem;
       border: 2px solid $wm-secondary;
       position: relative;
+      box-shadow: $wm-boxshadow-black-1;
 
       &.glyphs {
         margin-left: 3.7rem;

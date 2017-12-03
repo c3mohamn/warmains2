@@ -137,8 +137,12 @@ function(talentHelper) {
         scope.goToItemUrl({item: item});
       }
 
-      function toggleSlideout() {
-        scope.show = !scope.show;
+      function toggleSlideout(toggle) {
+        if (toggle !== undefined) {
+          scope.show = toggle;
+        } else {
+          scope.show = !scope.show;
+        }
         scope.showPreview = false;
       }
     }
