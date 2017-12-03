@@ -1,7 +1,7 @@
 (function(window, document, undefined) {
 'use strict';
 
-// Source: objectFilter.js
+// Source: wm-object-filter.js
 // Reference: https://stackoverflow.com/questions/19849806/angular-filter-a-object-by-its-properties
 wmApp.filter('objectFilter', function () {
 return function (input, filterKey, filterVal) {

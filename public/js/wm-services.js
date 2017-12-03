@@ -1,7 +1,81 @@
 (function(window, document, undefined) {
 'use strict';
 
-// Source: talentHelper.js
+// Source: wm-auth.js
+// User Authentication Services
+wmApp.service('authAPI', ['$http', '$localStorage', '$window', function($http, $localStorage, $window) {
+
+  function registerUser(username, password) {
+    return $http.post('/auth/register', { username: username, password: password });
+  }
+
+  function loginUser(username, password) {
+    return $http.post('/auth/login', { username: username, password: password});
+  }
+
+  // log user out and refresh page..
+  function logout() {
+    delete $localStorage.currentUser;
+    $window.location.reload();
+  }
+
+  // decrypts the token in localStorage and returns result to be used for currentUser
+  function decryptToken(token) {
+    var base64Url = token.split('.')[1];
+    var base64 = base64Url.replace('-', '+').replace('_', '/');
+    var currentUser = JSON.parse($window.atob(base64));
+
+    return currentUser;
+  }
+
+  // checks if token is valid then refreshes it.
+  function refreshToken(token) {
+    return $http.post('/auth/refreshToken', { token: token });
+  }
+
+  return {
+    // user
+    registerUser: registerUser,
+    loginUser: loginUser,
+    logout: logout,
+
+    // token
+    decryptToken: decryptToken,
+    refreshToken: refreshToken
+  };
+}]);
+
+// Source: wm-notifications.js
+wmApp.service('Notifications', ['ModalService', '$timeout', function(ModalService, $timeout) {
+  // Keeps track of active notifications on the screen
+  var count = 0;
+
+  var notificationsModalOptions = {
+    templateUrl: '/partials/modals/wm-modal-notifications.html',
+    bodyClass: 'modal-open',
+    controller: 'modalNotificationsCtrl',
+    inputs: { params: {} }
+  };
+
+  function Alert(msg, type) {
+    count = count + 1;
+    notificationsModalOptions.inputs.params.msg = msg;
+    notificationsModalOptions.inputs.params.type = type;
+    notificationsModalOptions.inputs.params.index = count;
+
+    ModalService.showModal(notificationsModalOptions).then(function (modal) {
+      modal.close.then(function (result) {
+        count = count - 1;
+      });
+    });
+  }
+
+  return {
+    Alert: Alert
+  }
+}]);
+
+// Source: wm-talent-helper.js
 // Calculator helper service
 wmApp.service('talentHelper', ['$location', '$http', function($location, $http) {
 
@@ -519,50 +593,6 @@ wmApp.service('talentHelper', ['$location', '$http', function($location, $http) 
     getTalents: getTalents,
     saveTalent: saveTalent,
     deleteTalent: deleteTalent,
-  };
-}]);
-
-// Source: user.js
-// User Authentication Services
-wmApp.service('authAPI', ['$http', '$localStorage', '$window', function($http, $localStorage, $window) {
-
-  function registerUser(username, password) {
-    return $http.post('/auth/register', { username: username, password: password });
-  }
-
-  function loginUser(username, password) {
-    return $http.post('/auth/login', { username: username, password: password});
-  }
-
-  // log user out and refresh page..
-  function logout() {
-    delete $localStorage.currentUser;
-    $window.location.reload();
-  }
-
-  // decrypts the token in localStorage and returns result to be used for currentUser
-  function decryptToken(token) {
-    var base64Url = token.split('.')[1];
-    var base64 = base64Url.replace('-', '+').replace('_', '/');
-    var currentUser = JSON.parse($window.atob(base64));
-
-    return currentUser;
-  }
-
-  // checks if token is valid then refreshes it.
-  function refreshToken(token) {
-    return $http.post('/auth/refreshToken', { token: token });
-  }
-
-  return {
-    // user
-    registerUser: registerUser,
-    loginUser: loginUser,
-    logout: logout,
-
-    // token
-    decryptToken: decryptToken,
-    refreshToken: refreshToken
   };
 }]);
 

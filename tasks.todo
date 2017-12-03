@@ -2,15 +2,15 @@ Talent Calculator:
 
   ✔ Save talents to db for accounts? @done (11/19/2017, 2:02:14 PM)
     ✔ Retrieve saved talents from back-end @done (11/11/2017, 3:20:38 PM)
-    ☐ Design CTA when user is not logged in (for saving talents)
+    ✔ Design CTA when user is not logged in (for saving talents) @done (12/2/2017, 7:18:15 PM)
     ✔ Create a modal for creating talents @done (11/19/2017, 2:02:29 PM)
     ✔ Create a modal for managing and viewing all talents @done (11/19/2017, 2:02:32 PM)
 
   ✔ Make SAVED talents a slide-out from right? @done (11/18/2017, 5:20:02 PM)
     ✔ Make SAVING talents modal only. @done (11/19/2017, 2:01:01 PM)
     ☐ Show something when user has no saved talents
-    ☐ Add 100 char max description for talents @low
-    ☐ Add max length in input field @high
+    ✔ Add 100 char max description for talents @low @done (12/2/2017, 7:17:58 PM)
+    ✔ Add max length in input field @high @done (12/2/2017, 7:18:01 PM)
     ☐ Add search for talent slideout @high
     ☐ Add delete for talent slideout @high
 
@@ -27,27 +27,28 @@ Talent Calculator:
 
 
   Optimizations:
-    ☐ Add debounce to search
+    ✔ Add debounce to search @done (12/2/2017, 7:17:53 PM)
 
     ✔ Add saved talents to a service so only have to load it once? @done (11/18/2017, 2:32:39 PM)
       ✘ Remove talents from service when logging out @cancelled (11/18/2017, 2:34:31 PM)
       ✔ Add saved talents to service when saving @done (11/19/2017, 2:05:24 PM)
       ☐ Remove talent when deleting
 
-      ☐ Do not import theme multiple times (css)
+      ✔ Do not import theme multiple times (css) @done (12/2/2017, 7:17:47 PM)
 
   UI:
-    ☐ Add min-width to modal && fix position of close buttons (make like slideout arrow)
-    ☐ Make header static (flat) - not hovering
-    ☐ Make talents into directive
-    ☐ Make search box expandable on click
+    ☐ Add X to slide out on left to hide.
+    ✔ Add min-width to modal && fix position of close buttons (make like slideout arrow) @done (12/2/2017, 7:17:44 PM)
+    ✘ Make header static (flat) - not hovering @cancelled (12/2/2017, 7:17:41 PM)
+    ✔ Make talents into directive @done (12/2/2017, 7:17:34 PM)
+    ✔ Make search box expandable on click @done (12/2/2017, 7:17:29 PM)
     ☐ Make search box directive
-    ☐ Add description to saved talents
-    ☐ Add text overflow for really long talent names @today 
+    ✔ Add description to saved talents @done (12/2/2017, 7:17:25 PM)
+    ✔ Add text overflow for really long talent names @today @done (12/2/2017, 7:17:24 PM)
 
 
 Other:
-  ☐ Create dev log page
+  ✔ Create dev log page @done (12/2/2017, 7:18:21 PM)
 
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿

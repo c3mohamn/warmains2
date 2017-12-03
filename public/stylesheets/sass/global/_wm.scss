@@ -13,11 +13,6 @@ html {
 body {
   font-family: 'Roboto Condensed', sans-serif;
   background-image: url('/images/bg/wm-bg.jpg');
-
-  // Avoid scrolling body when modal is open
-  &.modal-open {
-    overflow: hidden;
-  }
 }
 
 .mainBody {
@@ -115,11 +110,10 @@ body {
 
 // Custom scroll bar
 .wm-scrollbar {
-  overflow: hidden;
+  overflow: auto;
   transition: all $wm-transition-medium;
 
   &:hover {
-    overflow: auto;
     transition: all $wm-transition-medium;
   }
 

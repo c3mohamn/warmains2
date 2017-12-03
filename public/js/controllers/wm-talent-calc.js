@@ -1,6 +1,6 @@
 // Talent-calc controller
-wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$stateParams', '$state', 'talentDetails', 'talentTooltips', 'talentGlyphs', 'ModalService',
-  function($rootScope, $scope, talentHelper, $stateParams, $state, talentDetails, talentTooltips, talentGlyphs, ModalService) {
+wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$stateParams', '$state', 'talentDetails', 'talentTooltips', 'talentGlyphs', 'ModalService', 'Notifications',
+  function($rootScope, $scope, talentHelper, $stateParams, $state, talentDetails, talentTooltips, talentGlyphs, ModalService, Notifications) {
     // scope vars
     $scope.classes = classesToString;
     $scope.specs = specsToString;
@@ -14,7 +14,6 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
     $scope.talentGlyphs = talentGlyphs;
     $scope.curGlyphs = {};
     $scope.savedTalents = [];
-    $rootScope.showGlyphSelection = false;
 
     // scope functs
     $scope.changeClass = changeClass;
@@ -27,9 +26,16 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
     $scope.showSavedTalents = showSavedTalents;
 
     var saveModalOptions = {
-      templateUrl: '/partials/wm-modal-save-talent.html',
+      templateUrl: '/partials/modals/wm-modal-save-talent.html',
       bodyClass: 'modal-open',
-      controller: 'modalSaveTalentCtrl'
+      controller: 'modalSaveTalentCtrl',
+    };
+
+    var glyphsModalOptions = {
+      templateUrl: '/partials/modals/wm-modal-glyphs.html',
+      bodyClass: 'modal-open',
+      controller: 'modalGlyphsCtrl',
+      inputs: { glyphParams: {} }
     };
 
     function showSavedTalents() {
@@ -59,11 +65,13 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
                   console.log(response);
                   talentHelper.addSavedTalent(response.data);
                   $scope.showSlideoutPreview = true;
+                  Notifications.Alert('Talent saved successfully.', 'success');
                 } else {
                   console.log('No response...');
                 }
               }, function errorCallback(response) {
                 console.log(response);
+                Notifications.Alert(response.statusText, 'error');
               }
             );
           }
@@ -168,9 +176,18 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
 
     // Open glyph selection modal
     function showGlyphSelectionModal(index, type) {
-      $rootScope.showGlyphSelection = true;
-      $scope.glyphSelectionType = type;
-      $scope.glyphSelectionIndex = index;
-      $rootScope.isModalOpen = true;
+      glyphsModalOptions.inputs.glyphParams.curGlyphs = $scope.curGlyphs;
+      glyphsModalOptions.inputs.glyphParams.glyphs = talentGlyphs;
+      glyphsModalOptions.inputs.glyphParams.index = index;
+      glyphsModalOptions.inputs.glyphParams.type = type;
+
+      ModalService.showModal(glyphsModalOptions).then(function (modal) {
+        modal.close.then(function (result) {
+          if (result) {
+            // Change URL based on result
+            talentHelper.changeUrlGlyphs(result.curGlyphs);
+          }
+        });
+      });
     }
 }]);

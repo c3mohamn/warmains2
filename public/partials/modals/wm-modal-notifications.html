@@ -1,0 +1,10 @@
+<div class="notifications-container" ng-click="closeModal()" ng-class="{'destroyed': destroying}" ng-style="changePosition()">
+    <div class="notifications-container-inner flex-container align-middle align-center">
+        <div class="flex-child-shrink">
+            <span class="notification-msg" ng-class="{'error': type === 'error', 'success': type === 'success'}">{{::msg}}</span>
+        </div>
+        <div class="flex-child-grow"></div>
+        <i ng-if="::type === 'success'" class="success material-icons">check_circle</i>
+        <i ng-if="::type === 'error'" class="error material-icons">error</i>
+    </div>
+</div>

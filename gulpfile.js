@@ -30,7 +30,7 @@ gulp.task('services', function() {
 
 // compile and minify controllers
 gulp.task('controllers', function() {
-  gulp.src('public/js/controllers/*.js')
+  gulp.src('public/js/controllers/**/*.js')
       .pipe(concat.scripts('wm-controllers.js'))
       // .pipe(uglify())
       .pipe(gulp.dest('public/js'));
@@ -57,7 +57,7 @@ gulp.task('default', ['sass', 'filters', 'services', 'directives', 'controllers'
 // watch all these tasks
 gulp.task('watch', function() {
   gulp.watch('public/js/services/*.js', ['services']);
-  gulp.watch('public/js/controllers/*.js', ['controllers']);
+  gulp.watch('public/js/controllers/**/*.js', ['controllers']);
   gulp.watch('public/js/directives/*.js', ['directives']);
   gulp.watch('public/js/filters/*.js', ['filters']);
   gulp.watch('public/stylesheets/sass/**/*.scss', ['sass']);

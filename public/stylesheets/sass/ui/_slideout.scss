@@ -4,10 +4,12 @@
     bottom: 3rem;
     right: -20rem;
     width: 20rem;
+    min-height: 220px;
     z-index: 10;
     background-color: darken($wm-secondary, 20);
     box-shadow: $wm-boxshadow-black-2;
     transition: $wm-transition-fast;
+    color: $wm-primary-light;
 
     &.show {
         right: 0;
@@ -27,7 +29,7 @@
             width: 100%;
 
             .slideout-title {
-                padding: 1rem 3.5rem;
+                padding: 1rem 4rem;
             }
         }
         

@@ -114,17 +114,12 @@
       </div>
     </div>
   </div>
+</div>
 
-  <!-- Glyph Modal / Overlay -->
-  <div ng-if="showGlyphSelection">
-    <wm-modal-glyphs glyphs="talentGlyphs" index="glyphSelectionIndex" cur-glyphs="curGlyphs" type="glyphSelectionType"/>
-  </div>
-
-  <!-- Saved talents slideout -->
-  <div ng-show="currentUser">
-    <wm-slideout-list item-list="savedTalents" 
-                      show-preview="showSlideoutPreview" 
-                      go-to-item-url="goToSavedTalent(item)" 
-                      slideout-title="Saved Talents"/>
-  </div>
+<!-- Saved talents slideout -->
+<div ng-show="currentUser">
+  <wm-slideout-list item-list="savedTalents" 
+                    show-preview="showSlideoutPreview" 
+                    go-to-item-url="goToSavedTalent(item)" 
+                    slideout-title="Saved Talents"/>
 </div>

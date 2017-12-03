@@ -1,7 +1,7 @@
 (function(window, document, undefined) {
 'use strict';
 
-// Source: auth.js
+// Source: wm-auth.js
 // Authentication controller
 wmApp.controller('authCtrl', ['$scope', '$http', '$state', 'authAPI', '$localStorage', '$timeout', 
   function($scope, $http, $state, authAPI, $localStorage, $timeout) {
@@ -122,14 +122,14 @@ wmApp.controller('authCtrl', ['$scope', '$http', '$state', 'authAPI', '$localSto
     }
 }]);
 
-// Source: changelog.js
+// Source: wm-changelog.js
 // Devlog page controller
 wmApp.controller('changelogCtrl', ['$scope', 'log',
 function($scope, log) {
     $scope.logs = log;
 }]);
 
-// Source: home.js
+// Source: wm-home.js
 // Home page controller
 wmApp.controller('homeCtrl', ['$rootScope', '$localStorage', '$scope',
   function($rootScope, $localStorage, $scope) {
@@ -143,7 +143,7 @@ wmApp.controller('homeCtrl', ['$rootScope', '$localStorage', '$scope',
     // 4. Saved talent list
 }]);
 
-// Source: index.js
+// Source: wm-index.js
 // Index page controller
 wmApp.controller('indexCtrl', ['$rootScope', '$scope', '$state', 'authAPI', function($rootScope, $scope, $state, authAPI) {
   $scope.logout = logout;
@@ -154,67 +154,20 @@ wmApp.controller('indexCtrl', ['$rootScope', '$scope', '$state', 'authAPI', func
   }
 }]);
 
-// Source: modal-save-talent.js
-// Save Talent Modal controller
-wmApp.controller('modalSaveTalentCtrl', ['$scope', 'close', '$location', 'talentHelper', function($scope, close, $location, talentHelper) {
-  $scope.name = null;
-  $scope.closeModal = closeModal;
-  $scope.save = save;
-  $scope.savedTalents = talentHelper.getAllSavedTalents();
-
-  // Save current talents
-  function save() {
-    if (validate() === true) {
-      $scope.destroying = true;
-      close({
-        talents: $location.search().talents,
-        glyphs: $location.search().glyphs,
-        name: $scope.name,
-        description: $scope.description
-      }, 250);
-    }
-  };
-
-  // Close without saving
-  function closeModal() {
-    $scope.destroying = true;
-    close(false, 250);
-  }
-
-  // Return true of save input is valid
-  function validate() {
-    if (!$scope.name) {
-      $scope.nameError = 'Enter a name please.';
-      return false;
-    } else if ($scope.name.length < 2 || $scope.name.length > 20) {
-      $scope.nameError = 'Name must be between 2 and 20 characters long.';
-      return false;
-    } else if ($location.search().talents === '') {
-      $scope.nameError = 'You cannot save an empty talent tree.';
-      return false;
-    } else if ($scope.description && $scope.description.length > 100) {
-      $scope.descriptionError = 'Description cannot exceed 100 characters.';
-      return false;
-    }
-
-    return true;
-  }
-}]);
-
-// Source: planner.js
+// Source: wm-planner.js
 // Planner page controller
 wmApp.controller('plannerCtrl', ['$scope', '$state', function($scope, $state) {
 }]);
 
-// Source: styles.js
+// Source: wm-styles.js
 // Styles controller
 wmApp.controller('stylesCtrl', ['$scope', function($scope) {
 }]);
 
-// Source: talent-calc.js
+// Source: wm-talent-calc.js
 // Talent-calc controller
-wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$stateParams', '$state', 'talentDetails', 'talentTooltips', 'talentGlyphs', 'ModalService',
-  function($rootScope, $scope, talentHelper, $stateParams, $state, talentDetails, talentTooltips, talentGlyphs, ModalService) {
+wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$stateParams', '$state', 'talentDetails', 'talentTooltips', 'talentGlyphs', 'ModalService', 'Notifications',
+  function($rootScope, $scope, talentHelper, $stateParams, $state, talentDetails, talentTooltips, talentGlyphs, ModalService, Notifications) {
     // scope vars
     $scope.classes = classesToString;
     $scope.specs = specsToString;
@@ -228,7 +181,6 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
     $scope.talentGlyphs = talentGlyphs;
     $scope.curGlyphs = {};
     $scope.savedTalents = [];
-    $rootScope.showGlyphSelection = false;
 
     // scope functs
     $scope.changeClass = changeClass;
@@ -241,9 +193,16 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
     $scope.showSavedTalents = showSavedTalents;
 
     var saveModalOptions = {
-      templateUrl: '/partials/wm-modal-save-talent.html',
+      templateUrl: '/partials/modals/wm-modal-save-talent.html',
       bodyClass: 'modal-open',
-      controller: 'modalSaveTalentCtrl'
+      controller: 'modalSaveTalentCtrl',
+    };
+
+    var glyphsModalOptions = {
+      templateUrl: '/partials/modals/wm-modal-glyphs.html',
+      bodyClass: 'modal-open',
+      controller: 'modalGlyphsCtrl',
+      inputs: { glyphParams: {} }
     };
 
     function showSavedTalents() {
@@ -273,11 +232,13 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
                   console.log(response);
                   talentHelper.addSavedTalent(response.data);
                   $scope.showSlideoutPreview = true;
+                  Notifications.Alert('Talent saved successfully.', 'success');
                 } else {
                   console.log('No response...');
                 }
               }, function errorCallback(response) {
                 console.log(response);
+                Notifications.Alert(response.statusText, 'error');
               }
             );
           }
@@ -382,11 +343,152 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
 
     // Open glyph selection modal
     function showGlyphSelectionModal(index, type) {
-      $rootScope.showGlyphSelection = true;
-      $scope.glyphSelectionType = type;
-      $scope.glyphSelectionIndex = index;
-      $rootScope.isModalOpen = true;
+      glyphsModalOptions.inputs.glyphParams.curGlyphs = $scope.curGlyphs;
+      glyphsModalOptions.inputs.glyphParams.glyphs = talentGlyphs;
+      glyphsModalOptions.inputs.glyphParams.index = index;
+      glyphsModalOptions.inputs.glyphParams.type = type;
+
+      ModalService.showModal(glyphsModalOptions).then(function (modal) {
+        modal.close.then(function (result) {
+          if (result) {
+            // Change URL based on result
+            talentHelper.changeUrlGlyphs(result.curGlyphs);
+          }
+        });
+      });
     }
+}]);
+
+// Source: modals\wm-modal-glyphs.js
+// Glyph Selection Modal Controller
+wmApp.controller('modalGlyphsCtrl', ['$scope', 'close', 'glyphParams', 
+  function($scope, close, glyphParams) {
+    //vars
+    $scope.modalSearch = '';
+    $scope.closeModal = closeModal;
+    $scope.curGlyphs = glyphParams.curGlyphs;
+    $scope.glyphs = glyphParams.glyphs;
+    $scope.type = glyphParams.type;
+    $scope.index = glyphParams.index;
+    // functs
+    $scope.getGlyphIconPath = getGlyphIconPath;
+    $scope.selectGlyph = selectGlyph;
+    $scope.alreadyUsed = alreadyUsed;
+
+    function getGlyphIconPath(glyph) {
+      var iconName = glyph.icon.toLowerCase();
+
+      return 'http://wow.zamimg.com/images/wow/icons/medium/' + iconName + '.jpg';
+    }
+
+    function selectGlyph(glyph) {
+      $scope.curGlyphs[$scope.index] = glyph;
+      if (!$scope.destroying) {
+        $scope.destroying = true;
+        close({
+          curGlyphs: $scope.curGlyphs
+        }, 250);
+      }
+    }
+
+    // return true if glyph is already used by user
+    function alreadyUsed(glyph) {
+      return $scope.curGlyphs.indexOf(glyph) > -1;
+    }
+
+    // Close without saving
+    function closeModal() {
+      if (!$scope.destroying) {
+        $scope.destroying = true;
+        close(false, 250);
+      }
+    }
+}]);
+
+// Source: modals\wm-modal-notifications.js
+// Notifications Modal controller
+wmApp.controller('modalNotificationsCtrl', ['$scope', 'close', '$timeout', 'params', 
+  function($scope, close, $timeout, params) {
+    $scope.msg = params.msg;
+    $scope.type = params.type;
+    $scope.index = params.index;
+    var destroyTime = $scope.type === 'error' ? 4000 : 2500;
+
+    $scope.closeModal = closeModal;
+    $scope.changePosition = changePosition;
+
+    init();
+
+    function init() {
+      $timeout(function () {
+        closeModal();
+      }, destroyTime);
+    }
+
+    // Create stacking affect when more than 1 notification on screen
+    function changePosition() {
+      if ($scope.index > 1) {
+        var bottomOffset = 2 + ($scope.index - 1) * 5;
+        return { 'bottom': bottomOffset + 'rem' }; 
+      }
+    }
+
+    // Close without saving
+    function closeModal() {
+      if (!$scope.destroying) {
+        $scope.destroying = true;
+        close(false, 250);
+      }
+    }
+}]);
+
+// Source: modals\wm-modal-save-talent.js
+// Save Talent Modal controller
+wmApp.controller('modalSaveTalentCtrl', ['$scope', 'close', '$location', 'talentHelper', function($scope, close, $location, talentHelper) {
+  $scope.name = null;
+  $scope.closeModal = closeModal;
+  $scope.save = save;
+  $scope.savedTalents = talentHelper.getAllSavedTalents();
+
+  // Save current talents
+  function save() {
+    if (validate() === true && !$scope.destroying) {
+      $scope.destroying = true;
+      close({
+        talents: $location.search().talents,
+        glyphs: $location.search().glyphs,
+        name: $scope.name,
+        description: $scope.description
+      }, 250);
+    }
+  };
+
+  // Close without saving
+  function closeModal() {
+    if (!$scope.destroying) {
+      $scope.destroying = true;
+      close(false, 250);
+    }
+  }
+
+  // Return true of save input is valid
+  function validate() {
+    if (!$scope.name) {
+      $scope.nameError = 'Enter a name please.';
+      return false;
+    } else if ($scope.name.length < 2 || $scope.name.length > 20) {
+      $scope.nameError = 'Name must be between 2 and 20 characters long.';
+      return false;
+    } else if ($location.search().talents === '') {
+      $scope.nameError = 'You cannot save an empty talent tree.';
+      return false;
+    } else if ($scope.description && $scope.description.length > 100) {
+      $scope.descriptionError = 'Description cannot exceed 100 characters.';
+      return false;
+    }
+
+    return true;
+  }
 }]);
 
 })(window, document);

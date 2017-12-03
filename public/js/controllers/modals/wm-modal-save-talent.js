@@ -7,7 +7,7 @@ wmApp.controller('modalSaveTalentCtrl', ['$scope', 'close', '$location', 'talent
 
   // Save current talents
   function save() {
-    if (validate() === true) {
+    if (validate() === true && !$scope.destroying) {
       $scope.destroying = true;
       close({
         talents: $location.search().talents,
@@ -20,8 +20,10 @@ wmApp.controller('modalSaveTalentCtrl', ['$scope', 'close', '$location', 'talent
 
   // Close without saving
   function closeModal() {
-    $scope.destroying = true;
-    close(false, 250);
+    if (!$scope.destroying) {
+      $scope.destroying = true;
+      close(false, 250);
+    }
   }
 
   // Return true of save input is valid

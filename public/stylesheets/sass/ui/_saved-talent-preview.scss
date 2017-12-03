@@ -5,11 +5,11 @@
     cursor: pointer;
     transition: all $wm-transition-fast;
     border-radius: 2px;
-    box-shadow: $wm-boxshadow-black-1;
+    box-shadow: $wm-boxshadow-black-1-1;
     margin: .5rem;
 
     &:hover {
-      background-color: $wm-secondary-light;
+      background-color: darken($wm-secondary, 10);
     }
 
     .saved-talent-icon {
