@@ -1,77 +1,32 @@
-Talent Calculator:
-
-  ✔ Save talents to db for accounts? @done (11/19/2017, 2:02:14 PM)
-    ✔ Retrieve saved talents from back-end @done (11/11/2017, 3:20:38 PM)
-    ✔ Design CTA when user is not logged in (for saving talents) @done (12/2/2017, 7:18:15 PM)
-    ✔ Create a modal for creating talents @done (11/19/2017, 2:02:29 PM)
-    ✔ Create a modal for managing and viewing all talents @done (11/19/2017, 2:02:32 PM)
-
-  ✔ Make SAVED talents a slide-out from right? @done (11/18/2017, 5:20:02 PM)
-    ✔ Make SAVING talents modal only. @done (11/19/2017, 2:01:01 PM)
-    ☐ Show something when user has no saved talents
-    ✔ Add 100 char max description for talents @low @done (12/2/2017, 7:17:58 PM)
-    ✔ Add max length in input field @high @done (12/2/2017, 7:18:01 PM)
-    ☐ Add search for talent slideout @high
-    ☐ Add delete for talent slideout @high
-
-    ☐ Show preview of current talent/glyphs when SAVING. @high 
-       ☐ When clicking Save talent, save in localStorage
-          Then retreive information from localStorage and show preview.
-          Preview of all used talents, amount, icons etc. 
-    
-    Back-end:
-      ✘ Created on? Last Modified? @cancelled (11/19/2017, 2:16:42 PM)
-
-  Bugs:
-    ✔ convert login creds to lower case @done (11/25/2017, 5:35:29 PM)
-
-
-  Optimizations:
-    ✔ Add debounce to search @done (12/2/2017, 7:17:53 PM)
-
-    ✔ Add saved talents to a service so only have to load it once? @done (11/18/2017, 2:32:39 PM)
-      ✘ Remove talents from service when logging out @cancelled (11/18/2017, 2:34:31 PM)
-      ✔ Add saved talents to service when saving @done (11/19/2017, 2:05:24 PM)
-      ☐ Remove talent when deleting
-
-      ✔ Do not import theme multiple times (css) @done (12/2/2017, 7:17:47 PM)
-
-  UI:
-    ☐ Add X to slide out on left to hide.
-    ✔ Add min-width to modal && fix position of close buttons (make like slideout arrow) @done (12/2/2017, 7:17:44 PM)
-    ✘ Make header static (flat) - not hovering @cancelled (12/2/2017, 7:17:41 PM)
-    ✔ Make talents into directive @done (12/2/2017, 7:17:34 PM)
-    ✔ Make search box expandable on click @done (12/2/2017, 7:17:29 PM)
-    ☐ Make search box directive
-    ✔ Add description to saved talents @done (12/2/2017, 7:17:25 PM)
-    ✔ Add text overflow for really long talent names @today @done (12/2/2017, 7:17:24 PM)
-
-
-Other:
-  ✔ Create dev log page @done (12/2/2017, 7:18:21 PM)
-
-
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
-Backlog:
-  ☐ Character Panel
-    ☐ Professions
-    ☐ Items
-    ☐ Change item json files
-    ☐ Gems
-    ☐ Talents
-    ☐ Racials
-    ☐ Stats
-    ☐ Export / save as
-    ☐
-  ☐ Raid Comp
-  ☐ GS
-  ☐ Upload from armory
-  ☐ Buffs
+THIS FILE IS NOT USED ANYMORE. ALL TASKS HAVE BEEN MOVED TO TRELLO & ARE TRACKED / UPDATED THERE.
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 Archive:
-    ✔ Change gulp, load themes only once @done (11/25/2017, 6:14:53 PM)
-  
-    ✔ Change input fields to Google's style @done (11/19/2017, 6:00:37 PM)
+  ✔ Add X to slide out on left to hide.
+  ✔ Make SAVED talents a slide-out from right? @done (11/18/2017, 5:20:02 PM)
+  ✔ Make SAVING talents modal only. @done (11/19/2017, 2:01:01 PM)
+  ✔ Add 100 char max description for talents @low @done (12/2/2017, 7:17:58 PM)
+  ✔ Add max length in input field @high @done (12/2/2017, 7:18:01 PM)
+  ✔ Save talents to db for accounts? @done (11/19/2017, 2:02:14 PM)
+  ✔ Retrieve saved talents from back-end @done (11/11/2017, 3:20:38 PM)
+  ✔ Design CTA when user is not logged in (for saving talents) @done (12/2/2017, 7:18:15 PM)
+  ✔ Create a modal for creating talents @done (11/19/2017, 2:02:29 PM)
+  ✔ Create a modal for managing and viewing all talents @done (11/19/2017, 2:02:32 PM)
+  ✔ convert login creds to lower case @done (11/25/2017, 5:35:29 PM)
+  ✘ Created on? Last Modified? @cancelled (11/19/2017, 2:16:42 PM)
+  ✔ Add debounce to search @done (12/2/2017, 7:17:53 PM)
+  ✔ Add saved talents to a service so only have to load it once? @done (11/18/2017, 2:32:39 PM)
+  ✘ Remove talents from service when logging out @cancelled (11/18/2017, 2:34:31 PM)
+  ✔ Add saved talents to service when saving @done (11/19/2017, 2:05:24 PM)
+  ✔ Do not import theme multiple times (css) @done (12/2/2017, 7:17:47 PM)
+  ✔ Create dev log page @done (12/2/2017, 7:18:21 PM)
+  ✔ Add description to saved talents @done (12/2/2017, 7:17:25 PM)
+  ✔ Add text overflow for really long talent names @today @done (12/2/2017, 7:17:24 PM)
+  ✔ Add min-width to modal && fix position of close buttons (make like slideout arrow) @done (12/2/2017, 7:17:44 PM)
+  ✘ Make header static (flat) - not hovering @cancelled (12/2/2017, 7:17:41 PM)
+  ✔ Make talents into directive @done (12/2/2017, 7:17:34 PM)
+  ✔ Make search box expandable on click @done (12/2/2017, 7:17:29 PM)
+  ✔ Change gulp, load themes only once @done (11/25/2017, 6:14:53 PM)
+  ✔ Change input fields to Google's style @done (11/19/2017, 6:00:37 PM)
   ✔ Fix layout @done(10-15-2017 17:59) @project(Talent Calculator)
   ✔ Design container @done(10-15-2017 17:59) @project(Talent Calculator)
   ✔ Design frame for saved talents @done(10-15-2017 17:59) @project(Talent Calculator)
