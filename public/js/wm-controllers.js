@@ -145,9 +145,10 @@ wmApp.controller('homeCtrl', ['$rootScope', '$localStorage', '$scope',
 
 // Source: wm-index.js
 // Index page controller
-wmApp.controller('indexCtrl', ['$rootScope', '$scope', '$state', 'authAPI', function($rootScope, $scope, $state, authAPI) {
+wmApp.controller('indexCtrl', ['$scope', '$state', 'authAPI', function($scope, $state, authAPI) {
   $scope.logout = logout;
   $scope.$state = $state;
+  $scope.title = "Warmains | Wotlk Character, Talent & Raid Planner";
 
   function logout() {
     authAPI.logout();
@@ -156,7 +157,7 @@ wmApp.controller('indexCtrl', ['$rootScope', '$scope', '$state', 'authAPI', func
 
 // Source: wm-planner.js
 // Planner page controller
-wmApp.controller('plannerCtrl', ['$scope', '$state', function($scope, $state) {
+wmApp.controller('plannerCtrl', ['$scope', function($scope) {
 }]);
 
 // Source: wm-styles.js

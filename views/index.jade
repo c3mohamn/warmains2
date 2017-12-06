@@ -1,9 +1,9 @@
 //- Layout
 doctype html
-html(ng-app="wmApp" ng-cloak)
+html(ng-app="wmApp" ng-controller="indexCtrl" ng-cloak)
   head
     include partials/head.jade
-  body(ng-controller="indexCtrl")
+  body
     //- Header
     div(ng-include="'partials/header.html'")
     div(class="mainBody")
