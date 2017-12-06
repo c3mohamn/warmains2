@@ -134,6 +134,14 @@
           width: inherit;
         }
 
+        &.is-empty {
+          opacity: .4;
+
+          &:hover {
+            opacity: .8;
+          }
+        }
+
         &.has-talent {
           background-size: 31px 31px;
           border: 2px solid $wm-secondary-dark;

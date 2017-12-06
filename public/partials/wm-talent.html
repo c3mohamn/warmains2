@@ -1,5 +1,5 @@
 <div ng-if="talent" class="talent has-talent" ng-style="{'background-image': 'url(' + talentImgPath() + ')' }"
-     ng-class="{'inactive': isInactive(talentId) }">
+     ng-class="{'inactive': isInactive(talentId), 'is-empty': talentsSpent[talentId] === 0 && talentsSpentDetails.remaining === 0 }">
      <div class="talent-inner" ng-click="addPoint()" ng-right-click="removePoint()"
           ng-mouse-wheel-up="addPoint()" ng-mouse-wheel-down="removePoint()"
           wm-tooltip position="{{tooltipPos}}" content-html="tooltip" content="{{talent.name}}">
