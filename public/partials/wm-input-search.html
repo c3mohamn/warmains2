@@ -1,0 +1,16 @@
+<div class="input-search-container">
+    <!-- Input -->
+    <input type="text" 
+    class="input-search"
+    maxlength="{{maxLength}}"
+    placeholder="{{placeholder || 'search'}}"
+    ng-model="bind"
+    ng-model-options="{ debounce: 100}" />
+
+    <!-- Icon -->
+    <i ng-show="!bind || bind.length < 0" class="input-search-icon material-icons">search</i>
+    <i ng-show="bind.length > 0" ng-click="bind = '';" class="input-search-icon material-icons">close</i>
+</div>
+
+
+    

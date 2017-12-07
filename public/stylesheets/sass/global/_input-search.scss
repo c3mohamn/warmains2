@@ -1,0 +1,41 @@
+// Search Fields
+.input-search-container {
+  position: relative;
+
+  .input-search {
+    width: 150px;
+    border: 3px solid $wm-secondary;
+    border-radius: 3px;
+    background-color: initial;
+    outline: none;
+    box-shadow: $wm-boxshadow-black-1;
+    transition: all $wm-transition-fast;
+  
+    &::placeholder {
+      color: $wm-secondary;
+    }
+  
+    &:hover {
+      border: 3px solid $wm-secondary-light;
+    }
+  
+    &:focus {
+      box-shadow: $wm-boxshadow-black-1;
+      border: 3px solid $wm-secondary;
+      width: 250px;
+      transition: $wm-transition-fast;
+      background: white;
+    }
+  }
+
+  .input-search-icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+    line-height: 34px;
+    font-weight: 600;
+    margin: 0 1rem;
+    color: $wm-secondary;
+    cursor: pointer;
+  }
+}

@@ -44,11 +44,27 @@ wmApp.directive('wmInputField', function() {
       maxLength: '@',
       inputType: '@',
     },
-    templateUrl: '/partials/wm-input-fields.html',
+    templateUrl: '/partials/wm-input-field.html',
     link: function(scope, elem, attrs) {
     }
   }
 });
+
+// Source: wm-input-search.js
+wmApp.directive('wmInputSearch', function() {
+    return {
+      restrict: 'E',
+      replace: true,
+      scope: {
+        placeholder: '@',
+        bind: '=',
+        maxLength: '@',
+      },
+      templateUrl: '/partials/wm-input-search.html',
+      link: function(scope, elem, attrs) {
+      }
+    }
+  });
 
 // Source: wm-mousewheel.js
 // Mouse wheel scroll up / down directives

@@ -9,7 +9,7 @@ wmApp.directive('wmInputField', function() {
       maxLength: '@',
       inputType: '@',
     },
-    templateUrl: '/partials/wm-input-fields.html',
+    templateUrl: '/partials/wm-input-field.html',
     link: function(scope, elem, attrs) {
     }
   }

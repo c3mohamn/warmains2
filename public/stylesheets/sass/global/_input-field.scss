@@ -1,0 +1,68 @@
+// Input Fields (only bottom border)
+.input-field-container {
+  position: relative;
+
+  &:hover {
+    .input-field-label {
+      color: $wm-secondary;
+    }
+  }
+
+  .input-field {
+    margin: 1.5rem 0;
+    border: none;
+    box-shadow: none;
+    outline: none;
+    background-color: inherit;
+    color: $wm-primary;
+    border-bottom: 2px solid rgba($wm-primary-dark, .5);
+  
+    &:-webkit-autofill {
+      background-color: blue;
+    }
+  
+    &:focus {
+      border: none;
+      box-shadow: none;
+      outline: none;
+      border-bottom: 2px solid $wm-primary-dark;
+    }
+  
+    &.has-error {
+      border-bottom: 2px solid $wm-red;
+    }
+  
+    &:-webkit-autofill + .input-field-label {
+      font-size: 12px;
+      top: -15px;
+      left: 1px;
+    }
+  }
+
+  .input-field-label {
+    color: $wm-secondary-light;
+    position: absolute;
+    pointer-events: none;
+    top: 5px;
+    left: 7px;
+    transition: all $wm-transition-fast;
+
+    &::first-letter {
+      text-transform: capitalize;
+    }
+
+    &.small {
+      font-size: 12px;
+      top: -15px;
+      left: 1px;
+    }
+
+    &.focused {
+      color: $wm-primary-dark;
+    }
+
+    &.has-error {
+      color: $wm-red;
+    }
+  }
+}
