@@ -1,6 +1,7 @@
 .button {
   padding: .8rem 1.5rem;
   box-shadow: $wm-boxshadow-2;
+  margin: 0 .5rem;
 
   &.clear {
     box-shadow: none;

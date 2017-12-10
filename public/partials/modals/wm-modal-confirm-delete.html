@@ -1,0 +1,11 @@
+<div class="modal-overlay flex-container align-middle align-center" ng-class="{'destroyed': destroying}">
+	<div class="modal-content-container modal-confirm-delete flex-container flex-dir-column" click-outside="closeModal()">
+		<div class="flex-child-grow flex-container align-middle align-center">
+				<h5>Are you sure you want to delete?</h5>
+		</div>
+		<div class="flex-child-shrink flex-container align-middle align-center">
+			<a class="button alert dark-bg flex-child-auto" ng-click="closeModal(true)">Confirm</a>
+			<a class="button secondary clear clear-lift flex-child-auto" ng-click="closeModal(false)">Cancel</a>
+		</div>
+	</div>
+</div>

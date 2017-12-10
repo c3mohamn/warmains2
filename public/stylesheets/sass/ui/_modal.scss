@@ -23,6 +23,14 @@
       height: 60%;
     }
 
+    &.modal-confirm-delete {
+      width: 300px;
+      height: 150px;
+      min-width: 300px;
+      min-height: 150px;
+      padding: 2rem;
+    }
+
     .modal-content {
       position: absolute;
       top: 0;
@@ -94,6 +102,29 @@
 
   .saved-talents-new {
     height: 100%;
+
+    .saved-talent-details {
+      border: 2px solid $wm-secondary;
+      padding: 1rem;
+
+      .saved-talent-details-icon {
+        height: 30px;
+        width: 30px;
+      }
+
+      .saved-talents-details-table {
+        thead, tbody {
+          border: none;
+        }
+
+        thead {
+          color: white;
+        }
+        td {
+          background: $wm-secondary-dark;
+        }
+      }
+    }
   }
 }
 

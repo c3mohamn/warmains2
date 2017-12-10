@@ -43,5 +43,14 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
+
+    i {
+      line-height: 46px;
+      color: white;
+
+      &:hover {
+        color: $wm-red;
+      }
+    }
   }
 }

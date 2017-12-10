@@ -16,7 +16,7 @@ body {
 }
 
 .mainBody {
-  padding: 9rem 1rem;
+  padding: 9rem 1rem 0 0;
   margin: 0 auto;
   min-width: 360px;
 }
@@ -120,7 +120,7 @@ body {
   &::-webkit-scrollbar-track {
     -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
     box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
-  	background-color: $wm-secondary-dark;
+  	background-color: inherit;
   }
 
   &::-webkit-scrollbar {

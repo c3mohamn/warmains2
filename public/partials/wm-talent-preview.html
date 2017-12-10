@@ -17,4 +17,8 @@
             {{::talent.description || 'No description.'}}
         </div>
     </div>
+    <div ng-if="detailed" class="flex-child-shrink"
+         ng-click="deleteSavedTalent($event)">
+        <i class="material-icons">delete</i>
+    </div>
 </div>

@@ -8,10 +8,17 @@
                 <span class="slideout-header-title">{{::slideoutTitle}}</span>
             </h4>
                 
-            <div class="saved-talents-list">
-                <wm-talent-preview ng-repeat="item in itemList" talent="item" detailed="true" ng-click="navigateToItem(item)">
+            <div class="slideout-body saved-talents-list">
+                <wm-talent-preview ng-repeat="item in itemList | filter:talentSearch" talent="item" detailed="true" ng-click="navigateToItem(item)">
             </div>
 
+        </div>
+        <!-- Hovering footer -->
+        <div class="slideout-footer flex-container align-middle align-center">
+            <div class="flex-child-grow"></div>
+            <div class="flex-child-shrink">
+                <wm-input-search bind="talentSearch" placeholder="search" max-length="50"></wm-input-search>
+            </div>
         </div>
         <!-- Arrow on side that toggles slideout -->
         <div class="slideout-arrow flex-container align-middle align-center" ng-click="toggleSlideout()">

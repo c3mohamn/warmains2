@@ -175,13 +175,13 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
     $scope.urlTalents = talentHelper.getUrlTalents();
     $scope.urlGlyphs = talentHelper.getUrlGlyphs();
     $scope.classId = $stateParams.class;
-    $scope.talentDetails = talentDetails;                            // class talents
-    $scope.talentTooltips = talentTooltips;
-    $scope.talentsSpentDetails = {};                               // additional info about current talents
-    $scope.talentsSpent = {};                                     // stores points used in each talent
-    $scope.talentGlyphs = talentGlyphs;
-    $scope.curGlyphs = {};
-    $scope.savedTalents = [];
+    $scope.talentDetails = talentDetails;        // class talents info
+    $scope.talentTooltips = talentTooltips;     // class talent tooltips info
+    $scope.talentGlyphs = talentGlyphs;        // class glyphs info
+    $scope.talentsSpentDetails = {};          // additional info about current talents
+    $scope.talentsSpent = {};                // stores points used in each talent
+    $scope.curGlyphs = {};                  // stores glyphs currently used
+    $scope.savedTalents = [];              // list of saved talents by user
 
     // scope functs
     $scope.changeClass = changeClass;
@@ -197,6 +197,7 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
       templateUrl: '/partials/modals/wm-modal-save-talent.html',
       bodyClass: 'modal-open',
       controller: 'modalSaveTalentCtrl',
+      inputs: { talentInfo: {} }
     };
 
     var glyphsModalOptions = {
@@ -209,6 +210,12 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
     function showSavedTalents() {
       if (!$rootScope.currentUser)
         return false;
+
+      saveModalOptions.inputs.talentInfo.talentDetails = $scope.talentDetails;
+      saveModalOptions.inputs.talentInfo.talentsSpent = $scope.talentsSpent;
+      saveModalOptions.inputs.talentInfo.talentsSpentDetails = $scope.talentsSpentDetails;
+      saveModalOptions.inputs.talentInfo.curGlyphs = $scope.curGlyphs;
+      saveModalOptions.inputs.talentInfo.classId = $scope.classId;
 
       ModalService.showModal(saveModalOptions).then(function (modal) {
         modal.close.then(function (result) {
@@ -244,6 +251,23 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
             );
           }
 
+        });
+      });
+    }
+    
+    // Open glyph selection modal
+    function showGlyphSelectionModal(index, type) {
+      glyphsModalOptions.inputs.glyphParams.curGlyphs = $scope.curGlyphs;
+      glyphsModalOptions.inputs.glyphParams.glyphs = talentGlyphs;
+      glyphsModalOptions.inputs.glyphParams.index = index;
+      glyphsModalOptions.inputs.glyphParams.type = type;
+
+      ModalService.showModal(glyphsModalOptions).then(function (modal) {
+        modal.close.then(function (result) {
+          if (result) {
+            // Change URL based on result
+            talentHelper.changeUrlGlyphs(result.curGlyphs);
+          }
         });
       });
     }
@@ -341,22 +365,19 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
     function invalidTalents() {
       $state.transitionTo('talent-calculator', { class: $scope.classId, talents: '', glyphs: ''});
     }
+}]);
 
-    // Open glyph selection modal
-    function showGlyphSelectionModal(index, type) {
-      glyphsModalOptions.inputs.glyphParams.curGlyphs = $scope.curGlyphs;
-      glyphsModalOptions.inputs.glyphParams.glyphs = talentGlyphs;
-      glyphsModalOptions.inputs.glyphParams.index = index;
-      glyphsModalOptions.inputs.glyphParams.type = type;
+// Source: modals\wm-modal-confirm-delete.js
+// Confirm Delete Modal Controller
+wmApp.controller('modalConfirmDeleteCtrl', ['$scope', 'close', 
+  function($scope, close) {
+    $scope.closeModal = closeModal;
 
-      ModalService.showModal(glyphsModalOptions).then(function (modal) {
-        modal.close.then(function (result) {
-          if (result) {
-            // Change URL based on result
-            talentHelper.changeUrlGlyphs(result.curGlyphs);
-          }
-        });
-      });
+    function closeModal(confirmation) {
+        if (!$scope.destroying) {
+          $scope.destroying = true;
+          close(confirmation, 250);
+        }
     }
 }]);
 
@@ -445,51 +466,73 @@ wmApp.controller('modalNotificationsCtrl', ['$scope', 'close', '$timeout', 'para
 
 // Source: modals\wm-modal-save-talent.js
 // Save Talent Modal controller
-wmApp.controller('modalSaveTalentCtrl', ['$scope', 'close', '$location', 'talentHelper', function($scope, close, $location, talentHelper) {
-  $scope.name = null;
-  $scope.closeModal = closeModal;
-  $scope.save = save;
-  $scope.savedTalents = talentHelper.getAllSavedTalents();
+wmApp.controller('modalSaveTalentCtrl', ['$scope', 'close', '$location', 'talentHelper', 'talentInfo', 
+  function($scope, close, $location, talentHelper, talentInfo) {
+    $scope.name = null;
+    $scope.save = save;
+    $scope.talentInfo = talentInfo;
+    $scope.specsToString = specsToString;
+    // Remove null glyph values from list
+    $scope.skinnyGlyphs = talentInfo.curGlyphs.filter(function(val) { return val !== null; });
 
-  // Save current talents
-  function save() {
-    if (validate() === true && !$scope.destroying) {
-      $scope.destroying = true;
-      close({
-        talents: $location.search().talents,
-        glyphs: $location.search().glyphs,
-        name: $scope.name,
-        description: $scope.description
-      }, 250);
-    }
-  };
+    $scope.closeModal = closeModal;
+    $scope.talentImgPath = talentImgPath;
+    $scope.getGlyphIconPath = getGlyphIconPath;
 
-  // Close without saving
-  function closeModal() {
-    if (!$scope.destroying) {
-      $scope.destroying = true;
-      close(false, 250);
-    }
-  }
+    // returns path of talent image.
+    function talentImgPath(talentId) {
+      var classId = $scope.talentInfo.classId;
+      var spec = specsToString[classId][$scope.talentInfo.talentDetails[talentId].tree];      
 
-  // Return true of save input is valid
-  function validate() {
-    if (!$scope.name) {
-      $scope.nameError = 'Enter a name please.';
-      return false;
-    } else if ($scope.name.length < 2 || $scope.name.length > 20) {
-      $scope.nameError = 'Name must be between 2 and 20 characters long.';
-      return false;
-    } else if ($location.search().talents === '') {
-      $scope.nameError = 'You cannot save an empty talent tree.';
-      return false;
-    } else if ($scope.description && $scope.description.length > 100) {
-      $scope.descriptionError = 'Description cannot exceed 100 characters.';
-      return false;
+      return talentHelper.getTalentImgPath(talentId, classId, spec);
     }
 
-    return true;
-  }
+    // returns path of glyph image
+    function getGlyphIconPath(glyph) {
+      var iconName = glyph.icon.toLowerCase();
+
+      return 'http://wow.zamimg.com/images/wow/icons/medium/' + iconName + '.jpg';
+    }
+
+    // Save current talents
+    function save() {
+      if (validate() === true && !$scope.destroying) {
+        $scope.destroying = true;
+        close({
+          talents: $location.search().talents,
+          glyphs: $location.search().glyphs,
+          name: $scope.name,
+          description: $scope.description
+        }, 250);
+      }
+    };
+
+    // Close without saving
+    function closeModal() {
+      if (!$scope.destroying) {
+        $scope.destroying = true;
+        close(false, 250);
+      }
+    }
+
+    // Return true of save input is valid
+    function validate() {
+      if (!$scope.name) {
+        $scope.nameError = 'Enter a name please.';
+        return false;
+      } else if ($scope.name.length < 2 || $scope.name.length > 20) {
+        $scope.nameError = 'Name must be between 2 and 20 characters long.';
+        return false;
+      } else if ($location.search().talents === '') {
+        $scope.nameError = 'You cannot save an empty talent tree.';
+        return false;
+      } else if ($scope.description && $scope.description.length > 100) {
+        $scope.descriptionError = 'Description cannot exceed 100 characters.';
+        return false;
+      }
+
+      return true;
+    }
 }]);
 
 })(window, document);

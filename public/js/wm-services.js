@@ -126,8 +126,8 @@ wmApp.service('talentHelper', ['$location', '$http', function($location, $http) 
   }
 
   // Removes a talent from db
-  function deleteTalent(id) {
-    return $http.post('/talent/delete', {id: id});
+  function deleteTalent(id, name) {
+    return $http.post('/talent/delete', {id: id, name: name});
   }
 
   // initialize talent tree
@@ -564,7 +564,7 @@ wmApp.service('talentHelper', ['$location', '$http', function($location, $http) 
   }
 
   return {
-    // Getters / Setters
+    // Getters / Setters for saved talents
     initSavedTalents: initSavedTalents,
     getAllSavedTalents: getAllSavedTalents,
     addSavedTalent: addSavedTalent,

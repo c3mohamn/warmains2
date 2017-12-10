@@ -10,6 +10,7 @@
     outline: none;
     box-shadow: $wm-boxshadow-black-1;
     transition: all $wm-transition-fast;
+    margin: 0;
   
     &::placeholder {
       color: $wm-secondary;

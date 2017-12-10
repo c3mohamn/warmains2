@@ -3,16 +3,67 @@
   <div class="modal-content-container small" click-outside="closeModal()">
     <!-- Main modal content -->
     <div class="modal-content wm-scrollbar">
-      <div class="saved-talents-modal flex-containerrow">
-        <div class="saved-talents-new column">
+      <div class="saved-talents-modal row">
+        <div class="saved-talents-new column flex-container flex-dir-column">
           <!-- Save talent form -->
-          <div class="form-fields save-talent">
+          <div class="form-fields save-talent flex-child-shrink">
             <form name="talentForm" novalidate>
               <wm-input-field input-type="text" max-length="20" placeholder="name" bind="name" error="nameError"></wm-input-field>
               <wm-input-field input-type="text" max-length="100" placeholder="description" bind="description" error="descriptionError"></wm-input-field>
             </form>
           </div>
-          Some preview for talent about to save here...
+          <!-- Talent Details -->
+          <div class="saved-talent-details flex-child-auto wm-scrollbar">
+            <h5>Summary</h5>
+            <table class="saved-talents-details-table">
+              <thead>
+                <tr>
+                  <td>Talent</td>
+                  <td></td>
+                  <td>Tree</td>
+                  <td>Points</td>
+                </tr>
+              </thead>
+              <tbody>
+                <tr ng-if="val > 0" ng-repeat="(id, val) in talentInfo.talentsSpent">
+                  <td>
+                    <img class="saved-talent-details-icon" ng-src="{{::talentImgPath(id)}}" alt="">
+                  </td>
+                  <td>{{::talentInfo.talentDetails[id].name}}</td>
+                  <td style="text-transform:capitalize;">{{specsToString[talentInfo.classId][talentInfo.talentDetails[id].tree]}}</td>
+                  <td>{{::val}} / {{::talentInfo.talentDetails[id].maxRank}}</td>
+                </tr>
+              </tbody>
+            </table>
+            <div ng-if="talentInfo.talentsSpentDetails.remaining === 71">
+              No talent points used.
+            </div>
+            <hr>
+            <table class="saved-talents-details-table">
+              <thead>
+                  <tr>
+                    <td>Glyph</td>
+                    <td></td>
+                    <td>Type</td>
+                  </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="glyph in skinnyGlyphs">
+                      <td>
+                        <img class="saved-talent-details-icon" ng-src="{{::getGlyphIconPath(glyph)}}" alt="">
+                      </td>
+                      <td>{{glyph.name}}</td>
+                      <td>
+                        <span ng-show="glyph.type === 1">Major</span>
+                        <span style="color: gray;" ng-show="glyph.type === 2">Minor</span>
+                      </td>
+                    </tr>
+                </tbody>
+            </table>
+            <div ng-if="skinnyGlyphs.length === 0">
+                No glyphs used.
+              </div>
+          </div>
         </div>
       </div>
     </div>
@@ -23,7 +74,7 @@
         <!-- Save button -->
         <a class="button success dark-bg" ng-click="save()">Save</a>
         <!-- Close button -->
-        <a class="button secondary clear clear-lift no-margin" ng-click="closeModal()">Close</a>
+        <a class="button secondary clear clear-lift" ng-click="closeModal()">Close</a>
       </div>
     </div>
   </div>

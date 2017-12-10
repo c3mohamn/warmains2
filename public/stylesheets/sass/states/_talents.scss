@@ -13,6 +13,29 @@
     text-align: center;
   }
 
+  .talent-container-header {
+    margin: 1rem;
+    position: relative;
+
+    .header-current-class {
+      text-align: center;
+    }
+
+    .header-class-selection {
+      position: absolute;
+      top: 0;
+      right: 0;
+
+      .class-icons {
+        opacity: .5;
+
+        &.current-class, &:hover {
+          opacity: 1;
+        }
+      }
+    }
+  }
+
   .saved-container {
     position: absolute;
     bottom: 0;
@@ -38,7 +61,7 @@
   }
 
   .calculator {
-    margin: 4rem 0;
+    margin: 2rem 0;
     position: relative;
 
     .tree {
@@ -182,7 +205,7 @@
 
           .talent-arrow {
             position: absolute;
-            z-index: 49;
+            z-index: 10;
             -webkit-user-select: none; /* Safari */
             -moz-user-select: none; /* Firefox */
             -ms-user-select: none; /* IE10+/Edge */

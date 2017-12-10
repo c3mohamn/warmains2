@@ -16,35 +16,37 @@
   </div>
 </div>
 <!-- Fill out calculator -->
-<div ng-if="validClassId()" class="flex-container flex-dir-column talent-container valid-class dark-container">
+<div ng-if="validClassId()" class="talent-container flex-container flex-dir-column valid-class dark-container">
   <!-- Header -->
-  <div class="talent-header flex-child-shrink">
-    <img class="class-icons" ng-src="/images/class-icons/{{classId}}.png" alt="">
-    <div class="change-class float-right">
+  <div class="talent-container-header flex-child-shrink flex-container align-center align-middle">
+    <!-- Current talent icon & preview -->
+    <div class="header-current-class flex-child-shrink">
+      <img class="class-icons" ng-src="/images/class-icons/{{classId}}.png" alt="">
+      <div>
+          ( {{talentsSpentDetails[0].total}} / {{talentsSpentDetails[1].total}} / {{talentsSpentDetails[2].total}})
+      </div>
+    </div>
+    <div class="flex-child-grow"></div>
+    <div class="flex-child-shrink header-class-selection">
       <ul class="menu">
         <li ng-repeat="(id, name) in classes" ng-click="changeClass(id)">
-          <img class="class-icons small hoverable" ng-src="/images/class-icons/{{id}}.png" alt="{{name}}">
+          <img class="class-icons small hoverable" ng-class="{'current-class': classId === id}" ng-src="/images/class-icons/{{id}}.png" alt="{{name}}">
         </li>
       </ul>
     </div>
-    <!-- Tree preview -->
-    <div class="calculator-details">
-      <span>
-        ( {{talentsSpentDetails[0].total}} / {{talentsSpentDetails[1].total}} / {{talentsSpentDetails[2].total}})
-      </span>
-      <span class="float-right">Remaining: {{talentsSpentDetails.remaining}}</span>
-    </div>
-    <hr>
   </div>
-  <div>
-    <a class="button alert dark-bg" ng-click="clearTalents(); clearGlyphs();">Reset all</a>
-    <a class="button dark-bg float-right" 
-       ng-click="showSavedTalents()"
-       ng-disabled="!currentUser"
-       ng-mouseenter="showSaveTalentMsg = true"
-       ng-mouseleave="showSaveTalentMsg = false">Save Talent</a>
-    <!-- Come up with something better later. -->
-    <span class="float-right" style="color: red; padding: .5rem;" ng-show="showSaveTalentMsg && !currentUser">Log in to save talents.</span>
+  <div class="flex-container align-middle align-center">
+    <div class="flex-child-shrink">
+        <span>Remaining: {{talentsSpentDetails.remaining}}</span>
+    </div>
+    <div class="flex-child-grow"></div>
+    <span class="" style="color: red; padding: .5rem;" ng-show="showSaveTalentMsg && !currentUser">Log in to save talents.</span>
+    <a class="button alert dark-bg flex-child-shrink" ng-click="clearTalents(); clearGlyphs();">Reset all</a>
+    <a class="button dark-bg flex-child-shrink" 
+        ng-click="showSavedTalents()"
+        ng-disabled="!currentUser"
+        ng-mouseenter="showSaveTalentMsg = true"
+        ng-mouseleave="showSaveTalentMsg = false">Save Talent</a>
   </div>
   
   <!-- Calculator -->

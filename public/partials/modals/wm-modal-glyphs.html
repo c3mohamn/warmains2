@@ -8,11 +8,11 @@
               ng-repeat="(key, glyph) in glyphs[type] | objectFilter:'name':modalSearch" ng-click="selectGlyph(glyph)">
             <!-- Glyphs -->
             <div class="flex-container">
-              <img class="modal-glyph-icon" ng-src="{{getGlyphIconPath(glyph)}}" alt="">
+              <img class="modal-glyph-icon" ng-src="{{::getGlyphIconPath(glyph)}}" alt="">
               <div class="modal-glyph-body">
-                {{glyph.name}}
+                {{::glyph.name}}
                 <div class="modal-glyph-description">
-                  {{glyph.description}}
+                  {{::glyph.description}}
                 </div>
               </div>
             </div>
