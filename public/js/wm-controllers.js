@@ -131,9 +131,10 @@ function($scope, log) {
 
 // Source: wm-home.js
 // Home page controller
-wmApp.controller('homeCtrl', ['$rootScope', '$localStorage', '$scope',
-  function($rootScope, $localStorage, $scope) {
-
+wmApp.controller('homeCtrl', ['$rootScope', '$localStorage', '$scope', 'MetaData',
+  function($rootScope, $localStorage, $scope, MetaData) {
+    MetaData.setDefaults();
+    
     console.log('homeCtrl: ', $rootScope.currentUser);
     // TODO: This will be a home page with widgets where user can see recent stuffs
     // If not online, get information from localStorage
@@ -145,14 +146,15 @@ wmApp.controller('homeCtrl', ['$rootScope', '$localStorage', '$scope',
 
 // Source: wm-index.js
 // Index page controller
-wmApp.controller('indexCtrl', ['$scope', '$state', 'authAPI', function($scope, $state, authAPI) {
-  $scope.logout = logout;
-  $scope.$state = $state;
-  $scope.title = "Warmains | Wotlk Character, Talent & Raid Planner";
+wmApp.controller('indexCtrl', ['$scope', '$state', 'authAPI', 'MetaData',
+  function($scope, $state, authAPI, MetaData) {
+    $scope.logout = logout;
+    $scope.$state = $state;
+    $scope.MetaData = MetaData;
 
-  function logout() {
-    authAPI.logout();
-  }
+    function logout() {
+      authAPI.logout();
+    }
 }]);
 
 // Source: wm-planner.js
@@ -167,8 +169,8 @@ wmApp.controller('stylesCtrl', ['$scope', function($scope) {
 
 // Source: wm-talent-calc.js
 // Talent-calc controller
-wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$stateParams', '$state', 'talentDetails', 'talentTooltips', 'talentGlyphs', 'ModalService', 'Notifications',
-  function($rootScope, $scope, talentHelper, $stateParams, $state, talentDetails, talentTooltips, talentGlyphs, ModalService, Notifications) {
+wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$stateParams', '$state', 'talentDetails', 'talentTooltips', 'talentGlyphs', 'ModalService', 'Notifications', 'MetaData',
+  function($rootScope, $scope, talentHelper, $stateParams, $state, talentDetails, talentTooltips, talentGlyphs, ModalService, Notifications, MetaData) {
     // scope vars
     $scope.classes = classesToString;
     $scope.specs = specsToString;
@@ -182,6 +184,12 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
     $scope.talentsSpent = {};                // stores points used in each talent
     $scope.curGlyphs = {};                  // stores glyphs currently used
     $scope.savedTalents = [];              // list of saved talents by user
+    
+    // Set MetaData
+    MetaData.setTitle('Talent Calculator | Warmains');
+    MetaData.setCardTitle('Talent Calculator');
+    //MetaData.setImageUrl();
+    //MetaData.setUrl();
 
     // scope functs
     $scope.changeClass = changeClass;

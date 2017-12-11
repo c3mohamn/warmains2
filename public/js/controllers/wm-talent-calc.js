@@ -1,6 +1,6 @@
 // Talent-calc controller
-wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$stateParams', '$state', 'talentDetails', 'talentTooltips', 'talentGlyphs', 'ModalService', 'Notifications',
-  function($rootScope, $scope, talentHelper, $stateParams, $state, talentDetails, talentTooltips, talentGlyphs, ModalService, Notifications) {
+wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$stateParams', '$state', 'talentDetails', 'talentTooltips', 'talentGlyphs', 'ModalService', 'Notifications', 'MetaData',
+  function($rootScope, $scope, talentHelper, $stateParams, $state, talentDetails, talentTooltips, talentGlyphs, ModalService, Notifications, MetaData) {
     // scope vars
     $scope.classes = classesToString;
     $scope.specs = specsToString;
@@ -14,6 +14,12 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
     $scope.talentsSpent = {};                // stores points used in each talent
     $scope.curGlyphs = {};                  // stores glyphs currently used
     $scope.savedTalents = [];              // list of saved talents by user
+    
+    // Set MetaData
+    MetaData.setTitle('Talent Calculator | Warmains');
+    MetaData.setCardTitle('Talent Calculator');
+    //MetaData.setImageUrl();
+    //MetaData.setUrl();
 
     // scope functs
     $scope.changeClass = changeClass;

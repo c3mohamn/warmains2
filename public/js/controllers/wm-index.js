@@ -1,10 +1,11 @@
 // Index page controller
-wmApp.controller('indexCtrl', ['$scope', '$state', 'authAPI', function($scope, $state, authAPI) {
-  $scope.logout = logout;
-  $scope.$state = $state;
-  $scope.title = "Warmains | Wotlk Character, Talent & Raid Planner";
+wmApp.controller('indexCtrl', ['$scope', '$state', 'authAPI', 'MetaData',
+  function($scope, $state, authAPI, MetaData) {
+    $scope.logout = logout;
+    $scope.$state = $state;
+    $scope.MetaData = MetaData;
 
-  function logout() {
-    authAPI.logout();
-  }
+    function logout() {
+      authAPI.logout();
+    }
 }]);

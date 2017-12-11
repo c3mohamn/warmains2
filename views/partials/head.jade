@@ -1,5 +1,5 @@
 title
-    | {{title}}
+    | {{MetaData.getTitle()}}
 // Meta Data
 meta(charset="utf-8" http-equiv="X-UA-Compatible" content="IE=edge")
 meta(name="viewport" content="width = device-width, initial-scale = 1")
@@ -8,16 +8,16 @@ meta(name="viewport" content="width = device-width, initial-scale = 1")
 meta(name="twitter:card" value="summary")
 meta(name="twitter:site" content="@nasirm23")
 meta(name="twitter:title" content="Warmains")
-meta(name="twitter:description" content="Talent, Character and Raid planner for Wrath of the Lich King.")
+meta(name="twitter:description" content="{{MetaData.getCardDescription()}}")
 meta(name="twitter:creator" content="@nasirm23")
 meta(name="twitter:image" content="http://media.moddb.com/cache/images/mods/1/28/27592/thumb_300x150/.5.jpg")
 
 // Open Graph data
-meta(property="og:title" content="Warmains")
+meta(property="og:title" content="{{MetaData.getCardTitle()}}")
 meta(property="og:type" content="website")
-meta(property="og:url" content="http://warmain.herokuapp.com")
-meta(property="og:image" content="http://media.moddb.com/images/mods/1/28/27592/.5.jpg")
-meta(property="og:description" content="Talent, Character and Raid planner for Wrath of the Lich King.") 
+meta(property="og:url" content="MetaData.getCardUrl()")
+meta(property="og:image" content="{{MetaData.getCardImageUrl()}}")
+meta(property="og:description" content="{{MetaData.getCardDescription()}}") 
 meta(property="og:site_name" content="Warmains")
 
 link(rel="stylesheet", type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/css/foundation.min.css")
