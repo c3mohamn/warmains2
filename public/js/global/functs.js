@@ -46,3 +46,12 @@ function indexOfMax(arr) {
 
   return maxIndex;
 }
+
+function getPageTitleFromTalentDetails(details, classId) {
+  var pageTitle = '(' + details[0].total + '/' +
+                        details[1].total + '/' +
+                        details[2].total + ')' +
+                ' - ' + classesToString[classId];
+
+  return pageTitle;
+}

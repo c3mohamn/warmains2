@@ -17,10 +17,10 @@ wmApp.service('MetaData', function() {
   // Reset meta data to default values
   function setDefaults() {
     setTitle(defaults.title);
-    setCardTitle(defaults.title);
-    setCardDescription(defaults.cardDescription);
-    setCardImageUrl(defaults.cardImageUrl);
-    setCardUrl(defaults.cardUrl);
+    //setCardTitle(defaults.title);
+    //setCardDescription(defaults.cardDescription);
+    //setCardImageUrl(defaults.cardImageUrl);
+    //setCardUrl(defaults.cardUrl);
   }
 
   function getTitle() { return title; }

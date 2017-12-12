@@ -222,8 +222,8 @@ wmApp.directive('wmTalentPreview', ['ModalService', 'talentHelper', 'Notificatio
 
 // Source: wm-talent.js
 // talent directive
-wmApp.directive('wmTalent', ['$rootScope', 'talentHelper',
-  function($rootScope, talentHelper) {
+wmApp.directive('wmTalent', ['MetaData', 'talentHelper',
+  function(MetaData, talentHelper) {
     return {
       restrict: 'E',
       scope: {
@@ -294,11 +294,13 @@ wmApp.directive('wmTalent', ['$rootScope', 'talentHelper',
           update(pointRemoved);
         }
 
-        // Update tooltip and change Url if changes are made
+        // Update talent tooltip, Url, Page Title
         function update(changesMade) {
           if (changesMade) {
             getTalentTooltip();
             talentHelper.changeUrlTalents(scope.talentsSpent);
+
+            MetaData.setTitle(getPageTitleFromTalentDetails(scope.talentsSpentDetails, scope.classId));
           }
         }
       }

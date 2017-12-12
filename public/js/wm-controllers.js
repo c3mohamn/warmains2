@@ -159,7 +159,8 @@ wmApp.controller('indexCtrl', ['$scope', '$state', 'authAPI', 'MetaData',
 
 // Source: wm-planner.js
 // Planner page controller
-wmApp.controller('plannerCtrl', ['$scope', function($scope) {
+wmApp.controller('plannerCtrl', ['$scope', 'MetaData', function($scope, MetaData) {
+  MetaData.setTitle('Planners | Warmains');
 }]);
 
 // Source: wm-styles.js
@@ -187,9 +188,6 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
     
     // Set MetaData
     MetaData.setTitle('Talent Calculator | Warmains');
-    MetaData.setCardTitle('Talent Calculator');
-    //MetaData.setImageUrl();
-    //MetaData.setUrl();
 
     // scope functs
     $scope.changeClass = changeClass;
@@ -318,6 +316,8 @@ wmApp.controller('talentCalcCtrl', ['$rootScope', '$scope', 'talentHelper', '$st
       if ($scope.urlGlyphs) {
         talentHelper.initGlyphs($scope.urlGlyphs, $scope.curGlyphs, $scope.talentGlyphs);
       }
+
+      MetaData.setTitle(getPageTitleFromTalentDetails($scope.talentsSpentDetails, $scope.classId));
     }
 
     function getSavedTalents(username) {
