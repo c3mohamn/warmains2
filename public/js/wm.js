@@ -163,6 +163,12 @@ wmApp.config(function($stateProvider, $urlRouterProvider, $locationProvider) {
         }],
       }
     })
+    .state('raids', {
+      url: '/raidcomp',
+      data: { title: 'Raid Comp'},
+      templateUrl: '/states/raids.html',
+      controller: 'raidsCtrl',
+    })
     .state('changelog', {
       url: '/changelog',
       data: { title: 'Changelog'},

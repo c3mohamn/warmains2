@@ -168,3 +168,70 @@ var itemBindsToInt = {
   BoP: 2,
   BoA: 3,
 };
+
+// ---------- Raid Comp -----------
+var raidRoles = {
+  rdps: 0,
+  mdps: 1,
+  healer: 2,
+  tank: 3
+};
+
+var raidBuffs = {
+  bloodlust: 0,
+  heal: 1,
+  inspiration: 2,
+  hp: 3,
+  int: 4,
+  stamina: 5,
+  improvMight: 6,
+  haste: 7,
+  totems: 8,
+  ap: 9,
+  sp: 10,
+  meleeCrit: 11,
+  spellCrit: 12,
+  replenishment: 13,
+  icyTalons: 14,
+  faerie: 15,
+  spellHit: 16,
+}
+
+var raidSpells = {
+  bres: 0,
+  misdirect: 1,
+  tot: 2,
+  dsac: 3,
+  interrupt: 4,
+  dispelMagic: 5,
+  dispelDisease: 6,
+  dispelPoison: 7,
+  dispelCurse: 8,
+  dmgReduct: 9,
+  hysteria: 10,
+  innervate: 11,
+  stuns: 12,
+  strAgi: 13,
+}
+
+
+// Class info
+var classInfo = {
+  1: { 
+    buffs: [],
+    0: {
+      role: raidRoles.rdps
+    }
+  },
+  2: 'Paladin',
+  3: 'Hunter',
+  4: 'Rogue',
+  5: 'Priest',
+  6: 'Deathknight',
+  7: 'Shaman',
+  8: 'Mage',
+  9: 'Warlock',
+  11: 'Druid'
+}
+
+// Raid Buffs

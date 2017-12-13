@@ -163,6 +163,12 @@ wmApp.controller('plannerCtrl', ['$scope', 'MetaData', function($scope, MetaData
   MetaData.setTitle('Planners | Warmains');
 }]);
 
+// Source: wm-raids.js
+// Raid Comp page controller
+wmApp.controller('raidsCtrl', ['$scope', 'MetaData', function($scope, MetaData) {
+  MetaData.setTitle('Raid Comp | Warmains');
+}]);
+
 // Source: wm-styles.js
 // Styles controller
 wmApp.controller('stylesCtrl', ['$scope', function($scope) {
