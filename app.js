@@ -4,10 +4,9 @@ var favicon = require('serve-favicon');
 var logger = require('morgan');
 var bodyParser = require('body-parser');
 var expressValidator = require('express-validator');
-var mongo = require('mongodb');
+//var mongo = require('mongodb');
 var mongoose = require('mongoose');
-//mongoose.connect('mongodb://localhost/warmains'); (LOCAL)
-mongoose.connect('mongodb://admin:password@ds045031.mlab.com:45031/warmain');
+mongoose.connect('mongodb://admin:password@ds045031.mlab.com:45031/warmain', { useMongoClient: true });
 var db = mongoose.connection;
 
 var routes = require('./routes/index');

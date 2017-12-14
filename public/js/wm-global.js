@@ -1,7 +1,3 @@
-(function(window, document, undefined) {
-'use strict';
-
-// Source: functs.js
 // Returns a list with duplicate values removed.
 function getUnique(arr) {
   return arr.filter(function(item, i, ar){ return ar.indexOf(item) === i; });
@@ -59,8 +55,6 @@ function getPageTitleFromTalentDetails(details, classId) {
 
   return pageTitle;
 }
-
-// Source: vars.js
 // ----------  INT -> STRING ----------
 var classesToString = {
   1: 'Warrior',
@@ -298,5 +292,3 @@ var classInfo = {
 }
 
 // Raid Buffs
-
-})(window, document);
