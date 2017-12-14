@@ -12,6 +12,22 @@ gulp.task('sass', function() {
       .pipe(gulp.dest('public/stylesheets/css'));
 });
 
+// compile and minify external libraries
+gulp.task('jsLib', function () {
+  gulp.src('public/lib/**/*.js')
+      .pipe(concat.scripts('wm-libs.js'))
+      .pipe(uglify())
+      .pipe(gulp.dest('public/lib'));
+});
+
+// Global Variables / Functions
+gulp.task('jsGlobal', function () {
+  gulp.src('public/js/global/**/*.js')
+      .pipe(concat('wm-global.js'))
+      //.pipe(uglify())
+      .pipe(gulp.dest('public/js'));
+});
+
 // compile and minify filters
 gulp.task('filters', function() {
   gulp.src('public/js/filters/*.js')
@@ -52,10 +68,11 @@ gulp.task('directives', function() {
 // });
 
 // default tasks to be run when typing gulp
-gulp.task('default', ['sass', 'filters', 'services', 'directives', 'controllers']);
+gulp.task('default', ['jsGlobal', 'sass', 'filters', 'services', 'directives', 'controllers', 'jsLib']);
 
 // watch all these tasks
 gulp.task('watch', function() {
+  gulp.watch('public/js/global/**/*.js', ['jsGlobal']);
   gulp.watch('public/js/services/*.js', ['services']);
   gulp.watch('public/js/controllers/**/*.js', ['controllers']);
   gulp.watch('public/js/directives/*.js', ['directives']);
