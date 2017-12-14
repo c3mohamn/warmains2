@@ -3,19 +3,9 @@ var router = express.Router();
 var User = require('../models/user');
 var async = require('async');
 var crypto = require('crypto');
-var nodemailer = require('nodemailer');
 // token authx
 var jwt = require('jsonwebtoken');
 var jwtSecret = 'butts';
-
-//email used for sending password reset info.
-var smtpTransport = nodemailer.createTransport({
-  service: 'Gmail',
-  auth: {
-      user: 'warmains.passreset@gmail.com',
-      pass: 'warmains'
-  }
-});
 
 /* --------- REGISTER USER ---------
 * Registers a new user, adding it to the database in user collection.
