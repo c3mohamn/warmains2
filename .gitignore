@@ -1,1 +1,2 @@
-# ignore first line
+# Git does not parse first line
+node_modules/
