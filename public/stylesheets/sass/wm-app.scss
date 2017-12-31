@@ -1,3 +1,7 @@
+[ng\:cloak], [ng-cloak], .ng-cloak {
+  display: none;
+}
+
 // Foundation
 @import '_settings';
 @import './node_modules/foundation-sites/scss/foundation';

@@ -88,7 +88,7 @@ wmApp.run(function ($transitions, $localStorage, $sessionStorage, $rootScope, au
 wmApp.config(function($stateProvider, $urlRouterProvider, $locationProvider) {
 
   $urlRouterProvider.otherwise('/home');
-  $locationProvider.hashPrefix('');
+  $locationProvider.html5Mode(true);
 
   $stateProvider
     .state('home', {
