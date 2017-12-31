@@ -56,9 +56,9 @@ app.use(expressValidator({
   }
 }));
 
-app.use('/', routes);
 app.use('/auth', auth);
 app.use('/talent', talent);
+app.use('/', routes);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
